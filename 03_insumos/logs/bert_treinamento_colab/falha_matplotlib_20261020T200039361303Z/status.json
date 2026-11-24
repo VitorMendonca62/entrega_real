@@ -1,0 +1,7 @@
+{
+  "started_utc": "2026-10-20T19:37:02.606680+00:00",
+  "status": "failed_or_interrupted",
+  "returncode": 1,
+  "error_type": "RuntimeError",
+  "duration_seconds": 2.005406141281128
+}

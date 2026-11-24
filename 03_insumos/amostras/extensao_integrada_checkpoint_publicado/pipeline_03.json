@@ -1,0 +1,16 @@
+{
+  "message": "Lula é e sempre será CRIMINOSO, Lancellotti é PEDÓFILO e aliado desses criminosos são IRRACIONAIS...",
+  "categoria": "Golpes de Desinformação Digital",
+  "score": 0.4233,
+  "bert_seconds": 0.4704339269956108,
+  "gpt_index": 3,
+  "gpt_seconds": 2.6770971630030544,
+  "rag_total_seconds": 2.6823079039968434,
+  "filtered": {
+    "Motivo": "O texto analisado faz acusações graves e falsas contra indivíduos identificáveis, como 'Lula' e 'Lancellotti', imputando a eles crimes sem apresentar evidências, o que encaixa na estratégia de desinformação para influenciar a opinião pública através da exploração emocional com uso de linguagem ofensiva e caluniosa.",
+    "Base_Legal": "Código Penal – Arts. 138 a 140",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.\n5. Em caso de perda financeira ou dano à honra, reunir capturas de tela e registrar B.O. em delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

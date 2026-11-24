@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 29,
+    "text": "Procuro um homem que possa me amar pelo que sou e cuidar de mim e se casar comigo farei os mesmos planos juntos",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "17c7fed372db6205db3cbdab4a128c8490eddd8456bbdcf39143584b6bbdb790"
+  },
+  "call_id": "fceb4a5644d665b0188885255c6fa65af60d523fabe20df636a5fd951ae20ab0",
+  "filtered": {
+    "Motivo": "O texto analisado demonstra uma estratégia típica de introdução em golpes baseados em relacionamento. A mensagem \"Procuro um homem que possa me amar pelo que sou e cuidar de mim e se casar comigo farei os mesmos planos juntos\" sugere o início de um vínculo emocional onde o golpista busca criar um laço afetivo intenso e acelerado. Expressões de desejo de amor e compromisso podem ser usadas para induzir uma conexão emocional rapidamente, prenunciando uma possível futura manipulação psicológica ou financeira.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil falso usando as ferramentas do Facebook.\n4. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto analisado demonstra uma estratégia típica de introdução em golpes baseados em relacionamento. A mensagem \"Procuro um homem que possa me amar pelo que sou e cuidar de mim e se casar comigo farei os mesmos planos juntos\" sugere o início de um vínculo emocional onde o golpista busca criar um laço afetivo intenso e acelerado. Expressões de desejo de amor e compromisso podem ser usadas para induzir uma conexão emocional rapidamente, prenunciando uma possível futura manipulação psicológica ou financeira.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil falso usando as ferramentas do Facebook.\n4. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas."
+  }
+}

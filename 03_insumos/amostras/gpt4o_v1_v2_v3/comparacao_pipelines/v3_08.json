@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 8,
+    "text": "Compro Contas Pix CPF , E CARTÃO!\nPIX CPF E CARTÃO \nPIX CPF E CARTÃO\nPIX CPF E CARTÃO\nPIX CPF E CARTÃO #",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "2c71d395ac364ce631340beb6e9c56fb56c6dbc90497cb6300ca5c266a0f937b"
+  },
+  "call_id": "f27f581cd6d6c96b0a34b8afa2331fca8617760fb345d0f274555acb5abc3f4d",
+  "filtered": {
+    "Motivo": "O texto oferece a compra de dados sensíveis, como contas vinculadas ao CPF e cartões, o que indica uma tentativa de obtenção e uso ilícito de informações pessoais e financeiras, característica comum em campanhas de phishing. A repetição e ênfase no 'PIX CPF E CARTÃO' reforçam a intenção de atrair interessados em transações fraudulentas por meio dessas informações.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Alterar imediatamente todas as senhas comprometidas (rede social, e-mail, bancos) e ativar Autenticação de Dois Fatores (2FA); Bloquear o remetente e denunciar a mensagem maliciosa na plataforma; Se dados bancários foram expostos, notificar o banco para cancelamento de cartões e monitoramento da conta; Salvar capturas de tela da mensagem original e do link malicioso recebido; Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica).",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto oferece a compra de dados sensíveis, como contas vinculadas ao CPF e cartões, o que indica uma tentativa de obtenção e uso ilícito de informações pessoais e financeiras, característica comum em campanhas de phishing. A repetição e ênfase no 'PIX CPF E CARTÃO' reforçam a intenção de atrair interessados em transações fraudulentas por meio dessas informações.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Alterar imediatamente todas as senhas comprometidas (rede social, e-mail, bancos) e ativar Autenticação de Dois Fatores (2FA); Bloquear o remetente e denunciar a mensagem maliciosa na plataforma; Se dados bancários foram expostos, notificar o banco para cancelamento de cartões e monitoramento da conta; Salvar capturas de tela da mensagem original e do link malicioso recebido; Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica)."
+  }
+}

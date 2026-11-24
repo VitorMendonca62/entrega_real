@@ -1,0 +1,1286 @@
+{
+  "v2": [
+    {
+      "case_id": 0,
+      "text": "Lembrete da O2: Para ganhar £2,50 de crédito grátis para chamadas e detalhes de ótimas ofertas, responda a esta mensagem com seu nome, número da casa e CEP válidos.",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "b948632d8b9fa6eb69e3d6b7fd42302600065e556ff1c725900b4e2c27a56ef3"
+    },
+    {
+      "case_id": 1,
+      "text": "CONFIDENCIAL! Seu extrato de conta de 2003, referente ao número 07808247860, mostra 800 pontos S.I.M. não resgatados. Ligue para 08719899229. Código de identificação: 40411. Válido até 06/11/2004.",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "aad23d84f5131feacfe86eeaedd419a9337962dceec692dcb66b04016725c66b"
+    },
+    {
+      "case_id": 2,
+      "text": "Teste do Sol Wkly Q! Ganhar um leitor de DVD topo de gama da Sony se souber em que país fica o Algarve? Envie uma mensagem de texto para 82277. £1,50 SP:Tyrone",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "5f3cbf87206ae0a0410cfe1f04a2774cfcb619d1073faa70a08e97a9f12a3ac6"
+    },
+    {
+      "case_id": 3,
+      "text": "GANHADOR!! Como um valioso cliente da rede, você foi selecionado para receber um prêmio de £ 900! Para reivindicar ligue para 09061701461. Código de reivindicação KL341. Válido apenas por 12 horas.",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "e0d7a9ebc9dc13580a26b640c329ad801681b79f5b2fa15579249ab908bf1f93"
+    },
+    {
+      "case_id": 4,
+      "text": "Obrigado pela sua assinatura da Ringtone UK, seu celular será cobrado £ 5/mês. Confirme respondendo SIM ou NÃO. Se você responder NÃO, você não será cobrado",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "2483514e387fb40378cd48bf2f9697d042e478585b18f1059e7d0dad500ffba5"
+    },
+    {
+      "case_id": 5,
+      "text": "Números ddd aleatório Brasil \nNúmeros internacionais ",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "667fe6128f499468c6586cde0c8c10ab1f1992c9c4b49b31046e3794ff0d0016"
+    },
+    {
+      "case_id": 6,
+      "text": "Seu computador foi infectado por 5 vírus!\nLigue imediatamente para o suporte: 0800-XXX-XXXX\nNão desligue o computador!",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "48741ec3f38cf260cd02c4c3b8b0a72a7ad2e56ba08be0eab211b045f36bdc67"
+    },
+    {
+      "case_id": 7,
+      "text": "VOCÊ CONSEGUE 🚀\nJá pensou em ganhar dinheiro no conforto da sua casa, perto da sua família com o seu celular?\nEu posso te ajudar clique no link da Bio que vou te ajudar!\nSiga-me @ganhar.dinheiro.onlline \n#ganhardinheiroonline #ganhardinheironainternet\n#dinheiroemcasa #marketingdigital #marketingdigitalbrasil\n#empreendedorismo #empreender #empreendedorismofeminino",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "2affbf2761914bd539621d6ec9d8e7034f206f71960f8806ad081140e83e42b5"
+    },
+    {
+      "case_id": 8,
+      "text": "Compro Contas Pix CPF , E CARTÃO!\nPIX CPF E CARTÃO \nPIX CPF E CARTÃO\nPIX CPF E CARTÃO\nPIX CPF E CARTÃO #",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "2c71d395ac364ce631340beb6e9c56fb56c6dbc90497cb6300ca5c266a0f937b"
+    },
+    {
+      "case_id": 9,
+      "text": "“Sou técnico certificado.\nPara resolver o problema agora, precisamos ativar a licença de limpeza por R$ 199,90.”",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "fbf9bd5ac9e2b287509483ef823c56d9adc1fbfd67ff7f75314a883f7a8da2e9"
+    },
+    {
+      "case_id": 10,
+      "text": "Experiência horrível, tudo preso, cozido uniformemente. O único problema é que não é realmente um",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "8c1766d44e1391d2c40c5f1e5b4d7a761d3afe20d93e286d21b2b547746d48bf"
+    },
+    {
+      "case_id": 11,
+      "text": "Absolutamente adorável! E excelente preço. Já temos os de madeira há alguns meses e eles",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "c79649305bc5659410d86454cb7e7e467f11d77aedad5c6c977d84f5fddd886d"
+    },
+    {
+      "case_id": 12,
+      "text": "Muito pesado para o uso diário. A única razão pela qual dei 4 estrelas é porque aquela que",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5bf3ac24bfbd55900d85944f0ef27adc2059f61e1a9532ad31aff2e2a717b012"
+    },
+    {
+      "case_id": 13,
+      "text": "Estes parecem lindos e tão legais. O único problema é que não é realmente uma malha.",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "a114512fe0ecd56b179365ed91d86106f2a926d284fd9453bf940097046cbe88"
+    },
+    {
+      "case_id": 14,
+      "text": "Números grandes e fáceis de ler, a única coisa que não gostei foi o tamanho do",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5cde7e5e8bfbaf94467fa8e2554c6111ed0175d512fcd9d43186000ec01117ad"
+    },
+    {
+      "case_id": 15,
+      "text": "Melissa Wicker <[email protected]>Assunto: Chevrolet Silverado K1500 4x4 1997Olá Eric, acabei de receber a confirmação do eBay, eles me informaram que a fatura foi enviada. Da minha parte, tudo está feito. Por favor, leia o anexo com atenção para todas as instruções. Informe se você recebeu a fatura e se concorda com os termos para que eu possa prosseguir com o processo de envio. Você pode ligar para os Contatos de Atendimento ao Cliente do eBay +1-(858)-375-9764, para confirmar que recebeu a fatura e eles o orientarão para concluir a transação da melhor maneira. Por favor, verifique e mantenha-me informado sobre tudo.PS: Verifique sua pasta (Lixo eletrônico ou Spam) também, talvez tenha chegado lá por engano porque seu e-mail não suporta HTML, PDF",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "65c2ad00c6ad343232a078508b6396a2d8735d5ce869d7197effa95898307821"
+    },
+    {
+      "case_id": 16,
+      "text": "São pellets de madeira com certificação En Plus A1, ensacados ou a granel. São produtos de pellets de alta qualidade em vários formatos de embalagem para atender às diversas necessidades de nossos clientes. Temos o prazer de informar que podemos fornecer opções de sacos de 15 kg, big bags e contêineres a granel. Esta instalação está equipada com máquinas italianas totalmente automatizadas, garantindo precisão e eficiência em seu processo produtivo. Além disso, oferecemos opções de embalagens personalizadas. Temos o prazer de preencher o seu próprio design de saco com nossos pellets. • Sacos de 15 kg Pellets de madeira En Plus - 190 euros por tonelada • Pellets de madeira En Plus em sacos grandes - 170 euros por tonelada Estes preços são FOB Turquia. Esses pellets já estão sendo vendidos no mercado europeu. Informe-me em breve se estiver interessado. Karen Marciniak Proprietário-Global Pellet EUA +1 727 510 9145[email protegido] http://www.globalpelletus.com",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "e9e657cd5970c03f34391e3d7f272bab8156d8ee3f3510435c37dae0a5a6e84d"
+    },
+    {
+      "case_id": 17,
+      "text": "© Boyd Logistics LLC Service Ltd. <[email protected]>IMPORTANTE: A próxima etapa é enviar o pagamento usando o banco para a Boyd Logistics LLC Service Ltd. Antes de enviar o depósito, verifique os detalhes da transação (nomes, endereços, preço) em:[email protected]Por que precisamos deste pagamento?Exigimos o pagamento porque precisamos ter a confirmação de que você é um vendedor real. Trabalhamos com serviços bancários e PayPal para autenticar a identidade do remetente dos fundos; Boyd Logistics LLC Service Ltd. precisa processar todos os documentos necessários para a coleta e entrega. Boyd Logistics LLC Service Ltd. enviado.Nome e endereço do remetente.No entanto, esperamos o custo de envio de você de acordo com nossa política, nosso agente abaixo que virá para a coleta e entrega no endereço fornecido. o pagamento deve ser feito via banco e envie-nos o comprovante de pagamento.Nome do titular da conta: Idakwo EmmanuelNúmero IBAN: CY66002001950000357037132972Código BIC: BCYPCY2NNome do banco: Banco de ChiprePaís: Chipre.Endereço de e-mail:[email protegido]enviar paraNome completo:Eduard DrexlerEndereço atual:4884 Pitt St, Cornwall, ON K6K 1B1, Canadá.",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "fddd384271f18c47403b62af2b820048f861528d0451a4d9a6c503741687ac26"
+    },
+    {
+      "case_id": 18,
+      "text": "Servidor Whois: whois.namecheap.comNAMECHEAP INC NameCheap, Inc.Criado em 2024/02/08Expira em 2025/02/08",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "b7cac6b82e9bab4fc3371825c21dcf92136259c5974b1387eb5e6caa5921996b"
+    },
+    {
+      "case_id": 19,
+      "text": "Edwards Andrew-Gordon <[email protected]>:Olá, o carro ainda está à venda. Eu sou da Escócia. Comprei este carro enquanto trabalhava em Espanha, agora estou de volta ao Reino Unido e quero vendê-lo. O carro está em perfeitas condições e nunca sofreu nenhum acidente, é um carro para não fumantes. Se você decidir comprá-lo, posso providenciar a entrega no seu país e um período de inspeção de 5 dias. Já entrei em contato com uma transportadora e eles farão a venda para mim. Avise-me se concorda e fornecerei todos os detalhes sobre envio e pagamento.",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "96f4808e63b089195033f5c0fa59bd764d233e5d5718a143cfd77170e7594f3f"
+    },
+    {
+      "case_id": 20,
+      "text": "💊Um produto perfeito para auxiliar no seu emagrecimento saudável (LIFT DETOX BLACK) \n.\nSeus benefícios são: \n✅Queima gordura localizada.\n✅Diminui a fome.\n✅Acelera o metabolismo.\n✅Controla ansiedade.\n✅Regula o colesterol ruim e melhora o colesterol bom.\n✅Mais disposição diminuindo o cansaço durante o dia.\n.\n⬆️ Click no Link Azul da Bio e Saiba Mais ⬆️\n.\n#liftdetoxcaps #detox #emagrecimento #emagrecacomsaude #formulanatural #percapeso #saude #inibidordeapetite #vemverão #xogordura #emagrecimentosaudavel #vidasaudavel #qualidadedevida #acreditabonita #antesedepois #bemestar #exgordinha #motivacao #boaforma #fretegratis",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "7aff6fcf8eb2b3d59c850578a2064ae7497066dcc20af8b4638b9cce5463ab4d"
+    },
+    {
+      "case_id": 21,
+      "text": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!) ",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "dc6fc90867c61ab169a79a53073ed536c8abc610d4297030373fe002d7134676"
+    },
+    {
+      "case_id": 22,
+      "text": "Comentem eu quero 😉👍⬇️⬇️\n #emagrecimento #saude #remedio #natural #barato #compraonline",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "30547a8a5560c595017c87624c5cac138efa2f640b6351f73be0ee8b46994a28"
+    },
+    {
+      "case_id": 23,
+      "text": "iphone 15\nR$1.500\nAnunciado Há um dia em Duque de Caxias, RJ\nDetalhes\nCondição\nUsado — em boas condições\nvendo iphone 15 estado de novo \nNÃO PEGA CHIP!!!!!!!!! NÃO SEI SE PEGA O VIRTUAL EU NÃO TENTEI COLOCAR !",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "551338461796cd26e278072a5f9d439d81e404f51fdec6c5d65d3cc736f2fe14"
+    },
+    {
+      "case_id": 24,
+      "text": "Faça seu teste grátis por 24 horas! Coloco inteligência artificial na sua câmera de comércio residência veículo etc. Por 35 reais mensal. Mais informações ZAP [hidden information]3",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "e1699deb61a4b9f238a5f4509dd1c8c74597daaa73786f31083c908a5150c674"
+    },
+    {
+      "case_id": 25,
+      "text": "Sim, querido, esta é minha conta do Hangout[email protegido], podemos conversar lá???Gostaria de conhecê-lo melhor",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "14e5f9c473c742e5604031a6b5437f3a45c2944c4e8dc9baef325937984dfc59"
+    },
+    {
+      "case_id": 26,
+      "text": "Eu sou Linda Kennel com 67 anos de idade.",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "a1a22734f182f3e1306885f8f870abc898c2444ed51a2e8131cf2943ab74fcdd"
+    },
+    {
+      "case_id": 27,
+      "text": "Bom dia, querido. Espero que você esteja bem. Infelizmente, tive alguns problemas em construir relacionamentos com homens. Por isso, optei por encontrar um parceiro que utilize tecnologia moderna. Entrei em contato com uma organização especializada e eles me forneceram seu contato. Aqui estão algumas informações sobre mim. Meu nome é Inna, tenho 30 anos e moro em Dimitrovgrad, na Rússia. Estou sozinha, não tenho filhos e às vezes me sinto um pouco sozinha. Trabalho no Judiciário como auxiliar de juiz e procuro me manter dinâmico com atividades físicas. No meu tempo livre, faço ioga. Tenho algumas perguntas para você: O que é importante para você na vida romântica? Na sua opinião, o que ajuda a criar um vínculo duradouro? Compartilhe sua história comigo. Você tem algum hobby? Como você ganha a vida? Também compartilhei alguns instantâneos para você ver. Se você estiver interessado em mim, ficarei feliz em receber sua resposta. Se não for o que você deseja, siga em frente. Interessado? Por favor, responda SOMENTE para minha caixa de correio particular:[email protected]Aguardo ansiosamente sua mensagem. Atenciosamente, Inna.",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "99a2908e3fb2e7cf95f7675f203730d6ef92bf7d40cd2c6317a0e178f366863a"
+    },
+    {
+      "case_id": 28,
+      "text": "Prazer em conhecê-lo, meu nome é Nicole Fred GoodWill, vi seu perfil neste mesmo site então decidi te conhecer mais, preciso de um homem honesto em minha vida, entre em contato comigo pelo meu e-mail privado ([email protegido]) ou deixe seu e-mail para que eu",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "be2912c9951362f642305701bc0b993daefd5430898c9fdb83ec3cdf2cdd334b"
+    },
+    {
+      "case_id": 29,
+      "text": "Procuro um homem que possa me amar pelo que sou e cuidar de mim e se casar comigo farei os mesmos planos juntos",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "17c7fed372db6205db3cbdab4a128c8490eddd8456bbdcf39143584b6bbdb790"
+    },
+    {
+      "case_id": 30,
+      "text": "Sou um jovem do Marrocos, um país árabe. Estou falando com você usando um dicionário. Viajarei para o Brasil daqui a quatro meses para turismo (três meses). Estou procurando uma mulher que queira me conhecer e conversar comigo. Por favor, envie-me um pedido de amizade para que possamos conversar pelo Messenger.",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "c9f6c99799f07dd8eacc8494f5f3ab3564617fe55c853039bb187f8a19e5e5d3"
+    },
+    {
+      "case_id": 31,
+      "text": "\"✅Se você está passando por alguma dificuldade no relacionamento clica no link da Bio ou me chama no direct que vamos resolver isso🧠\n#relacionamento #amor #casal #namoro #sexualidade #sensações #afetividade #traição #honra #caráter #respeito #relacionamentoabusivo #masculinidade #homem #homemdevalor #vulgaridade #sensualidade\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "ac21dec6778c47cf5a6fd7829448210e0d4b15401f8ab8a32c8080a87951c062"
+    },
+    {
+      "case_id": 32,
+      "text": "\"Olá, meu amor.\nSamanta acabou de te encontrar no Facebook❤️\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "f3299be33578b9176ff903f844f47c0b88248402cc0516e266e17d3a31a759bc"
+    },
+    {
+      "case_id": 33,
+      "text": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "ec59c76341e65ce287e4b72e94435b710728a785bbd40227f2d8552f3793c7d9"
+    },
+    {
+      "case_id": 34,
+      "text": "\"Bruna visitou seu perfil várias vezes.\nParece que despertou interesse 👀\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "4a49cafbd9f1958b77436e45bf36c21f9d77557dcbb8006846a13e40ac340bf7"
+    },
+    {
+      "case_id": 35,
+      "text": "[Nosso governo] reduziu o feminicídio no Brasil",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "281e237d9d591c6138cdb1009b95f1ee429acc1edb4bbdd7e537f3f334f2084f"
+    },
+    {
+      "case_id": 36,
+      "text": "“Nando Reis se F… Se F…. no Rock in Rio”",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "9e9a8d519b7c172e54ba45bb8697f407c2fa76e9c7989b8be2e6bbff9383bde1"
+    },
+    {
+      "case_id": 37,
+      "text": "Terreno do Instituto Lula. Réu",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "db0f3b7fa0cca83d41c532643e895b2228d54b56a87513cabb1db6b0a31301ed"
+    },
+    {
+      "case_id": 38,
+      "text": "De repente, a Ivermectina aparece no site do NIH para tratar o Covid. Depois de anos de negação, bloqueio, interferência, difamação, arruinando contas de mídia social, matando pessoas, etc., eles silenciosamente o adicionam ao seu protocolo antiviral.",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "b63cc163140e970054722e83975463c4a70b20f632f8f4efff6ad6ab31684641"
+    },
+    {
+      "case_id": 39,
+      "text": "No nosso governo são cinco por ano [invasões de terra]",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "3ed2391029c67711d7f825f3bfc03265cfe9ce167d5054e5b0b990cb900b0271"
+    },
+    {
+      "case_id": 40,
+      "text": "Sim, meninas. A água de coco cura candidíase! \n#explore #reels #viral #dicas #beleza\n#candidiase #dicasdebeleza #explorar #fyp",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "5741247ae4b3988523b4ef18946651f580c80799e79bc963ee352433179017f4"
+    },
+    {
+      "case_id": 41,
+      "text": "*Presidente Lula fala sobre possível invasão ao Brasil*\n🇧🇷 “A gente está sob ameaça real de invasão, não é uma teoria, é real e o inimigo está ameaçando abertamente.\nPrecisamos nos preparar.” https://www.facebook.com/share/v/1CYfRuyhYh/",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "226b60d2381d13dce9cae4a712a4d2a111dd10faa4d67cc06f5d65c930265dc4"
+    },
+    {
+      "case_id": 42,
+      "text": "https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "5ea716c8d8e115a6454c9dd324d89630f40a451d87c78ca589543c50bd0ef0fd"
+    },
+    {
+      "case_id": 43,
+      "text": "Lula é e sempre será CRIMINOSO, Lancellotti é PEDÓFILO e aliado desses criminosos são IRRACIONAIS...",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "9431932375a36d64f643ab4f5dcf9272a2d52923db7fdddfcd77770afa8d5a28"
+    },
+    {
+      "case_id": 44,
+      "text": "O Governo Lula reforçou nesta semana que os jovens que completam 18 anos em 2026 devem se alistar imediatamente no serviço militar obrigatório. \nO prazo para regularizar a situação vai até 30 de junho, e quem não se alistar dentro do período pode enfrentar multas e restrições legais, como dificuldades para obter passaporte, matrícula em universidades e participar de concursos públicos. O alerta acontece em um contexto de crescente tensão internacional.",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "140e5a5f2b0cac6d8bac94fab693f052caf380be74e6cb9432ce5a95d7c3f624"
+    },
+    {
+      "case_id": 45,
+      "text": "hoje dinheiro retirar sistema automatizar bot operação 1 milhão real 🔥 💯 🤑",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "a387f35eebf5ec9166abaef6ce639f192e654d66fa4b598c0555e493e69ef51f"
+    },
+    {
+      "case_id": 46,
+      "text": "emprego alta contínuo detalhe descriçãor abaixo ⬇ ️",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "f3fdb98597929f27f2f1178d24830e823b1c84ef9fbf9cb139d976e03960bb82"
+    },
+    {
+      "case_id": 47,
+      "text": "o grande risco todo correr ❗ ️ 📝 vida sempre ir presentear bom oportunidade momento desejar ☘ grandeia vez bomes oportunidade surgir menos esperar sente pronto ☘ ✍ raramente ver oportunidade apresentar ordenadamente caixer bonitinha laço amarelo topo 👨 ‍ 🏫 vez bomes oportunidade vir pacote confuso confuso difícil reconhecer poder vir grande risco desafiá lo ✅ continuar evitar risco continuar perder oportunidade mudança vida experimentar crescimento vida Finanças 🗣 sempre dizer todo conseguir comer prato sucesso então fome lutar mordido chance",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "be4249eac7461bac42cb6fd9184cd2f62a3a1962ce6019b84e2db30b3c6f7cf8"
+    },
+    {
+      "case_id": 48,
+      "text": "desde posse Luiz inácio Lula Silva Janeiro 2003 Brasil goverem or pt viver ano crescimento econômico criação emprego ampliação programa social redução pobreza passar dois grande escândalo corrupção envolver alto direção partir Mensalão 2005 lavar jato deflagrar 2014 impeachment dilmor partir deixar poder herança recessão inflaçãor acima meta rombar conta público redução programa social impeachment interromper longo período poder partir eleger democraticamente Brasil 13 ano 132 dia em o política pt enfrentar escândalo político primeiro mandato primeiro 2004 gerar cpi bingo após ex assessor casa civil waldomiro diniz cujo ministro José dircer ter ser flagrar vídeo negociar propiem o empresário ramo jogo escândalo Mensalão estourar junho 2005 deputado roberto jefferson ptb então aliar Lula acusar José dircer comandar esquema pagamento parlamentar trocar apoio político governo dircer renunciar 16 junho cargo ministro reassumir mandato deputado federal defender acusação cassar câmara dezembro lugar dircer casa civil assumir então ministra miem os energia dilmor rousseff denúncia contra Lula também março 2016 pt assistir grande símbolo Lula denunciar Ministério público supostar compra apartamento triplex guarujá sp manter nome construtora oas mês plaem olto anunciar ex presidente novo ministro casa civil – dar foro privilegiar Lula chegar tomar posse impedir justiça após divulgação grampo telefonema Lula dilmor autorizado juiz fonte diário amapá linkr www diariodoamapa br",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "7d6336c4d8063644a67a26f08fc0ae7e88092e0837cfc4a943539ce5e847b7e4"
+    },
+    {
+      "case_id": 49,
+      "text": "para informação sobre plataforma investimento iniciar investimento conosco contato adrianafxtdr",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "aad1f8a782d4686372b9aed7ee67ca79a06e11ea2ef86d48180952e0ecc74455"
+    },
+    {
+      "case_id": 50,
+      "text": "ENTRE EM CONTATO CONOSCO PARA TODOS OS TIPOS DE TRABALHOS DE HACKING Nós fornecemos serviços profissionais de hacking, oferecemos os seguintes serviços.-Mudança de notas universitárias- Hackear contas bancárias- Limpar registro criminal Hack- Facebook hack- Hackear Twitter-Hackear contas de e-mail-Hack para alterar notasWebsite travou hack- Hackear servidor travou-Skype hack-Hackear bancos de dados-Hackear blogs WordPress- Hackear computadores individuais- Hackear dispositivos remotamente-Número do queimador- Hackear contas verificadas do PayPal- Qualquer hack de conta de mídia social-Android e iPhone hack-Hack para interceptar SMS- Hack para interceptar e-mails-Recuperação de Bitcoin-multiplicação binária-Atualizar classificação de crédito- Rastreie registros de chamadas e espie registros de chamadas.Monitore mensagens de texto SMS remotamente.Rastreamento GPS de telefone celular. Espionar mensagens do WhatsApp.-IP irreconhecível, etc.Entre em contato conosco pelo e-mail:[e-mail protegido]ou pelo WhatsApp:+1 (908) 768-4663 Para mais perguntas.",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "70b50c06e7971037826943f51a394c18b3ba6da4579b9f89e807e5ca1623ddf4"
+    },
+    {
+      "case_id": 51,
+      "text": "Prezado Parceiro de Negócios, Meu nome é Sr. Kalasy Koshesi, representando a Loncon International Petroleum Services Company, trabalhando em estreita colaboração com refinarias confiáveis ​​localizadas no Cazaquistão, Roterdã e Houston. Oferecemos uma ampla gama de produtos petrolíferos premium, preços competitivos e cronogramas de entrega confiáveis, adaptados para atender às suas necessidades operacionais. Eu apreciaria a oportunidade de discutir como nossa empresa pode atender às suas necessidades de fornecimento e construir uma parceria mutuamente benéfica.Atenciosamente,Sr. Kalasy KoshesiLoncon International Petroleum Services CompanyE-mail:[email protegido]WhatsApp: +77755592971",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "79aa22ee73302fb53dd7eb83b6c4a8d023a7efa9cefd7da4d1523d76bafc469b"
+    },
+    {
+      "case_id": 52,
+      "text": "PROGRAMA DE COMÉRCIO COMPOUNDING SBLC Programa comercial composto SBLC/BG regulamentado pelas leis de Cingapura. Somente SBLC/BG, emitido pelos principais bancos do Canadá, Europa, Hong Kong e Cingapura. Moeda: $ USD, € Euro e £ Libra Esterlina. Contrato comercial de 12 meses, mínimo de 150 milhões de SBLC/BG a 5B. Cronograma de pagamento: Dois desembolsos, um em porcentagens mensais e um bruto no final de doze meses. no final de 12 meses.Requisito: KYC atual, Carta do Banco RWA para emitir FC SBLC / Cópia do SBLC emitido no Banco do Cliente a/c.Procedimento: Banco para Banco MT760 a ser entregue conforme instruções no Contrato Comercial; após a verificação, a negociação começa. O Cliente é reembolsado do custo do MT760 em 72 horas após a recepção; troca. Os fundos permanecem sob o controle do banco comercial durante toda a duração do investimento. O principal requisito é que o Cliente aceite e concorde com o nível de fundos na conta comercial durante a duração do programa (12 meses).E-mail de contato:[email protegido]",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "09c1533278598d479bc4e99f2407f570585b041f29f70db03a840d0e742c1308"
+    },
+    {
+      "case_id": 53,
+      "text": "Eu ofereço: Serviços cPanel na TAILÂNDIA - Webmails Zimbra à prova de balas ~ ‎250Bcc @ Uma vez~ ‎Envio sem limite diariamente~ ‎Entrega instantânea para todos os domínios~ ‎7 dias de uso apenas e obtive RESPOSTA PARA‎(Protocolo de cliente de e-mail Zimbra e Squirel)~ Pode ser ‎Convertido para SMTP usando a porta 587~ E-mail / Leads de qualquer país do mundo ~ Pushing serviço - Formato simples, links de anexos ~ 500 mil leads no Spidex Sender 100% deliveryWorld misto Leads Ceo Cfo Empréstimo/Emprego e listas direcionadas Ásia Europa EUA AU Canadá ARABWhatsApp: não: +2349032808366 ID do telegrama: @ToolstargetSKYPE/Microsoft ID da equipe: live:.cid.867a435ef9b87219 OU[e-mail protegido]",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "4e1f3755e9545d95091c617301deb4cf5019cb3bacfb5e8cd477977b8c051026"
+    },
+    {
+      "case_id": 54,
+      "text": "PROGRAMA COMERCIALPrograma comercial para os principais bancos mundiais (incluindo os principais bancos da Índia). A maioria das contas não exigirá SWIFT e nenhum bloqueio. Os 100 principais bancos mundiais e os principais bancos indianos Programa de comércio tearsheet - $ 1 milhão de dólares - $ 50 milhões de dólares Este programa de comércio para as 100 principais contas do banco mundial e os principais bancos indianos deverá fechar muito em breve - Inscreva-se o mais rápido possível se estiver interessado · Sem taxas iniciais · Mínimo de $ 1 milhão de dólares · Máximo de $ 50 milhões de dólares · O valor inicial / capital inicial deve ser mantido em sua conta bancária durante todo o ano de negociação · Admin É necessária retenção · A maioria das contas não exige SWIFT · Sem movimentação de dinheiro Requisitos de aplicação: - KYC (em anexo) - 2 cartões de visita do banqueiro - Data atual Extrato bancário obrigatório - Acordo de taxa de participação nos lucros WCF de 15% (os corretores de referência também serão pagos) - N/A, pois já temos um acordo de taxas em vigor ☆ Distribuição de lucros: 42,5% de lucro para o cliente (após 7,5% (15% do que o cliente recebe) de participação nos lucros com WCF e corretores de referência) Outra parcela: 40% para a plataforma 10% para introdutores de negociação Exemplo para investimento comercial de 1 milhão de dólares ** com base em dados históricos; seus retornos exatos serão descritos no contrato com a plataforma de negociação.· Bala de 10 dias – 225% LÍQUIDO (após comissões) = US$ 1.912.500 pagos ao cliente (após taxas do WCF) – pago após 10 dias· Seguido por um programa de 40 semanas, 75% LÍQUIDO semanalmente (após comissões) = US$ 637.500 pagos ao cliente semanalmente (após taxas do WCF) por 40 semanasTOTAL de US$ 27.412.500 pagos ao Cliente ao longo de 1 ano[email protegido]WA +919012119900",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "f2e2dd10bcf23b2698c694bf8855cbb8367a3d204d6431c76fe38cff9860cca3"
+    },
+    {
+      "case_id": 55,
+      "text": "Esse Seguro Prestamista o cliente conclui no ato da contratação, após receber o contrato.\n\nEsse custo o cliente não perde caso não acione o Seguro, o valor é reembolsado na penúltima parcela pago do empréstimo.\nApós encaminhar toda a documentação a concluir o pagamento do Seguro Prestamista a empresa já lhe encaminha o contrato pronto e lavrado, é assim que nos encaminhar ele assinando a empresa por lei tem um prazo de 2 horas para estar concluindo a transferência bancária para a sua conta.\n\nPrimeira parcela com vencimento para 60 dias!\n\nJUROS BAIXOS JÁ\nCNPJ: 28.812.324/0001-43\nENDEREÇO: R Mauricio Lorencini, 140, Jardim Santa Teresa, Jundiai, SP.\n\nAtenciosamente,\nMaiara Kelly",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "457497d9f98ab6ac361992c86ab4485a77d25d3943576e15e3bbbec4299d98c4"
+    },
+    {
+      "case_id": 56,
+      "text": "Qual valor solicitado? (15:01)\n2500 pode ser (15:02)\nTem o seguro de 389,60 (15:03)\nSim entendi (15:04)\n Voce faz contrato do emprestimo (15:04)\nO seguro é cobrado devido a grande taxa de inadimplência por isso caso senhor ou senhora não me pague a seguradora cobre o prejuízo e me reembolsa (15:07)\n",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "686be0229c7617342c77ff220e2debb377ae93af3660779bad2960a184f4e9f5"
+    },
+    {
+      "case_id": 57,
+      "text": "2026 - Prepare-se para viver a melhor experiência de lazer online! 🚀🎯\n💥 Ganhe vantagens exclusivas e aproveite ofertas limitadas! 🔥\n🔒 Comece hoje e descubra novas possibilidades! 🤩\n\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n\"\"Querida, por favor, me ame uma vez.\"\"\n\"\"Sr. Graham, eu não o conheço.\"\"\"📚\nCapítulo 1 Vamos nos divorciar.\n'Seu marido está com outra mulher.'\nQuando Abigail Quinn recebeu uma mensagem de texto de sua melhor amiga, ela tinha acabado de tomar uma injeção ovulatória e estava descansando em um banco no ambulatório, tentando suprimir a dor lancinante em seu estômago. Seu cabelo era preto e sua pele era branca como a neve, mas não havia mais nenhum vestígio de sangue em seu rosto. Mesmo assim, isso não ofuscava suas formas magníficas e os transeuntes continuavam virando a cabeça para olhá-la.\nEntão, ela respirou fundo, bateu com o dedo trêmulo e abriu a foto em seu celular para dar uma olhada. Era uma foto de Sean Graham saindo de um hotel segurando uma mulher em um vestido rosa. O rosto normalmente frio e tranquilo do homem pareceu suavizar quando ele inclinou a cabeça em direção à mulher na foto.\n\nAbigail sabia quem era a mulher, o primeiro amor de Sean, John Palmer.\n\nDepois de um tempo, ela recobrou a razão, encontrou o número de Sean e ligou para ele. Ela esperou o sinal de ocupado terminar por um longo tempo, e finalmente a voz distinta do homem soou de... do outro lado da linha. \"Qual o problema?\"\n\n\"Você vem para casa hoje à noite?\" Na verdade, ela queria perguntar se ele queria mesmo voltar para casa.\n\nInfelizmente, estava claro que a ligação dela em si havia deixado Sean irritado. Depois de alguns segundos de silêncio, ela perguntou impacientemente: \"Há algum assunto importante que precisamos discutir?\"\n\nLágrimas imediatamente brotaram em seus olhos, a voz indiferente dele perfurando seu coração como uma faca, mas ela habilmente escondeu a tristeza. \"Você esqueceu que dia é hoje?\"\n\nEles estavam casados secretamente há três anos, mas raramente se viam. Hoje era o aniversário de casamento deles, o dia em que ele deveria voltar para casa. Ele havia prometido que passaria o dia com ela.\n\nInfelizmente, ele simplesmente a interrompeu e murmurou, irritado: \"Volto mais tarde. Não se preocupe.\"\n\nEle não perdeu tempo depois disso. O coração de Abigail afundou quando ela ouviu o tom monótono de discagem. Então, ela jogou a cabeça para trás e respirou fundo algumas vezes para se recompor. Finalmente, ligou para sua melhor amiga, Luna Smith, para buscá-la.\n\nDez minutos depois, o som de passos rápidos ecoou do outro lado do corredor. A mulher parecia tranquila e charmosa enquanto seu cabelo curto e bem cortado, tingido de azul com mechas prateadas, se movia. Rapidamente pelo corredor enquanto se movia.\n\nPara Luna, os olhares surpresos que a receberam não eram mais uma surpresa, e ela ergueu as sobrancelhas espessas enquanto caminhava direto para Abigail. Sentiu pena ao ver que o rosto de Abigail estava horrivelmente pálido, mas não pôde deixar de repreendê-la em voz baixa: \"Ele está vivendo a vida dos sonhos com John. Qual o sentido de te dar injeções de ovulação?\"\n\nAbigail assentiu sem dizer uma palavra. Seu casamento com Sean não tinha sido feliz porque foi seu avô, Colby, quem os forçou a ficarem juntos.\n\nNo entanto, Abigail não recusou o casamento quando lhe foi proposto e até mesmo o celebrou secretamente, porque ninguém sabia que ela carregava a tocha por Sean há muitos anos. Foi só depois do casamento que ela descobriu que Sean tinha um primeiro amor chamado John Palmer, e Colby achou que ela não era boa o suficiente para a família Graham. Então, ele usou Abigail para se livrar dele.\n\nComo Sean estava com vergonha de aceitar Abigail, como sua esposa, eles mantiveram o casamento em segredo nos últimos três anos. No entanto, Abigail não se importava e pensava que um dia derreteria seu coração de gelo. Ela esperava que um dia ele esquecesse John e realmente quisesse passar os dias com ela.\n\nAgora que John estava de volta, Abigail percebeu o quão tola havia sido.",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "a62f8abf4ba0a4abe0655107a56bfd77760cc4b8b7bf1690fb1790c5c42d4798"
+    },
+    {
+      "case_id": 58,
+      "text": "Que sairá 250 reais  Sra cada empresa trabalha de uma forma \nNão é uma taxa, e as despesas de cartório \nIsso é estipulado no contrato \nA sra visualizou? ",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "873a8ff9fa07996df629f2a4013fdde0ecdfe33cf31328a2173c88ae41a595a1"
+    },
+    {
+      "case_id": 59,
+      "text": "Boa noite , Estou à procura de pessoa para trabalhar online trabalho com vendas de automóveis e motocicletas você só precisa ter a plataforma de venda no Facebook o marketplace, agente estamos pagando 120 por por dia tiver interesse deixa seu contat",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "7e1d8b38f01c71b2f0697c8ffbc795ac7090744cf58290e07467adf86126c7dd"
+    },
+    {
+      "case_id": 60,
+      "text": "Affffffff. Tudo bem, não posso me encontrar com você antes?",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "c0d863356e4c4c1a853a41e939b27efe3b7bcec9da8d6bebbfc0b37943f04b6a"
+    },
+    {
+      "case_id": 61,
+      "text": "É sério assim que você soletra o nome dele?",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "48832254208daf186fd93736bc6c6fd5d086e50d75f0a3408ca2aa0730f8887a"
+    },
+    {
+      "case_id": 62,
+      "text": "Eh, você se lembra de como soletrar o nome dele... Sim, eu fiz. Ele é safado faz até ficar molhado.",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "497dedb37ebba1fe6c17e41d1c1db6d6c2804dfc0db961df3379bc391ffe7d04"
+    },
+    {
+      "case_id": 63,
+      "text": "Apenas me forcei a comer uma fatia. Eu realmente não estou com fome. Isso é uma droga. Mark está ficando preocupado. Ele sabe que estou doente quando recuso pizza. Lol",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "45cb4b8e15e345c1d0c2e6c55b23f26fc1c7670c325a7fba98455721a02639bb"
+    },
+    {
+      "case_id": 64,
+      "text": "Nah, eu não acho que ele vai para a USF, ele mora por aqui",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "dcc0928a212fada54e2f9c0de69b6937726543c9e0483d8de7ebc62309739e4e"
+    },
+    {
+      "case_id": 65,
+      "text": "“É importante lembrar que os R$ 600 [do Auxílio Brasil] não está na LDO mandada para o Congresso [para 2023]”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "3b53353607b77014cffd51c03db39e8025a301c9ab95aeeddcf15f9e24e20388"
+    },
+    {
+      "case_id": 66,
+      "text": "“O presidente [Alberto Fernández, da Argentina] visitou Lula na cadeia em Curitiba”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "713083086c17f912f39d19b60ea657aba8c3a740d69a6ba3995f037fbde100a5"
+    },
+    {
+      "case_id": 67,
+      "text": "“Só [o estado de] São Paulo é 24% da população brasileira”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "b2c21ef92a7f27fb914940fca43b0c18d18708f789892f6e5385b21d9a3e588c"
+    },
+    {
+      "case_id": 68,
+      "text": "“Eu prefeita reeleita com 76% dos votos”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "20f0952d403a427e45a5d89e4d9e896fd7343afc3aca15458a6a57aef52167e9"
+    },
+    {
+      "case_id": 69,
+      "text": "O número de mortes violentas no Brasil (...) tem caído",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "b6d179e2914cba6299a91e95512f548729a996360b11dceb46de2f4044677fd3"
+    },
+    {
+      "case_id": 70,
+      "text": "Este ventilador é muito bonito e eu realmente o uso.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "9f5ec9f67c3bf52fe79a1ca9bc93c470cad34eed8cd6337177e0e811eb375b90"
+    },
+    {
+      "case_id": 71,
+      "text": "Produto de excelente qualidade. Perfeito para minha ccozinha.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "31fee07a385bad37c279b4d3b034f91024d49e86ee23e1fb8fdb07f3db22cba1"
+    },
+    {
+      "case_id": 72,
+      "text": "São simplesmente perfeitos, exatamente o que eu procurava.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5fc60938e71983a3aa9035e7fa9391fc32c24f4c1703df8d2bda561aa43f06eb"
+    },
+    {
+      "case_id": 73,
+      "text": "Adorei, só pensei que seriam um pouco maiores!",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5fa843c004555d0c5d7cfdcb4f9a78a24dac48e182d584fbf21ff6013b43d804"
+    },
+    {
+      "case_id": 74,
+      "text": "Eles são tão bonitos, resistentes, assim como as opções de cores também.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "e90d20444bfde6b8f6635178672c2c4a73549c48ee01dc581fa694531be3550e"
+    },
+    {
+      "case_id": 75,
+      "text": "bom dia meus amigos queridos, vamos almoçar um bife a milanesa de carne moida e um delicioso suco de pitanga colhido do meu quintal.",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "af03b11a08007b2030f9324e4995183140a39b44ddbb986dd7789f82e424870a"
+    },
+    {
+      "case_id": 76,
+      "text": "\"Depois de 53 sessões de quimioterapia, de dias em que eu não tinha forças nem para levantar a cabeça e de noites em que a incerteza era minha única companhia, eu finalmente posso dizer em voz alta: EU ESTOU LIVRE! O câncer não me venceu, e essa placa que seguro hoje é o troféu mais valioso que eu poderia conquistar na vida. ✌️🎊🏥\nCada picada de agulha, cada fio de cabelo que caiu e cada lágrima derramada valeram a pena para chegar neste momento de cura. Sou grata a cada médico, a cada oração e à minha própria vontade de viver que nunca se apagou. Se você está passando por uma batalha difícil hoje, não desista! O sol volta a brilhar, e a minha vitória é a prova de que milagres acontecem todos os dias. ✨💙🙏\"",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "bd5fba690f5f797fe340345fa9e4dd4e96d2c1f68f21b6ec046b9773b40e6608"
+    },
+    {
+      "case_id": 77,
+      "text": "SUPOSTO PAREDÃO 🔥\nQuem você elimina?\n🤔🤔😯😲",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "e7f9c0e16a49701e2d68618b6737090b37893820ba13c4a7cd9c504a28c096dc"
+    },
+    {
+      "case_id": 78,
+      "text": "Hoje eu só queria ter os problemas da Mia Colucci.",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "be12be05755aed6e689e2ef59c3d7c56b6b28f27d54fb2cfd6d203f92ade55c5"
+    },
+    {
+      "case_id": 79,
+      "text": "Por do Sol, Orla de São Pedro da Aldeia, região dos Lagos, Rio de Janeiro.\n#creatorsearchinsights #sunset #pordosol #riodejaneiro #praia",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "cca7495e396810eb5c71f740ec456f8244f88f865d3a005915a0e5189415c40f"
+    }
+  ],
+  "v3": [
+    {
+      "case_id": 0,
+      "text": "Lembrete da O2: Para ganhar £2,50 de crédito grátis para chamadas e detalhes de ótimas ofertas, responda a esta mensagem com seu nome, número da casa e CEP válidos.",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "b948632d8b9fa6eb69e3d6b7fd42302600065e556ff1c725900b4e2c27a56ef3"
+    },
+    {
+      "case_id": 1,
+      "text": "CONFIDENCIAL! Seu extrato de conta de 2003, referente ao número 07808247860, mostra 800 pontos S.I.M. não resgatados. Ligue para 08719899229. Código de identificação: 40411. Válido até 06/11/2004.",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "aad23d84f5131feacfe86eeaedd419a9337962dceec692dcb66b04016725c66b"
+    },
+    {
+      "case_id": 2,
+      "text": "Teste do Sol Wkly Q! Ganhar um leitor de DVD topo de gama da Sony se souber em que país fica o Algarve? Envie uma mensagem de texto para 82277. £1,50 SP:Tyrone",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "5f3cbf87206ae0a0410cfe1f04a2774cfcb619d1073faa70a08e97a9f12a3ac6"
+    },
+    {
+      "case_id": 3,
+      "text": "GANHADOR!! Como um valioso cliente da rede, você foi selecionado para receber um prêmio de £ 900! Para reivindicar ligue para 09061701461. Código de reivindicação KL341. Válido apenas por 12 horas.",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "e0d7a9ebc9dc13580a26b640c329ad801681b79f5b2fa15579249ab908bf1f93"
+    },
+    {
+      "case_id": 4,
+      "text": "Obrigado pela sua assinatura da Ringtone UK, seu celular será cobrado £ 5/mês. Confirme respondendo SIM ou NÃO. Se você responder NÃO, você não será cobrado",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "2483514e387fb40378cd48bf2f9697d042e478585b18f1059e7d0dad500ffba5"
+    },
+    {
+      "case_id": 5,
+      "text": "Números ddd aleatório Brasil \nNúmeros internacionais ",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "667fe6128f499468c6586cde0c8c10ab1f1992c9c4b49b31046e3794ff0d0016"
+    },
+    {
+      "case_id": 6,
+      "text": "Seu computador foi infectado por 5 vírus!\nLigue imediatamente para o suporte: 0800-XXX-XXXX\nNão desligue o computador!",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "48741ec3f38cf260cd02c4c3b8b0a72a7ad2e56ba08be0eab211b045f36bdc67"
+    },
+    {
+      "case_id": 7,
+      "text": "VOCÊ CONSEGUE 🚀\nJá pensou em ganhar dinheiro no conforto da sua casa, perto da sua família com o seu celular?\nEu posso te ajudar clique no link da Bio que vou te ajudar!\nSiga-me @ganhar.dinheiro.onlline \n#ganhardinheiroonline #ganhardinheironainternet\n#dinheiroemcasa #marketingdigital #marketingdigitalbrasil\n#empreendedorismo #empreender #empreendedorismofeminino",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "2affbf2761914bd539621d6ec9d8e7034f206f71960f8806ad081140e83e42b5"
+    },
+    {
+      "case_id": 8,
+      "text": "Compro Contas Pix CPF , E CARTÃO!\nPIX CPF E CARTÃO \nPIX CPF E CARTÃO\nPIX CPF E CARTÃO\nPIX CPF E CARTÃO #",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "2c71d395ac364ce631340beb6e9c56fb56c6dbc90497cb6300ca5c266a0f937b"
+    },
+    {
+      "case_id": 9,
+      "text": "“Sou técnico certificado.\nPara resolver o problema agora, precisamos ativar a licença de limpeza por R$ 199,90.”",
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "fbf9bd5ac9e2b287509483ef823c56d9adc1fbfd67ff7f75314a883f7a8da2e9"
+    },
+    {
+      "case_id": 10,
+      "text": "Experiência horrível, tudo preso, cozido uniformemente. O único problema é que não é realmente um",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "8c1766d44e1391d2c40c5f1e5b4d7a761d3afe20d93e286d21b2b547746d48bf"
+    },
+    {
+      "case_id": 11,
+      "text": "Absolutamente adorável! E excelente preço. Já temos os de madeira há alguns meses e eles",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "c79649305bc5659410d86454cb7e7e467f11d77aedad5c6c977d84f5fddd886d"
+    },
+    {
+      "case_id": 12,
+      "text": "Muito pesado para o uso diário. A única razão pela qual dei 4 estrelas é porque aquela que",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5bf3ac24bfbd55900d85944f0ef27adc2059f61e1a9532ad31aff2e2a717b012"
+    },
+    {
+      "case_id": 13,
+      "text": "Estes parecem lindos e tão legais. O único problema é que não é realmente uma malha.",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "a114512fe0ecd56b179365ed91d86106f2a926d284fd9453bf940097046cbe88"
+    },
+    {
+      "case_id": 14,
+      "text": "Números grandes e fáceis de ler, a única coisa que não gostei foi o tamanho do",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5cde7e5e8bfbaf94467fa8e2554c6111ed0175d512fcd9d43186000ec01117ad"
+    },
+    {
+      "case_id": 15,
+      "text": "Melissa Wicker <[email protected]>Assunto: Chevrolet Silverado K1500 4x4 1997Olá Eric, acabei de receber a confirmação do eBay, eles me informaram que a fatura foi enviada. Da minha parte, tudo está feito. Por favor, leia o anexo com atenção para todas as instruções. Informe se você recebeu a fatura e se concorda com os termos para que eu possa prosseguir com o processo de envio. Você pode ligar para os Contatos de Atendimento ao Cliente do eBay +1-(858)-375-9764, para confirmar que recebeu a fatura e eles o orientarão para concluir a transação da melhor maneira. Por favor, verifique e mantenha-me informado sobre tudo.PS: Verifique sua pasta (Lixo eletrônico ou Spam) também, talvez tenha chegado lá por engano porque seu e-mail não suporta HTML, PDF",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "65c2ad00c6ad343232a078508b6396a2d8735d5ce869d7197effa95898307821"
+    },
+    {
+      "case_id": 16,
+      "text": "São pellets de madeira com certificação En Plus A1, ensacados ou a granel. São produtos de pellets de alta qualidade em vários formatos de embalagem para atender às diversas necessidades de nossos clientes. Temos o prazer de informar que podemos fornecer opções de sacos de 15 kg, big bags e contêineres a granel. Esta instalação está equipada com máquinas italianas totalmente automatizadas, garantindo precisão e eficiência em seu processo produtivo. Além disso, oferecemos opções de embalagens personalizadas. Temos o prazer de preencher o seu próprio design de saco com nossos pellets. • Sacos de 15 kg Pellets de madeira En Plus - 190 euros por tonelada • Pellets de madeira En Plus em sacos grandes - 170 euros por tonelada Estes preços são FOB Turquia. Esses pellets já estão sendo vendidos no mercado europeu. Informe-me em breve se estiver interessado. Karen Marciniak Proprietário-Global Pellet EUA +1 727 510 9145[email protegido] http://www.globalpelletus.com",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "e9e657cd5970c03f34391e3d7f272bab8156d8ee3f3510435c37dae0a5a6e84d"
+    },
+    {
+      "case_id": 17,
+      "text": "© Boyd Logistics LLC Service Ltd. <[email protected]>IMPORTANTE: A próxima etapa é enviar o pagamento usando o banco para a Boyd Logistics LLC Service Ltd. Antes de enviar o depósito, verifique os detalhes da transação (nomes, endereços, preço) em:[email protected]Por que precisamos deste pagamento?Exigimos o pagamento porque precisamos ter a confirmação de que você é um vendedor real. Trabalhamos com serviços bancários e PayPal para autenticar a identidade do remetente dos fundos; Boyd Logistics LLC Service Ltd. precisa processar todos os documentos necessários para a coleta e entrega. Boyd Logistics LLC Service Ltd. enviado.Nome e endereço do remetente.No entanto, esperamos o custo de envio de você de acordo com nossa política, nosso agente abaixo que virá para a coleta e entrega no endereço fornecido. o pagamento deve ser feito via banco e envie-nos o comprovante de pagamento.Nome do titular da conta: Idakwo EmmanuelNúmero IBAN: CY66002001950000357037132972Código BIC: BCYPCY2NNome do banco: Banco de ChiprePaís: Chipre.Endereço de e-mail:[email protegido]enviar paraNome completo:Eduard DrexlerEndereço atual:4884 Pitt St, Cornwall, ON K6K 1B1, Canadá.",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "fddd384271f18c47403b62af2b820048f861528d0451a4d9a6c503741687ac26"
+    },
+    {
+      "case_id": 18,
+      "text": "Servidor Whois: whois.namecheap.comNAMECHEAP INC NameCheap, Inc.Criado em 2024/02/08Expira em 2025/02/08",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "b7cac6b82e9bab4fc3371825c21dcf92136259c5974b1387eb5e6caa5921996b"
+    },
+    {
+      "case_id": 19,
+      "text": "Edwards Andrew-Gordon <[email protected]>:Olá, o carro ainda está à venda. Eu sou da Escócia. Comprei este carro enquanto trabalhava em Espanha, agora estou de volta ao Reino Unido e quero vendê-lo. O carro está em perfeitas condições e nunca sofreu nenhum acidente, é um carro para não fumantes. Se você decidir comprá-lo, posso providenciar a entrega no seu país e um período de inspeção de 5 dias. Já entrei em contato com uma transportadora e eles farão a venda para mim. Avise-me se concorda e fornecerei todos os detalhes sobre envio e pagamento.",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Externo 7",
+      "score": 0.92,
+      "sha256_text": "96f4808e63b089195033f5c0fa59bd764d233e5d5718a143cfd77170e7594f3f"
+    },
+    {
+      "case_id": 20,
+      "text": "💊Um produto perfeito para auxiliar no seu emagrecimento saudável (LIFT DETOX BLACK) \n.\nSeus benefícios são: \n✅Queima gordura localizada.\n✅Diminui a fome.\n✅Acelera o metabolismo.\n✅Controla ansiedade.\n✅Regula o colesterol ruim e melhora o colesterol bom.\n✅Mais disposição diminuindo o cansaço durante o dia.\n.\n⬆️ Click no Link Azul da Bio e Saiba Mais ⬆️\n.\n#liftdetoxcaps #detox #emagrecimento #emagrecacomsaude #formulanatural #percapeso #saude #inibidordeapetite #vemverão #xogordura #emagrecimentosaudavel #vidasaudavel #qualidadedevida #acreditabonita #antesedepois #bemestar #exgordinha #motivacao #boaforma #fretegratis",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "7aff6fcf8eb2b3d59c850578a2064ae7497066dcc20af8b4638b9cce5463ab4d"
+    },
+    {
+      "case_id": 21,
+      "text": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!) ",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "dc6fc90867c61ab169a79a53073ed536c8abc610d4297030373fe002d7134676"
+    },
+    {
+      "case_id": 22,
+      "text": "Comentem eu quero 😉👍⬇️⬇️\n #emagrecimento #saude #remedio #natural #barato #compraonline",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "30547a8a5560c595017c87624c5cac138efa2f640b6351f73be0ee8b46994a28"
+    },
+    {
+      "case_id": 23,
+      "text": "iphone 15\nR$1.500\nAnunciado Há um dia em Duque de Caxias, RJ\nDetalhes\nCondição\nUsado — em boas condições\nvendo iphone 15 estado de novo \nNÃO PEGA CHIP!!!!!!!!! NÃO SEI SE PEGA O VIRTUAL EU NÃO TENTEI COLOCAR !",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "551338461796cd26e278072a5f9d439d81e404f51fdec6c5d65d3cc736f2fe14"
+    },
+    {
+      "case_id": 24,
+      "text": "Faça seu teste grátis por 24 horas! Coloco inteligência artificial na sua câmera de comércio residência veículo etc. Por 35 reais mensal. Mais informações ZAP [hidden information]3",
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "e1699deb61a4b9f238a5f4509dd1c8c74597daaa73786f31083c908a5150c674"
+    },
+    {
+      "case_id": 25,
+      "text": "Sim, querido, esta é minha conta do Hangout[email protegido], podemos conversar lá???Gostaria de conhecê-lo melhor",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "14e5f9c473c742e5604031a6b5437f3a45c2944c4e8dc9baef325937984dfc59"
+    },
+    {
+      "case_id": 26,
+      "text": "Eu sou Linda Kennel com 67 anos de idade.",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "a1a22734f182f3e1306885f8f870abc898c2444ed51a2e8131cf2943ab74fcdd"
+    },
+    {
+      "case_id": 27,
+      "text": "Bom dia, querido. Espero que você esteja bem. Infelizmente, tive alguns problemas em construir relacionamentos com homens. Por isso, optei por encontrar um parceiro que utilize tecnologia moderna. Entrei em contato com uma organização especializada e eles me forneceram seu contato. Aqui estão algumas informações sobre mim. Meu nome é Inna, tenho 30 anos e moro em Dimitrovgrad, na Rússia. Estou sozinha, não tenho filhos e às vezes me sinto um pouco sozinha. Trabalho no Judiciário como auxiliar de juiz e procuro me manter dinâmico com atividades físicas. No meu tempo livre, faço ioga. Tenho algumas perguntas para você: O que é importante para você na vida romântica? Na sua opinião, o que ajuda a criar um vínculo duradouro? Compartilhe sua história comigo. Você tem algum hobby? Como você ganha a vida? Também compartilhei alguns instantâneos para você ver. Se você estiver interessado em mim, ficarei feliz em receber sua resposta. Se não for o que você deseja, siga em frente. Interessado? Por favor, responda SOMENTE para minha caixa de correio particular:[email protected]Aguardo ansiosamente sua mensagem. Atenciosamente, Inna.",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "99a2908e3fb2e7cf95f7675f203730d6ef92bf7d40cd2c6317a0e178f366863a"
+    },
+    {
+      "case_id": 28,
+      "text": "Prazer em conhecê-lo, meu nome é Nicole Fred GoodWill, vi seu perfil neste mesmo site então decidi te conhecer mais, preciso de um homem honesto em minha vida, entre em contato comigo pelo meu e-mail privado ([email protegido]) ou deixe seu e-mail para que eu",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "be2912c9951362f642305701bc0b993daefd5430898c9fdb83ec3cdf2cdd334b"
+    },
+    {
+      "case_id": 29,
+      "text": "Procuro um homem que possa me amar pelo que sou e cuidar de mim e se casar comigo farei os mesmos planos juntos",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Externo 1",
+      "score": 0.92,
+      "sha256_text": "17c7fed372db6205db3cbdab4a128c8490eddd8456bbdcf39143584b6bbdb790"
+    },
+    {
+      "case_id": 30,
+      "text": "Sou um jovem do Marrocos, um país árabe. Estou falando com você usando um dicionário. Viajarei para o Brasil daqui a quatro meses para turismo (três meses). Estou procurando uma mulher que queira me conhecer e conversar comigo. Por favor, envie-me um pedido de amizade para que possamos conversar pelo Messenger.",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "c9f6c99799f07dd8eacc8494f5f3ab3564617fe55c853039bb187f8a19e5e5d3"
+    },
+    {
+      "case_id": 31,
+      "text": "\"✅Se você está passando por alguma dificuldade no relacionamento clica no link da Bio ou me chama no direct que vamos resolver isso🧠\n#relacionamento #amor #casal #namoro #sexualidade #sensações #afetividade #traição #honra #caráter #respeito #relacionamentoabusivo #masculinidade #homem #homemdevalor #vulgaridade #sensualidade\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "ac21dec6778c47cf5a6fd7829448210e0d4b15401f8ab8a32c8080a87951c062"
+    },
+    {
+      "case_id": 32,
+      "text": "\"Olá, meu amor.\nSamanta acabou de te encontrar no Facebook❤️\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "f3299be33578b9176ff903f844f47c0b88248402cc0516e266e17d3a31a759bc"
+    },
+    {
+      "case_id": 33,
+      "text": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "ec59c76341e65ce287e4b72e94435b710728a785bbd40227f2d8552f3793c7d9"
+    },
+    {
+      "case_id": 34,
+      "text": "\"Bruna visitou seu perfil várias vezes.\nParece que despertou interesse 👀\"",
+      "category": "Golpes Baseados Em Relacionamento",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "4a49cafbd9f1958b77436e45bf36c21f9d77557dcbb8006846a13e40ac340bf7"
+    },
+    {
+      "case_id": 35,
+      "text": "[Nosso governo] reduziu o feminicídio no Brasil",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "281e237d9d591c6138cdb1009b95f1ee429acc1edb4bbdd7e537f3f334f2084f"
+    },
+    {
+      "case_id": 36,
+      "text": "“Nando Reis se F… Se F…. no Rock in Rio”",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "9e9a8d519b7c172e54ba45bb8697f407c2fa76e9c7989b8be2e6bbff9383bde1"
+    },
+    {
+      "case_id": 37,
+      "text": "Terreno do Instituto Lula. Réu",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "db0f3b7fa0cca83d41c532643e895b2228d54b56a87513cabb1db6b0a31301ed"
+    },
+    {
+      "case_id": 38,
+      "text": "De repente, a Ivermectina aparece no site do NIH para tratar o Covid. Depois de anos de negação, bloqueio, interferência, difamação, arruinando contas de mídia social, matando pessoas, etc., eles silenciosamente o adicionam ao seu protocolo antiviral.",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "b63cc163140e970054722e83975463c4a70b20f632f8f4efff6ad6ab31684641"
+    },
+    {
+      "case_id": 39,
+      "text": "No nosso governo são cinco por ano [invasões de terra]",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "3ed2391029c67711d7f825f3bfc03265cfe9ce167d5054e5b0b990cb900b0271"
+    },
+    {
+      "case_id": 40,
+      "text": "Sim, meninas. A água de coco cura candidíase! \n#explore #reels #viral #dicas #beleza\n#candidiase #dicasdebeleza #explorar #fyp",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "5741247ae4b3988523b4ef18946651f580c80799e79bc963ee352433179017f4"
+    },
+    {
+      "case_id": 41,
+      "text": "*Presidente Lula fala sobre possível invasão ao Brasil*\n🇧🇷 “A gente está sob ameaça real de invasão, não é uma teoria, é real e o inimigo está ameaçando abertamente.\nPrecisamos nos preparar.” https://www.facebook.com/share/v/1CYfRuyhYh/",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "226b60d2381d13dce9cae4a712a4d2a111dd10faa4d67cc06f5d65c930265dc4"
+    },
+    {
+      "case_id": 42,
+      "text": "https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "5ea716c8d8e115a6454c9dd324d89630f40a451d87c78ca589543c50bd0ef0fd"
+    },
+    {
+      "case_id": 43,
+      "text": "Lula é e sempre será CRIMINOSO, Lancellotti é PEDÓFILO e aliado desses criminosos são IRRACIONAIS...",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "9431932375a36d64f643ab4f5dcf9272a2d52923db7fdddfcd77770afa8d5a28"
+    },
+    {
+      "case_id": 44,
+      "text": "O Governo Lula reforçou nesta semana que os jovens que completam 18 anos em 2026 devem se alistar imediatamente no serviço militar obrigatório. \nO prazo para regularizar a situação vai até 30 de junho, e quem não se alistar dentro do período pode enfrentar multas e restrições legais, como dificuldades para obter passaporte, matrícula em universidades e participar de concursos públicos. O alerta acontece em um contexto de crescente tensão internacional.",
+      "category": "Golpes de Desinformação Digital",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "140e5a5f2b0cac6d8bac94fab693f052caf380be74e6cb9432ce5a95d7c3f624"
+    },
+    {
+      "case_id": 45,
+      "text": "hoje dinheiro retirar sistema automatizar bot operação 1 milhão real 🔥 💯 🤑",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "a387f35eebf5ec9166abaef6ce639f192e654d66fa4b598c0555e493e69ef51f"
+    },
+    {
+      "case_id": 46,
+      "text": "emprego alta contínuo detalhe descriçãor abaixo ⬇ ️",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "f3fdb98597929f27f2f1178d24830e823b1c84ef9fbf9cb139d976e03960bb82"
+    },
+    {
+      "case_id": 47,
+      "text": "o grande risco todo correr ❗ ️ 📝 vida sempre ir presentear bom oportunidade momento desejar ☘ grandeia vez bomes oportunidade surgir menos esperar sente pronto ☘ ✍ raramente ver oportunidade apresentar ordenadamente caixer bonitinha laço amarelo topo 👨 ‍ 🏫 vez bomes oportunidade vir pacote confuso confuso difícil reconhecer poder vir grande risco desafiá lo ✅ continuar evitar risco continuar perder oportunidade mudança vida experimentar crescimento vida Finanças 🗣 sempre dizer todo conseguir comer prato sucesso então fome lutar mordido chance",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "be4249eac7461bac42cb6fd9184cd2f62a3a1962ce6019b84e2db30b3c6f7cf8"
+    },
+    {
+      "case_id": 48,
+      "text": "desde posse Luiz inácio Lula Silva Janeiro 2003 Brasil goverem or pt viver ano crescimento econômico criação emprego ampliação programa social redução pobreza passar dois grande escândalo corrupção envolver alto direção partir Mensalão 2005 lavar jato deflagrar 2014 impeachment dilmor partir deixar poder herança recessão inflaçãor acima meta rombar conta público redução programa social impeachment interromper longo período poder partir eleger democraticamente Brasil 13 ano 132 dia em o política pt enfrentar escândalo político primeiro mandato primeiro 2004 gerar cpi bingo após ex assessor casa civil waldomiro diniz cujo ministro José dircer ter ser flagrar vídeo negociar propiem o empresário ramo jogo escândalo Mensalão estourar junho 2005 deputado roberto jefferson ptb então aliar Lula acusar José dircer comandar esquema pagamento parlamentar trocar apoio político governo dircer renunciar 16 junho cargo ministro reassumir mandato deputado federal defender acusação cassar câmara dezembro lugar dircer casa civil assumir então ministra miem os energia dilmor rousseff denúncia contra Lula também março 2016 pt assistir grande símbolo Lula denunciar Ministério público supostar compra apartamento triplex guarujá sp manter nome construtora oas mês plaem olto anunciar ex presidente novo ministro casa civil – dar foro privilegiar Lula chegar tomar posse impedir justiça após divulgação grampo telefonema Lula dilmor autorizado juiz fonte diário amapá linkr www diariodoamapa br",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "7d6336c4d8063644a67a26f08fc0ae7e88092e0837cfc4a943539ce5e847b7e4"
+    },
+    {
+      "case_id": 49,
+      "text": "para informação sobre plataforma investimento iniciar investimento conosco contato adrianafxtdr",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 4",
+      "score": 0.92,
+      "sha256_text": "aad1f8a782d4686372b9aed7ee67ca79a06e11ea2ef86d48180952e0ecc74455"
+    },
+    {
+      "case_id": 50,
+      "text": "ENTRE EM CONTATO CONOSCO PARA TODOS OS TIPOS DE TRABALHOS DE HACKING Nós fornecemos serviços profissionais de hacking, oferecemos os seguintes serviços.-Mudança de notas universitárias- Hackear contas bancárias- Limpar registro criminal Hack- Facebook hack- Hackear Twitter-Hackear contas de e-mail-Hack para alterar notasWebsite travou hack- Hackear servidor travou-Skype hack-Hackear bancos de dados-Hackear blogs WordPress- Hackear computadores individuais- Hackear dispositivos remotamente-Número do queimador- Hackear contas verificadas do PayPal- Qualquer hack de conta de mídia social-Android e iPhone hack-Hack para interceptar SMS- Hack para interceptar e-mails-Recuperação de Bitcoin-multiplicação binária-Atualizar classificação de crédito- Rastreie registros de chamadas e espie registros de chamadas.Monitore mensagens de texto SMS remotamente.Rastreamento GPS de telefone celular. Espionar mensagens do WhatsApp.-IP irreconhecível, etc.Entre em contato conosco pelo e-mail:[e-mail protegido]ou pelo WhatsApp:+1 (908) 768-4663 Para mais perguntas.",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "70b50c06e7971037826943f51a394c18b3ba6da4579b9f89e807e5ca1623ddf4"
+    },
+    {
+      "case_id": 51,
+      "text": "Prezado Parceiro de Negócios, Meu nome é Sr. Kalasy Koshesi, representando a Loncon International Petroleum Services Company, trabalhando em estreita colaboração com refinarias confiáveis ​​localizadas no Cazaquistão, Roterdã e Houston. Oferecemos uma ampla gama de produtos petrolíferos premium, preços competitivos e cronogramas de entrega confiáveis, adaptados para atender às suas necessidades operacionais. Eu apreciaria a oportunidade de discutir como nossa empresa pode atender às suas necessidades de fornecimento e construir uma parceria mutuamente benéfica.Atenciosamente,Sr. Kalasy KoshesiLoncon International Petroleum Services CompanyE-mail:[email protegido]WhatsApp: +77755592971",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "79aa22ee73302fb53dd7eb83b6c4a8d023a7efa9cefd7da4d1523d76bafc469b"
+    },
+    {
+      "case_id": 52,
+      "text": "PROGRAMA DE COMÉRCIO COMPOUNDING SBLC Programa comercial composto SBLC/BG regulamentado pelas leis de Cingapura. Somente SBLC/BG, emitido pelos principais bancos do Canadá, Europa, Hong Kong e Cingapura. Moeda: $ USD, € Euro e £ Libra Esterlina. Contrato comercial de 12 meses, mínimo de 150 milhões de SBLC/BG a 5B. Cronograma de pagamento: Dois desembolsos, um em porcentagens mensais e um bruto no final de doze meses. no final de 12 meses.Requisito: KYC atual, Carta do Banco RWA para emitir FC SBLC / Cópia do SBLC emitido no Banco do Cliente a/c.Procedimento: Banco para Banco MT760 a ser entregue conforme instruções no Contrato Comercial; após a verificação, a negociação começa. O Cliente é reembolsado do custo do MT760 em 72 horas após a recepção; troca. Os fundos permanecem sob o controle do banco comercial durante toda a duração do investimento. O principal requisito é que o Cliente aceite e concorde com o nível de fundos na conta comercial durante a duração do programa (12 meses).E-mail de contato:[email protegido]",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "09c1533278598d479bc4e99f2407f570585b041f29f70db03a840d0e742c1308"
+    },
+    {
+      "case_id": 53,
+      "text": "Eu ofereço: Serviços cPanel na TAILÂNDIA - Webmails Zimbra à prova de balas ~ ‎250Bcc @ Uma vez~ ‎Envio sem limite diariamente~ ‎Entrega instantânea para todos os domínios~ ‎7 dias de uso apenas e obtive RESPOSTA PARA‎(Protocolo de cliente de e-mail Zimbra e Squirel)~ Pode ser ‎Convertido para SMTP usando a porta 587~ E-mail / Leads de qualquer país do mundo ~ Pushing serviço - Formato simples, links de anexos ~ 500 mil leads no Spidex Sender 100% deliveryWorld misto Leads Ceo Cfo Empréstimo/Emprego e listas direcionadas Ásia Europa EUA AU Canadá ARABWhatsApp: não: +2349032808366 ID do telegrama: @ToolstargetSKYPE/Microsoft ID da equipe: live:.cid.867a435ef9b87219 OU[e-mail protegido]",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "4e1f3755e9545d95091c617301deb4cf5019cb3bacfb5e8cd477977b8c051026"
+    },
+    {
+      "case_id": 54,
+      "text": "PROGRAMA COMERCIALPrograma comercial para os principais bancos mundiais (incluindo os principais bancos da Índia). A maioria das contas não exigirá SWIFT e nenhum bloqueio. Os 100 principais bancos mundiais e os principais bancos indianos Programa de comércio tearsheet - $ 1 milhão de dólares - $ 50 milhões de dólares Este programa de comércio para as 100 principais contas do banco mundial e os principais bancos indianos deverá fechar muito em breve - Inscreva-se o mais rápido possível se estiver interessado · Sem taxas iniciais · Mínimo de $ 1 milhão de dólares · Máximo de $ 50 milhões de dólares · O valor inicial / capital inicial deve ser mantido em sua conta bancária durante todo o ano de negociação · Admin É necessária retenção · A maioria das contas não exige SWIFT · Sem movimentação de dinheiro Requisitos de aplicação: - KYC (em anexo) - 2 cartões de visita do banqueiro - Data atual Extrato bancário obrigatório - Acordo de taxa de participação nos lucros WCF de 15% (os corretores de referência também serão pagos) - N/A, pois já temos um acordo de taxas em vigor ☆ Distribuição de lucros: 42,5% de lucro para o cliente (após 7,5% (15% do que o cliente recebe) de participação nos lucros com WCF e corretores de referência) Outra parcela: 40% para a plataforma 10% para introdutores de negociação Exemplo para investimento comercial de 1 milhão de dólares ** com base em dados históricos; seus retornos exatos serão descritos no contrato com a plataforma de negociação.· Bala de 10 dias – 225% LÍQUIDO (após comissões) = US$ 1.912.500 pagos ao cliente (após taxas do WCF) – pago após 10 dias· Seguido por um programa de 40 semanas, 75% LÍQUIDO semanalmente (após comissões) = US$ 637.500 pagos ao cliente semanalmente (após taxas do WCF) por 40 semanasTOTAL de US$ 27.412.500 pagos ao Cliente ao longo de 1 ano[email protegido]WA +919012119900",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Externo 5",
+      "score": 0.92,
+      "sha256_text": "f2e2dd10bcf23b2698c694bf8855cbb8367a3d204d6431c76fe38cff9860cca3"
+    },
+    {
+      "case_id": 55,
+      "text": "Esse Seguro Prestamista o cliente conclui no ato da contratação, após receber o contrato.\n\nEsse custo o cliente não perde caso não acione o Seguro, o valor é reembolsado na penúltima parcela pago do empréstimo.\nApós encaminhar toda a documentação a concluir o pagamento do Seguro Prestamista a empresa já lhe encaminha o contrato pronto e lavrado, é assim que nos encaminhar ele assinando a empresa por lei tem um prazo de 2 horas para estar concluindo a transferência bancária para a sua conta.\n\nPrimeira parcela com vencimento para 60 dias!\n\nJUROS BAIXOS JÁ\nCNPJ: 28.812.324/0001-43\nENDEREÇO: R Mauricio Lorencini, 140, Jardim Santa Teresa, Jundiai, SP.\n\nAtenciosamente,\nMaiara Kelly",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "457497d9f98ab6ac361992c86ab4485a77d25d3943576e15e3bbbec4299d98c4"
+    },
+    {
+      "case_id": 56,
+      "text": "Qual valor solicitado? (15:01)\n2500 pode ser (15:02)\nTem o seguro de 389,60 (15:03)\nSim entendi (15:04)\n Voce faz contrato do emprestimo (15:04)\nO seguro é cobrado devido a grande taxa de inadimplência por isso caso senhor ou senhora não me pague a seguradora cobre o prejuízo e me reembolsa (15:07)\n",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "686be0229c7617342c77ff220e2debb377ae93af3660779bad2960a184f4e9f5"
+    },
+    {
+      "case_id": 57,
+      "text": "2026 - Prepare-se para viver a melhor experiência de lazer online! 🚀🎯\n💥 Ganhe vantagens exclusivas e aproveite ofertas limitadas! 🔥\n🔒 Comece hoje e descubra novas possibilidades! 🤩\n\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n😍📚\n\"\"Querida, por favor, me ame uma vez.\"\"\n\"\"Sr. Graham, eu não o conheço.\"\"\"📚\nCapítulo 1 Vamos nos divorciar.\n'Seu marido está com outra mulher.'\nQuando Abigail Quinn recebeu uma mensagem de texto de sua melhor amiga, ela tinha acabado de tomar uma injeção ovulatória e estava descansando em um banco no ambulatório, tentando suprimir a dor lancinante em seu estômago. Seu cabelo era preto e sua pele era branca como a neve, mas não havia mais nenhum vestígio de sangue em seu rosto. Mesmo assim, isso não ofuscava suas formas magníficas e os transeuntes continuavam virando a cabeça para olhá-la.\nEntão, ela respirou fundo, bateu com o dedo trêmulo e abriu a foto em seu celular para dar uma olhada. Era uma foto de Sean Graham saindo de um hotel segurando uma mulher em um vestido rosa. O rosto normalmente frio e tranquilo do homem pareceu suavizar quando ele inclinou a cabeça em direção à mulher na foto.\n\nAbigail sabia quem era a mulher, o primeiro amor de Sean, John Palmer.\n\nDepois de um tempo, ela recobrou a razão, encontrou o número de Sean e ligou para ele. Ela esperou o sinal de ocupado terminar por um longo tempo, e finalmente a voz distinta do homem soou de... do outro lado da linha. \"Qual o problema?\"\n\n\"Você vem para casa hoje à noite?\" Na verdade, ela queria perguntar se ele queria mesmo voltar para casa.\n\nInfelizmente, estava claro que a ligação dela em si havia deixado Sean irritado. Depois de alguns segundos de silêncio, ela perguntou impacientemente: \"Há algum assunto importante que precisamos discutir?\"\n\nLágrimas imediatamente brotaram em seus olhos, a voz indiferente dele perfurando seu coração como uma faca, mas ela habilmente escondeu a tristeza. \"Você esqueceu que dia é hoje?\"\n\nEles estavam casados secretamente há três anos, mas raramente se viam. Hoje era o aniversário de casamento deles, o dia em que ele deveria voltar para casa. Ele havia prometido que passaria o dia com ela.\n\nInfelizmente, ele simplesmente a interrompeu e murmurou, irritado: \"Volto mais tarde. Não se preocupe.\"\n\nEle não perdeu tempo depois disso. O coração de Abigail afundou quando ela ouviu o tom monótono de discagem. Então, ela jogou a cabeça para trás e respirou fundo algumas vezes para se recompor. Finalmente, ligou para sua melhor amiga, Luna Smith, para buscá-la.\n\nDez minutos depois, o som de passos rápidos ecoou do outro lado do corredor. A mulher parecia tranquila e charmosa enquanto seu cabelo curto e bem cortado, tingido de azul com mechas prateadas, se movia. Rapidamente pelo corredor enquanto se movia.\n\nPara Luna, os olhares surpresos que a receberam não eram mais uma surpresa, e ela ergueu as sobrancelhas espessas enquanto caminhava direto para Abigail. Sentiu pena ao ver que o rosto de Abigail estava horrivelmente pálido, mas não pôde deixar de repreendê-la em voz baixa: \"Ele está vivendo a vida dos sonhos com John. Qual o sentido de te dar injeções de ovulação?\"\n\nAbigail assentiu sem dizer uma palavra. Seu casamento com Sean não tinha sido feliz porque foi seu avô, Colby, quem os forçou a ficarem juntos.\n\nNo entanto, Abigail não recusou o casamento quando lhe foi proposto e até mesmo o celebrou secretamente, porque ninguém sabia que ela carregava a tocha por Sean há muitos anos. Foi só depois do casamento que ela descobriu que Sean tinha um primeiro amor chamado John Palmer, e Colby achou que ela não era boa o suficiente para a família Graham. Então, ele usou Abigail para se livrar dele.\n\nComo Sean estava com vergonha de aceitar Abigail, como sua esposa, eles mantiveram o casamento em segredo nos últimos três anos. No entanto, Abigail não se importava e pensava que um dia derreteria seu coração de gelo. Ela esperava que um dia ele esquecesse John e realmente quisesse passar os dias com ela.\n\nAgora que John estava de volta, Abigail percebeu o quão tola havia sido.",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "a62f8abf4ba0a4abe0655107a56bfd77760cc4b8b7bf1690fb1790c5c42d4798"
+    },
+    {
+      "case_id": 58,
+      "text": "Que sairá 250 reais  Sra cada empresa trabalha de uma forma \nNão é uma taxa, e as despesas de cartório \nIsso é estipulado no contrato \nA sra visualizou? ",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "873a8ff9fa07996df629f2a4013fdde0ecdfe33cf31328a2173c88ae41a595a1"
+    },
+    {
+      "case_id": 59,
+      "text": "Boa noite , Estou à procura de pessoa para trabalhar online trabalho com vendas de automóveis e motocicletas você só precisa ter a plataforma de venda no Facebook o marketplace, agente estamos pagando 120 por por dia tiver interesse deixa seu contat",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "7e1d8b38f01c71b2f0697c8ffbc795ac7090744cf58290e07467adf86126c7dd"
+    },
+    {
+      "case_id": 60,
+      "text": "Affffffff. Tudo bem, não posso me encontrar com você antes?",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "c0d863356e4c4c1a853a41e939b27efe3b7bcec9da8d6bebbfc0b37943f04b6a"
+    },
+    {
+      "case_id": 61,
+      "text": "É sério assim que você soletra o nome dele?",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "48832254208daf186fd93736bc6c6fd5d086e50d75f0a3408ca2aa0730f8887a"
+    },
+    {
+      "case_id": 62,
+      "text": "Eh, você se lembra de como soletrar o nome dele... Sim, eu fiz. Ele é safado faz até ficar molhado.",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "497dedb37ebba1fe6c17e41d1c1db6d6c2804dfc0db961df3379bc391ffe7d04"
+    },
+    {
+      "case_id": 63,
+      "text": "Apenas me forcei a comer uma fatia. Eu realmente não estou com fome. Isso é uma droga. Mark está ficando preocupado. Ele sabe que estou doente quando recuso pizza. Lol",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "45cb4b8e15e345c1d0c2e6c55b23f26fc1c7670c325a7fba98455721a02639bb"
+    },
+    {
+      "case_id": 64,
+      "text": "Nah, eu não acho que ele vai para a USF, ele mora por aqui",
+      "category": "Seguro",
+      "dataset": "Externo 2",
+      "score": 0.92,
+      "sha256_text": "dcc0928a212fada54e2f9c0de69b6937726543c9e0483d8de7ebc62309739e4e"
+    },
+    {
+      "case_id": 65,
+      "text": "“É importante lembrar que os R$ 600 [do Auxílio Brasil] não está na LDO mandada para o Congresso [para 2023]”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "3b53353607b77014cffd51c03db39e8025a301c9ab95aeeddcf15f9e24e20388"
+    },
+    {
+      "case_id": 66,
+      "text": "“O presidente [Alberto Fernández, da Argentina] visitou Lula na cadeia em Curitiba”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "713083086c17f912f39d19b60ea657aba8c3a740d69a6ba3995f037fbde100a5"
+    },
+    {
+      "case_id": 67,
+      "text": "“Só [o estado de] São Paulo é 24% da população brasileira”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "b2c21ef92a7f27fb914940fca43b0c18d18708f789892f6e5385b21d9a3e588c"
+    },
+    {
+      "case_id": 68,
+      "text": "“Eu prefeita reeleita com 76% dos votos”",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "20f0952d403a427e45a5d89e4d9e896fd7343afc3aca15458a6a57aef52167e9"
+    },
+    {
+      "case_id": 69,
+      "text": "O número de mortes violentas no Brasil (...) tem caído",
+      "category": "Seguro",
+      "dataset": "Externo 3",
+      "score": 0.92,
+      "sha256_text": "b6d179e2914cba6299a91e95512f548729a996360b11dceb46de2f4044677fd3"
+    },
+    {
+      "case_id": 70,
+      "text": "Este ventilador é muito bonito e eu realmente o uso.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "9f5ec9f67c3bf52fe79a1ca9bc93c470cad34eed8cd6337177e0e811eb375b90"
+    },
+    {
+      "case_id": 71,
+      "text": "Produto de excelente qualidade. Perfeito para minha ccozinha.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "31fee07a385bad37c279b4d3b034f91024d49e86ee23e1fb8fdb07f3db22cba1"
+    },
+    {
+      "case_id": 72,
+      "text": "São simplesmente perfeitos, exatamente o que eu procurava.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5fc60938e71983a3aa9035e7fa9391fc32c24f4c1703df8d2bda561aa43f06eb"
+    },
+    {
+      "case_id": 73,
+      "text": "Adorei, só pensei que seriam um pouco maiores!",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "5fa843c004555d0c5d7cfdcb4f9a78a24dac48e182d584fbf21ff6013b43d804"
+    },
+    {
+      "case_id": 74,
+      "text": "Eles são tão bonitos, resistentes, assim como as opções de cores também.",
+      "category": "Seguro",
+      "dataset": "Externo 6",
+      "score": 0.92,
+      "sha256_text": "e90d20444bfde6b8f6635178672c2c4a73549c48ee01dc581fa694531be3550e"
+    },
+    {
+      "case_id": 75,
+      "text": "bom dia meus amigos queridos, vamos almoçar um bife a milanesa de carne moida e um delicioso suco de pitanga colhido do meu quintal.",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "af03b11a08007b2030f9324e4995183140a39b44ddbb986dd7789f82e424870a"
+    },
+    {
+      "case_id": 76,
+      "text": "\"Depois de 53 sessões de quimioterapia, de dias em que eu não tinha forças nem para levantar a cabeça e de noites em que a incerteza era minha única companhia, eu finalmente posso dizer em voz alta: EU ESTOU LIVRE! O câncer não me venceu, e essa placa que seguro hoje é o troféu mais valioso que eu poderia conquistar na vida. ✌️🎊🏥\nCada picada de agulha, cada fio de cabelo que caiu e cada lágrima derramada valeram a pena para chegar neste momento de cura. Sou grata a cada médico, a cada oração e à minha própria vontade de viver que nunca se apagou. Se você está passando por uma batalha difícil hoje, não desista! O sol volta a brilhar, e a minha vitória é a prova de que milagres acontecem todos os dias. ✨💙🙏\"",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "bd5fba690f5f797fe340345fa9e4dd4e96d2c1f68f21b6ec046b9773b40e6608"
+    },
+    {
+      "case_id": 77,
+      "text": "SUPOSTO PAREDÃO 🔥\nQuem você elimina?\n🤔🤔😯😲",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "e7f9c0e16a49701e2d68618b6737090b37893820ba13c4a7cd9c504a28c096dc"
+    },
+    {
+      "case_id": 78,
+      "text": "Hoje eu só queria ter os problemas da Mia Colucci.",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "be12be05755aed6e689e2ef59c3d7c56b6b28f27d54fb2cfd6d203f92ade55c5"
+    },
+    {
+      "case_id": 79,
+      "text": "Por do Sol, Orla de São Pedro da Aldeia, região dos Lagos, Rio de Janeiro.\n#creatorsearchinsights #sunset #pordosol #riodejaneiro #praia",
+      "category": "Seguro",
+      "dataset": "Interno",
+      "score": 0.92,
+      "sha256_text": "cca7495e396810eb5c71f740ec456f8244f88f865d3a005915a0e5189415c40f"
+    }
+  ]
+}

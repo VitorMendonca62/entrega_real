@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 51,
+    "text": "Prezado Parceiro de Negócios, Meu nome é Sr. Kalasy Koshesi, representando a Loncon International Petroleum Services Company, trabalhando em estreita colaboração com refinarias confiáveis ​​localizadas no Cazaquistão, Roterdã e Houston. Oferecemos uma ampla gama de produtos petrolíferos premium, preços competitivos e cronogramas de entrega confiáveis, adaptados para atender às suas necessidades operacionais. Eu apreciaria a oportunidade de discutir como nossa empresa pode atender às suas necessidades de fornecimento e construir uma parceria mutuamente benéfica.Atenciosamente,Sr. Kalasy KoshesiLoncon International Petroleum Services CompanyE-mail:[email protegido]WhatsApp: +77755592971",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 5",
+    "score": 0.92,
+    "sha256_text": "79aa22ee73302fb53dd7eb83b6c4a8d023a7efa9cefd7da4d1523d76bafc469b"
+  },
+  "call_id": "e9aa0621c5fca22287a352fb6a2848b404692fd622fe9e92355b6e4b22b9dbf0",
+  "filtered": {
+    "Motivo": "O texto apresenta um convite para uma relação comercial com uma suposta empresa que opera internacionalmente no setor de petróleo, o que pode ser uma fachada para induzir ao erro e solicitar pagamentos antecipados ou informações sensíveis sob a promessa de uma futura parceria lucrativa. A mensagem tem características típicas de golpes que exploram a expectativa de grandes recompensas econômicas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Desconfie e evite responder ao e-mail ou telefone fornecido na mensagem. 2. Bloqueie e denuncie o contato suspeito, especialmente se o contato ocorrer via WhatsApp ou outras plataformas online. 3. Preservar qualquer evidência recebida para uso futuro em investigações, como e-mails e capturas de tela. 4. Caso perceba movimentações financeiras ou fornecimento de dados sensíveis, contate imediatamente sua instituição financeira e registre um Boletim de Ocorrência em delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto apresenta um convite para uma relação comercial com uma suposta empresa que opera internacionalmente no setor de petróleo, o que pode ser uma fachada para induzir ao erro e solicitar pagamentos antecipados ou informações sensíveis sob a promessa de uma futura parceria lucrativa. A mensagem tem características típicas de golpes que exploram a expectativa de grandes recompensas econômicas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Desconfie e evite responder ao e-mail ou telefone fornecido na mensagem. 2. Bloqueie e denuncie o contato suspeito, especialmente se o contato ocorrer via WhatsApp ou outras plataformas online. 3. Preservar qualquer evidência recebida para uso futuro em investigações, como e-mails e capturas de tela. 4. Caso perceba movimentações financeiras ou fornecimento de dados sensíveis, contate imediatamente sua instituição financeira e registre um Boletim de Ocorrência em delegacia especializada."
+  }
+}

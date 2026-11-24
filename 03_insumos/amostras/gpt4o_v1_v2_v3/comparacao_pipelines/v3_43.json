@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 43,
+    "text": "Lula é e sempre será CRIMINOSO, Lancellotti é PEDÓFILO e aliado desses criminosos são IRRACIONAIS...",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "9431932375a36d64f643ab4f5dcf9272a2d52923db7fdddfcd77770afa8d5a28"
+  },
+  "call_id": "2048a35ad7a4c3bf4ef25ee354fd5d88388454c49405ff27a87fcd2710fd552a",
+  "filtered": {
+    "Motivo": "O texto apresenta características de desinformação digital ao acusar falsamente figuras públicas, como Lula e Lancellotti, de crimes graves. Essas alegações são exemplos de manipulação de informações para influenciar a opinião pública explorando emoções de raiva e indignação contra as pessoas citadas. O conteúdo pode ser parte de uma campanha mais ampla de desinformação com potencial para desestabilizar a confiança nas instituições ou figuras de relevância pública.",
+    "Base_Legal": "Código Penal – Arts. 138 a 140",
+    "Acoes_Recomendadas": "Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.; Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.; Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.; Em caso de perda financeira ou dano à honra, reunir capturas de tela e registrar B.O. em delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto apresenta características de desinformação digital ao acusar falsamente figuras públicas, como Lula e Lancellotti, de crimes graves. Essas alegações são exemplos de manipulação de informações para influenciar a opinião pública explorando emoções de raiva e indignação contra as pessoas citadas. O conteúdo pode ser parte de uma campanha mais ampla de desinformação com potencial para desestabilizar a confiança nas instituições ou figuras de relevância pública.",
+    "Base_Legal": "Código Penal – Arts. 138 a 140",
+    "Acoes_Recomendadas": "Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.; Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.; Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.; Em caso de perda financeira ou dano à honra, reunir capturas de tela e registrar B.O. em delegacia especializada."
+  }
+}

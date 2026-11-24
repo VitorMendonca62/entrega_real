@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 7,
+    "text": "VOCÊ CONSEGUE 🚀\nJá pensou em ganhar dinheiro no conforto da sua casa, perto da sua família com o seu celular?\nEu posso te ajudar clique no link da Bio que vou te ajudar!\nSiga-me @ganhar.dinheiro.onlline \n#ganhardinheiroonline #ganhardinheironainternet\n#dinheiroemcasa #marketingdigital #marketingdigitalbrasil\n#empreendedorismo #empreender #empreendedorismofeminino",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "2affbf2761914bd539621d6ec9d8e7034f206f71960f8806ad081140e83e42b5"
+  },
+  "call_id": "08347a5a84426a03043f4ffdfed3220e4772216ed8a757d45ce6cfbcce123418",
+  "filtered": {
+    "Motivo": "A mensagem utiliza uma abordagem comum em golpes de phishing ao prometer ganho fácil de dinheiro no conforto de casa, apelando para o desejo da vítima de melhorar sua situação financeira. Além disso, instrui a vítima a clicar em um link na biografia do perfil, o que pode levar a páginas maliciosas usadas para roubo de dados ou instalação de malware.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Art. 154-A do Código Penal (Lei Carolina Dieckmann — Invasão de Dispositivo); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não clique no link fornecido na mensagem ou na biografia do perfil.\n2. Bloquear o perfil @ganhar.dinheiro.onlline e denunciar a mensagem na plataforma utilizada.\n3. Monitorar suas contas de e-mail e redes sociais para qualquer atividade suspeita.\n4. Alterar senhas de e-mail e redes sociais por segurança e se possível, ativar a Autenticação de Dois Fatores (2FA).\n5. Registrar Boletim de Ocorrência em caso de uso indevido de suas informações.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "A mensagem utiliza uma abordagem comum em golpes de phishing ao prometer ganho fácil de dinheiro no conforto de casa, apelando para o desejo da vítima de melhorar sua situação financeira. Além disso, instrui a vítima a clicar em um link na biografia do perfil, o que pode levar a páginas maliciosas usadas para roubo de dados ou instalação de malware.",
+    "Base_Legal": "• Art. 171 do Código Penal (Estelionato)\n• Lei nº 14.155/2021 (Fraude Eletrônica)\n• Art. 154-A do Código Penal (Lei Carolina Dieckmann — Invasão de Dispositivo)",
+    "Acoes_Recomendadas": "1. Não clique no link fornecido na mensagem ou na biografia do perfil.\n2. Bloquear o perfil @ganhar.dinheiro.onlline e denunciar a mensagem na plataforma utilizada.\n3. Monitorar suas contas de e-mail e redes sociais para qualquer atividade suspeita.\n4. Alterar senhas de e-mail e redes sociais por segurança e se possível, ativar a Autenticação de Dois Fatores (2FA).\n5. Registrar Boletim de Ocorrência em caso de uso indevido de suas informações."
+  }
+}

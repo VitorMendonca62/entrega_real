@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 15,
+    "text": "Melissa Wicker <[email protected]>Assunto: Chevrolet Silverado K1500 4x4 1997Olá Eric, acabei de receber a confirmação do eBay, eles me informaram que a fatura foi enviada. Da minha parte, tudo está feito. Por favor, leia o anexo com atenção para todas as instruções. Informe se você recebeu a fatura e se concorda com os termos para que eu possa prosseguir com o processo de envio. Você pode ligar para os Contatos de Atendimento ao Cliente do eBay +1-(858)-375-9764, para confirmar que recebeu a fatura e eles o orientarão para concluir a transação da melhor maneira. Por favor, verifique e mantenha-me informado sobre tudo.PS: Verifique sua pasta (Lixo eletrônico ou Spam) também, talvez tenha chegado lá por engano porque seu e-mail não suporta HTML, PDF",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 7",
+    "score": 0.92,
+    "sha256_text": "65c2ad00c6ad343232a078508b6396a2d8735d5ce869d7197effa95898307821"
+  },
+  "call_id": "ea2f3a9e44e7a6a9b0b36e1a1e5a4965c5a861cd2dad8bf4d32c21f5609401b7",
+  "filtered": {
+    "Motivo": "O texto apresenta elementos típicos de fraude em lojas virtuais falsas, como a utilização de uma plataforma conhecida (eBay) para simular uma narrativa legítima de transação, encaminhando uma 'fatura' que provavelmente é falsa e induzindo a comunicação através de contatos telefônicos externos ao site. O objetivo é ganhar a confiança da vítima para que ela realize um pagamento ou forneça informações pessoais sensíveis.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto apresenta elementos típicos de fraude em lojas virtuais falsas, como a utilização de uma plataforma conhecida (eBay) para simular uma narrativa legítima de transação, encaminhando uma 'fatura' que provavelmente é falsa e induzindo a comunicação através de contatos telefônicos externos ao site. O objetivo é ganhar a confiança da vítima para que ela realize um pagamento ou forneça informações pessoais sensíveis.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

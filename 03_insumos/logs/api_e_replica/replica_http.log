@@ -1,0 +1,6 @@
+127.0.0.1 - - [20/Oct/2026 14:44:07] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [20/Oct/2026 14:44:07] "GET /css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [20/Oct/2026 14:44:07] "GET /js/main.js HTTP/1.1" 200 -
+Serving HTTP on 127.0.0.1 port 5500 (http://127.0.0.1:5500/) ...
+
+Keyboard interrupt received, exiting.

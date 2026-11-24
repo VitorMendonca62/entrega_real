@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 26,
+    "text": "Eu sou Linda Kennel com 67 anos de idade.",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "a1a22734f182f3e1306885f8f870abc898c2444ed51a2e8131cf2943ab74fcdd"
+  },
+  "call_id": "a77428d9e20682e0d514b3c7732a12104aaad5cfc9b9140dc971db6812e69bc6",
+  "filtered": {
+    "Motivo": "A mensagem inicial apresentada por 'Linda Kennel' aparenta ser uma introdução comum usada em perfis falsos, típicos de golpes baseados em relacionamento, onde é criada uma identidade falsa atraente para estabelecer um vínculo afetivo com a vítima. A ausência de contexto pessoal ou outro conteúdo relevante no texto também pode ser um indicativo de abordagem inicial para estabelecer comunicação visando manipulação emocional futura.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o potencial golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil para referência futura antes de bloquear. Denunciar o perfil falso usando as ferramentas disponíveis na plataforma onde ocorreu o contato.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "A mensagem inicial apresentada por 'Linda Kennel' aparenta ser uma introdução comum usada em perfis falsos, típicos de golpes baseados em relacionamento, onde é criada uma identidade falsa atraente para estabelecer um vínculo afetivo com a vítima. A ausência de contexto pessoal ou outro conteúdo relevante no texto também pode ser um indicativo de abordagem inicial para estabelecer comunicação visando manipulação emocional futura.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato) e Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o potencial golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil para referência futura antes de bloquear. Denunciar o perfil falso usando as ferramentas disponíveis na plataforma onde ocorreu o contato."
+  }
+}

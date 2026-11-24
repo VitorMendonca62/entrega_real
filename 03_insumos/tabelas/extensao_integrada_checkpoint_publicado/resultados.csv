@@ -1,0 +1,7 @@
+caso,linha_excel,rotulo_corpus,categoria_bert,score_softmax,modal_sucesso,bert_segundos,gpt_segundos,total_clique_modal_segundos,modelo_gpt,tokens_entrada,tokens_saida,custo_usd_sem_desconto_cache,base_legal
+0,2,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento,0.476,True,0.4587527840049006,4.115902907993586,4.674899097000889,gpt-4o-2024-08-06,1892,182,0.006550000000000001,Lei nº 14.155/2021 (Fraude Eletrônica)
+1,65,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados,0.5374,True,0.48292530300386716,2.7042699360026745,3.2730548409963376,gpt-4o-2024-08-06,1777,199,0.006432500000000001,LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica)
+2,7,Fraudes em Lojas Virtuais Falsas,Seguro,0.203,True,0.30847347800590796,1.8676084359976812,2.3157607360044494,gpt-4o-2024-08-06,1128,88,0.0037,
+3,15,Golpes de Desinformação Digital,Golpes de Desinformação Digital,0.4233,True,0.4704339269956108,2.6770971630030544,3.263019655001699,gpt-4o-2024-08-06,1685,197,0.0061825000000000005,Código Penal – Arts. 138 a 140
+4,8,Fraudes em Lojas Virtuais Falsas,Golpes de Ganho Financeiro Ilusório,0.3021,True,0.9473537630037754,2.4078602630033856,3.4440602630056674,gpt-4o-2024-08-06,1827,171,0.0062775,
+5,12,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas,0.2244,True,0.3381562880022102,3.6464950230001705,4.069258862000424,gpt-4o-2024-08-06,1684,268,0.00689,Código de Defesa do Consumidor (CDC); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)

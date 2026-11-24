@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 48,
+    "text": "desde posse Luiz inácio Lula Silva Janeiro 2003 Brasil goverem or pt viver ano crescimento econômico criação emprego ampliação programa social redução pobreza passar dois grande escândalo corrupção envolver alto direção partir Mensalão 2005 lavar jato deflagrar 2014 impeachment dilmor partir deixar poder herança recessão inflaçãor acima meta rombar conta público redução programa social impeachment interromper longo período poder partir eleger democraticamente Brasil 13 ano 132 dia em o política pt enfrentar escândalo político primeiro mandato primeiro 2004 gerar cpi bingo após ex assessor casa civil waldomiro diniz cujo ministro José dircer ter ser flagrar vídeo negociar propiem o empresário ramo jogo escândalo Mensalão estourar junho 2005 deputado roberto jefferson ptb então aliar Lula acusar José dircer comandar esquema pagamento parlamentar trocar apoio político governo dircer renunciar 16 junho cargo ministro reassumir mandato deputado federal defender acusação cassar câmara dezembro lugar dircer casa civil assumir então ministra miem os energia dilmor rousseff denúncia contra Lula também março 2016 pt assistir grande símbolo Lula denunciar Ministério público supostar compra apartamento triplex guarujá sp manter nome construtora oas mês plaem olto anunciar ex presidente novo ministro casa civil – dar foro privilegiar Lula chegar tomar posse impedir justiça após divulgação grampo telefonema Lula dilmor autorizado juiz fonte diário amapá linkr www diariodoamapa br",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "7d6336c4d8063644a67a26f08fc0ae7e88092e0837cfc4a943539ce5e847b7e4"
+  },
+  "call_id": "299544bb0b08246fa57413d561907e59f2e497314e01dc676e2ead49239be926",
+  "filtered": {
+    "Motivo": "O texto mencionado não apresenta elementos claros de um golpe de ganho financeiro ilusório, caracterizado por promessas de ganho financeiro mediante antecipação de pagamento ou fornecimento de dados sensíveis. Ele parece relatar questões políticas e escândalos, sem menção a uma fachada de legitimidade que solicita dinheiro ou dados sob promessa de recompensa futura.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto mencionado não apresenta elementos claros de um golpe de ganho financeiro ilusório, caracterizado por promessas de ganho financeiro mediante antecipação de pagamento ou fornecimento de dados sensíveis. Ele parece relatar questões políticas e escândalos, sem menção a uma fachada de legitimidade que solicita dinheiro ou dados sob promessa de recompensa futura.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

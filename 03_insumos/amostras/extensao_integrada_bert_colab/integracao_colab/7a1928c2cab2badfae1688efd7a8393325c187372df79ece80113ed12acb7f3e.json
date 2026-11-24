@@ -1,0 +1,15 @@
+{
+  "message": "42 anos, sem marido, sem filhos e até eu mesma compro bolos 😢",
+  "category": "Seguro",
+  "score": 0.2883,
+  "bert_seconds": 0.9702888109968626,
+  "gpt_seconds": 3.469165766000515,
+  "call_id": "7a1928c2cab2badfae1688efd7a8393325c187372df79ece80113ed12acb7f3e",
+  "filtered": {
+    "Motivo": "O texto não contém elementos que indiquem práticas de engenharia social, fraude ou intenção maliciosa. Trata-se apenas de uma expressão pessoal que não sugere qualquer ação fraudulenta ou ilegal.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

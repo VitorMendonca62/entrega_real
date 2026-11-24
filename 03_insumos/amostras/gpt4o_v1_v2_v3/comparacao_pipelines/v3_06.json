@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 6,
+    "text": "Seu computador foi infectado por 5 vírus!\nLigue imediatamente para o suporte: 0800-XXX-XXXX\nNão desligue o computador!",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "48741ec3f38cf260cd02c4c3b8b0a72a7ad2e56ba08be0eab211b045f36bdc67"
+  },
+  "call_id": "f551ad12b3a0f13d112469c0204b40d169f3d1c70a248d295f82fdfc6b16ae5a",
+  "filtered": {
+    "Motivo": "A mensagem analisada apresenta características clássicas de esquemas de phishing, como a alegação de que o computador foi infectado por vírus, criando um senso de urgência ao solicitar que a vítima ligue para um número de suporte. Este método é comumente usado para enganar a vítima a compartilhar informações confidenciais ou permitir acesso remoto ao dispositivo, configurando uma tentativa de roubo de dados ou fraude.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não ligue para o número de telefone fornecido na mensagem.\n2. Realize uma verificação completa do sistema com um antivírus confiável para garantir que não há malwares real no dispositivo.\n3. Se tiver fornecido qualquer informação ou permitido acesso remoto anteriormente, altere imediatamente todas as senhas comprometidas e notifique as instituições financeiras.\n4. Salve quaisquer registros da mensagem ou outras interações suspeitas.\n5. Considere registrar um B.O. em delegacia especializada se houver comprometimento de dados pessoais.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "A mensagem analisada apresenta características clássicas de esquemas de phishing, como a alegação de que o computador foi infectado por vírus, criando um senso de urgência ao solicitar que a vítima ligue para um número de suporte. Este método é comumente usado para enganar a vítima a compartilhar informações confidenciais ou permitir acesso remoto ao dispositivo, configurando uma tentativa de roubo de dados ou fraude.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não ligue para o número de telefone fornecido na mensagem.\n2. Realize uma verificação completa do sistema com um antivírus confiável para garantir que não há malwares real no dispositivo.\n3. Se tiver fornecido qualquer informação ou permitido acesso remoto anteriormente, altere imediatamente todas as senhas comprometidas e notifique as instituições financeiras.\n4. Salve quaisquer registros da mensagem ou outras interações suspeitas.\n5. Considere registrar um B.O. em delegacia especializada se houver comprometimento de dados pessoais."
+  }
+}

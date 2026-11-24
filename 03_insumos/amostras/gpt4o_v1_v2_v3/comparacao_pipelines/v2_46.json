@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 46,
+    "text": "emprego alta contínuo detalhe descriçãor abaixo ⬇ ️",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "f3fdb98597929f27f2f1178d24830e823b1c84ef9fbf9cb139d976e03960bb82"
+  },
+  "call_id": "c2c7b7f50a44e568e43ec6121e833754454041be386a24e39e888c5cb57936b5",
+  "filtered": {
+    "Motivo": "O texto apresenta elementos de um golpe de ganho financeiro ilusório. A frase 'emprego alta contínuo detalhe descriçãor abaixo ⬇ ️' é uma tentativa de enganar o usuário com uma oportunidade de emprego vaga e inconclusiva, o que é um aspecto comum em esquemas que visam atrair as vítimas para promessas de recompensas fáceis ou ganhos financeiros, como emprego ou investimentos falsos.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto apresenta elementos de um golpe de ganho financeiro ilusório. A frase 'emprego alta contínuo detalhe descriçãor abaixo ⬇ ️' é uma tentativa de enganar o usuário com uma oportunidade de emprego vaga e inconclusiva, o que é um aspecto comum em esquemas que visam atrair as vítimas para promessas de recompensas fáceis ou ganhos financeiros, como emprego ou investimentos falsos.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

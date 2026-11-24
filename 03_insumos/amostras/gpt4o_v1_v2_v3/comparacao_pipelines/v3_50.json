@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 50,
+    "text": "ENTRE EM CONTATO CONOSCO PARA TODOS OS TIPOS DE TRABALHOS DE HACKING Nós fornecemos serviços profissionais de hacking, oferecemos os seguintes serviços.-Mudança de notas universitárias- Hackear contas bancárias- Limpar registro criminal Hack- Facebook hack- Hackear Twitter-Hackear contas de e-mail-Hack para alterar notasWebsite travou hack- Hackear servidor travou-Skype hack-Hackear bancos de dados-Hackear blogs WordPress- Hackear computadores individuais- Hackear dispositivos remotamente-Número do queimador- Hackear contas verificadas do PayPal- Qualquer hack de conta de mídia social-Android e iPhone hack-Hack para interceptar SMS- Hack para interceptar e-mails-Recuperação de Bitcoin-multiplicação binária-Atualizar classificação de crédito- Rastreie registros de chamadas e espie registros de chamadas.Monitore mensagens de texto SMS remotamente.Rastreamento GPS de telefone celular. Espionar mensagens do WhatsApp.-IP irreconhecível, etc.Entre em contato conosco pelo e-mail:[e-mail protegido]ou pelo WhatsApp:+1 (908) 768-4663 Para mais perguntas.",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 5",
+    "score": 0.92,
+    "sha256_text": "70b50c06e7971037826943f51a394c18b3ba6da4579b9f89e807e5ca1623ddf4"
+  },
+  "call_id": "1bda9dac7aefc893d150b98d156245c5ff2ed1d278ba573f3b065ce19695e230",
+  "filtered": {
+    "Motivo": "O texto promete serviços de hacking profissional, o que sugere um esquema fraudulento que pode explorar a necessidade econômica ou ingenuidade das vítimas, ao oferecer vantagens ilícitas em troca de pagamento ou informações sensíveis, característico de golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o contato de e-mail e número WhatsApp envolvido. 2. Se realizou alguma transação ou compartilhou informações, contatar a instituição financeira para contestação e segurança. 3. Preservar evidências: capturas de tela do anúncio e das comunicações. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto promete serviços de hacking profissional, o que sugere um esquema fraudulento que pode explorar a necessidade econômica ou ingenuidade das vítimas, ao oferecer vantagens ilícitas em troca de pagamento ou informações sensíveis, característico de golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o contato de e-mail e número WhatsApp envolvido. 2. Se realizou alguma transação ou compartilhou informações, contatar a instituição financeira para contestação e segurança. 3. Preservar evidências: capturas de tela do anúncio e das comunicações. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

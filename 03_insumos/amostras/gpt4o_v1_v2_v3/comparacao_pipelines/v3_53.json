@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 53,
+    "text": "Eu ofereço: Serviços cPanel na TAILÂNDIA - Webmails Zimbra à prova de balas ~ ‎250Bcc @ Uma vez~ ‎Envio sem limite diariamente~ ‎Entrega instantânea para todos os domínios~ ‎7 dias de uso apenas e obtive RESPOSTA PARA‎(Protocolo de cliente de e-mail Zimbra e Squirel)~ Pode ser ‎Convertido para SMTP usando a porta 587~ E-mail / Leads de qualquer país do mundo ~ Pushing serviço - Formato simples, links de anexos ~ 500 mil leads no Spidex Sender 100% deliveryWorld misto Leads Ceo Cfo Empréstimo/Emprego e listas direcionadas Ásia Europa EUA AU Canadá ARABWhatsApp: não: +2349032808366 ID do telegrama: @ToolstargetSKYPE/Microsoft ID da equipe: live:.cid.867a435ef9b87219 OU[e-mail protegido]",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 5",
+    "score": 0.92,
+    "sha256_text": "4e1f3755e9545d95091c617301deb4cf5019cb3bacfb5e8cd477977b8c051026"
+  },
+  "call_id": "5337ab4737f73940530946a41b97c73440998c2709d69ba62572dc8d1bca9b5e",
+  "filtered": {
+    "Motivo": "O texto oferece serviços de e-mail e leads massivos, prometendo entrega instantânea e sem limites, o que pode configurar uma tentativa de atração para um esquema de fraude, simulando uma oportunidade de investimento ou serviço com potencial de alto retorno. A linguagem usada, com promessas de entrega 'instantânea' e 'à prova de balas', juntamente com contatos de WhatsApp e Telegram, são indicativos claros de engenharia social para atrair vítimas a efetuarem pagamentos ou compartilharem dados sensíveis, características típicas de um golpe de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Bloquear e denunciar imediatamente o perfil ou contato associado aos serviços mencionados. Se forneceu dados ou efetuou pagamento, contatar imediatamente a instituição financeira para tentar bloqueio de transação e proteção de dados. Preservar evidências do contato e da oferta recebida para registro de Boletim de Ocorrência em delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto oferece serviços de e-mail e leads massivos, prometendo entrega instantânea e sem limites, o que pode configurar uma tentativa de atração para um esquema de fraude, simulando uma oportunidade de investimento ou serviço com potencial de alto retorno. A linguagem usada, com promessas de entrega 'instantânea' e 'à prova de balas', juntamente com contatos de WhatsApp e Telegram, são indicativos claros de engenharia social para atrair vítimas a efetuarem pagamentos ou compartilharem dados sensíveis, características típicas de um golpe de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Bloquear e denunciar imediatamente o perfil ou contato associado aos serviços mencionados. Se forneceu dados ou efetuou pagamento, contatar imediatamente a instituição financeira para tentar bloqueio de transação e proteção de dados. Preservar evidências do contato e da oferta recebida para registro de Boletim de Ocorrência em delegacia especializada."
+  }
+}

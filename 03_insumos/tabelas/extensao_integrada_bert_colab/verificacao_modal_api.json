@@ -1,0 +1,56 @@
+[
+  {
+    "case_id": 0,
+    "selected_text_matches_request": true,
+    "predicted_category_matches_response": true,
+    "confidence_field_matches": true,
+    "response_fields_match_filter": true,
+    "nonempty_fields_present_in_modal": true,
+    "safe_header_correct": true
+  },
+  {
+    "case_id": 1,
+    "selected_text_matches_request": true,
+    "predicted_category_matches_response": true,
+    "confidence_field_matches": true,
+    "response_fields_match_filter": true,
+    "nonempty_fields_present_in_modal": true,
+    "safe_header_correct": true
+  },
+  {
+    "case_id": 2,
+    "selected_text_matches_request": true,
+    "predicted_category_matches_response": true,
+    "confidence_field_matches": true,
+    "response_fields_match_filter": true,
+    "nonempty_fields_present_in_modal": true,
+    "safe_header_correct": true
+  },
+  {
+    "case_id": 3,
+    "selected_text_matches_request": true,
+    "predicted_category_matches_response": true,
+    "confidence_field_matches": true,
+    "response_fields_match_filter": true,
+    "nonempty_fields_present_in_modal": true,
+    "safe_header_correct": true
+  },
+  {
+    "case_id": 4,
+    "selected_text_matches_request": true,
+    "predicted_category_matches_response": true,
+    "confidence_field_matches": true,
+    "response_fields_match_filter": true,
+    "nonempty_fields_present_in_modal": true,
+    "safe_header_correct": true
+  },
+  {
+    "case_id": 5,
+    "selected_text_matches_request": true,
+    "predicted_category_matches_response": true,
+    "confidence_field_matches": true,
+    "response_fields_match_filter": true,
+    "nonempty_fields_present_in_modal": true,
+    "safe_header_correct": true
+  }
+]

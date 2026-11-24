@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 1,
+    "text": "CONFIDENCIAL! Seu extrato de conta de 2003, referente ao número 07808247860, mostra 800 pontos S.I.M. não resgatados. Ligue para 08719899229. Código de identificação: 40411. Válido até 06/11/2004.",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "aad23d84f5131feacfe86eeaedd419a9337962dceec692dcb66b04016725c66b"
+  },
+  "call_id": "159df23557ea5f7477e8d6ad828cad6b5bdefeac00e3303f5a9dffe7c36ab42f",
+  "filtered": {
+    "Motivo": "A mensagem apresenta características típicas de phishing, como a urgência implícita com a necessidade de contato telefônico imediato, o uso de informações pessoais falsas (número de conta, pontos não resgatados) e um estilo confuso destinado a causar preocupação e ação precipitada por parte da vítima.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não ligue para o número fornecido nem compartilhe informações pessoais.\n2. Bloqueie o remetente caso receba mensagens similares e denuncie na plataforma utilizada.\n3. Altere as senhas de serviços online para prevenir acesso não autorizado.\n4. Salve capturas de tela da mensagem e do número fornecido para possíveis ações legais.\n5. Considere registrar um B.O. em delegacia especializada para proteção legal.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "A mensagem apresenta características típicas de phishing, como a urgência implícita com a necessidade de contato telefônico imediato, o uso de informações pessoais falsas (número de conta, pontos não resgatados) e um estilo confuso destinado a causar preocupação e ação precipitada por parte da vítima.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não ligue para o número fornecido nem compartilhe informações pessoais.\n2. Bloqueie o remetente caso receba mensagens similares e denuncie na plataforma utilizada.\n3. Altere as senhas de serviços online para prevenir acesso não autorizado.\n4. Salve capturas de tela da mensagem e do número fornecido para possíveis ações legais.\n5. Considere registrar um B.O. em delegacia especializada para proteção legal."
+  }
+}

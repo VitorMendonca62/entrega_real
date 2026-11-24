@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 30,
+    "text": "Sou um jovem do Marrocos, um país árabe. Estou falando com você usando um dicionário. Viajarei para o Brasil daqui a quatro meses para turismo (três meses). Estou procurando uma mulher que queira me conhecer e conversar comigo. Por favor, envie-me um pedido de amizade para que possamos conversar pelo Messenger.",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "c9f6c99799f07dd8eacc8494f5f3ab3564617fe55c853039bb187f8a19e5e5d3"
+  },
+  "call_id": "8621cecd2411f0242aee5409f5b61d34e599e2c25421fec2d4dcb4db86ac52d9",
+  "filtered": {
+    "Motivo": "O texto apresenta características típicas de golpes baseados em relacionamento, onde há uma introdução pessoal com a intenção de criar um vínculo emocional com a vítima. O remetente se apresenta como um jovem do Marrocos procurando conversar com uma mulher e viajar para o Brasil, o que pode ser uma estratégia para engajar emocionalmente e abrir caminho para futuras manipulações psicossociais visando obter vantagens financeiras ou outras concessões.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Evite responder a solicitações de desconhecidos e bloqueie o remetente para prevenir futuras interações. 2. Tire capturas de tela das mensagens para referência futura. 3. Preste atenção a futuras comunicações e denúncie perfis suspeitos nas plataformas sociais. 4. Caso sinta-se pressionada a enviar dinheiro ou informações pessoais, contate imediatamente a polícia e a plataforma social em questão.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto apresenta características típicas de golpes baseados em relacionamento, onde há uma introdução pessoal com a intenção de criar um vínculo emocional com a vítima. O remetente se apresenta como um jovem do Marrocos procurando conversar com uma mulher e viajar para o Brasil, o que pode ser uma estratégia para engajar emocionalmente e abrir caminho para futuras manipulações psicossociais visando obter vantagens financeiras ou outras concessões.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Evite responder a solicitações de desconhecidos e bloqueie o remetente para prevenir futuras interações. 2. Tire capturas de tela das mensagens para referência futura. 3. Preste atenção a futuras comunicações e denúncie perfis suspeitos nas plataformas sociais. 4. Caso sinta-se pressionada a enviar dinheiro ou informações pessoais, contate imediatamente a polícia e a plataforma social em questão."
+  }
+}

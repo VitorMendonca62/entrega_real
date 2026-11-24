@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 16,
+    "text": "São pellets de madeira com certificação En Plus A1, ensacados ou a granel. São produtos de pellets de alta qualidade em vários formatos de embalagem para atender às diversas necessidades de nossos clientes. Temos o prazer de informar que podemos fornecer opções de sacos de 15 kg, big bags e contêineres a granel. Esta instalação está equipada com máquinas italianas totalmente automatizadas, garantindo precisão e eficiência em seu processo produtivo. Além disso, oferecemos opções de embalagens personalizadas. Temos o prazer de preencher o seu próprio design de saco com nossos pellets. • Sacos de 15 kg Pellets de madeira En Plus - 190 euros por tonelada • Pellets de madeira En Plus em sacos grandes - 170 euros por tonelada Estes preços são FOB Turquia. Esses pellets já estão sendo vendidos no mercado europeu. Informe-me em breve se estiver interessado. Karen Marciniak Proprietário-Global Pellet EUA +1 727 510 9145[email protegido] http://www.globalpelletus.com",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 7",
+    "score": 0.92,
+    "sha256_text": "e9e657cd5970c03f34391e3d7f272bab8156d8ee3f3510435c37dae0a5a6e84d"
+  },
+  "call_id": "2d4a2b199cfb49c0452ba86dab6d37a10b59a1ea41fdd65cea670de6e4118304",
+  "filtered": {
+    "Motivo": "O texto promove a venda de pellets de madeira a preços FOB Turquia, com a menção de máquinas italianas e opções de embalagem personalizadas, características que podem ser irreais e servem para dar credibilidade a um possível esquema fraudulento. O fornecimento das informações de contato, aparentemente legítimas, sem clareza sobre a entrega dos produtos pagos, sustenta a hipótese de tentar atrair consumidores para pagamentos sem a real entrega dos produtos.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Reunir provas: capturas de tela do anúncio, link da loja, conversas e comprovantes de pagamento; Interromper a negociação, bloquear e denunciar o vendedor; Acionar a instituição financeira e administradora do cartão, se aplicável, para estorno e bloqueio do cartão; Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto promove a venda de pellets de madeira a preços FOB Turquia, com a menção de máquinas italianas e opções de embalagem personalizadas, características que podem ser irreais e servem para dar credibilidade a um possível esquema fraudulento. O fornecimento das informações de contato, aparentemente legítimas, sem clareza sobre a entrega dos produtos pagos, sustenta a hipótese de tentar atrair consumidores para pagamentos sem a real entrega dos produtos.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Reunir provas: capturas de tela do anúncio, link da loja, conversas e comprovantes de pagamento; Interromper a negociação, bloquear e denunciar o vendedor; Acionar a instituição financeira e administradora do cartão, se aplicável, para estorno e bloqueio do cartão; Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

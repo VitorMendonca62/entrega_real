@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 23,
+    "text": "iphone 15\nR$1.500\nAnunciado Há um dia em Duque de Caxias, RJ\nDetalhes\nCondição\nUsado — em boas condições\nvendo iphone 15 estado de novo \nNÃO PEGA CHIP!!!!!!!!! NÃO SEI SE PEGA O VIRTUAL EU NÃO TENTEI COLOCAR !",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "551338461796cd26e278072a5f9d439d81e404f51fdec6c5d65d3cc736f2fe14"
+  },
+  "call_id": "62ec256f110e8c0537e5c5e072fadce39c26bc7a84dfbae48054b37ba4d39c3b",
+  "filtered": {
+    "Motivo": "O texto apresenta a venda de um iPhone 15 a um preço muito abaixo do mercado, o que é uma prática comum em fraudes envolvendo lojas virtuais falsas. Além disso, há uma indefinição em relação à funcionalidade do aparelho ('NÃO PEGA CHIP!!!!!!!!!'), o que pode servir como desculpa para um produto inexistente. Estes elementos são características típicas do modus operandi para atrair compradores e potencialmente aplicar golpes.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão, se houver pagamento. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto apresenta a venda de um iPhone 15 a um preço muito abaixo do mercado, o que é uma prática comum em fraudes envolvendo lojas virtuais falsas. Além disso, há uma indefinição em relação à funcionalidade do aparelho ('NÃO PEGA CHIP!!!!!!!!!'), o que pode servir como desculpa para um produto inexistente. Estes elementos são características típicas do modus operandi para atrair compradores e potencialmente aplicar golpes.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão, se houver pagamento. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

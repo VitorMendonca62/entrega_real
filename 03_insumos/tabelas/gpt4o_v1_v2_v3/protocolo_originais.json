@@ -1,0 +1,74 @@
+{
+  "v2": {
+    "source_sha256": "c4e21e17f4ce842eb68c41b64cc1e7940cf9a87b899632f238c8a52e463ee493",
+    "knowledge_sha256": "7286c9c8e76cd2771cc1915a22d17dca5c11e752ddd789e2bf2e777857913847",
+    "schema": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "original_api_call": "client.chat.completions.create(\n            model=MODEL,\n            messages=messages,\n            response_format=schema,\n        )"
+  },
+  "v3": {
+    "source_sha256": "9e495d13aed709d9fd420754c08498ab0448cd5c41a16f721ee91f123e6a8ed9",
+    "knowledge_sha256": "9e48465f298723539e98f47cce97fd068540192ae2c67480f21225846dda1bdb",
+    "schema": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "original_api_call": "client.chat.completions.create(\n            model=MODEL,\n            messages=messages,\n            response_format=schema,\n        )"
+  }
+}

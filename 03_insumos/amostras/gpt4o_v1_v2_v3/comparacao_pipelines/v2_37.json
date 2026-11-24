@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 37,
+    "text": "Terreno do Instituto Lula. Réu",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "db0f3b7fa0cca83d41c532643e895b2228d54b56a87513cabb1db6b0a31301ed"
+  },
+  "call_id": "9840f578118a65403503a9083bba3b1aa6e4524a2fd1b1e8b76d4826283e28f9",
+  "filtered": {
+    "Motivo": "O texto analisado menciona 'Terreno do Instituto Lula. Réu', que sugere uma tentativa de manipular a opinião pública ao parecer uma notícia que pode causar impacto emocional. A brevidade e ambiguidade do texto incentivam a curiosidade, um gatilho típico usado em golpes de desinformação para atrair cliques ou compartilhamentos sem fornecer informação substancial ou verificada.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto analisado menciona 'Terreno do Instituto Lula. Réu', que sugere uma tentativa de manipular a opinião pública ao parecer uma notícia que pode causar impacto emocional. A brevidade e ambiguidade do texto incentivam a curiosidade, um gatilho típico usado em golpes de desinformação para atrair cliques ou compartilhamentos sem fornecer informação substancial ou verificada.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

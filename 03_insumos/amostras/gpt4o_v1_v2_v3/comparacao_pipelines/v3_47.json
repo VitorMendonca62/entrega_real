@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 47,
+    "text": "o grande risco todo correr ❗ ️ 📝 vida sempre ir presentear bom oportunidade momento desejar ☘ grandeia vez bomes oportunidade surgir menos esperar sente pronto ☘ ✍ raramente ver oportunidade apresentar ordenadamente caixer bonitinha laço amarelo topo 👨 ‍ 🏫 vez bomes oportunidade vir pacote confuso confuso difícil reconhecer poder vir grande risco desafiá lo ✅ continuar evitar risco continuar perder oportunidade mudança vida experimentar crescimento vida Finanças 🗣 sempre dizer todo conseguir comer prato sucesso então fome lutar mordido chance",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "be4249eac7461bac42cb6fd9184cd2f62a3a1962ce6019b84e2db30b3c6f7cf8"
+  },
+  "call_id": "95717b6f4706a7939fbf4905c06ea4b2152edb3ac8937edd5fe213eb2a869ea1",
+  "filtered": {
+    "Motivo": "O texto utiliza uma linguagem que sugere a promessa de grandes oportunidades financeiras que aparecem de forma inesperada e podem ser difíceis de reconhecer, incentivando o leitor a enfrentar riscos para não perder essas chances. Embora o texto seja vago e não mencione explicitamente um pagamento ou dado solicitado, a estrutura e o conteúdo geral se alinham a esquemas que incentivam a busca por ganhos financeiros ilusórios por meio de investimentos ou oportunidades inexistentes.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto utiliza uma linguagem que sugere a promessa de grandes oportunidades financeiras que aparecem de forma inesperada e podem ser difíceis de reconhecer, incentivando o leitor a enfrentar riscos para não perder essas chances. Embora o texto seja vago e não mencione explicitamente um pagamento ou dado solicitado, a estrutura e o conteúdo geral se alinham a esquemas que incentivam a busca por ganhos financeiros ilusórios por meio de investimentos ou oportunidades inexistentes.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

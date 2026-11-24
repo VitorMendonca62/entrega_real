@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 12,
+    "text": "Muito pesado para o uso diário. A única razão pela qual dei 4 estrelas é porque aquela que",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "5bf3ac24bfbd55900d85944f0ef27adc2059f61e1a9532ad31aff2e2a717b012"
+  },
+  "call_id": "53e2b65c1adc5489a922313bd38aa8ceac800bb39a80702efde2b2948c6da842",
+  "filtered": {
+    "Motivo": "Apesar do conteúdo ser breve e parecer um review de produto, a alta confiança do modelo (92%) e o contexto de categoria 'Fraudes em Lojas Virtuais Falsas' indicam que este texto pode ser parte de um esquema maior, onde falsas recomendações são usadas para criar legitimidade em lojas falsas ou perfis de marketplace, atraindo consumidores com promessas de produtos que não são entregues.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a loja ou anúncio suspeito, interrompa qualquer negociação, e não forneça dados pessoais ou financeiros. Reúna evidências como capturas de tela e evite realizar pagamentos antecipados sem confirmar a legitimidade da loja.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "Apesar do conteúdo ser breve e parecer um review de produto, a alta confiança do modelo (92%) e o contexto de categoria 'Fraudes em Lojas Virtuais Falsas' indicam que este texto pode ser parte de um esquema maior, onde falsas recomendações são usadas para criar legitimidade em lojas falsas ou perfis de marketplace, atraindo consumidores com promessas de produtos que não são entregues.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a loja ou anúncio suspeito, interrompa qualquer negociação, e não forneça dados pessoais ou financeiros. Reúna evidências como capturas de tela e evite realizar pagamentos antecipados sem confirmar a legitimidade da loja."
+  }
+}

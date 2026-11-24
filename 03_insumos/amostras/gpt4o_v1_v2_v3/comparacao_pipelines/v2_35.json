@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 35,
+    "text": "[Nosso governo] reduziu o feminicídio no Brasil",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "281e237d9d591c6138cdb1009b95f1ee429acc1edb4bbdd7e537f3f334f2084f"
+  },
+  "call_id": "0d9129b518cc50c92bd6a146a952cc03ca0ad7fb0181b3ce152a3cd8f762e96b",
+  "filtered": {
+    "Motivo": "O texto aparenta ser uma afirmação governamental sem fontes verificáveis, o que pode caracterizar uma tentativa de manipular a opinião pública através da exploração emocional, uma característica típica de desinformação digital. Não há informações adicionais que respaldem a afirmação ou explicam como a redução ocorreu, o que pode indicar tentativa de enganar a audiência sobre a eficácia governamental no controle de crimes como o feminicídio.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto aparenta ser uma afirmação governamental sem fontes verificáveis, o que pode caracterizar uma tentativa de manipular a opinião pública através da exploração emocional, uma característica típica de desinformação digital. Não há informações adicionais que respaldem a afirmação ou explicam como a redução ocorreu, o que pode indicar tentativa de enganar a audiência sobre a eficácia governamental no controle de crimes como o feminicídio.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

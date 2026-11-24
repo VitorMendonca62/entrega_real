@@ -1,0 +1,193 @@
+[
+  {
+    "title": "VeritaPlugin\nReplicação da Etapa 01",
+    "lines": [
+      "Vitor Mendona, Julia Nunes e Luis Felipe",
+      "Data da apresentação: a confirmar",
+      "Execução: 20/10/2026"
+    ],
+    "notes": "Apresentar a equipe e esclarecer que o resultado é uma replicação parcial com evidências. A etapa 01 inclui executar e avaliar o método disponível. Não inclui implementar melhorias nem escrever o artigo IEEE. Duração total prevista: cerca de 18 minutos.",
+    "seconds": 40,
+    "kind": "text"
+  },
+  {
+    "title": "Problema e contribuição",
+    "lines": [
+      "Fraudes em texto podem escapar de verificações de URL.",
+      "O VeritaPlugin combina classificação em português e explicações.",
+      "Extensão MV3, BERTimbau, contexto jurídico e GPT-4o."
+    ],
+    "notes": "Fonte: Norões, Rocha e Motta, SBSeg 2026, pp. 1–2, DOI 10.5753/sbseg.2026.26924. O objetivo dos autores é classificar golpes e explicar sinais de manipulação para públicos com diferentes níveis de letramento. Não afirmar que a proteção efetiva ao usuário foi demonstrada pelo F1. O sistema é uma prova de conceito textual no Facebook.",
+    "seconds": 70,
+    "kind": "text"
+  },
+  {
+    "title": "Arquitetura e limite desta execução",
+    "lines": [
+      "Captura no navegador e envio para a API FastAPI",
+      "BERTimbau escolhe categoria e confiança softmax",
+      "Dicionário recupera contexto para o GPT-4o",
+      "Filtro jurídico prepara os campos do modal"
+    ],
+    "notes": "Fluxo completo executado com dois checkpoints separados: seis casos com os pesos publicados e seis com nosso holdout Colab. Fonte: integracao_BERT_Colab_GPT4o.md. Categoria softmax não é probabilidade calibrada de fraude. O lote final preserva ausência de limite explícito de saída; controles de custo e retries estão documentados.",
+    "seconds": 70,
+    "kind": "text"
+  },
+  {
+    "title": "Dados e protocolo publicado",
+    "lines": [
+      "450 textos, seis classes, 75 por classe",
+      "64 registros internos e 386 de sete origens externas",
+      "BERT: até 4 épocas, batch 16, seed 42, 512 tokens",
+      "CV k=5 usa o teste também para escolher o checkpoint"
+    ],
+    "notes": "Fonte: artigo pp. 9–11, Tabela 1. Cinco classes de golpe e Seguro. Houve tradução e curadoria manual. Taxa de aprendizagem 2e-5, AdamW, weight decay 0,01 e early stopping de paciência 2. O uso do teste como validação é uma limitação reconhecida no PDF. Holdout deve ser separado de CV. Os seis treinamentos foram recebidos do Colab e auditados: Tesla T4, todos com quatro épocas, conforme validacao_treinamento_BERT.md.",
+    "seconds": 80,
+    "kind": "text"
+  },
+  {
+    "title": "O que foi efetivamente executado",
+    "lines": [
+      "Seis treinos BERT, baseline e extensão real",
+      "V1 reanalisada; V2 e V3 reexecutadas",
+      "GPT-4o: 190 chamadas reais no total",
+      "Limites: holdout, baseline e dados históricos"
+    ],
+    "notes": "Foram18 chamadas piloto, seis integradas com o checkpoint publicado, seis integradas com nosso BERT Colab e160 para V2/V3. Os seis treinos BERT foram auditados. SUS e estudo jurídico são reanálises históricas. Não houve GPT-5. Custo total estimado US$1,023203, sem desconto de cache, abaixo do tetoUS$3. Gate fechado.",
+    "seconds": 60,
+    "kind": "text"
+  },
+  {
+    "title": "Auditoria dos splits",
+    "lines": [
+      "29 arquivos regenerados idênticos aos publicados",
+      "Holdout efetivo: 361 treino / 44 validação / 45 teste",
+      "Dois pares de textos duplicados no corpus",
+      "BERT e baseline têm folds distintos, apesar da seed 42"
+    ],
+    "notes": "Fontes: auditoria_dados.json e auditoria_complementar.json. As planilhas brutas são iguais; o BERT remove espaços externos em nove mensagens. BERT estratifica categoria e origem, baseline só categoria. Interseções dos testes respectivos: 16,17,12,16,18 textos. Há vazamento de duplicatas em BERT folds 1,3,5 e baseline folds 2,5. O holdout não compartilha texto exato entre conjuntos. Índices reiniciados no relatório original dão falso diagnóstico de interseção.",
+    "seconds": 80,
+    "kind": "text"
+  },
+  {
+    "title": "Baseline reproduzido",
+    "lines": [
+      "F1-macro médio: 0,7034 ± 0,0279",
+      "Acurácia consolidada: 71,11%",
+      "450 predições novas, CPU, scikit-learn 1.5.2"
+    ],
+    "notes": "Fonte: baseline_metricas.json e baseline_original.log, execução de treinamento.py commit a6d2d0ae0781c6d40d71fa20457d0d0de853a968. TF-IDF 10.000 features, unigramas/bigramas, sublinear_tf; LinearSVC C=1, max_iter=2000. Cada fold ajusta seu próprio vocabulário. DP populacional, não intervalo de confiança. F1 consolidado 0,70275, diferente da média por fold. Dummy 0,04762. Execução do script após imports: 0,55s.",
+    "seconds": 80,
+    "kind": "chart",
+    "values": [
+      0.7481835932266967,
+      0.670105165993844,
+      0.6841734132056713,
+      0.7210188280425234,
+      0.6934648099130197
+    ],
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "title": "BERT: validação cruzada e holdout",
+    "lines": [
+      "CV: 0,7656 ± 0,0364; artigo: 0,763 ± 0,034",
+      "Holdout F1: 0,6882; artigo: 0,8280",
+      "Holdout: 31/45 acertos; autoras: 37/45",
+      "CV próxima; resultado holdout não confirmado"
+    ],
+    "notes": "Fontes: treinamento_colab/comparacao_bert.json e holdout_reavaliacao_cpu.json. A média CV nova é 0,765588449751; DP populacional 0,036404773436. Artefatos das autoras: 0,763300801119±0,033742958273. Delta vs artigo arredondado +0,2588 pp; vs JSONs +0,2288 pp. Holdout novo 0,688197182934; autoras 0,828040831717: diferença −13,9844 pp em relação ao JSON exato. Acurácia nova 68,8889%; autoras 82,2222%. Reavaliação local de 45 testes com batch 2, padding512 e CPU coincidiu nos F1 de todas as classes. Proximidade e desvios sobrepostos não provam equivalência. Não atribuir causa sem evidência.",
+    "seconds": 85,
+    "kind": "text"
+  },
+  {
+    "title": "Erros reais do baseline",
+    "lines": [
+      "Seguro: recall 38,67% e F1 0,4567",
+      "46 de 75 textos Seguro receberam alerta",
+      "23 de 375 golpes receberam Seguro",
+      "FP: “Ah, estou assistindo aqui :)” recebeu Relacionamento"
+    ],
+    "notes": "Fonte: baseline_predicoes.csv, baseline_metricas.json e exemplos_para_inspecao.json. Definição binária: todas as cinco classes de fraude são positivas. FPR 61,33%, FNR 6,13%. Erro entre categorias de fraude não é falso negativo binário. Exemplo FN: afirmação sobre perda de empregos, linha 403, rotulada Desinformação, recebeu Seguro. São rótulos publicados, sem nova checagem de fatos. Textos curtos e fora de contexto dificultam interpretação. Não generalizar as taxas à população real.",
+    "seconds": 70,
+    "kind": "text"
+  },
+  {
+    "title": "Treinamento BERT recebido do Colab",
+    "lines": [
+      "Tesla T4: holdout + cinco folds, quatro épocas",
+      "Duração total: 20 min 6 s",
+      "29 arquivos de divisão idênticos aos publicados",
+      "Modelo holdout carregado e reavaliado em CPU"
+    ],
+    "notes": "Fontes: treinamento_colab/auditoria_zip.json, status.json, treinamento.log, requirements-lock.txt. Script original idêntico; única mudança no executado é o caminho da revisão base 94d69c95f98f7d5b2a8700c420230ae10def0baa. Todos os seis resumos terminaram na época4; retornozero; 1206,04s. Python3.12.14, torch2.4.0+cu121, transformers4.44.2, datasets2.21.0 e accelerate0.34.2. Falha anterior de Matplotlib preservada separadamente. Original não fixa seed antes da primeira cabeça e não salva modelos dos cinco folds. Só o modelo holdout pôde ser reavaliado; training_args.bin não foi desserializado. Compatibilidade com classificador/API conferida sem chamadas GPT. A validação integrada inicial usou pesos publicados. Posteriormente, seis análises completas com este modelo foram concluídas; resultados separados em integracao_BERT_Colab_GPT4o.md.",
+    "seconds": 65,
+    "kind": "text"
+  },
+  {
+    "title": "Comparação V2/V3 e filtro jurídico",
+    "lines": [
+      "160 chamadas: 80 por versão, sem erros",
+      "Base legal bruta → filtrada: V2 57 → 55; V3 40 → 40",
+      "Seguro: referências vazias em 20/20 por versão",
+      "Presença na base não comprova pertinência jurídica"
+    ],
+    "notes": "Fonte: comparacao_pipelines_GPT4o.md e validacao_final/resumo_pipelines.json. Mesma amostra regenerada seed42 e conferida contra planilhas; rótulo do corpus e score simulado0,92, sem previsão BERT. Prompt, base, schema e filtro originais de cada versão preservados. Modelo retornado gpt-4o-2024-08-06. Uma geração por entrada/versão, execução pareada V2→V3. V2 indicador de lei inválida2/80; V3 zero. O indicador não detecta toda mistura de leis. Os testes determinísticos anteriores aceitaram Art.1710 como Art.171; defeito preservado. Menos referências não demonstra maior qualidade. Não isolar efeito causal do prompt, pois base/filtro também mudam.",
+    "seconds": 80,
+    "kind": "text"
+  },
+  {
+    "title": "V1, V2 e V3: escopo da replicação",
+    "lines": [
+      "V1: 450 respostas publicadas reanalisadas",
+      "V2 e V3: 80 entradas iguais, execução completa",
+      "Categoria do corpus e confiança simulada de 0,92",
+      "Nenhuma chamada ao GPT-5"
+    ],
+    "notes": "V1 não foi reexecutada por decisão da equipe. Sua distribuição de450 entradas difere da amostra de80 usada por V2/V3; não comparar os três como benchmark pareado. V1 tem449 motivos,449 ações e189 campos legais não vazios. Mapeamento literal de Relacionamento difere entre código e planilha; observação estática, sem causa demonstrada para saídas históricas. As novas V2/V3 preencheram Motivo em todos os20 casos Seguro por versão, apesar da instrução de campos vazios. SUS e avaliação jurídica histórica permanecem no relatório, sem novo recrutamento ou parecer jurídico.",
+    "seconds": 75,
+    "kind": "text"
+  },
+  {
+    "title": "Integração com o BERT do Colab",
+    "lines": [
+      "Seis categorias preditas, incluindo Seguro",
+      "Seis análises com modal real e sem erros",
+      "Clique até modal: 2,69–4,53 s",
+      "Texto, campos, carregamento e fechamento conferidos"
+    ],
+    "notes": "Fonte: integracao_BERT_Colab_GPT4o.md; capturas modal_colab_00 a05. Modelo holdout recebido, preservado separadamente dos pesos publicados. Seleção do primeiro texto de cada classe predita entre45 testes, confirmada com classificador original. Não é estimativa independente de generalização. Medimos BERT/GPT separadamente e clique→modal via DOM. Modelo previamente carregado; primeiro caso4,526s, não é partida a frio. A amostra não estabelece estabilidade estatística. Extrator original ainda depende do elemento clicado. À direita, captura real do Seguro; não mock. Serviços encerrados, perfil removido, chave apenas no backend. Sucesso técnico6/6, concordância com rótulo do corpus4/6: o caso Seguro da captura é Relacionamento no corpus e um caso Loja recebeu Phishing. Não confundir sucesso do fluxo com correção do modelo ou orientação jurídica.",
+    "seconds": 80,
+    "kind": "image"
+  },
+  {
+    "title": "Etapa 02: duas prioridades",
+    "lines": [
+      "1. Splits comuns, agrupamento de duplicatas e validação interna",
+      "Critério: zero vazamento e comparação no mesmo teste",
+      "2. Identificadores jurídicos completos e registro de rejeições",
+      "Critério: zero prefixos inválidos aceitos no conjunto de regressão"
+    ],
+    "notes": "Fontes: problemas observados nesta replicação e propostas do relatório seção 10. Não implementamos melhorias. Para equipe de até três estudantes, estimar 3–5 dias para protocolo e 2–3 para filtro, dependendo de GPU e revisão. A avaliação corrigida pode reduzir o F1 aparente; sucesso metodológico não exige ganho de métrica. Outras opções: calibração com abstenção e corpus nativo com Seguro. Metas propostas são hipóteses prévias, não ganhos medidos. Expansão do corpus já era trabalho futuro das autoras.",
+    "seconds": 95,
+    "kind": "text"
+  },
+  {
+    "title": "Conclusão e referências",
+    "lines": [
+      "Treinos, V2/V3 e integração concluídos com evidências",
+      "CV próxima; holdout e baseline ainda divergem",
+      "V1 reanalisada; sem GPT-5; custo total ≈ US$ 1,02",
+      "Artigo: DOI 10.5753/sbseg.2026.26924"
+    ],
+    "notes": "Fontes: relatório principal, comparação de pipelines e integração Colab. Não declarar reprodução exata de100%. CV0,765588±0,036405; holdout0,688197 contra0,828041 das autoras. Baseline0,703389±0,027903. Nenhuma nova investigação causal de holdout e nenhum ajuste para perseguir valores. V2/V3 foram concluídas em80 entradas cada com pipelines originais; versão histórica GPT ausente impede identidade exata.190 chamadas GPT-4o totais, custo conservadorUS$1,023203. Acesso pago fechado. Equipe informada; data a confirmar.",
+    "seconds": 50,
+    "kind": "text"
+  }
+]

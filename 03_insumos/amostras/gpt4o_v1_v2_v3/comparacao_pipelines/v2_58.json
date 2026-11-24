@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 58,
+    "text": "Que sairá 250 reais  Sra cada empresa trabalha de uma forma \nNão é uma taxa, e as despesas de cartório \nIsso é estipulado no contrato \nA sra visualizou? ",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "873a8ff9fa07996df629f2a4013fdde0ecdfe33cf31328a2173c88ae41a595a1"
+  },
+  "call_id": "aad4262fb3e0b55ec695f0a2d82248217e2f48b1f53d9570861aa2172bd64521",
+  "filtered": {
+    "Motivo": "O texto sugere que a vítima está sendo induzida a pagar R$250,00 sob o pretexto de cobrir 'despesas de cartório', algo que é típico em esquemas fraudulentos que prometem recompensas ilusórias. A menção a um 'contrato' que a vítima deveria ter 'visualizado' é uma tentativa de criar uma fachada de legitimidade, enquanto na verdade o objetivo é enganar a vítima para obter uma vantagem financeira indevida.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 307 do Código Penal (Falsa Identidade)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no aplicativo utilizado. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas ou documentos trocados. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto sugere que a vítima está sendo induzida a pagar R$250,00 sob o pretexto de cobrir 'despesas de cartório', algo que é típico em esquemas fraudulentos que prometem recompensas ilusórias. A menção a um 'contrato' que a vítima deveria ter 'visualizado' é uma tentativa de criar uma fachada de legitimidade, enquanto na verdade o objetivo é enganar a vítima para obter uma vantagem financeira indevida.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Art. 307 do Código Penal (Falsa Identidade)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no aplicativo utilizado. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas ou documentos trocados. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

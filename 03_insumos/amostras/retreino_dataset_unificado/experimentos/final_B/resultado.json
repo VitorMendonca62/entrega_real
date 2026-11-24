@@ -1,0 +1,35 @@
+{
+ "experimento": "final_B",
+ "n_treino": 696,
+ "n_val": 55,
+ "n_teste": 0,
+ "epocas_executadas": 4,
+ "melhor_val_f1_macro": 0.7391,
+ "historico_val": [
+  {
+   "epoch": 1.0,
+   "eval_loss": 1.2929456233978271,
+   "eval_f1_macro": 0.6631,
+   "eval_accuracy": 0.6727
+  },
+  {
+   "epoch": 2.0,
+   "eval_loss": 0.8765352964401245,
+   "eval_f1_macro": 0.6704,
+   "eval_accuracy": 0.6909
+  },
+  {
+   "epoch": 3.0,
+   "eval_loss": 0.7341752648353577,
+   "eval_f1_macro": 0.7328,
+   "eval_accuracy": 0.7455
+  },
+  {
+   "epoch": 4.0,
+   "eval_loss": 0.6920279860496521,
+   "eval_f1_macro": 0.7391,
+   "eval_accuracy": 0.7455
+  }
+ ],
+ "segundos": 336
+}

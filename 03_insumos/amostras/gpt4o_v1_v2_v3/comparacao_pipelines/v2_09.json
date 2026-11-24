@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 9,
+    "text": "“Sou técnico certificado.\nPara resolver o problema agora, precisamos ativar a licença de limpeza por R$ 199,90.”",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "fbf9bd5ac9e2b287509483ef823c56d9adc1fbfd67ff7f75314a883f7a8da2e9"
+  },
+  "call_id": "63b556f260cff6e0c5cea8adc3789275a0bedc615bd508a3a58b405273bd9aff",
+  "filtered": {
+    "Motivo": "O texto indica uma tentativa de golpe ao apresentar uma oferta urgente de um 'técnico certificado' que solicita um pagamento de R$ 199,90 para ativar uma 'licença de limpeza'. Isso sugere uma técnica comum de phishing onde o estelionatário usa um suposto problema técnico para manipular a vítima a realizar um pagamento ou instalar software malicioso.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear o remetente e denunciar a mensagem na plataforma.\n2. Salvar capturas de tela da mensagem original.\n3. Alterar senhas comprometidas e ativar Autenticação de Dois Fatores (2FA).\n4. Se dados financeiros foram expostos, notificar o banco imediatamente.\n5. Registrar um B.O. em delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto indica uma tentativa de golpe ao apresentar uma oferta urgente de um 'técnico certificado' que solicita um pagamento de R$ 199,90 para ativar uma 'licença de limpeza'. Isso sugere uma técnica comum de phishing onde o estelionatário usa um suposto problema técnico para manipular a vítima a realizar um pagamento ou instalar software malicioso.",
+    "Base_Legal": "• Art. 171 do Código Penal (Estelionato)\n• Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear o remetente e denunciar a mensagem na plataforma.\n2. Salvar capturas de tela da mensagem original.\n3. Alterar senhas comprometidas e ativar Autenticação de Dois Fatores (2FA).\n4. Se dados financeiros foram expostos, notificar o banco imediatamente.\n5. Registrar um B.O. em delegacia especializada."
+  }
+}

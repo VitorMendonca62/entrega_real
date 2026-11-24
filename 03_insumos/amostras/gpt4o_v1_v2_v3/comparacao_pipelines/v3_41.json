@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 41,
+    "text": "*Presidente Lula fala sobre possível invasão ao Brasil*\n🇧🇷 “A gente está sob ameaça real de invasão, não é uma teoria, é real e o inimigo está ameaçando abertamente.\nPrecisamos nos preparar.” https://www.facebook.com/share/v/1CYfRuyhYh/",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "226b60d2381d13dce9cae4a712a4d2a111dd10faa4d67cc06f5d65c930265dc4"
+  },
+  "call_id": "1d3e9f8d2d28f591a2c885a85f115b9cb9f4ddc1baf87eddf15a3e2f8adb7a98",
+  "filtered": {
+    "Motivo": "O texto difundido propaga uma mensagem alarmante e não verificada sobre uma invasão ao Brasil, supostamente atribuída ao Presidente Lula. O uso de um tom sensacionalista e alarmista, sem base concreta, é característico da desinformação digital, com potencial para manipular a opinião pública e causar pânico. Essa abordagem se encaixa na definição de criar e disseminar informações falsas ou manipuladas para influenciar a audiência, explorando gatilhos emocionais como o medo e o senso de urgência.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto difundido propaga uma mensagem alarmante e não verificada sobre uma invasão ao Brasil, supostamente atribuída ao Presidente Lula. O uso de um tom sensacionalista e alarmista, sem base concreta, é característico da desinformação digital, com potencial para manipular a opinião pública e causar pânico. Essa abordagem se encaixa na definição de criar e disseminar informações falsas ou manipuladas para influenciar a audiência, explorando gatilhos emocionais como o medo e o senso de urgência.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

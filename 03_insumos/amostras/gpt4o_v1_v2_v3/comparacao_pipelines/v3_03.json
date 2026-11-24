@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 3,
+    "text": "GANHADOR!! Como um valioso cliente da rede, você foi selecionado para receber um prêmio de £ 900! Para reivindicar ligue para 09061701461. Código de reivindicação KL341. Válido apenas por 12 horas.",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "e0d7a9ebc9dc13580a26b640c329ad801681b79f5b2fa15579249ab908bf1f93"
+  },
+  "call_id": "d70739cad5e3f68ded3b2a42980f5679fa4bb1af837b72e439b83e7894a6a2fc",
+  "filtered": {
+    "Motivo": "A mensagem apresenta elementos típicos de phishing, como a promessa de um prêmio para manipular o receptor a realizar ação rápida entrando em contato por telefone. O uso de um \"código de reivindicação\" e o alerta de validade de 12 horas cria uma sensação de urgência, uma tática comum para enganar a vítima a fornecer informações pessoais ou financeiras.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Desconsidere a mensagem e não forneça nenhuma informação por telefone. 2. Bloqueie qualquer futuro contato do número fornecido na mensagem. 3. Altere senhas de quaisquer contas que possam estar comprometidas e ative a Autenticação de Dois Fatores (2FA). 4. Mantenha um monitoramento atento das contas financeiras para movimentos suspeitos. 5. Caso sinta-se prejudicado, registre um boletim de ocorrência em delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "A mensagem apresenta elementos típicos de phishing, como a promessa de um prêmio para manipular o receptor a realizar ação rápida entrando em contato por telefone. O uso de um \"código de reivindicação\" e o alerta de validade de 12 horas cria uma sensação de urgência, uma tática comum para enganar a vítima a fornecer informações pessoais ou financeiras.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Desconsidere a mensagem e não forneça nenhuma informação por telefone. 2. Bloqueie qualquer futuro contato do número fornecido na mensagem. 3. Altere senhas de quaisquer contas que possam estar comprometidas e ative a Autenticação de Dois Fatores (2FA). 4. Mantenha um monitoramento atento das contas financeiras para movimentos suspeitos. 5. Caso sinta-se prejudicado, registre um boletim de ocorrência em delegacia especializada."
+  }
+}

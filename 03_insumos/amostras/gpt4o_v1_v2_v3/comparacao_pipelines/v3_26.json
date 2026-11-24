@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 26,
+    "text": "Eu sou Linda Kennel com 67 anos de idade.",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "a1a22734f182f3e1306885f8f870abc898c2444ed51a2e8131cf2943ab74fcdd"
+  },
+  "call_id": "1feef3c0934355bca74f7546a72fc65b4e856ac187547efe8f4ed4b2efe67066",
+  "filtered": {
+    "Motivo": "O texto apresentado, embora curto, enquadra-se na categoria de 'Golpes Baseados Em Relacionamento' pelo uso de um nome possivelmente fictício em uma abordagem inicial. Golpistas frequentemente se apresentam como pessoas atraentes de idade mais avançada para ganhar empatia e confiança, especialmente em plataformas de relacionamento. O contexto sugere a manipulação emocional através da apresentação pessoal espontânea, o primeiro passo comum nesse tipo de golpe.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Denunciar o perfil falso usando as ferramentas do Facebook.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto apresentado, embora curto, enquadra-se na categoria de 'Golpes Baseados Em Relacionamento' pelo uso de um nome possivelmente fictício em uma abordagem inicial. Golpistas frequentemente se apresentam como pessoas atraentes de idade mais avançada para ganhar empatia e confiança, especialmente em plataformas de relacionamento. O contexto sugere a manipulação emocional através da apresentação pessoal espontânea, o primeiro passo comum nesse tipo de golpe.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Denunciar o perfil falso usando as ferramentas do Facebook."
+  }
+}

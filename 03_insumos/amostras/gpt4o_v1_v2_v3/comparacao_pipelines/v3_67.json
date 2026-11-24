@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 67,
+    "text": "“Só [o estado de] São Paulo é 24% da população brasileira”",
+    "category": "Seguro",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "b2c21ef92a7f27fb914940fca43b0c18d18708f789892f6e5385b21d9a3e588c"
+  },
+  "call_id": "b3e0175e757304a0ca8209a7698bc49e0714d81b3cbb875a92f7a319064e2779",
+  "filtered": {
+    "Motivo": "O texto apresenta uma informação estatística sobre a população de São Paulo em relação à população brasileira. Não há indícios de engenharia social, fraude ou intenção maliciosa, consistindo apenas em uma afirmação factual.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto apresenta uma informação estatística sobre a população de São Paulo em relação à população brasileira. Não há indícios de engenharia social, fraude ou intenção maliciosa, consistindo apenas em uma afirmação factual.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

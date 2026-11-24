@@ -1,0 +1,139 @@
+{
+ "experimento": "fbcv_C_f4",
+ "n_treino": 476,
+ "n_val": 53,
+ "n_teste": 12,
+ "epocas_executadas": 4,
+ "melhor_val_f1_macro": 0.7035,
+ "historico_val": [
+  {
+   "epoch": 1.0,
+   "eval_loss": 1.4088544845581055,
+   "eval_f1_macro": 0.4084,
+   "eval_accuracy": 0.5472
+  },
+  {
+   "epoch": 2.0,
+   "eval_loss": 1.056873083114624,
+   "eval_f1_macro": 0.6451,
+   "eval_accuracy": 0.6415
+  },
+  {
+   "epoch": 3.0,
+   "eval_loss": 0.8960594534873962,
+   "eval_f1_macro": 0.6826,
+   "eval_accuracy": 0.6604
+  },
+  {
+   "epoch": 4.0,
+   "eval_loss": 0.8460177779197693,
+   "eval_f1_macro": 0.7035,
+   "eval_accuracy": 0.6792
+  }
+ ],
+ "acc": 0.3333,
+ "f1_macro_classes_presentes": 0.2889,
+ "report": {
+  "Relacionamento": {
+   "precision": 0.25,
+   "recall": 0.5,
+   "f1-score": 0.3333333333333333,
+   "support": 2.0
+  },
+  "Financeiro": {
+   "precision": 0.5,
+   "recall": 0.3333333333333333,
+   "f1-score": 0.4,
+   "support": 3.0
+  },
+  "Phishing": {
+   "precision": 0.5,
+   "recall": 0.25,
+   "f1-score": 0.3333333333333333,
+   "support": 4.0
+  },
+  "Loja Falsa": {
+   "precision": 0.5,
+   "recall": 1.0,
+   "f1-score": 0.6666666666666666,
+   "support": 1.0
+  },
+  "Desinformação": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 1.0
+  },
+  "Seguro": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 1.0
+  },
+  "accuracy": 0.3333333333333333,
+  "macro avg": {
+   "precision": 0.2916666666666667,
+   "recall": 0.34722222222222215,
+   "f1-score": 0.2888888888888889,
+   "support": 12.0
+  },
+  "weighted avg": {
+   "precision": 0.375,
+   "recall": 0.3333333333333333,
+   "f1-score": 0.32222222222222224,
+   "support": 12.0
+  }
+ },
+ "matriz": [
+  [
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   1,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   1,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "sinteticos_diag_acc": 0.4048,
+ "segundos": 292
+}

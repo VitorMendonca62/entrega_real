@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 28,
+    "text": "Prazer em conhecê-lo, meu nome é Nicole Fred GoodWill, vi seu perfil neste mesmo site então decidi te conhecer mais, preciso de um homem honesto em minha vida, entre em contato comigo pelo meu e-mail privado ([email protegido]) ou deixe seu e-mail para que eu",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "be2912c9951362f642305701bc0b993daefd5430898c9fdb83ec3cdf2cdd334b"
+  },
+  "call_id": "f5f758a6a476975127e4709dd6a54312ae878f77b52eaabc5497b1ada39bae20",
+  "filtered": {
+    "Motivo": "O texto apresenta características típicas de golpes baseados em relacionamento, como a introdução de um perfil possivelmente falso (\"Nicole Fred GoodWill\"), a abordagem inicial rápida e romântica (\"prazer em conhecê-lo... decidi te conhecer mais\"), e a solicitação de contato por meio de um email privado para estabelecer um vínculo emocional e pessoal fora da plataforma pública.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 3. Denunciar o perfil falso usando as ferramentas do Facebook. 4. Registrar B.O. na delegacia de crimes cibernéticos.",
+    "Lei_Invalida_Detectada": true,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto apresenta características típicas de golpes baseados em relacionamento, como a introdução de um perfil possivelmente falso (\"Nicole Fred GoodWill\"), a abordagem inicial rápida e romântica (\"prazer em conhecê-lo... decidi te conhecer mais\"), e a solicitação de contato por meio de um email privado para estabelecer um vínculo emocional e pessoal fora da plataforma pública.",
+    "Base_Legal": "Art. 171 do Código Penal, Lei nº 14.155/2021",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 3. Denunciar o perfil falso usando as ferramentas do Facebook. 4. Registrar B.O. na delegacia de crimes cibernéticos."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "model_loaded": true,
+  "id2label_matches": true,
+  "classifier_original_unchanged": true,
+  "new_checkpoint_overwrites_published": false,
+  "smoke_examples": [
+    {
+      "text": "Bom dia, pessoal! Amanhã tem reunião do condomínio às 19h no salão de festas.",
+      "categoria": "Seguro",
+      "score": 0.2663
+    },
+    {
+      "text": "Seu CPF foi bloqueado na Receita Federal. Acesse o link e confirme seus dados em até 24h.",
+      "categoria": "Golpes de Desinformação Digital",
+      "score": 0.2777
+    }
+  ],
+  "api_guards": [
+    {
+      "method": "GET",
+      "path": "/VeritaPlugin/health",
+      "status": 200,
+      "response": {
+        "status": "ok"
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/VeritaPlugin/CategorizeData",
+      "status": 400,
+      "response": {
+        "detail": "Mensagem vazia."
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/VeritaPlugin/CategorizeData",
+      "status": 401,
+      "response": {
+        "detail": "Chave da OpenAI não configurada."
+      }
+    }
+  ],
+  "paid_calls": 0,
+  "full_gpt_flow_with_new_model": false
+}

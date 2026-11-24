@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 59,
+    "text": "Boa noite , Estou à procura de pessoa para trabalhar online trabalho com vendas de automóveis e motocicletas você só precisa ter a plataforma de venda no Facebook o marketplace, agente estamos pagando 120 por por dia tiver interesse deixa seu contat",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "7e1d8b38f01c71b2f0697c8ffbc795ac7090744cf58290e07467adf86126c7dd"
+  },
+  "call_id": "936bbc7ebf441741884ba61a5623e8de06c4502afde7a429fb8e5685b21f0bb6",
+  "filtered": {
+    "Motivo": "O texto promete um ganho rápido e fixo de R$120 por dia para trabalhar online com vendas sem exigir qualificação ou experiência específica, o que é uma característica comum em golpes de ganho financeiro ilusório. Não há detalhes claros sobre a legitimidade da proposta ou da empresa, o que pode indicar que a intenção é atrair vítimas para um esquema fraudulento.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Código de Defesa do Consumidor (CDC); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 307 do Código Penal (Falsa Identidade)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto promete um ganho rápido e fixo de R$120 por dia para trabalhar online com vendas sem exigir qualificação ou experiência específica, o que é uma característica comum em golpes de ganho financeiro ilusório. Não há detalhes claros sobre a legitimidade da proposta ou da empresa, o que pode indicar que a intenção é atrair vítimas para um esquema fraudulento.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 307 do Código Penal (Falsa Identidade); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

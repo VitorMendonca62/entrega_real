@@ -1,0 +1,5 @@
+{
+  "backend": "Agg",
+  "falha_anterior_preservada_em": "/content/veritaplugin_bert/execucao_20261020T193658592304Z/falha_matplotlib_20261020T200039361303Z",
+  "motivo": "Backend interativo do kernel Colab herdado pelo subprocesso isolado."
+}

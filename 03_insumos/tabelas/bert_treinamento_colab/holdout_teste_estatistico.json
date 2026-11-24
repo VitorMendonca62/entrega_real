@@ -1,0 +1,33 @@
+{
+  "descricao": "Comparação de acurácia holdout: nova execução vs artefato das autoras (mesmo teste de 45 textos).",
+  "n_teste": 45,
+  "acertos_nova_execucao": 31,
+  "acertos_autoras": 37,
+  "acuracia_nova": 0.6888888888888889,
+  "acuracia_autoras": 0.8222222222222222,
+  "diferenca_pp": -13.333333333333334,
+  "ic95_clopper_pearson_nova": [
+    0.5335089700878829,
+    0.818341196066763
+  ],
+  "ic95_clopper_pearson_autoras": [
+    0.6794657566063932,
+    0.9199820425428741
+  ],
+  "fisher_exato_bicaudal_p": 0.21962406310300397,
+  "odds_ratio": 2.088709677419355,
+  "binario_seguro_vs_golpe": {
+    "falsos_positivos": 5,
+    "falsos_negativos": 4,
+    "seguro_no_teste": 8
+  },
+  "ressalvas": [
+    "As autoras não publicaram predições por exemplo; um teste pareado (McNemar) não é possível.",
+    "Fisher trata as duas execuções como amostras independentes, o que é conservador para o mesmo teste.",
+    "p>0,05 com n=45 significa ausência de evidência estatística de diferença, não prova de equivalência."
+  ],
+  "fontes": [
+    "treinamento_colab/holdout_predicoes_cpu.json",
+    "treinamento_colab/comparacao_bert.json"
+  ]
+}

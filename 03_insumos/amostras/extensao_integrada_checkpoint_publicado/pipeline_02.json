@@ -1,0 +1,16 @@
+{
+  "message": "Comentem eu quero 😉👍⬇️⬇️\n #emagrecimento #saude #remedio #natural #barato #compraonline",
+  "categoria": "Seguro",
+  "score": 0.203,
+  "bert_seconds": 0.30847347800590796,
+  "gpt_index": 2,
+  "gpt_seconds": 1.8676084359976812,
+  "rag_total_seconds": 1.8729676590010058,
+  "filtered": {
+    "Motivo": "O texto é uma postagem genérica incentivando interações e promovendo produtos relacionados a emagrecimento e saúde. Não apresenta indícios de engenharia social, fraude ou intenção maliciosa. Não há solicitação de informações pessoais ou financeiras, nem referências a falsidades ou ameaças.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

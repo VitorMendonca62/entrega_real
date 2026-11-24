@@ -1,0 +1,20 @@
+[
+  {
+    "path": "health",
+    "status": 200,
+    "body": "{\"status\":\"ok\"}",
+    "segundos": 0.03541545500047505
+  },
+  {
+    "path": "CategorizeData",
+    "status": 400,
+    "body": "{\"detail\":\"Mensagem vazia.\"}",
+    "segundos": 0.0018373950006207451
+  },
+  {
+    "path": "CategorizeData",
+    "status": 401,
+    "body": "{\"detail\":\"Chave da OpenAI n\u00e3o configurada.\"}",
+    "segundos": 0.0010473449983692262
+  }
+]

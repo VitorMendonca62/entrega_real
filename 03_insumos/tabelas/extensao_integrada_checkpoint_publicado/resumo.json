@@ -1,0 +1,42 @@
+{
+  "new_calls": 6,
+  "successful_modal_cases": 6,
+  "covered_predicted_categories": [
+    "Golpes Baseados Em Relacionamento",
+    "Ataques de Phishing e Roubo de Dados",
+    "Seguro",
+    "Golpes de Desinformação Digital",
+    "Golpes de Ganho Financeiro Ilusório",
+    "Fraudes em Lojas Virtuais Falsas"
+  ],
+  "missing_categories": [],
+  "checkpoint": "brunanoroes/veritaplugin-bert",
+  "revision": "d05bc15ad4821dbf629ca9473fc30387299b44de",
+  "new_cost_usd_upper_ignoring_cache": 0.0360325,
+  "prior_cost_usd_upper_ignoring_cache": 0.11697250000000001,
+  "total_cost_usd_upper_ignoring_cache": 0.153005,
+  "budget_usd": 1,
+  "budget_remaining_usd": 0.8469949999999999,
+  "policy_enabled": false,
+  "paid_reservations": 6,
+  "total_seconds": [
+    4.674899097000889,
+    3.2730548409963376,
+    2.3157607360044494,
+    3.263019655001699,
+    3.4440602630056674,
+    4.069258862000424
+  ],
+  "threads": 2,
+  "browser": "Chromium bundled with Playwright",
+  "playwright": "1.64.0",
+  "api_guard_statuses": [
+    400,
+    422,
+    401,
+    502
+  ],
+  "independent_accuracy_evaluation": false,
+  "new_bert_training": false,
+  "colab_zip_received": false
+}

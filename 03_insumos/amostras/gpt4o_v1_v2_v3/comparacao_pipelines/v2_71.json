@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 71,
+    "text": "Produto de excelente qualidade. Perfeito para minha ccozinha.",
+    "category": "Seguro",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "31fee07a385bad37c279b4d3b034f91024d49e86ee23e1fb8fdb07f3db22cba1"
+  },
+  "call_id": "515678d2f06cbf2398adc227cdde25f00cbdd439e1d5ad5c7eb19e4808ebc1ff",
+  "filtered": {
+    "Motivo": "O texto analisado é uma avaliação positiva de um produto sem elementos indicativos de engenharia social, fraude ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado é uma avaliação positiva de um produto sem elementos indicativos de engenharia social, fraude ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 75,
+    "text": "bom dia meus amigos queridos, vamos almoçar um bife a milanesa de carne moida e um delicioso suco de pitanga colhido do meu quintal.",
+    "category": "Seguro",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "af03b11a08007b2030f9324e4995183140a39b44ddbb986dd7789f82e424870a"
+  },
+  "call_id": "7cfc530c115390a2a1a2e4c48dbbf83ae2e410bac89ce158d8541c6913349b58",
+  "filtered": {
+    "Motivo": "O texto trata de um convite simples para um almoço, descrevendo comida caseira sem qualquer elemento de fraude, engenharia social ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto trata de um convite simples para um almoço, descrevendo comida caseira sem qualquer elemento de fraude, engenharia social ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

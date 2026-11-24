@@ -1,0 +1,22 @@
+[
+  {
+    "file": "api.py",
+    "work_copy_equal_author": true,
+    "sha256": "6e7716e67d9fbcfa20db9842aed08b0b1c102a3b12f51a21f537f3e07393fb44"
+  },
+  {
+    "file": "classificador_bert.py",
+    "work_copy_equal_author": true,
+    "sha256": "60e3fd5306c5b89dc43ec880a6b6f8045db3a6854f26a41a41a0faab769c9fd3"
+  },
+  {
+    "file": "pipeline_rag.py",
+    "work_copy_equal_author": true,
+    "sha256": "c7dbe14484374c5102bffe13b3ff873dd4bcad5af8c020d0bc8ba4f341312509"
+  },
+  {
+    "file": "base_conhecimento.py",
+    "work_copy_equal_author": true,
+    "sha256": "9e48465f298723539e98f47cce97fd068540192ae2c67480f21225846dda1bdb"
+  }
+]

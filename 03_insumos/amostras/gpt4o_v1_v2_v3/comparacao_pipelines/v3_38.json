@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 38,
+    "text": "De repente, a Ivermectina aparece no site do NIH para tratar o Covid. Depois de anos de negação, bloqueio, interferência, difamação, arruinando contas de mídia social, matando pessoas, etc., eles silenciosamente o adicionam ao seu protocolo antiviral.",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "b63cc163140e970054722e83975463c4a70b20f632f8f4efff6ad6ab31684641"
+  },
+  "call_id": "d120af303397b84b80df2412d91290f8e9dd5b4fd50e3fd3ac81599c1555a2d2",
+  "filtered": {
+    "Motivo": "O texto dissemina informação falsa ou manipulada ao afirmar que a Ivermectina foi incluída no protocolo antiviral do NIH para tratar Covid, sem haver evidências concretas ou fonte confiável que confirme essa afirmação. Além disso, utiliza gatilhos emocionais ao mencionar \"anos de negação, bloqueio, interferência, difamação\" e consequências graves como \"matando pessoas\" para provocar indignação e desconfiança, caracterizando a intenção de manipular a opinião pública.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto dissemina informação falsa ou manipulada ao afirmar que a Ivermectina foi incluída no protocolo antiviral do NIH para tratar Covid, sem haver evidências concretas ou fonte confiável que confirme essa afirmação. Além disso, utiliza gatilhos emocionais ao mencionar \"anos de negação, bloqueio, interferência, difamação\" e consequências graves como \"matando pessoas\" para provocar indignação e desconfiança, caracterizando a intenção de manipular a opinião pública.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "cos": 1.0,
+  "fonte_a": "Interno",
+  "fonte_b": "Interno",
+  "classe_a": "Desinformação",
+  "classe_b": "Phishing",
+  "a": "https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets",
+  "b": "https://data.mendeley.com/datasets/f45bkkt8pr/1"
+ },
+ {
+  "cos": 1.0,
+  "fonte_a": "Interno",
+  "fonte_b": "Interno",
+  "classe_a": "Financeiro",
+  "classe_b": "Financeiro",
+  "a": "Que sairá 250 reais  Sra cada empresa trabalha de uma forma \nNão é uma taxa, e as despesas de cartório \nIsso é",
+  "b": "Que sairá 250 reais  Sra cada empresa trabalha de uma forma \nNão é uma taxa, e as despesas de cartório \nIsso é"
+ },
+ {
+  "cos": 1.0,
+  "fonte_a": "Externo 4",
+  "fonte_b": "Externo 4",
+  "classe_a": "Financeiro",
+  "classe_b": "Financeiro",
+  "a": "Pix investimento 🏦 imediato cairrr hora 🕑 fazer qualquerer banco físico digital o robô 🤖 investimento Pix inve",
+  "b": "Pix investimento 🏦 imediato cairrr hora 🕑 fazer qualquerer banco físico digital o robô 🤖 investimento Pix inve"
+ },
+ {
+  "cos": 1.0,
+  "fonte_a": "Interno",
+  "fonte_b": "Interno",
+  "classe_a": "Phishing",
+  "classe_b": "Phishing",
+  "a": "amor fiz um video agorinha vem ver  👇👇\nhttps://cutt.ly/0teExXZe",
+  "b": "amor fiz um video agorinha vem ver  👇👇\nhttps://cutt.ly/0teExXZe"
+ }
+]

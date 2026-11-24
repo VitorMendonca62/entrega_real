@@ -1,0 +1,29 @@
+{
+  "git_shallow": "false",
+  "history": "a6d2d0ae0781c6d40d71fa20457d0d0de853a968 2026-07-19T14:01:10-03:00 Update ReadMe.md\n\n LICENSE   |  21 ++++\n README.md | 426 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n 2 files changed, 447 insertions(+)\n08a95d03c754eaf1d169a7fc6bddce72da81681f 2026-05-24T18:21:32-03:00 Feat: treinamento base line\n\n BrScamsFacebook.xlsx | Bin 0 -> 76223 bytes\n treinamento.py       | 102 +++++++++++++++++++++++++++++++++++++++++++++++++++\n 2 files changed, 102 insertions(+)\n299dc0e8802c87041bbf94cc4cfbfc320c6c16c6 2026-05-24T18:09:50-03:00 Initial commit\n\n .gitattributes | 2 ++\n 1 file changed, 2 insertions(+)\n",
+  "baseline_sha256": "9de0daa2c4d0683ed8b32f388e5598b806b4e9bc2bb182e315ba93b13efc7f32",
+  "bert_sha256": "9de0daa2c4d0683ed8b32f388e5598b806b4e9bc2bb182e315ba93b13efc7f32",
+  "same_dataframe": true,
+  "columns": [
+    "Mensagem",
+    "Categoria",
+    "Dataset"
+  ],
+  "n": 450,
+  "missing": {
+    "Mensagem": 0,
+    "Categoria": 0,
+    "Dataset": 0
+  },
+  "class_counts": {
+    "Golpes Baseados Em Relacionamento": 75,
+    "Fraudes em Lojas Virtuais Falsas": 75,
+    "Golpes de Desinformação Digital": 75,
+    "Golpes de Ganho Financeiro Ilusório": 75,
+    "Seguro": 75,
+    "Ataques de Phishing e Roubo de Dados": 75
+  },
+  "exact_duplicate_messages": 2,
+  "edge_whitespace": 9,
+  "script_history": "08a95d03c754eaf1d169a7fc6bddce72da81681f Feat: treinamento base line\n"
+}

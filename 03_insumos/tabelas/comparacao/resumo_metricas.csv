@@ -1,0 +1,6 @@
+metrica,artigo,artefato_autoras,nova_execucao,diferenca_pp_vs_artigo,variacao_relativa_pct_vs_artigo,comparabilidade,evidencia
+Baseline F1-macro médio CV,0.67,0.711,0.703389,3.34,5.0,"Parcial: artigo arredondado (≈0,67); README atual 0,711",baseline_tfidf_svm/baseline_folds.csv
+BERT F1-macro médio CV,0.763,0.7633008011192922,0.765588,0.26,0.3,Alta: mesmo script e splits; 4/5 folds idênticos,bert_treinamento_colab/folds_nova_execucao_vs_autoras.csv
+BERT F1-macro holdout,0.828,0.8280408317173024,0.688197,-13.98,-16.9,Mesmo protocolo; n=45 (IC amplo),bert_treinamento_colab/holdout_teste_estatistico.json
+BERT acurácia holdout,0.822,0.8222222222222222,0.688889,-13.31,-16.2,"Mesmo protocolo; Fisher p≈0,22",bert_treinamento_colab/holdout_teste_estatistico.json
+Ganho BERT − baseline (F1 CV),0.09,,0.062199,-2.78,-30.9,Folds diferentes entre BERT e baseline; descritivo,comparacao/resumo_metricas.csv

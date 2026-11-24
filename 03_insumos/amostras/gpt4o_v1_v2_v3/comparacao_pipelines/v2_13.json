@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 13,
+    "text": "Estes parecem lindos e tão legais. O único problema é que não é realmente uma malha.",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "a114512fe0ecd56b179365ed91d86106f2a926d284fd9453bf940097046cbe88"
+  },
+  "call_id": "d1cd7d626c8f9f6e4b53e11f415b791de4c66eea3a142416e064b5cbafab54e1",
+  "filtered": {
+    "Motivo": "Apesar da mensagem ser vaga, a classificação e confiança do modelo indicam alta probabilidade de associação a 'Fraudes em Lojas Virtuais Falsas'. A descrição de produtos como 'lindos e tão legais' sem especificidade, pode ser característica de anúncios falsos que usam descrições genéricas para atrair consumidores. A ausência de informações específicas e o contexto de uma potencial oferta online ajudam a classificar essa mensagem nessa categoria.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "Apesar da mensagem ser vaga, a classificação e confiança do modelo indicam alta probabilidade de associação a 'Fraudes em Lojas Virtuais Falsas'. A descrição de produtos como 'lindos e tão legais' sem especificidade, pode ser característica de anúncios falsos que usam descrições genéricas para atrair consumidores. A ausência de informações específicas e o contexto de uma potencial oferta online ajudam a classificar essa mensagem nessa categoria.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Código de Defesa do Consumidor (CDC), LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

@@ -1,0 +1,226 @@
+{
+ "n_linhas": 756,
+ "classes": {
+  "Seguro": 161,
+  "Financeiro": 155,
+  "Relacionamento": 110,
+  "Loja Falsa": 110,
+  "Desinformação": 110,
+  "Phishing": 110
+ },
+ "fontes": {
+  "Dados Sintéticos": 210,
+  "Externo 3": 104,
+  "Telegram/Wpp Dataset": 96,
+  "Externo 2": 77,
+  "Externo 1": 65,
+  "Interno": 64,
+  "Externo 6": 43,
+  "Externo 7": 36,
+  "Externo 4": 36,
+  "Externo 5": 25
+ },
+ "fonte_pct": {
+  "Dados Sintéticos": 27.8,
+  "Externo 3": 13.8,
+  "Telegram/Wpp Dataset": 12.7,
+  "Externo 2": 10.2,
+  "Externo 1": 8.6,
+  "Interno": 8.5,
+  "Externo 6": 5.7,
+  "Externo 7": 4.8,
+  "Externo 4": 4.8,
+  "Externo 5": 3.3
+ },
+ "tipo": {
+  "real": 546,
+  "sintético": 210
+ },
+ "idioma": {
+  "nativo PT": 300,
+  "traduzido EN→PT": 246,
+  "nativo PT (gerado)": 210
+ },
+ "facebook_por_classe": {
+  "Phishing": 19,
+  "Financeiro": 14,
+  "Relacionamento": 10,
+  "Loja Falsa": 8,
+  "Seguro": 8,
+  "Desinformação": 5
+ },
+ "fonte_classe_dominante_pct": {
+  "Dados Sintéticos": 16.7,
+  "Externo 1": 100.0,
+  "Externo 2": 72.7,
+  "Externo 3": 67.3,
+  "Externo 4": 100.0,
+  "Externo 5": 100.0,
+  "Externo 6": 72.1,
+  "Externo 7": 100.0,
+  "Interno": 29.7,
+  "Telegram/Wpp Dataset": 53.1
+ },
+ "NMI_fonte_classe": 0.446,
+ "acuracia_so_pela_fonte_pct": 56.1,
+ "seguro_por_fonte": {
+  "Telegram/Wpp Dataset": 51,
+  "Dados Sintéticos": 35,
+  "Externo 3": 34,
+  "Externo 2": 21,
+  "Externo 6": 12,
+  "Interno": 8
+ },
+ "dup_exatas_linhas": 3,
+ "dup_exatas_grupos": 3,
+ "dup_exatas_conflito_classe": 1,
+ "pares_quase_dup_cos>=0.95": 4,
+ "pares_quase_dup_cos>=0.9": 4,
+ "pares_quase_dup_cos>=0.85": 4,
+ "pares_quase_dup_cos>=0.8": 4,
+ "pares_quase_dup_cos>=0.7": 6,
+ "clusters_quase_dup(th=0.85)": 4,
+ "linhas_removiveis_th0.85": 4,
+ "clusters_com_classes_conflitantes": 1,
+ "clusters_misturando_real_e_sintetico": 0,
+ "removiveis_por_fonte_th0.85": {
+  "Interno": 3,
+  "Externo 4": 1
+ },
+ "removiveis_por_classe_th0.85": {
+  "Financeiro": 2,
+  "Phishing": 2
+ },
+ "sintetico_cos_max_com_real": {
+  "mediana": 0.12,
+  "p90": 0.16,
+  ">=0.7": 0
+ },
+ "sintetico_cos_max_entre_si": {
+  "mediana": 0.183,
+  ">=0.85": 0
+ },
+ "facebook_com_vizinho_cos>=0.7_em_outra_fonte": 0,
+ "resquicio_ingles_(>=10% palavras EN)_por_fonte": {},
+ "chars_mediana_por_fonte": {
+  "Dados Sintéticos": 165.0,
+  "Externo 1": 255.0,
+  "Externo 2": 166.0,
+  "Externo 3": 64.0,
+  "Externo 4": 283.0,
+  "Externo 5": 736.0,
+  "Externo 6": 73.0,
+  "Externo 7": 748.0,
+  "Interno": 156.0,
+  "Telegram/Wpp Dataset": 232.0
+ },
+ "chars_mediana_por_classe": {
+  "Desinformação": 85.0,
+  "Financeiro": 300.0,
+  "Loja Falsa": 163.0,
+  "Phishing": 166.0,
+  "Relacionamento": 204.0,
+  "Seguro": 103.0
+ },
+ "chars_seguro_vs_golpe_por_fonte": {
+  "Dados Sintéticos": {
+   "seguro": 113.0,
+   "golpe": 168.0
+  },
+  "Externo 1": {
+   "seguro": null,
+   "golpe": 255.0
+  },
+  "Externo 2": {
+   "seguro": 63.0,
+   "golpe": 181.5
+  },
+  "Externo 3": {
+   "seguro": 64.0,
+   "golpe": 63.0
+  },
+  "Externo 4": {
+   "seguro": null,
+   "golpe": 283.0
+  },
+  "Externo 5": {
+   "seguro": null,
+   "golpe": 736.0
+  },
+  "Externo 6": {
+   "seguro": 56.5,
+   "golpe": 78.0
+  },
+  "Externo 7": {
+   "seguro": null,
+   "golpe": 747.5
+  },
+  "Interno": {
+   "seguro": 120.5,
+   "golpe": 172.0
+  },
+  "Telegram/Wpp Dataset": {
+   "seguro": 191.0,
+   "golpe": 428.0
+  }
+ },
+ "pct_emoji_hashtag_url_por_fonte": {
+  "Dados Sintéticos": {
+   "emoji": 14.0,
+   "hashtag": 0.0,
+   "url": 0.0
+  },
+  "Externo 1": {
+   "emoji": 0.0,
+   "hashtag": 0.0,
+   "url": 0.0
+  },
+  "Externo 2": {
+   "emoji": 0.0,
+   "hashtag": 0.0,
+   "url": 12.0
+  },
+  "Externo 3": {
+   "emoji": 1.0,
+   "hashtag": 0.0,
+   "url": 0.0
+  },
+  "Externo 4": {
+   "emoji": 42.0,
+   "hashtag": 0.0,
+   "url": 0.0
+  },
+  "Externo 5": {
+   "emoji": 0.0,
+   "hashtag": 0.0,
+   "url": 12.0
+  },
+  "Externo 6": {
+   "emoji": 0.0,
+   "hashtag": 0.0,
+   "url": 0.0
+  },
+  "Externo 7": {
+   "emoji": 0.0,
+   "hashtag": 3.0,
+   "url": 6.0
+  },
+  "Interno": {
+   "emoji": 44.0,
+   "hashtag": 12.0,
+   "url": 9.0
+  },
+  "Telegram/Wpp Dataset": {
+   "emoji": 46.0,
+   "hashtag": 1.0,
+   "url": 0.0
+  }
+ },
+ "candidatos_total": 144,
+ "candidatos_ja_na_Pagina1": 0,
+ "candidatos_classes": {
+  "Golpes de Ganho Financeiro Ilusório": 140,
+  "Seguro": 2,
+  "Ataques de Phishing e Roubo de Dados": 2
+ }
+}

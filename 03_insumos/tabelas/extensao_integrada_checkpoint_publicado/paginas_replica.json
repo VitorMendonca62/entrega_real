@@ -1,0 +1,26 @@
+[
+  {
+    "page": "index.html",
+    "http_status": 200,
+    "button_injected": true,
+    "selection_mode": true,
+    "escape_cancels": true,
+    "gpt_calls": 0
+  },
+  {
+    "page": "marketplace.html",
+    "http_status": 200,
+    "button_injected": true,
+    "selection_mode": true,
+    "escape_cancels": true,
+    "gpt_calls": 0
+  },
+  {
+    "page": "messages.html",
+    "http_status": 200,
+    "button_injected": true,
+    "selection_mode": true,
+    "escape_cancels": true,
+    "gpt_calls": 0
+  }
+]

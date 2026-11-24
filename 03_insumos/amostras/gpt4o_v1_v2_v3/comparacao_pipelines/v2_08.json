@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 8,
+    "text": "Compro Contas Pix CPF , E CARTÃO!\nPIX CPF E CARTÃO \nPIX CPF E CARTÃO\nPIX CPF E CARTÃO\nPIX CPF E CARTÃO #",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "2c71d395ac364ce631340beb6e9c56fb56c6dbc90497cb6300ca5c266a0f937b"
+  },
+  "call_id": "b6317c22f4e28381fecf78f4b26093858a3187c6488e66c52bc10eeab9fbd189",
+  "filtered": {
+    "Motivo": "O texto analisado sugere a compra de dados financeiros sensíveis, como 'Contas Pix' e 'CPF', que são considerados dados comprometedores e podem ser usados em fraudes e operações ilegais para roubo de identidade e vazamento de dados financeiros. Isso se alinha ao modus operandi de campanhas que visam a extração e uso ilícito de dados sensíveis a partir de phishing ou roubo de dados.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Alterar imediatamente todas as senhas comprometidas (rede social, e-mail, bancos) e ativar Autenticação de Dois Fatores (2FA).\n2. Bloquear o remetente e denunciar a mensagem maliciosa na plataforma.\n3. Se dados bancários foram expostos, notificar o banco para cancelamento de cartões e monitoramento da conta.\n4. Salvar capturas de tela da mensagem original e do link malicioso recebido.\n5. Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica).",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto analisado sugere a compra de dados financeiros sensíveis, como 'Contas Pix' e 'CPF', que são considerados dados comprometedores e podem ser usados em fraudes e operações ilegais para roubo de identidade e vazamento de dados financeiros. Isso se alinha ao modus operandi de campanhas que visam a extração e uso ilícito de dados sensíveis a partir de phishing ou roubo de dados.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Alterar imediatamente todas as senhas comprometidas (rede social, e-mail, bancos) e ativar Autenticação de Dois Fatores (2FA).\n2. Bloquear o remetente e denunciar a mensagem maliciosa na plataforma.\n3. Se dados bancários foram expostos, notificar o banco para cancelamento de cartões e monitoramento da conta.\n4. Salvar capturas de tela da mensagem original e do link malicioso recebido.\n5. Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica)."
+  }
+}

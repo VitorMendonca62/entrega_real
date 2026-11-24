@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 31,
+    "text": "\"✅Se você está passando por alguma dificuldade no relacionamento clica no link da Bio ou me chama no direct que vamos resolver isso🧠\n#relacionamento #amor #casal #namoro #sexualidade #sensações #afetividade #traição #honra #caráter #respeito #relacionamentoabusivo #masculinidade #homem #homemdevalor #vulgaridade #sensualidade\"",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "ac21dec6778c47cf5a6fd7829448210e0d4b15401f8ab8a32c8080a87951c062"
+  },
+  "call_id": "19ce9de0b170688acf4ee5955d51abe8f93c0bd9f78791eeb2e42d39dba58607",
+  "filtered": {
+    "Motivo": "O texto analisado insinua assistência em problemas de relacionamento e direciona o leitor a clicar em um link na bio ou entrar em contato via direct, que são técnicas comuns de abordagem inicial utilizadas por golpistas. Esta abordagem pode estabelecer um vínculo emocional ou afetivo, típico dos golpes baseados em relacionamento, que frequentemente evoluem para solicitações de dinheiro ou conteúdos íntimos sob pretextos falsos.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Denunciar o perfil falso usando as ferramentas do Facebook.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto analisado insinua assistência em problemas de relacionamento e direciona o leitor a clicar em um link na bio ou entrar em contato via direct, que são técnicas comuns de abordagem inicial utilizadas por golpistas. Esta abordagem pode estabelecer um vínculo emocional ou afetivo, típico dos golpes baseados em relacionamento, que frequentemente evoluem para solicitações de dinheiro ou conteúdos íntimos sob pretextos falsos.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Denunciar o perfil falso usando as ferramentas do Facebook."
+  }
+}

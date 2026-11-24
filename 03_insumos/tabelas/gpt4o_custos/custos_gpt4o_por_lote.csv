@@ -1,0 +1,7 @@
+lote,chamadas,custo_usd,observacao
+Piloto (18 chamadas),18,0.11697250000000001,"Estimativa pelos tokens retornados, sem desconto de cache; não é extrato de faturamento"
+Integração – checkpoint publicado,6,0.0360325,"Estimativa pelos tokens retornados, sem desconto de cache; não é extrato de faturamento"
+Integração – BERT Colab,6,0.033985,"Estimativa pelos tokens retornados, sem desconto de cache; não é extrato de faturamento"
+Reexecução V2,80,0.376,"Estimativa pelos tokens retornados, sem desconto de cache; não é extrato de faturamento"
+Reexecução V3,80,0.4602124999999999,"Estimativa pelos tokens retornados, sem desconto de cache; não é extrato de faturamento"
+TOTAL,190,1.0232025,"Estimativa pelos tokens retornados, sem desconto de cache; não é extrato de faturamento"

@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 69,
+    "text": "O número de mortes violentas no Brasil (...) tem caído",
+    "category": "Seguro",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "b6d179e2914cba6299a91e95512f548729a996360b11dceb46de2f4044677fd3"
+  },
+  "call_id": "afa63a019fdb6182563b95aec6ce74371eb766766d5a48dd2f326ab0eea5d422",
+  "filtered": {
+    "Motivo": "O texto analisado relata um dado estatístico sobre a redução de mortes violentas no Brasil, sem apresentar qualquer indício de tentativa de fraude, engenharia social ou conteúdo malicioso.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado relata um dado estatístico sobre a redução de mortes violentas no Brasil, sem apresentar qualquer indício de tentativa de fraude, engenharia social ou conteúdo malicioso.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

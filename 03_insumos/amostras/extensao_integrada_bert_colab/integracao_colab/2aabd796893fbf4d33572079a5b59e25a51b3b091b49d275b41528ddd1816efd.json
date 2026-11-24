@@ -1,0 +1,15 @@
+{
+  "message": "\"Lula sobre decisão do Barroso:\n'Enfermeiros só servem pra servir sopa, precisamos de mais médicos'\"",
+  "category": "Golpes de Desinformação Digital",
+  "score": 0.4082,
+  "bert_seconds": 0.21948685200186446,
+  "gpt_seconds": 2.4059596369988867,
+  "call_id": "2aabd796893fbf4d33572079a5b59e25a51b3b091b49d275b41528ddd1816efd",
+  "filtered": {
+    "Motivo": "O texto apresenta uma citação falsa atribuída a uma figura pública com o potencial de manipular a opinião pública explorando emoções como raiva, o que é característico de desinformação digital. A falsidade na atribuição de declarações impactantes pode influenciar a percepção pública e incitar reações negativas ou preconceituosas sem base verídica.",
+    "Base_Legal": "Código Penal – Arts. 138 a 140",
+    "Acoes_Recomendadas": "Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

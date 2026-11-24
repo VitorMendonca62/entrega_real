@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 64,
+    "text": "Nah, eu não acho que ele vai para a USF, ele mora por aqui",
+    "category": "Seguro",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "dcc0928a212fada54e2f9c0de69b6937726543c9e0483d8de7ebc62309739e4e"
+  },
+  "call_id": "d415d107ce3005eeedbe994a682583b43cc1be2f20be6ef3f167609d467c07ee",
+  "filtered": {
+    "Motivo": "O texto analisado ('Nah, eu não acho que ele vai para a USF, ele mora por aqui') não contém elementos que indiquem prática de engenharia social, fraude ou intenção maliciosa. É uma mensagem comum sem conteúdo suspeito.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado ('Nah, eu não acho que ele vai para a USF, ele mora por aqui') não contém elementos que indiquem prática de engenharia social, fraude ou intenção maliciosa. É uma mensagem comum sem conteúdo suspeito.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 74,
+    "text": "Eles são tão bonitos, resistentes, assim como as opções de cores também.",
+    "category": "Seguro",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "e90d20444bfde6b8f6635178672c2c4a73549c48ee01dc581fa694531be3550e"
+  },
+  "call_id": "bcb64c24f893300ce1663390b5a8e1c8ef384a80980a99fc732f5d229913a9a3",
+  "filtered": {
+    "Motivo": "O texto analisado expressa uma opinião ou comentário positivo sobre a aparência e durabilidade de objetos, mencionando suas cores, sem indicar qualquer intenção de enganar, cometer fraude ou realizar ações maliciosas. Não há presença de tentativas de engenharia social, coleta de dados ou qualquer referência que possa indicar atividade ilícita.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado expressa uma opinião ou comentário positivo sobre a aparência e durabilidade de objetos, mencionando suas cores, sem indicar qualquer intenção de enganar, cometer fraude ou realizar ações maliciosas. Não há presença de tentativas de engenharia social, coleta de dados ou qualquer referência que possa indicar atividade ilícita.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

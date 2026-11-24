@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 44,
+    "text": "O Governo Lula reforçou nesta semana que os jovens que completam 18 anos em 2026 devem se alistar imediatamente no serviço militar obrigatório. \nO prazo para regularizar a situação vai até 30 de junho, e quem não se alistar dentro do período pode enfrentar multas e restrições legais, como dificuldades para obter passaporte, matrícula em universidades e participar de concursos públicos. O alerta acontece em um contexto de crescente tensão internacional.",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "140e5a5f2b0cac6d8bac94fab693f052caf380be74e6cb9432ce5a95d7c3f624"
+  },
+  "call_id": "02434e070474cec66f88f244517fe9e97503f78b6f6d2adacd655ee6aaaac534",
+  "filtered": {
+    "Motivo": "O texto utiliza a linguagem alarmante e cria um senso de urgência ao mencionar a necessidade imediata de alistamento militar com ameaças de multas e restrições legais. A narrativa apresentada não possui respaldo oficial confirmado, sendo características comuns em golpes de desinformação que visam manipular ou alarmar o público sem base em fatos concretos.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.\n2. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n3. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto utiliza a linguagem alarmante e cria um senso de urgência ao mencionar a necessidade imediata de alistamento militar com ameaças de multas e restrições legais. A narrativa apresentada não possui respaldo oficial confirmado, sendo características comuns em golpes de desinformação que visam manipular ou alarmar o público sem base em fatos concretos.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.\n2. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n3. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social."
+  }
+}

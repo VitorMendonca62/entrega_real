@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 35,
+    "text": "[Nosso governo] reduziu o feminicídio no Brasil",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "281e237d9d591c6138cdb1009b95f1ee429acc1edb4bbdd7e537f3f334f2084f"
+  },
+  "call_id": "a17baa39012335fad066ee2d8b1193235de3cdcc40869d07a16b1d713db23bfe",
+  "filtered": {
+    "Motivo": "O texto parece ser uma tentativa de manipulação por omissão ou falsidade de informações, o que se alinha com o modus operandi da categoria de Golpes de Desinformação Digital, onde dados ou declarações são distorcidos com objetivos específicos, como influenciar a opinião pública sobre o desempenho do governo.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem; 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social; 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto parece ser uma tentativa de manipulação por omissão ou falsidade de informações, o que se alinha com o modus operandi da categoria de Golpes de Desinformação Digital, onde dados ou declarações são distorcidos com objetivos específicos, como influenciar a opinião pública sobre o desempenho do governo.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem; 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social; 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

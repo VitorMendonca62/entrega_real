@@ -1,0 +1,15 @@
+{
+  "message": "Registro Whois para Alston-Vanc-Ltd.co.ukCriado em 23/11/2023Expira em 23/11/2024",
+  "category": "Fraudes em Lojas Virtuais Falsas",
+  "score": 0.3122,
+  "bert_seconds": 0.2227604700019583,
+  "gpt_seconds": 2.5265080539975315,
+  "call_id": "15ca30c43269acb749153f6c336fcf4a65012c88070aa7b58aaaecab7f62e0a6",
+  "filtered": {
+    "Motivo": "O texto analisado apresenta o registro de domínio de um site recém-criado, Alston-Vanc-Ltd.co.uk. Essa característica é típica de fraudes em lojas virtuais falsas onde a criação de novos domínios é utilizada para montar lojas com baixa durabilidade que visam enganar consumidores, especialmente sem histórico ou confiabilidade estabelecida, alinhando-se ao modus operandi de sites de ecommerce falsos.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a legitimidade do site por meio de fontes confiáveis. Não realize pagamentos ou forneça informações pessoais até confirmar a autenticidade da loja. Considere o registro de um B.O. se houver indícios de fraude após tentativas de compra.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

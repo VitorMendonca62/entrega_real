@@ -1,0 +1,26 @@
+[
+  {
+    "repo": "evolucao-prompt-RAG",
+    "tracked_changes": []
+  },
+  {
+    "repo": "Treinamento_TF-IDF-SVM",
+    "tracked_changes": []
+  },
+  {
+    "repo": "ConteudoExtraVeritaPlugin",
+    "tracked_changes": []
+  },
+  {
+    "repo": "treinamento-BERTimbau",
+    "tracked_changes": []
+  },
+  {
+    "repo": "VeritaPlugin",
+    "tracked_changes": []
+  },
+  {
+    "repo": "ReplicaTesteFacebook",
+    "tracked_changes": []
+  }
+]

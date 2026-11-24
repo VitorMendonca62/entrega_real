@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 20,
+    "text": "💊Um produto perfeito para auxiliar no seu emagrecimento saudável (LIFT DETOX BLACK) \n.\nSeus benefícios são: \n✅Queima gordura localizada.\n✅Diminui a fome.\n✅Acelera o metabolismo.\n✅Controla ansiedade.\n✅Regula o colesterol ruim e melhora o colesterol bom.\n✅Mais disposição diminuindo o cansaço durante o dia.\n.\n⬆️ Click no Link Azul da Bio e Saiba Mais ⬆️\n.\n#liftdetoxcaps #detox #emagrecimento #emagrecacomsaude #formulanatural #percapeso #saude #inibidordeapetite #vemverão #xogordura #emagrecimentosaudavel #vidasaudavel #qualidadedevida #acreditabonita #antesedepois #bemestar #exgordinha #motivacao #boaforma #fretegratis",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "7aff6fcf8eb2b3d59c850578a2064ae7497066dcc20af8b4638b9cce5463ab4d"
+  },
+  "call_id": "ec19c74a441bb2e447844ad7ee62c0fd26086e1392afe78b61a8788ff22ac9a1",
+  "filtered": {
+    "Motivo": "O texto apresenta uma oferta de produto de emagrecimento com descrição de benefícios potencialmente exagerados ou irreais para atrair consumidores. O trecho indica a existência de um link na bio, que é uma prática comum em publicidade enganosa usada por lojas falsas para direcionar consumidores a sites fraudulentos. A promessa de frete grátis e a lista extensa de benefícios sem evidências concretas reforçam características de oferta irreal típica de fraudes.",
+    "Base_Legal": "Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook; reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento; registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto apresenta uma oferta de produto de emagrecimento com descrição de benefícios potencialmente exagerados ou irreais para atrair consumidores. O trecho indica a existência de um link na bio, que é uma prática comum em publicidade enganosa usada por lojas falsas para direcionar consumidores a sites fraudulentos. A promessa de frete grátis e a lista extensa de benefícios sem evidências concretas reforçam características de oferta irreal típica de fraudes.",
+    "Base_Legal": "Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook; reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento; registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

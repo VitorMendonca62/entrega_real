@@ -1,0 +1,13 @@
+checkpoint,caso,categoria_predita,rotulo_corpus,bert_s,gpt_s,clique_ate_modal_s,restante_s
+publicado (autoras),0,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento,0.4587527840049006,4.115902907993586,4.674899097000889,0.10024340500240214
+publicado (autoras),1,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados,0.4829253030038671,2.7042699360026745,3.2730548409963376,0.08585960198979592
+publicado (autoras),2,Seguro,Fraudes em Lojas Virtuais Falsas,0.3084734780059079,1.8676084359976808,2.315760736004449,0.13967882200086024
+publicado (autoras),3,Golpes de Desinformação Digital,Golpes de Desinformação Digital,0.4704339269956108,2.6770971630030544,3.263019655001699,0.11548856500303373
+publicado (autoras),4,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas,0.9473537630037754,2.4078602630033856,3.444060263005668,0.0888462369985068
+publicado (autoras),5,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas,0.3381562880022102,3.6464950230001705,4.069258862000424,0.08460755099804373
+Colab (equipe),0,Seguro,Golpes Baseados Em Relacionamento,0.9702888109968626,3.4629210850034724,4.52649178700085,0.09328189100051532
+Colab (equipe),1,Ataques de Phishing e Roubo de Dados,Fraudes em Lojas Virtuais Falsas,0.23559869000018807,3.4188729400048032,3.7237977689947,0.06932613898970885
+Colab (equipe),2,Golpes de Desinformação Digital,Golpes de Desinformação Digital,0.21948685200186446,2.4012689320006757,2.686161992001871,0.06540620799933095
+Colab (equipe),3,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório,0.2013883679974242,2.655600826998125,2.93514841599972,0.07815922100417083
+Colab (equipe),4,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento,0.19046213299589,3.464764415002719,3.703498226997908,0.048271678999299183
+Colab (equipe),5,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas,0.2227604700019583,2.5217056030014646,2.825758737999422,0.08129266499599908

@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 21,
+    "text": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!) ",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "dc6fc90867c61ab169a79a53073ed536c8abc610d4297030373fe002d7134676"
+  },
+  "call_id": "992bb52c8dd077798a7e3b6cee92f9b521bf0d9b3fe5a256fafac91df386b44f",
+  "filtered": {
+    "Motivo": "O texto sugere uma promessa de vantagem financeira ('compro todas as caixas corrente ou poupança com cartão vem no certo!!!'), o que pode indicar um esquema de fraude para atrair consumidores com ofertas irreais relacionadas a cartões bancários. A menção específica a locais ('Somente pela Praia Grande Santos e São Vicente') pode ser uma tentativa de direcionar a atenção ou simular uma oferta legítima limitada a essas regiões, o que está associado ao modus operandi de pressionar para um pagamento rápido ou coleta de dados oferecendo produtos financeiros inexistentes.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar a página; Acionar a instituição financeira para estorno e bloqueio; Reunir provas: capturas de tela do anúncio e conversas; Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto sugere uma promessa de vantagem financeira ('compro todas as caixas corrente ou poupança com cartão vem no certo!!!'), o que pode indicar um esquema de fraude para atrair consumidores com ofertas irreais relacionadas a cartões bancários. A menção específica a locais ('Somente pela Praia Grande Santos e São Vicente') pode ser uma tentativa de direcionar a atenção ou simular uma oferta legítima limitada a essas regiões, o que está associado ao modus operandi de pressionar para um pagamento rápido ou coleta de dados oferecendo produtos financeiros inexistentes.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar a página; Acionar a instituição financeira para estorno e bloqueio; Reunir provas: capturas de tela do anúncio e conversas; Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

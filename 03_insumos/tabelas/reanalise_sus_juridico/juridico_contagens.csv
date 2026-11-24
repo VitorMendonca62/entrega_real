@@ -1,0 +1,12 @@
+criterio,resposta,julgamentos,total,percentual
+Pertinência legal,Pertinente - O dispositivo é diretamente aplicável ao caso,49,72,68.05555555555556
+Pertinência legal,Parcialmente pertinente - Há enquadramento mais preciso disponível,13,72,18.055555555555554
+Pertinência legal,Não pertinente - O dispositivo não se aplica ao golpe descrito,10,72,13.88888888888889
+Correção jurídica,"Correta - Descrição precisa, mesmo que simplificada",55,72,76.38888888888889
+Correção jurídica,Incorreta - Distorce ou contradiz o que a lei determina,9,72,12.5
+Correção jurídica,Com ressalvas - Imprecisão que não invalida o sentido geral,8,72,11.11111111111111
+Proporcionalidade,Proporcional - Gravidade jurídica compatível com o caso descrito,59,72,81.94444444444444
+Proporcionalidade,"Desproporcional para mais - Exagera a gravidade, pode gerar alarme injustificado",13,72,18.055555555555554
+daria esta orienta,Sim - A justificativa está adequada para o público-alvo,41,72,56.94444444444444
+daria esta orienta,"Com ajustes - Aproveitável, mas requer correção antes de apresentar ao usuário",24,72,33.33333333333333
+daria esta orienta,Não - Não deve ser apresentada ao usuário na forma atual,7,72,9.722222222222223

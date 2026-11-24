@@ -1,0 +1,16 @@
+{
+  "message": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!)",
+  "categoria": "Fraudes em Lojas Virtuais Falsas",
+  "score": 0.2244,
+  "bert_seconds": 0.3381562880022102,
+  "gpt_index": 5,
+  "gpt_seconds": 3.6464950230001705,
+  "rag_total_seconds": 3.650179445001413,
+  "filtered": {
+    "Motivo": "O texto contém uma oferta genérica que atrai a atenção por meio de promessas e emojis sugestivos (🔥🤑🍀). A menção de locais específicos (\"SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!\") pode indicar uma tentativa de limitar o escopo para parecer mais legítimo, um truque comum em fraudes. Apesar da baixa confiança, a categorização já está definida como Fraudes em Lojas Virtuais Falsas, e o texto aparenta ter elementos de atratividade ou promessa não realista, que são típicos em anúncios fraudulentos com a intenção de obter vantagem ilícita.",
+    "Base_Legal": "Código de Defesa do Consumidor (CDC); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não prosseguir com qualquer contato ou transação sugerida pelo anúncio. 2. Reunir provas: capturas de tela do anúncio, comunicação e detalhes do perfil. 3. Denunciar o perfil ao Facebook para remoção. 4. Considerar registrar um boletim de ocorrência sobre a tentativa de fraude.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 74,
+    "text": "Eles são tão bonitos, resistentes, assim como as opções de cores também.",
+    "category": "Seguro",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "e90d20444bfde6b8f6635178672c2c4a73549c48ee01dc581fa694531be3550e"
+  },
+  "call_id": "edd427dbd6ef345ca269379e4ba57046c02db4800dd8f6c96a044727787a47bd",
+  "filtered": {
+    "Motivo": "O texto analisado (\"Eles são tão bonitos, resistentes, assim como as opções de cores também.\") não apresenta qualquer indício de tentativa de fraude, engenharia social ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado (\"Eles são tão bonitos, resistentes, assim como as opções de cores também.\") não apresenta qualquer indício de tentativa de fraude, engenharia social ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 39,
+    "text": "No nosso governo são cinco por ano [invasões de terra]",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "3ed2391029c67711d7f825f3bfc03265cfe9ce167d5054e5b0b990cb900b0271"
+  },
+  "call_id": "3405a4ff07f4cf8d66af52ba6fb40b895c742a29de0d1ce6b3372202be8accb2",
+  "filtered": {
+    "Motivo": "A mensagem parece ter como objetivo a manipulação da opinião pública ao afirmar uma estatística que pode não ser precisa ou verificada (\"No nosso governo são cinco por ano [invasões de terra]\"). A falta de fonte confiável ou contexto pode ser uma tentativa de explorar emocionalmente o público através de informações possivelmente fabricadas ou manipuladas, características típicas de desinformação digital.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "A mensagem parece ter como objetivo a manipulação da opinião pública ao afirmar uma estatística que pode não ser precisa ou verificada (\"No nosso governo são cinco por ano [invasões de terra]\"). A falta de fonte confiável ou contexto pode ser uma tentativa de explorar emocionalmente o público através de informações possivelmente fabricadas ou manipuladas, características típicas de desinformação digital.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

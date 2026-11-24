@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 27,
+    "text": "Bom dia, querido. Espero que você esteja bem. Infelizmente, tive alguns problemas em construir relacionamentos com homens. Por isso, optei por encontrar um parceiro que utilize tecnologia moderna. Entrei em contato com uma organização especializada e eles me forneceram seu contato. Aqui estão algumas informações sobre mim. Meu nome é Inna, tenho 30 anos e moro em Dimitrovgrad, na Rússia. Estou sozinha, não tenho filhos e às vezes me sinto um pouco sozinha. Trabalho no Judiciário como auxiliar de juiz e procuro me manter dinâmico com atividades físicas. No meu tempo livre, faço ioga. Tenho algumas perguntas para você: O que é importante para você na vida romântica? Na sua opinião, o que ajuda a criar um vínculo duradouro? Compartilhe sua história comigo. Você tem algum hobby? Como você ganha a vida? Também compartilhei alguns instantâneos para você ver. Se você estiver interessado em mim, ficarei feliz em receber sua resposta. Se não for o que você deseja, siga em frente. Interessado? Por favor, responda SOMENTE para minha caixa de correio particular:[email protected]Aguardo ansiosamente sua mensagem. Atenciosamente, Inna.",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "99a2908e3fb2e7cf95f7675f203730d6ef92bf7d40cd2c6317a0e178f366863a"
+  },
+  "call_id": "e2595019c54c1419df7bc2c49074b16196ee552c6ea721416abe0e3e3788a3ce",
+  "filtered": {
+    "Motivo": "A mensagem apresenta características típicas de golpes baseados em relacionamento, como o uso de identidades falsas (autor afirmando ser 'Inna' da Rússia), manipulação emocional ('me sinto um pouco sozinha'), e foco em estabelecer rapidamente um vínculo emocional ('Espero que você esteja bem', 'tive alguns problemas em construir relacionamentos com homens'). Outro elemento suspeito é o pedido para responder para uma conta de e-mail particular, o que pode ser uma tentativa de tirar a conversa de uma plataforma segura para um ambiente mais controlado pelo golpista.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 4. Denunciar o perfil falso usando as ferramentas do Facebook. 5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "A mensagem apresenta características típicas de golpes baseados em relacionamento, como o uso de identidades falsas (autor afirmando ser 'Inna' da Rússia), manipulação emocional ('me sinto um pouco sozinha'), e foco em estabelecer rapidamente um vínculo emocional ('Espero que você esteja bem', 'tive alguns problemas em construir relacionamentos com homens'). Outro elemento suspeito é o pedido para responder para uma conta de e-mail particular, o que pode ser uma tentativa de tirar a conversa de uma plataforma segura para um ambiente mais controlado pelo golpista.",
+    "Base_Legal": "• Art. 171 do Código Penal (Estelionato) • Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 4. Denunciar o perfil falso usando as ferramentas do Facebook. 5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas."
+  }
+}

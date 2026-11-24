@@ -1,0 +1,30 @@
+{
+  "revision": "d05bc15ad4821dbf629ca9473fc30387299b44de",
+  "files": [
+    {
+      "file": "config.json",
+      "bytes": 1513,
+      "sha256": "7d1e29804500c49592116440121de29d730ec8aba2bb0dc7316e7526262dd1c2",
+      "url": "https://huggingface.co/brunanoroes/veritaplugin-bert/resolve/d05bc15ad4821dbf629ca9473fc30387299b44de/config.json"
+    },
+    {
+      "file": "tokenizer.json",
+      "bytes": 678055,
+      "sha256": "1e0f07993dcfa9b2d64d389790ba3e9b197738ed669a6cf2ab92c58662e594cc",
+      "url": "https://huggingface.co/brunanoroes/veritaplugin-bert/resolve/d05bc15ad4821dbf629ca9473fc30387299b44de/tokenizer.json"
+    },
+    {
+      "file": "tokenizer_config.json",
+      "bytes": 351,
+      "sha256": "035996d5b54a8c1c1ef3906781f5d6af5080493ccb35e89f66a9fb5e97f1c0b8",
+      "url": "https://huggingface.co/brunanoroes/veritaplugin-bert/resolve/d05bc15ad4821dbf629ca9473fc30387299b44de/tokenizer_config.json"
+    },
+    {
+      "file": "model.safetensors",
+      "bytes": 435734504,
+      "sha256": "92d27c9c6c09cbe9a3ad009d538056d9d941708a481eb5326aa8b21d78a3a626",
+      "url": "https://huggingface.co/brunanoroes/veritaplugin-bert/resolve/d05bc15ad4821dbf629ca9473fc30387299b44de/model.safetensors"
+    }
+  ],
+  "timestamp": "2026-10-20T17:42:30.543569+00:00"
+}

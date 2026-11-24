@@ -1,0 +1,77 @@
+{
+  "checkpoint": "brunanoroes/veritaplugin-bert",
+  "revision": "d05bc15ad4821dbf629ca9473fc30387299b44de",
+  "threads": 2,
+  "independent_accuracy_evaluation": false,
+  "selection_rule": "primeiro exemplo por categoria predita; busca round-robin por rótulo do corpus",
+  "tested_count": 34,
+  "selected": [
+    {
+      "index": 0,
+      "linha_excel": 2,
+      "texto": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+      "sha256": "ec59c76341e65ce287e4b72e94435b710728a785bbd40227f2d8552f3793c7d9",
+      "rotulo_corpus": "Golpes Baseados Em Relacionamento",
+      "origem_corpus": "Interno",
+      "categoria_predita": "Golpes Baseados Em Relacionamento",
+      "score": 0.476,
+      "bert_seconds": 1.384307036001701
+    },
+    {
+      "index": 63,
+      "linha_excel": 65,
+      "texto": "Lembrete da O2: Para ganhar £2,50 de crédito grátis para chamadas e detalhes de ótimas ofertas, responda a esta mensagem com seu nome, número da casa e CEP válidos.",
+      "sha256": "b948632d8b9fa6eb69e3d6b7fd42302600065e556ff1c725900b4e2c27a56ef3",
+      "rotulo_corpus": "Ataques de Phishing e Roubo de Dados",
+      "origem_corpus": "Externo 2",
+      "categoria_predita": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.5374,
+      "bert_seconds": 0.2845507140009431
+    },
+    {
+      "index": 5,
+      "linha_excel": 7,
+      "texto": "Comentem eu quero 😉👍⬇️⬇️\n #emagrecimento #saude #remedio #natural #barato #compraonline",
+      "sha256": "30547a8a5560c595017c87624c5cac138efa2f640b6351f73be0ee8b46994a28",
+      "rotulo_corpus": "Fraudes em Lojas Virtuais Falsas",
+      "origem_corpus": "Interno",
+      "categoria_predita": "Seguro",
+      "score": 0.203,
+      "bert_seconds": 0.20731892099865945
+    },
+    {
+      "index": 13,
+      "linha_excel": 15,
+      "texto": "Lula é e sempre será CRIMINOSO, Lancellotti é PEDÓFILO e aliado desses criminosos são IRRACIONAIS...",
+      "sha256": "9431932375a36d64f643ab4f5dcf9272a2d52923db7fdddfcd77770afa8d5a28",
+      "rotulo_corpus": "Golpes de Desinformação Digital",
+      "origem_corpus": "Interno",
+      "categoria_predita": "Golpes de Desinformação Digital",
+      "score": 0.4233,
+      "bert_seconds": 0.18388413899810985
+    },
+    {
+      "index": 6,
+      "linha_excel": 8,
+      "texto": "💊Um produto perfeito para auxiliar no seu emagrecimento saudável (LIFT DETOX BLACK) \n.\nSeus benefícios são: \n✅Queima gordura localizada.\n✅Diminui a fome.\n✅Acelera o metabolismo.\n✅Controla ansiedade.\n✅Regula o colesterol ruim e melhora o colesterol bom.\n✅Mais disposição diminuindo o cansaço durante o dia.\n.\n⬆️ Click no Link Azul da Bio e Saiba Mais ⬆️\n.\n#liftdetoxcaps #detox #emagrecimento #emagrecacomsaude #formulanatural #percapeso #saude #inibidordeapetite #vemverão #xogordura #emagrecimentosaudavel #vidasaudavel #qualidadedevida #acreditabonita #antesedepois #bemestar #exgordinha #motivacao #boaforma #fretegratis",
+      "sha256": "7aff6fcf8eb2b3d59c850578a2064ae7497066dcc20af8b4638b9cce5463ab4d",
+      "rotulo_corpus": "Fraudes em Lojas Virtuais Falsas",
+      "origem_corpus": "Interno",
+      "categoria_predita": "Golpes de Ganho Financeiro Ilusório",
+      "score": 0.3021,
+      "bert_seconds": 0.3849974960030522
+    },
+    {
+      "index": 10,
+      "linha_excel": 12,
+      "texto": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!)",
+      "sha256": "ecd5f21db2c12fc628a6d25d0f845166f4fa121ca90ab4aa81c17a90650ed89b",
+      "rotulo_corpus": "Fraudes em Lojas Virtuais Falsas",
+      "origem_corpus": "Interno",
+      "categoria_predita": "Fraudes em Lojas Virtuais Falsas",
+      "score": 0.2244,
+      "bert_seconds": 0.19927645399729954
+    }
+  ],
+  "missing_categories": []
+}

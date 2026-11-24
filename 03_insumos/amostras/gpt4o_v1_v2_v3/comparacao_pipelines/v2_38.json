@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 38,
+    "text": "De repente, a Ivermectina aparece no site do NIH para tratar o Covid. Depois de anos de negação, bloqueio, interferência, difamação, arruinando contas de mídia social, matando pessoas, etc., eles silenciosamente o adicionam ao seu protocolo antiviral.",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "b63cc163140e970054722e83975463c4a70b20f632f8f4efff6ad6ab31684641"
+  },
+  "call_id": "976aaf0ae74472cbb5d34a58fa2231e0d9d8f617a29fa65b63533d6d4cbb7158",
+  "filtered": {
+    "Motivo": "O texto apresenta informações sobre a Ivermectina sendo adicionada ao protocolo antiviral do NIH, o que não é verificado. Esta alegação tem elementos de desinformação digital, pois usa uma afirmação falsa potencialmente fabricada para manipular a opinião pública ao sugerir que há uma mudança em políticas de saúde sem evidências concretas. Invoca gatilhos emocionais como medo e indignação ao mencionar 'negação', 'difamação' e 'mortalidade', incentivando uma resposta emocional ao invés de crítica.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação. 4. Se a desinformação levou a transferências financeiras, contatar o banco imediatamente. 5. Em caso de perda financeira ou dano à honra, reunir capturas de tela e registrar B.O. em delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto apresenta informações sobre a Ivermectina sendo adicionada ao protocolo antiviral do NIH, o que não é verificado. Esta alegação tem elementos de desinformação digital, pois usa uma afirmação falsa potencialmente fabricada para manipular a opinião pública ao sugerir que há uma mudança em políticas de saúde sem evidências concretas. Invoca gatilhos emocionais como medo e indignação ao mencionar 'negação', 'difamação' e 'mortalidade', incentivando uma resposta emocional ao invés de crítica.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação. 4. Se a desinformação levou a transferências financeiras, contatar o banco imediatamente. 5. Em caso de perda financeira ou dano à honra, reunir capturas de tela e registrar B.O. em delegacia especializada."
+  }
+}

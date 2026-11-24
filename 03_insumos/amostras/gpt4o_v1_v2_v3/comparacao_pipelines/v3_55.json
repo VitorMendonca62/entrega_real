@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 55,
+    "text": "Esse Seguro Prestamista o cliente conclui no ato da contratação, após receber o contrato.\n\nEsse custo o cliente não perde caso não acione o Seguro, o valor é reembolsado na penúltima parcela pago do empréstimo.\nApós encaminhar toda a documentação a concluir o pagamento do Seguro Prestamista a empresa já lhe encaminha o contrato pronto e lavrado, é assim que nos encaminhar ele assinando a empresa por lei tem um prazo de 2 horas para estar concluindo a transferência bancária para a sua conta.\n\nPrimeira parcela com vencimento para 60 dias!\n\nJUROS BAIXOS JÁ\nCNPJ: 28.812.324/0001-43\nENDEREÇO: R Mauricio Lorencini, 140, Jardim Santa Teresa, Jundiai, SP.\n\nAtenciosamente,\nMaiara Kelly",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "457497d9f98ab6ac361992c86ab4485a77d25d3943576e15e3bbbec4299d98c4"
+  },
+  "call_id": "3bb9bcbe998625a4ac4db75f0cad1d34c0d700d42bbfe0dacea82229d4027524",
+  "filtered": {
+    "Motivo": "O texto apresenta características típicas de um golpe de ganho financeiro ilusório, como a promessa de reembolso do valor pago do Seguro Prestamista e a rápida realização de uma transferência bancária após a assinatura do contrato, o que visa induzir a vítima a realizar pagamentos com a expectativa de obter um retorno financeiro. A menção a documentos e contratos serve como fachada de legitimidade, induzindo a confiança da vítima para que forneça informações pessoais e realize pagamentos antecipados.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Se realizou algum pagamento ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 2. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 3. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto apresenta características típicas de um golpe de ganho financeiro ilusório, como a promessa de reembolso do valor pago do Seguro Prestamista e a rápida realização de uma transferência bancária após a assinatura do contrato, o que visa induzir a vítima a realizar pagamentos com a expectativa de obter um retorno financeiro. A menção a documentos e contratos serve como fachada de legitimidade, induzindo a confiança da vítima para que forneça informações pessoais e realize pagamentos antecipados.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Se realizou algum pagamento ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 2. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 3. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

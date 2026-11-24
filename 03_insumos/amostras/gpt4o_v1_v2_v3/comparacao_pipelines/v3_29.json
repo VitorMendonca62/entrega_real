@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 29,
+    "text": "Procuro um homem que possa me amar pelo que sou e cuidar de mim e se casar comigo farei os mesmos planos juntos",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "17c7fed372db6205db3cbdab4a128c8490eddd8456bbdcf39143584b6bbdb790"
+  },
+  "call_id": "ad7795c3cf3bd5a6db2c377a824c554290bebee080851a795d24cd1420fe9c5a",
+  "filtered": {
+    "Motivo": "O texto apela a um desejo emocional e romântico ao buscar um parceiro amoroso, o que é uma característica inicial comum no modus operandi dos golpes baseados em relacionamento. A promessa de amor e casamento sugere a criação de um vínculo afetivo intenso que pode ser explorado para manipulação posterior.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos; tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear; denunciar o perfil falso usando as ferramentas do Facebook; registrar B.O. na delegacia de crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto apela a um desejo emocional e romântico ao buscar um parceiro amoroso, o que é uma característica inicial comum no modus operandi dos golpes baseados em relacionamento. A promessa de amor e casamento sugere a criação de um vínculo afetivo intenso que pode ser explorado para manipulação posterior.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos; tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear; denunciar o perfil falso usando as ferramentas do Facebook; registrar B.O. na delegacia de crimes cibernéticos."
+  }
+}

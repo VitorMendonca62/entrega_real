@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 5,
+    "text": "Números ddd aleatório Brasil \nNúmeros internacionais ",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "667fe6128f499468c6586cde0c8c10ab1f1992c9c4b49b31046e3794ff0d0016"
+  },
+  "call_id": "453bd879d51daf0896b0332688cccc938593db3332b41e01d2cd915da2d0f133",
+  "filtered": {
+    "Motivo": "O texto faz referência a números aleatórios, incluindo internacionais, o que pode ser usado como estratégia para iniciar contatos fraudulentos através de mensagens de texto ou aplicativos de comunicação. Sem um contexto claro, isso é típico de tentativas de criar listas de contatos para campanhas de phishing.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não responda ou interaja com mensagens de números desconhecidos, principalmente internacionais.\n2. Bloqueie e denuncie números que enviam mensagens suspeitas ou aparentemente aleatórias.\n3. Mantenha seu dispositivo seguro com software antivírus atualizado e alerte as pessoas próximas sobre essas práticas para evitar ataques futuros.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto faz referência a números aleatórios, incluindo internacionais, o que pode ser usado como estratégia para iniciar contatos fraudulentos através de mensagens de texto ou aplicativos de comunicação. Sem um contexto claro, isso é típico de tentativas de criar listas de contatos para campanhas de phishing.",
+    "Base_Legal": "• Art. 171 do Código Penal (Estelionato)\n• Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não responda ou interaja com mensagens de números desconhecidos, principalmente internacionais.\n2. Bloqueie e denuncie números que enviam mensagens suspeitas ou aparentemente aleatórias.\n3. Mantenha seu dispositivo seguro com software antivírus atualizado e alerte as pessoas próximas sobre essas práticas para evitar ataques futuros."
+  }
+}

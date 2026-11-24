@@ -1,0 +1,16 @@
+{
+  "method": "5/category-source group, seed42; 80 paired inputs; corpus category and simulated confidence0.92",
+  "versions": [
+    "v2",
+    "v3"
+  ],
+  "model": "gpt-4o",
+  "explicit_generation_overrides": {},
+  "deviations": [
+    "Paired sequential execution V2 then V3 for each input.",
+    "Retries disabled; timeout90s; budget reservation before each request.",
+    "Authentication read from local .env, never from author source literals."
+  ],
+  "gpt5_calls": 0,
+  "v1_scope": "reference only; published450-row output and code; no API calls"
+}

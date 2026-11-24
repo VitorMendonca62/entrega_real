@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 63,
+    "text": "Apenas me forcei a comer uma fatia. Eu realmente não estou com fome. Isso é uma droga. Mark está ficando preocupado. Ele sabe que estou doente quando recuso pizza. Lol",
+    "category": "Seguro",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "45cb4b8e15e345c1d0c2e6c55b23f26fc1c7670c325a7fba98455721a02639bb"
+  },
+  "call_id": "706b2d2cdcccc5d19e69a5d2b606a66580be675df29470fe13712d9b72d258ab",
+  "filtered": {
+    "Motivo": "O texto analisado é uma narrativa pessoal, mencionando a falta de apetite e uma referência humorística a recusar pizza, não apresentando qualquer elemento de engenharia social, fraude ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado é uma narrativa pessoal, mencionando a falta de apetite e uma referência humorística a recusar pizza, não apresentando qualquer elemento de engenharia social, fraude ou intenção maliciosa.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

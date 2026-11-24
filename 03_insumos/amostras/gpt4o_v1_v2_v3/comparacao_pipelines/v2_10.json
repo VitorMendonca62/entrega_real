@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 10,
+    "text": "Experiência horrível, tudo preso, cozido uniformemente. O único problema é que não é realmente um",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "8c1766d44e1391d2c40c5f1e5b4d7a761d3afe20d93e286d21b2b547746d48bf"
+  },
+  "call_id": "58e4cd67df69715e8dce7e71dddea2cec1483717b6239451d4f92ace87bece7a",
+  "filtered": {
+    "Motivo": "O texto não oferece informações claras que indiquem a categoria de fraude contra lojas virtuais falsas, como ofertas irreais, solicitações de pagamento por meio arriscado ou clonado de identidade visual de marcas. Mas, a classificação do modelo BERTimbau e a categoria fornecida foram de alta confiança na detecção desta modalidade.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto não oferece informações claras que indiquem a categoria de fraude contra lojas virtuais falsas, como ofertas irreais, solicitações de pagamento por meio arriscado ou clonado de identidade visual de marcas. Mas, a classificação do modelo BERTimbau e a categoria fornecida foram de alta confiança na detecção desta modalidade.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Código de Defesa do Consumidor (CDC), LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

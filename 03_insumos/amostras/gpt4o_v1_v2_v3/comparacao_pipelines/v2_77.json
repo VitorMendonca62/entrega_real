@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 77,
+    "text": "SUPOSTO PAREDÃO 🔥\nQuem você elimina?\n🤔🤔😯😲",
+    "category": "Seguro",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "e7f9c0e16a49701e2d68618b6737090b37893820ba13c4a7cd9c504a28c096dc"
+  },
+  "call_id": "244f3d11aea507c212586cc64fd2de0ee0e33e8833c2e4b167f128cc133f237b",
+  "filtered": {
+    "Motivo": "O texto 'SUPOSTO PAREDÃO 🔥 Quem você elimina? 🤔🤔😯😲' não apresenta indícios de engenharia social, fraude ou intenção maliciosa. Apresenta-se como uma pergunta ou enquete sem qualquer promessa enganosa ou solicitação de dados pessoais.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto 'SUPOSTO PAREDÃO 🔥 Quem você elimina? 🤔🤔😯😲' não apresenta indícios de engenharia social, fraude ou intenção maliciosa. Apresenta-se como uma pergunta ou enquete sem qualquer promessa enganosa ou solicitação de dados pessoais.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

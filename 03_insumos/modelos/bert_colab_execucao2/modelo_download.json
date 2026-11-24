@@ -1,0 +1,48 @@
+{
+  "repo_id": "VitorMendonca62/veritaplugin-bert-replicacao-execucao2",
+  "revision": "2252be93d4b0e5299a71eeb9cd1610952afaf774",
+  "publico": true,
+  "commit_url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-replicacao-execucao2/commit/2252be93d4b0e5299a71eeb9cd1610952afaf774",
+  "destino_padrao": ".",
+  "files": [
+    {
+      "file": "config.json",
+      "bytes": 1575,
+      "sha256": "0354d2760b808653db90812523acf211cfc23fe3418ba16d7910fd2af6bf708f",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-replicacao-execucao2/resolve/2252be93d4b0e5299a71eeb9cd1610952afaf774/config.json"
+    },
+    {
+      "file": "model.safetensors",
+      "bytes": 435734528,
+      "sha256": "ebdcfd34b6ff30daa1bacffebe6b41d01efb25868a8b597a4be925d33c230ccf",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-replicacao-execucao2/resolve/2252be93d4b0e5299a71eeb9cd1610952afaf774/model.safetensors"
+    },
+    {
+      "file": "special_tokens_map.json",
+      "bytes": 125,
+      "sha256": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-replicacao-execucao2/resolve/2252be93d4b0e5299a71eeb9cd1610952afaf774/special_tokens_map.json"
+    },
+    {
+      "file": "tokenizer.json",
+      "bytes": 678055,
+      "sha256": "1e0f07993dcfa9b2d64d389790ba3e9b197738ed669a6cf2ab92c58662e594cc",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-replicacao-execucao2/resolve/2252be93d4b0e5299a71eeb9cd1610952afaf774/tokenizer.json"
+    },
+    {
+      "file": "tokenizer_config.json",
+      "bytes": 1271,
+      "sha256": "0eb95891c3de474ec9ea0cd665b43f1e9fdd3604f76e8d66b3f85e9b301232a1",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-replicacao-execucao2/resolve/2252be93d4b0e5299a71eeb9cd1610952afaf774/tokenizer_config.json"
+    },
+    {
+      "file": "vocab.txt",
+      "bytes": 209528,
+      "sha256": "69c28584c67a0e5018f85ca734aa272cc38e26b5dd0d33fffa28059299f21707",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-replicacao-execucao2/resolve/2252be93d4b0e5299a71eeb9cd1610952afaf774/vocab.txt"
+    }
+  ],
+  "origem": "Downloads/execucao_20261026T164112242756Z.zip, resultados_bert/modelo_final/",
+  "timestamp": "2026-11-24T15:07:02.986842+00:00",
+  "nota": "Modelo BERTimbau da replicação, 2ª execução (holdout, Colab, 26/10/2026). Os pesos (model.safetensors) não ficam na entrega; baixar com 03_insumos/scripts/baixar_modelo_hf.py"
+}

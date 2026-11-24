@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 4,
+    "text": "Obrigado pela sua assinatura da Ringtone UK, seu celular será cobrado £ 5/mês. Confirme respondendo SIM ou NÃO. Se você responder NÃO, você não será cobrado",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "2483514e387fb40378cd48bf2f9697d042e478585b18f1059e7d0dad500ffba5"
+  },
+  "call_id": "6d450c9e9f98ed8d2ed40243bf2012816aadad5e35f71bdb8a4a5692c6dd838b",
+  "filtered": {
+    "Motivo": "A mensagem analisa um comportamento típico de phishing, onde é solicitado ao destinatário que responda à mensagem para evitar uma cobrança indesejada. Isto incentiva a interação da vítima para a coleta de dados ou instalação de uma cobrança indevida, comum em esquemas de phishing que se passam por serviços legítimos para obter dados ou consentimento fraudulento.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Alterar imediatamente todas as senhas comprometidas (rede social, e-mail, bancos) e ativar Autenticação de Dois Fatores (2FA). Bloquear o remetente e denunciar a mensagem maliciosa na plataforma. Salvar capturas de tela da mensagem original e do link malicioso recebido. Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica).",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "A mensagem analisa um comportamento típico de phishing, onde é solicitado ao destinatário que responda à mensagem para evitar uma cobrança indesejada. Isto incentiva a interação da vítima para a coleta de dados ou instalação de uma cobrança indevida, comum em esquemas de phishing que se passam por serviços legítimos para obter dados ou consentimento fraudulento.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Alterar imediatamente todas as senhas comprometidas (rede social, e-mail, bancos) e ativar Autenticação de Dois Fatores (2FA). Bloquear o remetente e denunciar a mensagem maliciosa na plataforma. Salvar capturas de tela da mensagem original e do link malicioso recebido. Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica)."
+  }
+}

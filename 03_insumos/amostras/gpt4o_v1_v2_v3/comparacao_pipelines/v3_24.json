@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 24,
+    "text": "Faça seu teste grátis por 24 horas! Coloco inteligência artificial na sua câmera de comércio residência veículo etc. Por 35 reais mensal. Mais informações ZAP [hidden information]3",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "e1699deb61a4b9f238a5f4509dd1c8c74597daaa73786f31083c908a5150c674"
+  },
+  "call_id": "8b1b09592e8c9593593fe945bc375a3a71c6460c0c1519f7b86ca374268a3750",
+  "filtered": {
+    "Motivo": "O texto promete um serviço de inteligência artificial \"por 35 reais mensal\" sem fornecer informações detalhadas, regulamentações, ou identificação clara da oferta. A abordagem é feita através de contato via WhatsApp, o que pode indicar uma tentativa de evitar plataformas mais reguladas. Essas características são compatíveis com práticas de lojas virtuais falsas, onde o objetivo é receber pagamento antecipado para um serviço possivelmente inexistente.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não avance com a compra ou contratação do serviço. 2. Não compartilhe seus dados pessoais ou bancários com o anunciante. 3. Denuncie o anúncio em plataformas digitais e às autoridades competentes. 4. Se houver interação financeira, entre em contato com sua instituição financeira para prevenção de fraudes e possivelmente estornar valores.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto promete um serviço de inteligência artificial \"por 35 reais mensal\" sem fornecer informações detalhadas, regulamentações, ou identificação clara da oferta. A abordagem é feita através de contato via WhatsApp, o que pode indicar uma tentativa de evitar plataformas mais reguladas. Essas características são compatíveis com práticas de lojas virtuais falsas, onde o objetivo é receber pagamento antecipado para um serviço possivelmente inexistente.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não avance com a compra ou contratação do serviço. 2. Não compartilhe seus dados pessoais ou bancários com o anunciante. 3. Denuncie o anúncio em plataformas digitais e às autoridades competentes. 4. Se houver interação financeira, entre em contato com sua instituição financeira para prevenção de fraudes e possivelmente estornar valores."
+  }
+}

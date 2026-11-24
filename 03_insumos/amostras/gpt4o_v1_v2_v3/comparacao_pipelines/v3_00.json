@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 0,
+    "text": "Lembrete da O2: Para ganhar £2,50 de crédito grátis para chamadas e detalhes de ótimas ofertas, responda a esta mensagem com seu nome, número da casa e CEP válidos.",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "b948632d8b9fa6eb69e3d6b7fd42302600065e556ff1c725900b4e2c27a56ef3"
+  },
+  "call_id": "8fc0fa254f57cde75673d62dbfe5a8674d2a4e323c99c9666dcb0b30e615a0fe",
+  "filtered": {
+    "Motivo": "O texto solicita que o destinatário forneça dados pessoais, como nome, número da casa e CEP, sob o pretexto de ganhar crédito grátis e acesso a ofertas. A mensagem aparenta ser de origem duvidosa, imitando comunicação legítima, mas visivelmente tenta coletar informações sensíveis para possível uso indevido.",
+    "Base_Legal": "LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Não responda à mensagem e bloqueie o remetente imediatamente. 2. Denuncie a mensagem como phishing na própria operadora ou plataforma de comunicação. 3. Caso tenha fornecido informações, contacte relevantes instituições (como o banco) para reforçar a segurança de suas contas. 4. Considere registrar um Boletim de Ocorrência relatando a tentativa de phishing.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto solicita que o destinatário forneça dados pessoais, como nome, número da casa e CEP, sob o pretexto de ganhar crédito grátis e acesso a ofertas. A mensagem aparenta ser de origem duvidosa, imitando comunicação legítima, mas visivelmente tenta coletar informações sensíveis para possível uso indevido.",
+    "Base_Legal": "LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Não responda à mensagem e bloqueie o remetente imediatamente. 2. Denuncie a mensagem como phishing na própria operadora ou plataforma de comunicação. 3. Caso tenha fornecido informações, contacte relevantes instituições (como o banco) para reforçar a segurança de suas contas. 4. Considere registrar um Boletim de Ocorrência relatando a tentativa de phishing."
+  }
+}

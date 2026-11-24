@@ -1,0 +1,38 @@
+{
+  "smoke": {
+    "inicio_utc": "2026-11-16T21:41:20.510312+00:00",
+    "status": "completa",
+    "returncode": 0,
+    "segundos": 27
+  },
+  "etapa1_fbcv_AB": {
+    "inicio_utc": "2026-11-16T21:41:47.885282+00:00",
+    "status": "completa",
+    "returncode": 0,
+    "segundos": 2204
+  },
+  "etapa2_loso_interno": {
+    "inicio_utc": "2026-11-16T22:18:32.172380+00:00",
+    "status": "completa",
+    "returncode": 0,
+    "segundos": 433
+  },
+  "etapa3_loso_fontes": {
+    "inicio_utc": "2026-11-16T22:25:44.796536+00:00",
+    "status": "completa",
+    "returncode": 0,
+    "segundos": 3784
+  },
+  "etapa4_fbcv_C": {
+    "inicio_utc": "2026-11-16T23:28:48.724323+00:00",
+    "status": "completa",
+    "returncode": 0,
+    "segundos": 1535
+  },
+  "etapa5_final_B": {
+    "inicio_utc": "2026-11-16T23:54:23.711854+00:00",
+    "status": "completa",
+    "returncode": 0,
+    "segundos": 343
+  }
+}

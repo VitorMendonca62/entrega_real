@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 18,
+    "text": "Servidor Whois: whois.namecheap.comNAMECHEAP INC NameCheap, Inc.Criado em 2024/02/08Expira em 2025/02/08",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 7",
+    "score": 0.92,
+    "sha256_text": "b7cac6b82e9bab4fc3371825c21dcf92136259c5974b1387eb5e6caa5921996b"
+  },
+  "call_id": "35fca9b409e5f01efed3d7385d3a3ac28ab961bf05b8532b34f8575000e562ca",
+  "filtered": {
+    "Motivo": "O texto fornece informações do domínio de uma loja virtual, indicando que foi recentemente criado e que tem uma data de expiração relativamente curta. Isso pode ser característico de fraudes em lojas virtuais que criam sites temporários para enganar consumidores, captar pagamentos de produtos que não serão entregues ou para coletar dados pessoais/bancários sob falso pretexto.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Reunir provas pertinentes ao domínio como capturas de tela, antes que saia do ar. 2. Verificar cautelosamente a legitimidade do site ou ofertas associadas a este domínio antes de realizar qualquer pagamento. 3. Acionar a instituição financeira se alguma transação suspeita já tiver ocorrido em relação a esse domínio. 4. Caso haja indícios de fraude, registrar um Boletim de Ocorrência informando o potencial golpe associado ao domínio.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto fornece informações do domínio de uma loja virtual, indicando que foi recentemente criado e que tem uma data de expiração relativamente curta. Isso pode ser característico de fraudes em lojas virtuais que criam sites temporários para enganar consumidores, captar pagamentos de produtos que não serão entregues ou para coletar dados pessoais/bancários sob falso pretexto.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Reunir provas pertinentes ao domínio como capturas de tela, antes que saia do ar. 2. Verificar cautelosamente a legitimidade do site ou ofertas associadas a este domínio antes de realizar qualquer pagamento. 3. Acionar a instituição financeira se alguma transação suspeita já tiver ocorrido em relação a esse domínio. 4. Caso haja indícios de fraude, registrar um Boletim de Ocorrência informando o potencial golpe associado ao domínio."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 20,
+    "text": "💊Um produto perfeito para auxiliar no seu emagrecimento saudável (LIFT DETOX BLACK) \n.\nSeus benefícios são: \n✅Queima gordura localizada.\n✅Diminui a fome.\n✅Acelera o metabolismo.\n✅Controla ansiedade.\n✅Regula o colesterol ruim e melhora o colesterol bom.\n✅Mais disposição diminuindo o cansaço durante o dia.\n.\n⬆️ Click no Link Azul da Bio e Saiba Mais ⬆️\n.\n#liftdetoxcaps #detox #emagrecimento #emagrecacomsaude #formulanatural #percapeso #saude #inibidordeapetite #vemverão #xogordura #emagrecimentosaudavel #vidasaudavel #qualidadedevida #acreditabonita #antesedepois #bemestar #exgordinha #motivacao #boaforma #fretegratis",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "7aff6fcf8eb2b3d59c850578a2064ae7497066dcc20af8b4638b9cce5463ab4d"
+  },
+  "call_id": "0b8d452e309e506a6537644a1f93fafb70e78f77395241ed9d3e513e2366f417",
+  "filtered": {
+    "Motivo": "A publicação utiliza um produto popular para emagrecimento como isca, mencionando benefícios genéricos e sem evidência científica. Ademais, direciona o usuário a 'clicar no link na bio', uma tática comum para redirecionar a vítima para um site falso ou checkout inadequado para capturar dados bancários ou solicitar pagamentos antecipados por métodos como Pix ou boleto.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "A publicação utiliza um produto popular para emagrecimento como isca, mencionando benefícios genéricos e sem evidência científica. Ademais, direciona o usuário a 'clicar no link na bio', uma tática comum para redirecionar a vítima para um site falso ou checkout inadequado para capturar dados bancários ou solicitar pagamentos antecipados por métodos como Pix ou boleto.",
+    "Base_Legal": "• Art. 171 do Código Penal (Estelionato) • Lei nº 14.155/2021 (Fraude Eletrônica) • Código de Defesa do Consumidor (CDC) • LGPD — Lei Geral de Proteção de Dados ",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

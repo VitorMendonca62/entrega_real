@@ -1,0 +1,11 @@
+Afirmação original,Página/tabela/seção,Artefato,Procedimento,Recursos,Situação final
+450 textos 75/classe,p.9–10 / 4.1,planilhas GitHub,contagens e hashes,CPU,Executado: 450 e 75/classe; duas duplicatas
+BERT CV 0.763±0.034,p.12–14 / 5.2,splits modelo base e treinamento,seis treinos completos,GPU 16GB recomendada,"Executado: 5 folds novos, 0,765588±0,036405; folds 1, 3, 4 e 5 idênticos aos JSONs das autoras; fold 2 +1,14 pp"
+BERT holdout 0.828,p.12 / 5.2,checkpoint e manifesto de treino,avaliar teste independente,CPU/GPU,"Executado: F1 0,688197, acurácia 68,8889% (31/45 vs 37/45 das autoras); Fisher p≈0,22, sem significância com n=45"
+Baseline ~0.67,p.12 / 5.2,treinamento.py e planilha,CV k=5 seed 42 original,CPU,"Executado e investigado: 1.5.0/1.5.1/1.5.2 idênticos; strip idêntico; folds BERT 0,702840; causa não estabelecida; +3,34 pp vs artigo arredondado"
+RAG por chave e filtro,p.11 / 4.3,base e pipeline,30 casos sintéticos,CPU,Executado: falha de prefixo e flag identificadas
+Explicações GPT-4o,p.11 / 4.3,chave e orçamento,18 piloto + 12 integradas + 160 V2/V3; bruto e filtrado,API paga,"Executado: 190 chamadas GPT-4o; V1 reanalisada sem GPT-5; V2/V3 80 cada; custo total estimado US$ 1,023203"
+Seleção e modal,p.12 / 5.1,extensão réplica API,fluxo Chrome local,Navegador MV3,Executado: 6 modais checkpoint publicado +6 com BERT Colab; evidências separadas; extrator preservado
+SUS e avaliação jurídica,p.14 / futuro; README,formulários,recalcular sem novos sujeitos,CPU,Reanalisado: SUS 87.0 e pertinência 49/72
+Latência 2–4s,README reivindicação 4,sistema integrado,medir seleção até modal,CPU + GPT,"Checkpoint publicado: 2,316–4,675 s (n=6); BERT Colab: 2,686–4,526 s (n=6); modelo carregado; sem garantia estatística"
+Comparação V1/V2/V3,Figura 3 / código complementar,prompts bases e planilhas,amostra original seed 42; 80 pares,GPT-4o,"V1 reanalisada (450); V2/V3 reexecutadas, 80 cada; bases/filtros diferentes impedem atribuição só ao prompt"

@@ -1,0 +1,47 @@
+{
+  "repo_id": "VitorMendonca62/veritaplugin-bert-retreino-unificado",
+  "revision": "d2db9dc4af7cc218a6f469b3423508b418e6ba44",
+  "publico": true,
+  "commit_url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado/commit/d2db9dc4af7cc218a6f469b3423508b418e6ba44",
+  "files": [
+    {
+      "file": "config.json",
+      "bytes": 1575,
+      "sha256": "0354d2760b808653db90812523acf211cfc23fe3418ba16d7910fd2af6bf708f",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado/resolve/d2db9dc4af7cc218a6f469b3423508b418e6ba44/config.json"
+    },
+    {
+      "file": "model.safetensors",
+      "bytes": 435734528,
+      "sha256": "a22df8a5ad0a11872a0c80c66506abfa03e19a38f4a52f07776a277d001b7fc2",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado/resolve/d2db9dc4af7cc218a6f469b3423508b418e6ba44/model.safetensors"
+    },
+    {
+      "file": "special_tokens_map.json",
+      "bytes": 125,
+      "sha256": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado/resolve/d2db9dc4af7cc218a6f469b3423508b418e6ba44/special_tokens_map.json"
+    },
+    {
+      "file": "tokenizer.json",
+      "bytes": 677888,
+      "sha256": "45ccb3e514665f3b11b5e2a8e1a3e29765d94330bc7232aa46c4cdc485bc8881",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado/resolve/d2db9dc4af7cc218a6f469b3423508b418e6ba44/tokenizer.json"
+    },
+    {
+      "file": "tokenizer_config.json",
+      "bytes": 1271,
+      "sha256": "0eb95891c3de474ec9ea0cd665b43f1e9fdd3604f76e8d66b3f85e9b301232a1",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado/resolve/d2db9dc4af7cc218a6f469b3423508b418e6ba44/tokenizer_config.json"
+    },
+    {
+      "file": "vocab.txt",
+      "bytes": 209528,
+      "sha256": "69c28584c67a0e5018f85ca734aa272cc38e26b5dd0d33fffa28059299f21707",
+      "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado/resolve/d2db9dc4af7cc218a6f469b3423508b418e6ba44/vocab.txt"
+    }
+  ],
+  "timestamp": "2026-11-24T14:49:18.435528+00:00",
+  "nota": "Modelo B do retreino (não instalado no plugin). Baixar com 03_insumos/scripts/baixar_modelo_hf.py",
+  "destino_padrao": "modelo_candidato"
+}

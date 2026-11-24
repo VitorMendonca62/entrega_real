@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 14,
+    "text": "Números grandes e fáceis de ler, a única coisa que não gostei foi o tamanho do",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "5cde7e5e8bfbaf94467fa8e2554c6111ed0175d512fcd9d43186000ec01117ad"
+  },
+  "call_id": "b225c7abbc6f4fbffa06d3d90862fed4d8e8c6ebed835ea1a9d05d3522b9170a",
+  "filtered": {
+    "Motivo": "O texto apresenta elementos típicos de avaliações ou tentativas de análise de produtos, indicando que pode ser parte de uma propaganda enganosa vinculada a uma loja online falsa. Isso é comum em fraudes de lojas virtuais falsas, onde se mostram falsas avaliações ou informações atrativas para atrair compradores.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook; Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão; Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento; Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto apresenta elementos típicos de avaliações ou tentativas de análise de produtos, indicando que pode ser parte de uma propaganda enganosa vinculada a uma loja online falsa. Isso é comum em fraudes de lojas virtuais falsas, onde se mostram falsas avaliações ou informações atrativas para atrair compradores.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook; Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão; Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento; Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

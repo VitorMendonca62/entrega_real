@@ -1,0 +1,138 @@
+{
+ "experimento": "loso_B_Externo6",
+ "n_treino": 658,
+ "n_val": 50,
+ "n_teste": 43,
+ "epocas_executadas": 4,
+ "melhor_val_f1_macro": 0.779,
+ "historico_val": [
+  {
+   "epoch": 1.0,
+   "eval_loss": 1.2756980657577515,
+   "eval_f1_macro": 0.6019,
+   "eval_accuracy": 0.7
+  },
+  {
+   "epoch": 2.0,
+   "eval_loss": 0.8857467770576477,
+   "eval_f1_macro": 0.7283,
+   "eval_accuracy": 0.76
+  },
+  {
+   "epoch": 3.0,
+   "eval_loss": 0.7304298281669617,
+   "eval_f1_macro": 0.779,
+   "eval_accuracy": 0.78
+  },
+  {
+   "epoch": 4.0,
+   "eval_loss": 0.6893808245658875,
+   "eval_f1_macro": 0.779,
+   "eval_accuracy": 0.78
+  }
+ ],
+ "acc": 0.4651,
+ "f1_macro_classes_presentes": 0.4694,
+ "report": {
+  "Relacionamento": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Financeiro": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Phishing": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Loja Falsa": {
+   "precision": 0.7857142857142857,
+   "recall": 0.3548387096774194,
+   "f1-score": 0.4888888888888889,
+   "support": 31.0
+  },
+  "Desinformação": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Seguro": {
+   "precision": 0.32142857142857145,
+   "recall": 0.75,
+   "f1-score": 0.45,
+   "support": 12.0
+  },
+  "accuracy": 0.46511627906976744,
+  "macro avg": {
+   "precision": 0.18452380952380953,
+   "recall": 0.1841397849462366,
+   "f1-score": 0.15648148148148147,
+   "support": 43.0
+  },
+  "weighted avg": {
+   "precision": 0.6561461794019934,
+   "recall": 0.46511627906976744,
+   "f1-score": 0.47803617571059437,
+   "support": 43.0
+  }
+ },
+ "matriz": [
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   1,
+   0,
+   0,
+   11,
+   0,
+   19
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   3,
+   0,
+   9
+  ]
+ ],
+ "segundos": 326
+}

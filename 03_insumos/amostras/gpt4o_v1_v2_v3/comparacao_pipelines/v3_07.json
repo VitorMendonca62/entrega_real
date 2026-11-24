@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 7,
+    "text": "VOCÊ CONSEGUE 🚀\nJá pensou em ganhar dinheiro no conforto da sua casa, perto da sua família com o seu celular?\nEu posso te ajudar clique no link da Bio que vou te ajudar!\nSiga-me @ganhar.dinheiro.onlline \n#ganhardinheiroonline #ganhardinheironainternet\n#dinheiroemcasa #marketingdigital #marketingdigitalbrasil\n#empreendedorismo #empreender #empreendedorismofeminino",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "2affbf2761914bd539621d6ec9d8e7034f206f71960f8806ad081140e83e42b5"
+  },
+  "call_id": "d8e01f9151112211832799b87f68792fb5de0ae49553d36851b6aaf56a81f5d7",
+  "filtered": {
+    "Motivo": "O texto promove uma oferta de ganho financeiro fácil ao clicar em um link na biografia, o que é uma técnica comum em campanhas de phishing para atrair vítimas incautas e induzi-las a fornecer informações ou credenciais. A ênfase em 'ganhar dinheiro no conforto da sua casa' sugere uma proposta tentadora típica de golpes.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Evite clicar em links suspeitos ou seguir perfis de origem duvidosa. 2. Denuncie o perfil @ganhar.dinheiro.onlline na plataforma utilizada para que a mesma tome medidas cabíveis. 3. Caso tenha clicado e compartilhado dados, altere imediatamente suas senhas e ative a Autenticação em Dois Fatores (2FA). 4. Salve capturas de tela da mensagem e do perfil para possível investigação futura.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto promove uma oferta de ganho financeiro fácil ao clicar em um link na biografia, o que é uma técnica comum em campanhas de phishing para atrair vítimas incautas e induzi-las a fornecer informações ou credenciais. A ênfase em 'ganhar dinheiro no conforto da sua casa' sugere uma proposta tentadora típica de golpes.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Evite clicar em links suspeitos ou seguir perfis de origem duvidosa. 2. Denuncie o perfil @ganhar.dinheiro.onlline na plataforma utilizada para que a mesma tome medidas cabíveis. 3. Caso tenha clicado e compartilhado dados, altere imediatamente suas senhas e ative a Autenticação em Dois Fatores (2FA). 4. Salve capturas de tela da mensagem e do perfil para possível investigação futura."
+  }
+}

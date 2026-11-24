@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 32,
+    "text": "\"Olá, meu amor.\nSamanta acabou de te encontrar no Facebook❤️\"",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "f3299be33578b9176ff903f844f47c0b88248402cc0516e266e17d3a31a759bc"
+  },
+  "call_id": "10c935fa9c599dc25dfc66855f79c2d61c547de418152060081e72279604ad4a",
+  "filtered": {
+    "Motivo": "O texto inicia com uma expressão carinhosa '(Olá, meu amor)' e menciona uma conexão instantânea no '(Facebook❤️)', o que são indicações típicas de abordagens intensas e românticas frequentemente usadas em golpes baseados em relacionamento para criar um vínculo emocional rápido e explorar a confiança da vítima.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 4. Denunciar o perfil falso usando as ferramentas do Facebook. 5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto inicia com uma expressão carinhosa '(Olá, meu amor)' e menciona uma conexão instantânea no '(Facebook❤️)', o que são indicações típicas de abordagens intensas e românticas frequentemente usadas em golpes baseados em relacionamento para criar um vínculo emocional rápido e explorar a confiança da vítima.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 4. Denunciar o perfil falso usando as ferramentas do Facebook. 5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas."
+  }
+}

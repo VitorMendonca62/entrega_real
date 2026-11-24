@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 24,
+    "text": "Faça seu teste grátis por 24 horas! Coloco inteligência artificial na sua câmera de comércio residência veículo etc. Por 35 reais mensal. Mais informações ZAP [hidden information]3",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "e1699deb61a4b9f238a5f4509dd1c8c74597daaa73786f31083c908a5150c674"
+  },
+  "call_id": "ae77d0d3be01577b01e7ab7363ae1cf084d501ec2e2c3c9434797ba0fd3aaf70",
+  "filtered": {
+    "Motivo": "A mensagem suscita suspeitas ao oferecer um serviço de assinatura de \"inteligência artificial\" por apenas 35 reais mensais, o que é um preço significativamente abaixo do mercado para tecnologias dessa complexidade, indicando uma tentativa de atrair consumidores de forma enganosa. O ponto de contato sendo um número do WhatsApp, ao invés de um site ou plataforma de venda reconhecida, fortalece a suspeita de fraude, típica de lojas virtuais falsas que usam comunicação direta para evitar rastreamento e fiscalização, além do uso de um teste \"grátis\" para atrair vítimas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor no WhatsApp. 2. Acionar a instituição financeira caso já tenha efetuado algum pagamento. 3. Reunir provas: capturas de tela do anúncio, conversa e detalhes do número de contato. 4. Registrar B.O. formalizando a tentativa de fraude digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "A mensagem suscita suspeitas ao oferecer um serviço de assinatura de \"inteligência artificial\" por apenas 35 reais mensais, o que é um preço significativamente abaixo do mercado para tecnologias dessa complexidade, indicando uma tentativa de atrair consumidores de forma enganosa. O ponto de contato sendo um número do WhatsApp, ao invés de um site ou plataforma de venda reconhecida, fortalece a suspeita de fraude, típica de lojas virtuais falsas que usam comunicação direta para evitar rastreamento e fiscalização, além do uso de um teste \"grátis\" para atrair vítimas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor no WhatsApp. 2. Acionar a instituição financeira caso já tenha efetuado algum pagamento. 3. Reunir provas: capturas de tela do anúncio, conversa e detalhes do número de contato. 4. Registrar B.O. formalizando a tentativa de fraude digital."
+  }
+}

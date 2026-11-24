@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 2,
+    "text": "Teste do Sol Wkly Q! Ganhar um leitor de DVD topo de gama da Sony se souber em que país fica o Algarve? Envie uma mensagem de texto para 82277. £1,50 SP:Tyrone",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "5f3cbf87206ae0a0410cfe1f04a2774cfcb619d1073faa70a08e97a9f12a3ac6"
+  },
+  "call_id": "bfb8b67ceb5431eef227f9fd022e18465173c7a096dfec0a91776085784ad25d",
+  "filtered": {
+    "Motivo": "O texto configura um ataque de phishing por oferecer um suposto prêmio (um leitor de DVD da Sony) em troca do envio de uma mensagem de texto paga. Este modus operandi é típico de esquemas de phishing, onde se tenta obter vantagem financeira ou dados pessoais através de engano ou manipulação da vítima.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não responda nem envie mensagens para o número indicado. 2. Bloquear e denunciar o número de telefone ao seu provedor de serviços. 3. Informar amigos e familiares sobre o golpe para evitar que eles também sejam vítimas.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto configura um ataque de phishing por oferecer um suposto prêmio (um leitor de DVD da Sony) em troca do envio de uma mensagem de texto paga. Este modus operandi é típico de esquemas de phishing, onde se tenta obter vantagem financeira ou dados pessoais através de engano ou manipulação da vítima.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não responda nem envie mensagens para o número indicado. 2. Bloquear e denunciar o número de telefone ao seu provedor de serviços. 3. Informar amigos e familiares sobre o golpe para evitar que eles também sejam vítimas."
+  }
+}

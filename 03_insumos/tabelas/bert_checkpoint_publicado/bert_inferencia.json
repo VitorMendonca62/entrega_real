@@ -1,0 +1,152 @@
+{
+  "escopo": "smoke test; sem métrica fora da amostra; textos README e sintéticos sem rótulo validado",
+  "carregamento_segundos": 0.7163953069975832,
+  "threads": 2,
+  "cuda": false,
+  "predicoes": [
+    {
+      "id": "exemplo_README_1",
+      "repeticao": 0,
+      "texto": "PARABÉNS! Você foi sorteado e ganhou R$ 5.000,00. Clique no link e informe seus dados bancários para resgatar.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.4566,
+      "segundos": 0.3462567879978451
+    },
+    {
+      "id": "exemplo_README_2",
+      "repeticao": 0,
+      "texto": "Seu CPF foi bloqueado na Receita Federal. Acesse o link e confirme seus dados em até 24h.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.3033,
+      "segundos": 0.15306564000275102
+    },
+    {
+      "id": "exemplo_README_3",
+      "repeticao": 0,
+      "texto": "Bom dia, pessoal! Amanhã tem reunião do condomínio às 19h no salão de festas.",
+      "categoria": "Golpes de Desinformação Digital",
+      "score": 0.2257,
+      "segundos": 0.1296753139977227
+    },
+    {
+      "id": "sintetico_relacionamento",
+      "repeticao": 0,
+      "texto": "Meu amor, preciso de dinheiro para pagar a passagem e encontrar você. Transfira hoje para a conta do meu agente.",
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "score": 0.3293,
+      "segundos": 0.1339988629988511
+    },
+    {
+      "id": "sintetico_loja",
+      "repeticao": 0,
+      "texto": "Celular novo por R$ 99. Oferta exclusiva, pague agora via Pix para garantir seu aparelho.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.3635,
+      "segundos": 0.13849848300014855
+    },
+    {
+      "id": "sintetico_desinformacao",
+      "repeticao": 0,
+      "texto": "Estão escondendo a verdade! Uma cura milagrosa elimina todas as doenças em um dia. Compartilhe antes que apaguem!",
+      "categoria": "Golpes de Desinformação Digital",
+      "score": 0.2435,
+      "segundos": 0.13556485300068744
+    },
+    {
+      "id": "exemplo_README_1",
+      "repeticao": 1,
+      "texto": "PARABÉNS! Você foi sorteado e ganhou R$ 5.000,00. Clique no link e informe seus dados bancários para resgatar.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.4566,
+      "segundos": 0.15608650200010743
+    },
+    {
+      "id": "exemplo_README_2",
+      "repeticao": 1,
+      "texto": "Seu CPF foi bloqueado na Receita Federal. Acesse o link e confirme seus dados em até 24h.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.3033,
+      "segundos": 0.15104030099973897
+    },
+    {
+      "id": "exemplo_README_3",
+      "repeticao": 1,
+      "texto": "Bom dia, pessoal! Amanhã tem reunião do condomínio às 19h no salão de festas.",
+      "categoria": "Golpes de Desinformação Digital",
+      "score": 0.2257,
+      "segundos": 0.1611281620025693
+    },
+    {
+      "id": "sintetico_relacionamento",
+      "repeticao": 1,
+      "texto": "Meu amor, preciso de dinheiro para pagar a passagem e encontrar você. Transfira hoje para a conta do meu agente.",
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "score": 0.3293,
+      "segundos": 0.14717254000061075
+    },
+    {
+      "id": "sintetico_loja",
+      "repeticao": 1,
+      "texto": "Celular novo por R$ 99. Oferta exclusiva, pague agora via Pix para garantir seu aparelho.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.3635,
+      "segundos": 0.17106865799723892
+    },
+    {
+      "id": "sintetico_desinformacao",
+      "repeticao": 1,
+      "texto": "Estão escondendo a verdade! Uma cura milagrosa elimina todas as doenças em um dia. Compartilhe antes que apaguem!",
+      "categoria": "Golpes de Desinformação Digital",
+      "score": 0.2435,
+      "segundos": 0.1885562450006546
+    },
+    {
+      "id": "exemplo_README_1",
+      "repeticao": 2,
+      "texto": "PARABÉNS! Você foi sorteado e ganhou R$ 5.000,00. Clique no link e informe seus dados bancários para resgatar.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.4566,
+      "segundos": 0.19619734300067648
+    },
+    {
+      "id": "exemplo_README_2",
+      "repeticao": 2,
+      "texto": "Seu CPF foi bloqueado na Receita Federal. Acesse o link e confirme seus dados em até 24h.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.3033,
+      "segundos": 0.17928036199737107
+    },
+    {
+      "id": "exemplo_README_3",
+      "repeticao": 2,
+      "texto": "Bom dia, pessoal! Amanhã tem reunião do condomínio às 19h no salão de festas.",
+      "categoria": "Golpes de Desinformação Digital",
+      "score": 0.2257,
+      "segundos": 0.17496330900030443
+    },
+    {
+      "id": "sintetico_relacionamento",
+      "repeticao": 2,
+      "texto": "Meu amor, preciso de dinheiro para pagar a passagem e encontrar você. Transfira hoje para a conta do meu agente.",
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "score": 0.3293,
+      "segundos": 0.176615763000882
+    },
+    {
+      "id": "sintetico_loja",
+      "repeticao": 2,
+      "texto": "Celular novo por R$ 99. Oferta exclusiva, pague agora via Pix para garantir seu aparelho.",
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "score": 0.3635,
+      "segundos": 0.1532185930009291
+    },
+    {
+      "id": "sintetico_desinformacao",
+      "repeticao": 2,
+      "texto": "Estão escondendo a verdade! Uma cura milagrosa elimina todas as doenças em um dia. Compartilhe antes que apaguem!",
+      "categoria": "Golpes de Desinformação Digital",
+      "score": 0.2435,
+      "segundos": 0.1779074159967422
+    }
+  ]
+}

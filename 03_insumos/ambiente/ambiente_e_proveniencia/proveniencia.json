@@ -1,0 +1,41 @@
+{
+  "acesso": "2026-10-20T17:41:10.581548+00:00",
+  "repositorios": [
+    {
+      "repo": "evolucao-prompt-RAG",
+      "url": "https://github.com/brunanoroes/evolucao-prompt-RAG",
+      "commit": "8ca2f7af7861af6ea95a4d762acd2b73ae6e4c44",
+      "commit_date": "2026-07-19T14:00:58-03:00"
+    },
+    {
+      "repo": "Treinamento_TF-IDF-SVM",
+      "url": "https://github.com/brunanoroes/Treinamento_TF-IDF-SVM",
+      "commit": "a6d2d0ae0781c6d40d71fa20457d0d0de853a968",
+      "commit_date": "2026-07-19T14:01:10-03:00"
+    },
+    {
+      "repo": "ConteudoExtraVeritaPlugin",
+      "url": "https://github.com/brunanoroes/ConteudoExtraVeritaPlugin",
+      "commit": "d0a70c399ed6f4564f02931bcee77b26a69f7f18",
+      "commit_date": "2026-07-19T14:01:41-03:00"
+    },
+    {
+      "repo": "treinamento-BERTimbau",
+      "url": "https://github.com/brunanoroes/treinamento-BERTimbau",
+      "commit": "0487415058c0cc087dfba4f151652cca82e7d3e2",
+      "commit_date": "2026-07-19T14:00:42-03:00"
+    },
+    {
+      "repo": "VeritaPlugin",
+      "url": "https://github.com/brunanoroes/VeritaPlugin",
+      "commit": "101d89bc89c45cf1782eb93fce1693a0c558a8e2",
+      "commit_date": "2026-08-29T13:38:28-03:00"
+    },
+    {
+      "repo": "ReplicaTesteFacebook",
+      "url": "https://github.com/brunanoroes/ReplicaTesteFacebook",
+      "commit": "b02a375a092460ed1fc502d0544da5f0995e3d68",
+      "commit_date": "2026-07-19T14:01:29-03:00"
+    }
+  ]
+}

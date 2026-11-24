@@ -1,0 +1,103 @@
+{
+  "id": "ae1172f65972fc908c9e10c5c03443a6c31d7a59a385ed0825833147285b6a49",
+  "experiment": "comparacao_prompts",
+  "version": "v3",
+  "case_id": 63,
+  "sha256_text": "45cb4b8e15e345c1d0c2e6c55b23f26fc1c7670c325a7fba98455721a02639bb",
+  "reserved_usd": 0.18680500000000003,
+  "input_token_bound": 9186,
+  "output_token_bound": 16384,
+  "utc": "2026-10-20T21:02:42.733481+00:00",
+  "request": {
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Você é um especialista em Cibersegurança e Direito Digital brasileiro.\n\nSua função é receber um texto já classificado por um modelo de machine learning e produzir uma resposta estruturada que justifica e enriquece essa classificação para alertar e orientar a vítima.\n\nPREMISSA FUNDAMENTAL — CATEGORIA É VERDADE ABSOLUTA:\nA categoria informada foi definida pelo modelo BERTimbau e deve ser tratada como correta e imutável. Sua tarefa NÃO é avaliar se a classificação está certa — é explicar POR QUE o texto se enquadra nessa categoria e quais consequências legais e ações decorrem disso. Nunca questione, contradiga ou ignore a categoria recebida.\n\nPRINCÍPIO CENTRAL — BASE_LEGAL:\nPrefira o falso negativo ao falso positivo. Só cite uma lei se houver evidência explícita e inequívoca no texto de que aquele dispositivo legal está sendo infringido. Dúvida = campo vazio.\n\nREGRAS OBRIGATÓRIAS:\n1. Use EXCLUSIVAMENTE as informações da BASE DE CONHECIMENTO fornecida. Não invente leis, artigos ou ações que não estejam no contexto.\n2. O campo \"Motivo\" deve explicar, considerando que a categoria JÁ ESTÁ DEFINIDA, quais elementos do texto confirmam e ilustram esse enquadramento — cite trechos ou características concretas observadas. Nunca use o Motivo para sugerir que o texto poderia ser outra categoria ou que a classificação pode estar errada.\n3. O campo \"Base_Legal\" deve listar SOMENTE as leis cujos elementos configuradores estejam explicitamente presentes no texto analisado. Não cite uma lei apenas porque ela consta na base de conhecimento da categoria — a lei só deve aparecer se o texto contiver evidência direta e inequívoca de que aquele dispositivo está sendo infringido. Exemplos de limiar mínimo exigido: Art. 307 (Falsa Identidade) exige impersonação explícita de uma pessoa ou instituição real; Art. 158 (Extorsão) exige ameaça explícita; Arts. 138-140 exigem atribuição de fato falso ou ofensa a pessoa identificável; LGPD exige coleta ou uso indevido de dados pessoais identificável no texto; Lei Carolina Dieckmann exige indício de invasão de dispositivo ou instalação de malware. Na dúvida sobre qualquer lei, não a cite.\n4. FORMATO DE Base_Legal: copie os nomes das leis EXATAMENTE como aparecem nos marcadores \"•\" da seção LEGISLAÇÃO APLICÁVEL da base de conhecimento, separados por ponto e vírgula. Não abrevie, não parafraseie, não adicione texto explicativo. Exemplo correto: \"Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)\". Se nenhuma lei se aplicar, retorne \"\".\n5. O campo \"Acoes_Recomendadas\" deve seguir a ordem de prioridade da base de conhecimento, adaptando o texto ao contexto específico da mensagem.\n6. Se a categoria for \"Seguro\", retorne o JSON com campos vazios e Acoes_Recomendadas = \"Verifique a informação em fontes confiáveis antes de compartilhar.\"\n7. Responda EXCLUSIVAMENTE com o JSON abaixo, sem texto adicional, markdown ou explicações fora do JSON.\n8. Se o texto não contiver elementos que caracterizem claramente uma conduta ilícita, retorne \"Base_Legal\" vazio (\"\"). Se apenas alguns elementos estiverem presentes, cite somente as leis com evidência direta no texto — nunca cite todas as leis da categoria por precaução."
+      },
+      {
+        "role": "user",
+        "content": "BASE DE CONHECIMENTO:\nCATEGORIA IDENTIFICADA: Seguro\n\nDEFINIÇÃO:\nConteúdo que não apresenta indícios de engenharia social, fraude ou intenção maliciosa.\n\nMODUS OPERANDI:\nNão aplicável.\n\nLEGISLAÇÃO APLICÁVEL:\nANÁLISE JURÍDICA CONSOLIDADA:\nNão é considerado crime. Nenhuma base legal aplicável.\n\nAÇÕES RECOMENDADAS À VÍTIMA:\n  1. Nenhuma ação necessária.\n\n---\n\nTEXTO ANALISADO:\n\"\"\"Apenas me forcei a comer uma fatia. Eu realmente não estou com fome. Isso é uma droga. Mark está ficando preocupado. Ele sabe que estou doente quando recuso pizza. Lol\"\"\"\n\nCATEGORIA DEFINIDA PELO MODELO (trate como verdade — não questione):\n  Categoria  : Seguro\n  Confiança  : 92% (ALTA (≥ 0,85))\n\n---\n\nCom base EXCLUSIVAMENTE na BASE DE CONHECIMENTO acima, e assumindo que a categoria \"Seguro\" está correta, gere o JSON abaixo:\n\n{\n  \"Categoria\": \"Seguro\",\n  \"Motivo\": \"<explique quais elementos do texto confirmam o enquadramento nesta categoria>\",\n  \"Base_Legal\": \"<nomes exatos das leis aplicáveis, copiados dos marcadores • da base, separados por ponto e vírgula — ou vazio>\",\n  \"Acoes_Recomendadas\": \"<liste as ações recomendadas adaptadas ao contexto desta mensagem>\"\n}"
+      }
+    ],
+    "response_format": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-EbBGlSVNlpa0YX45ygy4zvuJjEefu",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "{\"Categoria\":\"Seguro\",\"Motivo\":\"O texto analisado não contém indícios de engenharia social, fraude ou intenção maliciosa. É uma comunicação pessoal e informal, discutindo falta de apetite em um contexto de interação social cotidiana, sem referências a comportamento ou atividades ilícitas.\",\"Base_Legal\":\"\",\"Acoes_Recomendadas\":\"Verifique a informação em fontes confiáveis antes de compartilhar.\"}",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1792530163,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "metadata": null,
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": "fp_4c910a9acf",
+    "usage": {
+      "completion_tokens": 80,
+      "prompt_tokens": 1135,
+      "total_tokens": 1215,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0,
+        "text_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": null,
+        "cached_tokens": 0,
+        "image_tokens": null,
+        "text_tokens": null
+      }
+    }
+  },
+  "cost_usd_upper_ignoring_cache": 0.0036375,
+  "status": "complete",
+  "seconds": 1.8162849959990126
+}

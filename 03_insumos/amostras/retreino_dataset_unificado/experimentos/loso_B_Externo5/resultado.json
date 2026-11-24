@@ -1,0 +1,138 @@
+{
+ "experimento": "loso_B_Externo5",
+ "n_treino": 674,
+ "n_val": 52,
+ "n_teste": 25,
+ "epocas_executadas": 4,
+ "melhor_val_f1_macro": 0.7426,
+ "historico_val": [
+  {
+   "epoch": 1.0,
+   "eval_loss": 1.282403826713562,
+   "eval_f1_macro": 0.652,
+   "eval_accuracy": 0.6731
+  },
+  {
+   "epoch": 2.0,
+   "eval_loss": 0.8818010687828064,
+   "eval_f1_macro": 0.701,
+   "eval_accuracy": 0.6923
+  },
+  {
+   "epoch": 3.0,
+   "eval_loss": 0.7558291554450989,
+   "eval_f1_macro": 0.7426,
+   "eval_accuracy": 0.7308
+  },
+  {
+   "epoch": 4.0,
+   "eval_loss": 0.7103720307350159,
+   "eval_f1_macro": 0.7419,
+   "eval_accuracy": 0.7308
+  }
+ ],
+ "acc": 0.28,
+ "f1_macro_classes_presentes": 0.4375,
+ "report": {
+  "Relacionamento": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Financeiro": {
+   "precision": 1.0,
+   "recall": 0.28,
+   "f1-score": 0.4375,
+   "support": 25.0
+  },
+  "Phishing": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Loja Falsa": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Desinformação": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Seguro": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "accuracy": 0.28,
+  "macro avg": {
+   "precision": 0.16666666666666666,
+   "recall": 0.04666666666666667,
+   "f1-score": 0.07291666666666667,
+   "support": 25.0
+  },
+  "weighted avg": {
+   "precision": 1.0,
+   "recall": 0.28,
+   "f1-score": 0.4375,
+   "support": 25.0
+  }
+ },
+ "matriz": [
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   7,
+   4,
+   14,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "segundos": 336
+}

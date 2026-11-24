@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 25,
+    "text": "Sim, querido, esta é minha conta do Hangout[email protegido], podemos conversar lá???Gostaria de conhecê-lo melhor",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "14e5f9c473c742e5604031a6b5437f3a45c2944c4e8dc9baef325937984dfc59"
+  },
+  "call_id": "e9e12b5dc7577940d47155d2a1524aa47f006682851ec36a0578eb579731149b",
+  "filtered": {
+    "Motivo": "O texto demonstra elementos indicativos de um golpe baseado em relacionamento, como a tentativa de mover a conversa para uma plataforma privada como o Hangout, que é um comportamento típico de golpistas que procuram criar um vínculo emocional fora de plataformas públicas. A linguagem amigável e o desejo expresso de 'conhecê-lo melhor' refletem o modus operandi de aproximação inicial com intenções possivelmente fraudulentas.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil falso usando as ferramentas do Facebook.\n4. Registrar B.O. na delegacia de crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto demonstra elementos indicativos de um golpe baseado em relacionamento, como a tentativa de mover a conversa para uma plataforma privada como o Hangout, que é um comportamento típico de golpistas que procuram criar um vínculo emocional fora de plataformas públicas. A linguagem amigável e o desejo expresso de 'conhecê-lo melhor' refletem o modus operandi de aproximação inicial com intenções possivelmente fraudulentas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil falso usando as ferramentas do Facebook.\n4. Registrar B.O. na delegacia de crimes cibernéticos."
+  }
+}

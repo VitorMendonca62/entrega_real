@@ -1,0 +1,13 @@
+version,category,n,base_legal_bruta_preenchida,base_legal_filtrada_preenchida,caracteres_legais_filtrados_media,latencia_mediana_s
+v2,Ataques de Phishing e Roubo de Dados,10,10,10,99.6,3.2963715075020446
+v2,Fraudes em Lojas Virtuais Falsas,15,13,13,119.46666666666667,3.307166614999005
+v2,Golpes Baseados Em Relacionamento,10,10,9,70.2,2.627554903501732
+v2,Golpes de Desinformação Digital,10,10,10,38.0,2.742570788002922
+v2,Golpes de Ganho Financeiro Ilusório,15,14,13,79.46666666666667,3.509099912000238
+v2,Seguro,20,0,0,0.0,1.5269200059992727
+v3,Ataques de Phishing e Roubo de Dados,10,8,8,40.4,2.6956329719978385
+v3,Fraudes em Lojas Virtuais Falsas,15,13,13,70.93333333333334,2.5103967049944917
+v3,Golpes Baseados Em Relacionamento,10,4,4,15.2,2.589387494499533
+v3,Golpes de Desinformação Digital,10,3,3,10.6,2.4671535269990272
+v3,Golpes de Ganho Financeiro Ilusório,15,12,12,62.733333333333334,2.7502625889974297
+v3,Seguro,20,0,0,0.0,1.580517233502178

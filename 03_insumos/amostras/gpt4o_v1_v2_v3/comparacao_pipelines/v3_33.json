@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 33,
+    "text": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "ec59c76341e65ce287e4b72e94435b710728a785bbd40227f2d8552f3793c7d9"
+  },
+  "call_id": "16cc8c19cfcf0b824662f7a26c77f48cff91c15e933030adfdec924473db424a",
+  "filtered": {
+    "Motivo": "O texto tem indícios de manipulação emocional utilizando elementos espirituais e místicos para criar um vínculo afetivo ou fazer com que a vítima se sinta compelida a buscar um contato mais próximo. A expressão \"me chama no direct\" pode ser um convite para estabelecer uma comunicação privada, onde o potencial golpista pode explorar a vulnerabilidade emocional da vítima ao abordar seus sentimentos amorosos e pseudo indicações espirituais.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Desconfie de abordagens que tentam criar uma conexão emocional rápida e forte, especialmente se baseadas em espiritualidade ou sentimentos profundos não solicitados. 2. Evite entrar em contato por mensagens diretas com perfis que façam abordagens similares. 3. Verifique a legitimidade do perfil e suas intenções antes de se envolver em qualquer tipo de comunicação mais pessoal. 4. Se houver qualquer pedido de dinheiro ou informações pessoais, interromper o contato imediatamente. 5. Denuncie perfis suspeitos às plataformas de redes sociais para avaliação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto tem indícios de manipulação emocional utilizando elementos espirituais e místicos para criar um vínculo afetivo ou fazer com que a vítima se sinta compelida a buscar um contato mais próximo. A expressão \"me chama no direct\" pode ser um convite para estabelecer uma comunicação privada, onde o potencial golpista pode explorar a vulnerabilidade emocional da vítima ao abordar seus sentimentos amorosos e pseudo indicações espirituais.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Desconfie de abordagens que tentam criar uma conexão emocional rápida e forte, especialmente se baseadas em espiritualidade ou sentimentos profundos não solicitados. 2. Evite entrar em contato por mensagens diretas com perfis que façam abordagens similares. 3. Verifique a legitimidade do perfil e suas intenções antes de se envolver em qualquer tipo de comunicação mais pessoal. 4. Se houver qualquer pedido de dinheiro ou informações pessoais, interromper o contato imediatamente. 5. Denuncie perfis suspeitos às plataformas de redes sociais para avaliação."
+  }
+}

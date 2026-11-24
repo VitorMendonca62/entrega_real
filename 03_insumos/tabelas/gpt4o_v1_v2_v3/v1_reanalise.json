@@ -1,0 +1,28 @@
+{
+  "scope": "reanálise dos artefatos V1; nenhuma chamada GPT-5",
+  "n_input": 450,
+  "n_output": 450,
+  "same_inputs_order": true,
+  "class_counts": {
+    "Golpes de Ganho Financeiro Ilusório": 90,
+    "Golpes Baseados Em Relacionamento": 75,
+    "Fraudes em Lojas Virtuais Falsas": 75,
+    "Golpes de Desinformação Digital": 75,
+    "Seguro": 72,
+    "Ataques de Phishing e Roubo de Dados": 63
+  },
+  "nonempty_outputs": {
+    "Motivo": 449,
+    "Ação Recomendada": 449,
+    "Legislação": 189
+  },
+  "category_mapping_unmatched_counts": {
+    "Golpes Baseados Em Relacionamento": 75,
+    "Seguro": 72
+  },
+  "source_model": "gpt-5",
+  "new_api_calls": 0,
+  "source_sha256": "543b082f3c12ae05e075eb0b6d909829860a0c74cb8e432ee8b356907d356103",
+  "input_sha256": "b5e5621d43c300376cbe3192f34a9780749bd9937e5c55457f281dc9bdb239bf",
+  "output_sha256": "121220ffacb3859631e0cdf0390547528fc9b73c4c0d19d8636fa4b03df8c4ab"
+}

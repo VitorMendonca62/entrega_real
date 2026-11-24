@@ -1,0 +1,16 @@
+{
+  "message": "Lembrete da O2: Para ganhar £2,50 de crédito grátis para chamadas e detalhes de ótimas ofertas, responda a esta mensagem com seu nome, número da casa e CEP válidos.",
+  "categoria": "Ataques de Phishing e Roubo de Dados",
+  "score": 0.5374,
+  "bert_seconds": 0.48292530300386716,
+  "gpt_index": 1,
+  "gpt_seconds": 2.7042699360026745,
+  "rag_total_seconds": 2.710728606005432,
+  "filtered": {
+    "Motivo": "A mensagem solicita informações pessoais (nome, número da casa e CEP) sob o pretexto de oferecer um crédito grátis e ofertas, o que é típico em ataques de phishing. Essa abordagem explora a engenharia social para extrair dados sensíveis da vítima.",
+    "Base_Legal": "LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não forneça as informações solicitadas na mensagem e bloqueie o remetente imediatamente. 2. Ative a Autenticação de Dois Fatores (2FA) nas contas que puder. 3. Salve uma captura de tela da mensagem para futuras referências. 4. Registrar um Boletim de Ocorrência em uma delegacia especializada em crimes digitais para se proteger legalmente.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

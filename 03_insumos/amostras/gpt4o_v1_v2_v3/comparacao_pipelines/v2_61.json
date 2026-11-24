@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 61,
+    "text": "É sério assim que você soletra o nome dele?",
+    "category": "Seguro",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "48832254208daf186fd93736bc6c6fd5d086e50d75f0a3408ca2aa0730f8887a"
+  },
+  "call_id": "e84dc5888ff611a36845c65f055be46d5cd8ac050995a5b7bbd629a5ae871aee",
+  "filtered": {
+    "Motivo": "O texto analisado ('É sério assim que você soletra o nome dele?') não apresenta nenhum indício de engenharia social, fraude ou intenção maliciosa. É uma questão inofensiva possivelmente ligada a uma dúvida sobre a grafia de um nome.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado ('É sério assim que você soletra o nome dele?') não apresenta nenhum indício de engenharia social, fraude ou intenção maliciosa. É uma questão inofensiva possivelmente ligada a uma dúvida sobre a grafia de um nome.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

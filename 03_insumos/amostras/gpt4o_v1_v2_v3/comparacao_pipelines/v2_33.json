@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 33,
+    "text": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "ec59c76341e65ce287e4b72e94435b710728a785bbd40227f2d8552f3793c7d9"
+  },
+  "call_id": "66ab7b6d67e514d951914d1eb820df2e69c78c791428fd913a18f601e6174490",
+  "filtered": {
+    "Motivo": "O texto utiliza elementos de manipulação psicológica, como a sugestão de que há uma conexão espiritual especial entre a vítima e outra pessoa, e oferece uma resposta para isso por meio de contato direto (\"Me chama no direct\"). Isso é típico de perfis que criam vínculos emocionais artificiais para explorar vítimas.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil falso usando as ferramentas do Facebook.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto utiliza elementos de manipulação psicológica, como a sugestão de que há uma conexão espiritual especial entre a vítima e outra pessoa, e oferece uma resposta para isso por meio de contato direto (\"Me chama no direct\"). Isso é típico de perfis que criam vínculos emocionais artificiais para explorar vítimas.",
+    "Base_Legal": "• Art. 171 do Código Penal (Estelionato)\n• Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil falso usando as ferramentas do Facebook."
+  }
+}

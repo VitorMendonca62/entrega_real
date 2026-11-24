@@ -1,0 +1,9 @@
+{
+  "gate_fechado": true,
+  "teto_bloqueia_antes_do_cliente": true,
+  "reservas_apos_testes": 0,
+  "prior_usd": 0.11697250000000001,
+  "max_new_calls": 6,
+  "max_completion_tokens": 1200,
+  "retries": 0
+}

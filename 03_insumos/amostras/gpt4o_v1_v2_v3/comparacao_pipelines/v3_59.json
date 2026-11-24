@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 59,
+    "text": "Boa noite , Estou à procura de pessoa para trabalhar online trabalho com vendas de automóveis e motocicletas você só precisa ter a plataforma de venda no Facebook o marketplace, agente estamos pagando 120 por por dia tiver interesse deixa seu contat",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "7e1d8b38f01c71b2f0697c8ffbc795ac7090744cf58290e07467adf86126c7dd"
+  },
+  "call_id": "d260ef255da3ee716730d0df2e053f897081935ceeb60634593bf0dfa53bec69",
+  "filtered": {
+    "Motivo": "O texto analisado promete um pagamento diário de R$120 por pequenas ações online, como listar itens no Facebook Marketplace. A oferta de ganhos fáceis e significativa pode ser uma estratégia para atrair a vítima, levando-a possivelmente a fornecer informações pessoais ou realizar alguma ação em favor dos golpistas sem uma contrapartida real, típico de esquemas de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace; Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar; Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes; Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto analisado promete um pagamento diário de R$120 por pequenas ações online, como listar itens no Facebook Marketplace. A oferta de ganhos fáceis e significativa pode ser uma estratégia para atrair a vítima, levando-a possivelmente a fornecer informações pessoais ou realizar alguma ação em favor dos golpistas sem uma contrapartida real, típico de esquemas de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace; Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar; Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes; Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

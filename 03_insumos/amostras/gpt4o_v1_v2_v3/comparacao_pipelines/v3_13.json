@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 13,
+    "text": "Estes parecem lindos e tão legais. O único problema é que não é realmente uma malha.",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "a114512fe0ecd56b179365ed91d86106f2a926d284fd9453bf940097046cbe88"
+  },
+  "call_id": "4cf90d8909da6501a6a3194cb79ecbd7f3262c543aad9c48a45969d19ce40e8e",
+  "filtered": {
+    "Motivo": "O texto faz referência a produtos aparentemente bonitos e legais, o que está alinhado com o modus operandi de lojas virtuais falsas que atraem consumidores usando descrições atrativas e possivelmente falsas de produtos para enganar os compradores.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook; Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão; Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento; Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto faz referência a produtos aparentemente bonitos e legais, o que está alinhado com o modus operandi de lojas virtuais falsas que atraem consumidores usando descrições atrativas e possivelmente falsas de produtos para enganar os compradores.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook; Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão; Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento; Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

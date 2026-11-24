@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 45,
+    "text": "hoje dinheiro retirar sistema automatizar bot operação 1 milhão real 🔥 💯 🤑",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "a387f35eebf5ec9166abaef6ce639f192e654d66fa4b598c0555e493e69ef51f"
+  },
+  "call_id": "a4f15344b6b14c5c6ce47308f2cf593c28e7dd185fa208a25b74eb9ff895a8fa",
+  "filtered": {
+    "Motivo": "O texto sugere a promessa de ganho financeiro substancial (\"1 milhão real\") através de um sistema automatizado (\"sistema automatizar bot operação\"), características comuns de esquemas que prometem grandes recompensas para induzir a vítima a pagar antecipadamente ou fornecer informações pessoais sob a promessa de lucro fácil e rápido. Estes são indicadores típicos de golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o remetente em qualquer plataforma utilizada; 2. Se forneceu qualquer dado ou realizou pagamento, entre em contato com a instituição financeira imediatamente para contestação e congelamento cautelar; 3. Preservar evidências, incluindo capturas de tela da mensagem; 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto sugere a promessa de ganho financeiro substancial (\"1 milhão real\") através de um sistema automatizado (\"sistema automatizar bot operação\"), características comuns de esquemas que prometem grandes recompensas para induzir a vítima a pagar antecipadamente ou fornecer informações pessoais sob a promessa de lucro fácil e rápido. Estes são indicadores típicos de golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o remetente em qualquer plataforma utilizada; 2. Se forneceu qualquer dado ou realizou pagamento, entre em contato com a instituição financeira imediatamente para contestação e congelamento cautelar; 3. Preservar evidências, incluindo capturas de tela da mensagem; 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

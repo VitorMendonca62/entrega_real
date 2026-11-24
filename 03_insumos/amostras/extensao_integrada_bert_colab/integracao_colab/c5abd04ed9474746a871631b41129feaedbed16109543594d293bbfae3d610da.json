@@ -1,0 +1,15 @@
+{
+  "message": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!)",
+  "category": "Ataques de Phishing e Roubo de Dados",
+  "score": 0.3274,
+  "bert_seconds": 0.23559869000018807,
+  "gpt_seconds": 3.423781131998112,
+  "call_id": "c5abd04ed9474746a871631b41129feaedbed16109543594d293bbfae3d610da",
+  "filtered": {
+    "Motivo": "O texto indica uma oferta de compra de 'caixas corrente ou poupança com cartão', sugerindo a obtenção fraudulenta de dados bancários. O uso de expressões como 'vem no certo' e as localizações específicas indicam um esquema que pode envolver a captura de dados sensíveis para finalidade ilícita, típico de ataques de phishing e roubo de dados.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Salvar capturas de tela da mensagem original e do conteúdo recebido; Bloquear o remetente e denunciar a mensagem maliciosa na plataforma; Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica).",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

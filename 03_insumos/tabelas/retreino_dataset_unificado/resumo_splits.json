@@ -1,0 +1,237 @@
+{
+ "linhas_originais": 756,
+ "removidas": 5,
+ "pool": 751,
+ "removidas_por_motivo": {
+  "duplicata/quase-duplicata": 3,
+  "cluster com rótulos conflitantes": 2
+ },
+ "pool_por_classe": {
+  "Seguro": 161,
+  "Financeiro": 153,
+  "Relacionamento": 110,
+  "Loja Falsa": 110,
+  "Desinformação": 109,
+  "Phishing": 108
+ },
+ "facebook_por_classe": {
+  "Phishing": 17,
+  "Financeiro": 13,
+  "Relacionamento": 10,
+  "Loja Falsa": 8,
+  "Seguro": 8,
+  "Desinformação": 4
+ },
+ "braco_A": 445,
+ "braco_B": 751,
+ "braco_C": 541,
+ "sha256_pool": "73fd07e9447c410ce4afb4e6e313a8b49861083227b81562adf5440c936b72e2",
+ "tamanhos": {
+  "fbcv_A_f1": {
+   "train": 389,
+   "val": 44,
+   "test": 12
+  },
+  "fbcv_A_f2": {
+   "train": 389,
+   "val": 44,
+   "test": 12
+  },
+  "fbcv_A_f3": {
+   "train": 389,
+   "val": 44,
+   "test": 12
+  },
+  "fbcv_A_f4": {
+   "train": 389,
+   "val": 44,
+   "test": 12
+  },
+  "fbcv_A_f5": {
+   "train": 389,
+   "val": 44,
+   "test": 12
+  },
+  "fbcv_B_f1": {
+   "train": 686,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_B_f2": {
+   "train": 686,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_B_f3": {
+   "train": 686,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_B_f4": {
+   "train": 686,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_B_f5": {
+   "train": 686,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_C_f1": {
+   "train": 476,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_C_f2": {
+   "train": 476,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_C_f3": {
+   "train": 476,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_C_f4": {
+   "train": 476,
+   "val": 53,
+   "test": 12
+  },
+  "fbcv_C_f5": {
+   "train": 476,
+   "val": 53,
+   "test": 12
+  },
+  "loso_B_Interno": {
+   "train": 642,
+   "val": 49,
+   "test": 60
+  },
+  "loso_A_Interno": {
+   "train": 346,
+   "val": 39,
+   "test": 60
+  },
+  "loso_B_Externo1": {
+   "train": 638,
+   "val": 48,
+   "test": 65
+  },
+  "loso_A_Externo1": {
+   "train": 342,
+   "val": 38,
+   "test": 65
+  },
+  "loso_B_Externo2": {
+   "train": 627,
+   "val": 47,
+   "test": 77
+  },
+  "loso_A_Externo2": {
+   "train": 331,
+   "val": 37,
+   "test": 77
+  },
+  "loso_B_Externo3": {
+   "train": 603,
+   "val": 44,
+   "test": 104
+  },
+  "loso_A_Externo3": {
+   "train": 306,
+   "val": 35,
+   "test": 104
+  },
+  "loso_B_Externo4": {
+   "train": 665,
+   "val": 51,
+   "test": 35
+  },
+  "loso_A_Externo4": {
+   "train": 369,
+   "val": 41,
+   "test": 35
+  },
+  "loso_B_Externo5": {
+   "train": 674,
+   "val": 52,
+   "test": 25
+  },
+  "loso_A_Externo5": {
+   "train": 378,
+   "val": 42,
+   "test": 25
+  },
+  "loso_B_Externo6": {
+   "train": 658,
+   "val": 50,
+   "test": 43
+  },
+  "loso_A_Externo6": {
+   "train": 361,
+   "val": 41,
+   "test": 43
+  },
+  "loso_B_Externo7": {
+   "train": 664,
+   "val": 51,
+   "test": 36
+  },
+  "loso_A_Externo7": {
+   "train": 368,
+   "val": 41,
+   "test": 36
+  },
+  "loso_B_Telegram-WppDataset": {
+   "train": 610,
+   "val": 45,
+   "test": 96
+  },
+  "final_B": {
+   "train": 696,
+   "val": 55,
+   "test": 0
+  }
+ },
+ "fb_folds_por_classe": [
+  {
+   "Desinformação": 1,
+   "Financeiro": 2,
+   "Loja Falsa": 2,
+   "Phishing": 3,
+   "Relacionamento": 2,
+   "Seguro": 2
+  },
+  {
+   "Desinformação": 1,
+   "Financeiro": 2,
+   "Loja Falsa": 2,
+   "Phishing": 3,
+   "Relacionamento": 2,
+   "Seguro": 2
+  },
+  {
+   "Financeiro": 3,
+   "Loja Falsa": 2,
+   "Phishing": 3,
+   "Relacionamento": 2,
+   "Seguro": 2
+  },
+  {
+   "Desinformação": 1,
+   "Financeiro": 3,
+   "Loja Falsa": 1,
+   "Phishing": 4,
+   "Relacionamento": 2,
+   "Seguro": 1
+  },
+  {
+   "Desinformação": 1,
+   "Financeiro": 3,
+   "Loja Falsa": 1,
+   "Phishing": 4,
+   "Relacionamento": 2,
+   "Seguro": 1
+  }
+ ]
+}

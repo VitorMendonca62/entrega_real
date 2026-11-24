@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 21,
+    "text": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!) ",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "dc6fc90867c61ab169a79a53073ed536c8abc610d4297030373fe002d7134676"
+  },
+  "call_id": "616789224757b10cdccd368338b5889bd3d9600f62d541eb1b3f5d94c38e20c1",
+  "filtered": {
+    "Motivo": "O texto oferece a compra de itens por dinheiro em espécie, possivelmente envolvendo troca de cartões bancários, o que sugere a intenção de capturar dados bancários ou realizar transações fraudulentas. A menção de locais específicos pode indicar um esquema localizado para dificultar o rastreamento.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Interromper a negociação imediatamente e não fornecer informações pessoais ou financeiras. 2. Denunciar o perfil ou publicação nas redes sociais. 3. Reunir provas como capturas de tela da conversa e anúncios. 4. Registrar um B.O. para formalizar a tentativa de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto oferece a compra de itens por dinheiro em espécie, possivelmente envolvendo troca de cartões bancários, o que sugere a intenção de capturar dados bancários ou realizar transações fraudulentas. A menção de locais específicos pode indicar um esquema localizado para dificultar o rastreamento.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Interromper a negociação imediatamente e não fornecer informações pessoais ou financeiras. 2. Denunciar o perfil ou publicação nas redes sociais. 3. Reunir provas como capturas de tela da conversa e anúncios. 4. Registrar um B.O. para formalizar a tentativa de estelionato digital."
+  }
+}

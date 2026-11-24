@@ -1,0 +1,195 @@
+# Reexecução de replicar_cpu.py no layout restaurado a partir de 'entrega real' (2026-10-20T18:26:29-03:00)
+# Python: work/venv (3.12.3; versões em ambiente/). Resultado: baseline_predicoes.csv idêntico byte a byte ao entregue.
+# sha256 antes: 5320a5b89e2e08cdcf20545bac7a6935bb12ba96654cbded06dcda994ad374f4
+# sha256 depois: 5320a5b89e2e08cdcf20545bac7a6935bb12ba96654cbded06dcda994ad374f4
+
+{
+  "baseline": 0.703389162076351,
+  "dp": 0.027903076353352402,
+  "audit": {
+    "n": 450,
+    "por_classe": {
+      "Golpes Baseados Em Relacionamento": 75,
+      "Fraudes em Lojas Virtuais Falsas": 75,
+      "Golpes de Desinformação Digital": 75,
+      "Golpes de Ganho Financeiro Ilusório": 75,
+      "Seguro": 75,
+      "Ataques de Phishing e Roubo de Dados": 75
+    },
+    "por_origem": {
+      "Externo 3": 104,
+      "Externo 2": 77,
+      "Externo 1": 65,
+      "Interno": 64,
+      "Externo 6": 43,
+      "Externo 7": 36,
+      "Externo 4": 36,
+      "Externo 5": 25
+    },
+    "duplicatas_exatas": 2,
+    "duplicatas_normalizadas": 2,
+    "mesmos_dados_baseline_bert": false,
+    "folds": [
+      {
+        "fold": 1,
+        "treino": 360,
+        "teste": 90,
+        "intersecao_textos_treino_teste": 1,
+        "teste_igual_versionado": true,
+        "teste_intersecao_baseline": 16,
+        "teste_igual_baseline": false,
+        "categorias_teste": {
+          "Golpes de Ganho Financeiro Ilusório": 16,
+          "Ataques de Phishing e Roubo de Dados": 16,
+          "Golpes Baseados Em Relacionamento": 15,
+          "Fraudes em Lojas Virtuais Falsas": 15,
+          "Golpes de Desinformação Digital": 15,
+          "Seguro": 13
+        }
+      },
+      {
+        "fold": 2,
+        "treino": 360,
+        "teste": 90,
+        "intersecao_textos_treino_teste": 0,
+        "teste_igual_versionado": true,
+        "teste_intersecao_baseline": 17,
+        "teste_igual_baseline": false,
+        "categorias_teste": {
+          "Seguro": 16,
+          "Fraudes em Lojas Virtuais Falsas": 15,
+          "Golpes de Desinformação Digital": 15,
+          "Golpes de Ganho Financeiro Ilusório": 15,
+          "Golpes Baseados Em Relacionamento": 15,
+          "Ataques de Phishing e Roubo de Dados": 14
+        }
+      },
+      {
+        "fold": 3,
+        "treino": 360,
+        "teste": 90,
+        "intersecao_textos_treino_teste": 1,
+        "teste_igual_versionado": true,
+        "teste_intersecao_baseline": 12,
+        "teste_igual_baseline": false,
+        "categorias_teste": {
+          "Seguro": 16,
+          "Golpes Baseados Em Relacionamento": 15,
+          "Fraudes em Lojas Virtuais Falsas": 15,
+          "Golpes de Desinformação Digital": 15,
+          "Ataques de Phishing e Roubo de Dados": 15,
+          "Golpes de Ganho Financeiro Ilusório": 14
+        }
+      },
+      {
+        "fold": 4,
+        "treino": 360,
+        "teste": 90,
+        "intersecao_textos_treino_teste": 0,
+        "teste_igual_versionado": true,
+        "teste_intersecao_baseline": 16,
+        "teste_igual_baseline": false,
+        "categorias_teste": {
+          "Seguro": 16,
+          "Golpes Baseados Em Relacionamento": 15,
+          "Golpes de Desinformação Digital": 15,
+          "Golpes de Ganho Financeiro Ilusório": 15,
+          "Ataques de Phishing e Roubo de Dados": 15,
+          "Fraudes em Lojas Virtuais Falsas": 14
+        }
+      },
+      {
+        "fold": 5,
+        "treino": 360,
+        "teste": 90,
+        "intersecao_textos_treino_teste": 2,
+        "teste_igual_versionado": true,
+        "teste_intersecao_baseline": 18,
+        "teste_igual_baseline": false,
+        "categorias_teste": {
+          "Fraudes em Lojas Virtuais Falsas": 16,
+          "Golpes Baseados Em Relacionamento": 15,
+          "Golpes de Desinformação Digital": 15,
+          "Golpes de Ganho Financeiro Ilusório": 15,
+          "Ataques de Phishing e Roubo de Dados": 15,
+          "Seguro": 14
+        }
+      }
+    ],
+    "holdout": {
+      "n": [
+        361,
+        44,
+        45
+      ],
+      "train_val_overlap": 0,
+      "train_test_overlap": 0,
+      "val_test_overlap": 0
+    }
+  },
+  "sus": 87.0,
+  "rag": {
+    "v2": {
+      "n": 80,
+      "colunas": [
+        "Mensagem",
+        "Categoria",
+        "Dataset",
+        "Motivo",
+        "Base_Legal",
+        "Acoes_Recomendadas",
+        "Erro",
+        "Lei_Invalida_Detectada"
+      ],
+      "por_classe": {
+        "Seguro": 20,
+        "Fraudes em Lojas Virtuais Falsas": 15,
+        "Golpes de Ganho Financeiro Ilusório": 15,
+        "Ataques de Phishing e Roubo de Dados": 10,
+        "Golpes Baseados Em Relacionamento": 10,
+        "Golpes de Desinformação Digital": 10
+      },
+      "base_legal_media_caracteres": {
+        "Ataques de Phishing e Roubo de Dados": 119.4,
+        "Fraudes em Lojas Virtuais Falsas": 107.46666666666667,
+        "Golpes Baseados Em Relacionamento": 70.2,
+        "Golpes de Desinformação Digital": 34.2,
+        "Golpes de Ganho Financeiro Ilusório": 71.4,
+        "Seguro": 0.0
+      },
+      "erro_nao_vazio": 0,
+      "seguro_base_nao_vazia": 0
+    },
+    "v3": {
+      "n": 80,
+      "colunas": [
+        "Mensagem",
+        "Categoria",
+        "Dataset",
+        "Motivo",
+        "Base_Legal",
+        "Acoes_Recomendadas",
+        "Erro",
+        "Lei_Invalida_Detectada"
+      ],
+      "por_classe": {
+        "Seguro": 20,
+        "Fraudes em Lojas Virtuais Falsas": 15,
+        "Golpes de Ganho Financeiro Ilusório": 15,
+        "Ataques de Phishing e Roubo de Dados": 10,
+        "Golpes Baseados Em Relacionamento": 10,
+        "Golpes de Desinformação Digital": 10
+      },
+      "base_legal_media_caracteres": {
+        "Ataques de Phishing e Roubo de Dados": 38.4,
+        "Fraudes em Lojas Virtuais Falsas": 69.2,
+        "Golpes Baseados Em Relacionamento": 26.8,
+        "Golpes de Desinformação Digital": 13.6,
+        "Golpes de Ganho Financeiro Ilusório": 67.6,
+        "Seguro": 0.0
+      },
+      "erro_nao_vazio": 0,
+      "seguro_base_nao_vazia": 0
+    }
+  }
+}

@@ -1,0 +1,11 @@
+--- original
++++ execucao
+@@ -52,7 +52,7 @@
+ 
+ PASTA_DADOS = "dados_bert"
+ PASTA_SAIDA = "resultados_bert"
+-MODEL_NAME  = "neuralmind/bert-base-portuguese-cased"
++MODEL_NAME  = '/root/.cache/huggingface/hub/models--neuralmind--bert-base-portuguese-cased/snapshots/94d69c95f98f7d5b2a8700c420230ae10def0baa'
+ RANDOM_SEED = 42
+ K_FOLDS     = 5
+ MAX_LENGTH  = 512

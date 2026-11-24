@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 77,
+    "text": "SUPOSTO PAREDÃO 🔥\nQuem você elimina?\n🤔🤔😯😲",
+    "category": "Seguro",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "e7f9c0e16a49701e2d68618b6737090b37893820ba13c4a7cd9c504a28c096dc"
+  },
+  "call_id": "16e8931e524cdd8c567c15dad47d05ae228d3f59e04fc0e36e22dbcbd8ff2e0a",
+  "filtered": {
+    "Motivo": "O texto não apresenta indícios de engenharia social, fraude ou intenção maliciosa. É uma mensagem simples e lúdica, sem ameaças ou pedidos suspeitos, apenas mencionando um suposto 'paredão' que sugere uma brincadeira ou enquete.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto não apresenta indícios de engenharia social, fraude ou intenção maliciosa. É uma mensagem simples e lúdica, sem ameaças ou pedidos suspeitos, apenas mencionando um suposto 'paredão' que sugere uma brincadeira ou enquete.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

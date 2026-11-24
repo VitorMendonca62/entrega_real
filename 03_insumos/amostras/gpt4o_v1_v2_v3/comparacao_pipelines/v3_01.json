@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 1,
+    "text": "CONFIDENCIAL! Seu extrato de conta de 2003, referente ao número 07808247860, mostra 800 pontos S.I.M. não resgatados. Ligue para 08719899229. Código de identificação: 40411. Válido até 06/11/2004.",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "aad23d84f5131feacfe86eeaedd419a9337962dceec692dcb66b04016725c66b"
+  },
+  "call_id": "12945464ee89b0e038280e6f140d867fd17b0c4d84108b8efbd9277924d86823",
+  "filtered": {
+    "Motivo": "A mensagem possui características de tentativa de phishing ao oferecer informações confidenciais e urgentes sobre pontos não resgatados de um extrato bancário inexistente, com objetivo de manipular a vítima a ligar para um número potencialmente malicioso, onde possivelmente seriam solicitadas mais informações pessoais e financeiras para uso fraudulento.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não entre em contato com o número fornecido na mensagem. 2. Bloqueie o remetente e denuncie a mensagem na plataforma de e-mail ou mensagem utilizada. 3. Alterar imediatamente todas as senhas de contas sensíveis e ativar Autenticação de Dois Fatores (2FA), se possível. 4. Salvar capturas de tela da mensagem original para referência. 5. Registrar um Boletim de Ocorrência em delegacia especializada, caso surjam tentativas de fraude.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "A mensagem possui características de tentativa de phishing ao oferecer informações confidenciais e urgentes sobre pontos não resgatados de um extrato bancário inexistente, com objetivo de manipular a vítima a ligar para um número potencialmente malicioso, onde possivelmente seriam solicitadas mais informações pessoais e financeiras para uso fraudulento.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não entre em contato com o número fornecido na mensagem. 2. Bloqueie o remetente e denuncie a mensagem na plataforma de e-mail ou mensagem utilizada. 3. Alterar imediatamente todas as senhas de contas sensíveis e ativar Autenticação de Dois Fatores (2FA), se possível. 4. Salvar capturas de tela da mensagem original para referência. 5. Registrar um Boletim de Ocorrência em delegacia especializada, caso surjam tentativas de fraude."
+  }
+}

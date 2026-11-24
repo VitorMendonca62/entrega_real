@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 22,
+    "text": "Comentem eu quero 😉👍⬇️⬇️\n #emagrecimento #saude #remedio #natural #barato #compraonline",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "30547a8a5560c595017c87624c5cac138efa2f640b6351f73be0ee8b46994a28"
+  },
+  "call_id": "abc7952db66d8015126288fb43f4a1b6dafb618fba62070eb6e54e95c1716d13",
+  "filtered": {
+    "Motivo": "O texto promove a compra de algum produto relacionado ao emagrecimento, indicando um potencial comércio virtual. A ausência de informações claras ou links diretamente associados à oferta, juntamente com o uso de palavras atrativas como #barato, sugere uma tentativa de chamar a atenção para uma possível fraude através de loja virtual falsa. A motivação para capturar atenção por meio de comentários e emojis, sem fornecer detalhes da transação, é uma estratégia comum em perfis de lojas virtuais falsas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto promove a compra de algum produto relacionado ao emagrecimento, indicando um potencial comércio virtual. A ausência de informações claras ou links diretamente associados à oferta, juntamente com o uso de palavras atrativas como #barato, sugere uma tentativa de chamar a atenção para uma possível fraude através de loja virtual falsa. A motivação para capturar atenção por meio de comentários e emojis, sem fornecer detalhes da transação, é uma estratégia comum em perfis de lojas virtuais falsas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

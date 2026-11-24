@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 79,
+    "text": "Por do Sol, Orla de São Pedro da Aldeia, região dos Lagos, Rio de Janeiro.\n#creatorsearchinsights #sunset #pordosol #riodejaneiro #praia",
+    "category": "Seguro",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "cca7495e396810eb5c71f740ec456f8244f88f865d3a005915a0e5189415c40f"
+  },
+  "call_id": "f505e0710666130ac872ba7e230b2ba5eaaa7e1e23281970aecb7fb8336b76ed",
+  "filtered": {
+    "Motivo": "O texto descreve uma observação de um pôr do sol em uma localidade específica, sem apresentar qualquer indício de atividade maliciosa, fraude ou engenharia social. Os elementos são meramente descritivos e fazem referência a uma experiência visual em uma área turística.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto descreve uma observação de um pôr do sol em uma localidade específica, sem apresentar qualquer indício de atividade maliciosa, fraude ou engenharia social. Os elementos são meramente descritivos e fazem referência a uma experiência visual em uma área turística.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

@@ -1,0 +1,40 @@
+Dataset: 450 instancias | 6 categorias
+Balanceamento: {'Golpes Baseados Em Relacionamento': 75, 'Fraudes em Lojas Virtuais Falsas': 75, 'Golpes de Desinformação Digital': 75, 'Golpes de Ganho Financeiro Ilusório': 75, 'Seguro': 75, 'Ataques de Phishing e Roubo de Dados': 75}
+
+============================================================
+VALIDACAO CRUZADA ESTRATIFICADA (k=5)
+============================================================
+  Fold 1: F1-macro = 0.748
+  Fold 2: F1-macro = 0.670
+  Fold 3: F1-macro = 0.684
+  Fold 4: F1-macro = 0.721
+  Fold 5: F1-macro = 0.693
+
+  Media +/- DP : 0.703 +/- 0.028  <- resultado principal
+
+============================================================
+RELATORIO CONSOLIDADO (450 avaliacoes, 75 por categoria)
+============================================================
+                                      precision    recall  f1-score   support
+
+Ataques de Phishing e Roubo de Dados       0.77      0.81      0.79        75
+    Fraudes em Lojas Virtuais Falsas       0.70      0.75      0.72        75
+   Golpes Baseados Em Relacionamento       0.71      0.93      0.81        75
+     Golpes de Desinformação Digital       0.63      0.64      0.64        75
+ Golpes de Ganho Financeiro Ilusório       0.86      0.75      0.80        75
+                              Seguro       0.56      0.39      0.46        75
+
+                            accuracy                           0.71       450
+                           macro avg       0.71      0.71      0.70       450
+                        weighted avg       0.71      0.71      0.70       450
+
+Acuracia geral: 71.1%
+
+============================================================
+COMPARATIVO FINAL
+============================================================
+  Classificador por maioria  : F1-macro ~0.048
+  TF-IDF + LinearSVC         : F1-macro  0.703 +/- 0.028
+  BERTimbau fine-tuned       : F1-macro  0.763 +/- 0.034
+
+  Ganho BERTimbau vs baseline: +0.060 pp de F1-macro

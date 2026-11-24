@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 61,
+    "text": "É sério assim que você soletra o nome dele?",
+    "category": "Seguro",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "48832254208daf186fd93736bc6c6fd5d086e50d75f0a3408ca2aa0730f8887a"
+  },
+  "call_id": "25b21e26eca51ec77b6838dccdfb98b74a3afcb4a81ca732a91a377538c6ef8c",
+  "filtered": {
+    "Motivo": "O texto 'É sério assim que você soletra o nome dele?' não apresenta elementos que indiquem qualquer tentativa de fraude, engenharia social ou intenções maliciosas. Portanto, enquadra-se na categoria Seguro, na qual o conteúdo é considerado inócuo e sem riscos associados.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto 'É sério assim que você soletra o nome dele?' não apresenta elementos que indiquem qualquer tentativa de fraude, engenharia social ou intenções maliciosas. Portanto, enquadra-se na categoria Seguro, na qual o conteúdo é considerado inócuo e sem riscos associados.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

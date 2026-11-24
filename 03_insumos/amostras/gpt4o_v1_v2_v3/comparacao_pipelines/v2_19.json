@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 19,
+    "text": "Edwards Andrew-Gordon <[email protected]>:Olá, o carro ainda está à venda. Eu sou da Escócia. Comprei este carro enquanto trabalhava em Espanha, agora estou de volta ao Reino Unido e quero vendê-lo. O carro está em perfeitas condições e nunca sofreu nenhum acidente, é um carro para não fumantes. Se você decidir comprá-lo, posso providenciar a entrega no seu país e um período de inspeção de 5 dias. Já entrei em contato com uma transportadora e eles farão a venda para mim. Avise-me se concorda e fornecerei todos os detalhes sobre envio e pagamento.",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 7",
+    "score": 0.92,
+    "sha256_text": "96f4808e63b089195033f5c0fa59bd764d233e5d5718a143cfd77170e7594f3f"
+  },
+  "call_id": "6892d69020064320b55fcd67942ea74867690f10b0b8c0055dd459585af64879",
+  "filtered": {
+    "Motivo": "O texto analisado apresenta fortes indicativos de golpe, como a venda de um carro que supostamente está em outro país, oferta de um carro em 'perfeitas condições' por um vendedor estrangeiro e a proposta de envio internacional do veículo, sem que o comprador tenha visto o produto. Estas características são típicas de fraudes, onde são criadas falsas lojas ou perfis para obter pagamento sem entrega. Além disso, não há informações claras sobre o preço do veículo, formas de pagamento, ou de como a transação será formalizada, reforçando a suspeita de um esquema de estelionato.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor ou página que promoveu o contato. 2. Não fornecer dados pessoais ou financeiros. 3. Reunir todas as provas pertinentes: capturas de tela da comunicação e do anúncio, se houver. 4. Registrar um Boletim de Ocorrência para formalizar a suspeita de fraude e estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto analisado apresenta fortes indicativos de golpe, como a venda de um carro que supostamente está em outro país, oferta de um carro em 'perfeitas condições' por um vendedor estrangeiro e a proposta de envio internacional do veículo, sem que o comprador tenha visto o produto. Estas características são típicas de fraudes, onde são criadas falsas lojas ou perfis para obter pagamento sem entrega. Além disso, não há informações claras sobre o preço do veículo, formas de pagamento, ou de como a transação será formalizada, reforçando a suspeita de um esquema de estelionato.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor ou página que promoveu o contato. 2. Não fornecer dados pessoais ou financeiros. 3. Reunir todas as provas pertinentes: capturas de tela da comunicação e do anúncio, se houver. 4. Registrar um Boletim de Ocorrência para formalizar a suspeita de fraude e estelionato digital."
+  }
+}

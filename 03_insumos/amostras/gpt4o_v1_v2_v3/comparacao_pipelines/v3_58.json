@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 58,
+    "text": "Que sairá 250 reais  Sra cada empresa trabalha de uma forma \nNão é uma taxa, e as despesas de cartório \nIsso é estipulado no contrato \nA sra visualizou? ",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "873a8ff9fa07996df629f2a4013fdde0ecdfe33cf31328a2173c88ae41a595a1"
+  },
+  "call_id": "04ccde71bba55435f0f8a7900f6a5513a03c59f71a8165f7b148b13ba8f2bf7c",
+  "filtered": {
+    "Motivo": "O texto sugere o pagamento antecipado de 250 reais sob o pretexto de 'despesas de cartório' estipuladas em um contrato, o que é típico de um golpe que promete uma recompensa ou conclusão falsa. A menção a 'cada empresa trabalha de uma forma' pode ser uma tentativa de legitimar procedimentos inexistentes, explorando a falta de conhecimento da vítima.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o contato fraudulento em qualquer plataforma de comunicação utilizada.\n2. Se realizou transferência ou forneceu dados financeiros, contatar o banco para contestação e medidas de segurança.\n3. Preservar evidências como mensagens e comprovantes de contato.\n4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto sugere o pagamento antecipado de 250 reais sob o pretexto de 'despesas de cartório' estipuladas em um contrato, o que é típico de um golpe que promete uma recompensa ou conclusão falsa. A menção a 'cada empresa trabalha de uma forma' pode ser uma tentativa de legitimar procedimentos inexistentes, explorando a falta de conhecimento da vítima.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o contato fraudulento em qualquer plataforma de comunicação utilizada.\n2. Se realizou transferência ou forneceu dados financeiros, contatar o banco para contestação e medidas de segurança.\n3. Preservar evidências como mensagens e comprovantes de contato.\n4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "escopo": "teste determinístico do filtro original; nenhum LLM chamado",
+  "casos": [
+    {
+      "categoria": "Golpes de Ganho Financeiro Ilusório",
+      "caso": "vazio",
+      "bruto_sintetico": "",
+      "filtrado": "",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes de Ganho Financeiro Ilusório",
+      "caso": "desconhecido",
+      "bruto_sintetico": "Art. 9999 de uma norma inexistente",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Golpes de Ganho Financeiro Ilusório",
+      "caso": "permitido",
+      "bruto_sintetico": "Art. 171 do Código Penal (Estelionato)",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes de Ganho Financeiro Ilusório",
+      "caso": "prefixo",
+      "bruto_sintetico": "Art. 1710",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes de Ganho Financeiro Ilusório",
+      "caso": "misto",
+      "bruto_sintetico": "Art. 171; Art. 9999",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes de Desinformação Digital",
+      "caso": "vazio",
+      "bruto_sintetico": "",
+      "filtrado": "",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes de Desinformação Digital",
+      "caso": "desconhecido",
+      "bruto_sintetico": "Art. 9999 de uma norma inexistente",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Golpes de Desinformação Digital",
+      "caso": "permitido",
+      "bruto_sintetico": "Art. 171 do Código Penal (Estelionato)",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes de Desinformação Digital",
+      "caso": "prefixo",
+      "bruto_sintetico": "Art. 1710",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes de Desinformação Digital",
+      "caso": "misto",
+      "bruto_sintetico": "Art. 171; Art. 9999",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Fraudes em Lojas Virtuais Falsas",
+      "caso": "vazio",
+      "bruto_sintetico": "",
+      "filtrado": "",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Fraudes em Lojas Virtuais Falsas",
+      "caso": "desconhecido",
+      "bruto_sintetico": "Art. 9999 de uma norma inexistente",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Fraudes em Lojas Virtuais Falsas",
+      "caso": "permitido",
+      "bruto_sintetico": "Art. 171 do Código Penal (Estelionato)",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Fraudes em Lojas Virtuais Falsas",
+      "caso": "prefixo",
+      "bruto_sintetico": "Art. 1710",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Fraudes em Lojas Virtuais Falsas",
+      "caso": "misto",
+      "bruto_sintetico": "Art. 171; Art. 9999",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "caso": "vazio",
+      "bruto_sintetico": "",
+      "filtrado": "",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "caso": "desconhecido",
+      "bruto_sintetico": "Art. 9999 de uma norma inexistente",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "caso": "permitido",
+      "bruto_sintetico": "Art. 171 do Código Penal (Estelionato)",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "caso": "prefixo",
+      "bruto_sintetico": "Art. 1710",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Ataques de Phishing e Roubo de Dados",
+      "caso": "misto",
+      "bruto_sintetico": "Art. 171; Art. 9999",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "caso": "vazio",
+      "bruto_sintetico": "",
+      "filtrado": "",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "caso": "desconhecido",
+      "bruto_sintetico": "Art. 9999 de uma norma inexistente",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "caso": "permitido",
+      "bruto_sintetico": "Art. 171 do Código Penal (Estelionato)",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "caso": "prefixo",
+      "bruto_sintetico": "Art. 1710",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Golpes Baseados Em Relacionamento",
+      "caso": "misto",
+      "bruto_sintetico": "Art. 171; Art. 9999",
+      "filtrado": "Art. 171 do Código Penal (Estelionato)",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Seguro",
+      "caso": "vazio",
+      "bruto_sintetico": "",
+      "filtrado": "",
+      "flag_invalida": false
+    },
+    {
+      "categoria": "Seguro",
+      "caso": "desconhecido",
+      "bruto_sintetico": "Art. 9999 de uma norma inexistente",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Seguro",
+      "caso": "permitido",
+      "bruto_sintetico": "Art. 171",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Seguro",
+      "caso": "prefixo",
+      "bruto_sintetico": "Art. 1710",
+      "filtrado": "",
+      "flag_invalida": true
+    },
+    {
+      "categoria": "Seguro",
+      "caso": "misto",
+      "bruto_sintetico": "Art. 171; Art. 9999",
+      "filtrado": "",
+      "flag_invalida": true
+    }
+  ]
+}

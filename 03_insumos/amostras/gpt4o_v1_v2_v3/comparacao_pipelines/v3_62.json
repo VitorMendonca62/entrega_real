@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 62,
+    "text": "Eh, você se lembra de como soletrar o nome dele... Sim, eu fiz. Ele é safado faz até ficar molhado.",
+    "category": "Seguro",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "497dedb37ebba1fe6c17e41d1c1db6d6c2804dfc0db961df3379bc391ffe7d04"
+  },
+  "call_id": "89a5a9369b55b4c9fc5de924eed6968570f4acff0e50c10bbca3ae6eefd65e39",
+  "filtered": {
+    "Motivo": "O texto analisado não apresenta elementos que sugiram qualquer intenção maliciosa, fraude ou tentativa de engenharia social. Trata-se de uma comunicação informal que não indica qualquer atividade ilícita.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado não apresenta elementos que sugiram qualquer intenção maliciosa, fraude ou tentativa de engenharia social. Trata-se de uma comunicação informal que não indica qualquer atividade ilícita.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

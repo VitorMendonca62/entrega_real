@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/content/veritaplugin_bert/execucao_20261020T193658592304Z/treinar_bert.py", line 13, in <module>
+    import matplotlib.pyplot as plt
+  File "/content/veritaplugin_bert/venv_py312/lib/python3.12/site-packages/matplotlib/__init__.py", line 1270, in <module>
+    rcParams['backend'] = os.environ.get('MPLBACKEND')
+    ~~~~~~~~^^^^^^^^^^^
+  File "/content/veritaplugin_bert/venv_py312/lib/python3.12/site-packages/matplotlib/__init__.py", line 738, in __setitem__
+    raise ValueError(f"Key {key}: {ve}") from None
+ValueError: Key backend: 'module://matplotlib_inline.backend_inline' is not a valid value for backend; supported values are ['gtk3agg', 'gtk3cairo', 'gtk4agg', 'gtk4cairo', 'macosx', 'nbagg', 'notebook', 'qtagg', 'qtcairo', 'qt5agg', 'qt5cairo', 'tkagg', 'tkcairo', 'webagg', 'wx', 'wxagg', 'wxcairo', 'agg', 'cairo', 'pdf', 'pgf', 'ps', 'svg', 'template']

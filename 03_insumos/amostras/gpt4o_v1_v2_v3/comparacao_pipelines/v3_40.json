@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 40,
+    "text": "Sim, meninas. A água de coco cura candidíase! \n#explore #reels #viral #dicas #beleza\n#candidiase #dicasdebeleza #explorar #fyp",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "5741247ae4b3988523b4ef18946651f580c80799e79bc963ee352433179017f4"
+  },
+  "call_id": "a10268f6bdcc576464096ed1a48b4027ebee5de03e4ff1e4f319bf29824d877b",
+  "filtered": {
+    "Motivo": "O texto promove a ideia falsa de que a água de coco cura candidíase, o que caracteriza a criação e disseminação de informação enganosa. Isso pode levar pessoas a acreditarem em uma cura ineficaz, possivelmente influenciando decisões médicas inadequadas e explorando o desejo emocional por soluções rápidas para problemas de saúde. O uso de hashtags como #viral e #explorar indica uma tentativa deliberada de amplificar o alcance da mensagem, típico de golpes de desinformação.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto promove a ideia falsa de que a água de coco cura candidíase, o que caracteriza a criação e disseminação de informação enganosa. Isso pode levar pessoas a acreditarem em uma cura ineficaz, possivelmente influenciando decisões médicas inadequadas e explorando o desejo emocional por soluções rápidas para problemas de saúde. O uso de hashtags como #viral e #explorar indica uma tentativa deliberada de amplificar o alcance da mensagem, típico de golpes de desinformação.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

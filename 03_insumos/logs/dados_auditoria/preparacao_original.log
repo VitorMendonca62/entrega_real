@@ -1,0 +1,155 @@
+Carregando 'outputs/evidencias/autores/treinamento-BERTimbau/BrScamsFacebook.xlsx'...
+
+Dataset carregado: 450 linhas · 6 categorias · 8 datasets de origem
+
+Distribuição por categoria:
+Categoria
+Golpes Baseados Em Relacionamento       75
+Fraudes em Lojas Virtuais Falsas        75
+Golpes de Desinformação Digital         75
+Golpes de Ganho Financeiro Ilusório     75
+Seguro                                  75
+Ataques de Phishing e Roubo de Dados    75
+
+Distribuição por Dataset:
+Dataset
+Externo 3    104
+Externo 2     77
+Externo 1     65
+Interno       64
+Externo 6     43
+Externo 7     36
+Externo 4     36
+Externo 5     25
+
+Gerando split holdout 80/10/10...
+
+============================================================
+RELATÓRIO DE DISTRIBUIÇÃO DO DATASET
+============================================================
+
+── TREINO (361 exemplos / 80%) ──
+  Por categoria:
+    Ataques de Phishing e Roubo de Dados            60  ██████████████████████████████
+    Fraudes em Lojas Virtuais Falsas                60  ██████████████████████████████
+    Golpes Baseados Em Relacionamento               60  ██████████████████████████████
+    Golpes de Desinformação Digital                 61  ██████████████████████████████
+    Golpes de Ganho Financeiro Ilusório             60  ██████████████████████████████
+    Seguro                                          60  ██████████████████████████████
+  Por Dataset:
+    Externo 1                                       52
+    Externo 2                                       62
+    Externo 3                                       83
+    Externo 4                                       29
+    Externo 5                                       20
+    Externo 6                                       35
+    Externo 7                                       29
+    Interno                                         51
+
+── VALIDAÇÃO (44 exemplos / 10%) ──
+  Por categoria:
+    Ataques de Phishing e Roubo de Dados             7  ███
+    Fraudes em Lojas Virtuais Falsas                 8  ████
+    Golpes Baseados Em Relacionamento                7  ███
+    Golpes de Desinformação Digital                  7  ███
+    Golpes de Ganho Financeiro Ilusório              8  ████
+    Seguro                                           7  ███
+  Por Dataset:
+    Externo 1                                        6
+    Externo 2                                        7
+    Externo 3                                       10
+    Externo 4                                        3
+    Externo 5                                        3
+    Externo 6                                        4
+    Externo 7                                        4
+    Interno                                          7
+
+── TESTE (45 exemplos / 10%) ──
+  Por categoria:
+    Ataques de Phishing e Roubo de Dados             8  ████
+    Fraudes em Lojas Virtuais Falsas                 7  ███
+    Golpes Baseados Em Relacionamento                8  ████
+    Golpes de Desinformação Digital                  7  ███
+    Golpes de Ganho Financeiro Ilusório              7  ███
+    Seguro                                           8  ████
+  Por Dataset:
+    Externo 1                                        7
+    Externo 2                                        8
+    Externo 3                                       11
+    Externo 4                                        4
+    Externo 5                                        2
+    Externo 6                                        4
+    Externo 7                                        3
+    Interno                                          6
+
+── VERIFICAÇÃO DE VAZAMENTO ──
+  treino ∩ validação : 44 (deve ser 0)
+  treino ∩ teste     : 45 (deve ser 0)
+  validação ∩ teste  : 44 (deve ser 0)
+============================================================
+
+Gerando 5 folds estratificados...
+
+============================================================
+RELATÓRIO K-FOLD — categorias por fold de teste
+============================================================
+
+── Fold 1 · treino=360 · teste=90 ──
+  Por categoria no teste:
+    Ataques de Phishing e Roubo de Dados            16
+    Fraudes em Lojas Virtuais Falsas                15
+    Golpes Baseados Em Relacionamento               15
+    Golpes de Desinformação Digital                 15
+    Golpes de Ganho Financeiro Ilusório             16
+    Seguro                                          13
+
+── Fold 2 · treino=360 · teste=90 ──
+  Por categoria no teste:
+    Ataques de Phishing e Roubo de Dados            14
+    Fraudes em Lojas Virtuais Falsas                15
+    Golpes Baseados Em Relacionamento               15
+    Golpes de Desinformação Digital                 15
+    Golpes de Ganho Financeiro Ilusório             15
+    Seguro                                          16
+
+── Fold 3 · treino=360 · teste=90 ──
+  Por categoria no teste:
+    Ataques de Phishing e Roubo de Dados            15
+    Fraudes em Lojas Virtuais Falsas                15
+    Golpes Baseados Em Relacionamento               15
+    Golpes de Desinformação Digital                 15
+    Golpes de Ganho Financeiro Ilusório             14
+    Seguro                                          16
+
+── Fold 4 · treino=360 · teste=90 ──
+  Por categoria no teste:
+    Ataques de Phishing e Roubo de Dados            15
+    Fraudes em Lojas Virtuais Falsas                14
+    Golpes Baseados Em Relacionamento               15
+    Golpes de Desinformação Digital                 15
+    Golpes de Ganho Financeiro Ilusório             15
+    Seguro                                          16
+
+── Fold 5 · treino=360 · teste=90 ──
+  Por categoria no teste:
+    Ataques de Phishing e Roubo de Dados            15
+    Fraudes em Lojas Virtuais Falsas                16
+    Golpes Baseados Em Relacionamento               15
+    Golpes de Desinformação Digital                 15
+    Golpes de Ganho Financeiro Ilusório             15
+    Seguro                                          14
+============================================================
+
+Concluído! Arquivos gerados em 'outputs/evidencias/execucao/splits_regenerados/':
+
+  holdout/
+    treino.csv / .json      → 361 exemplos (80%)
+    validacao.csv / .json   → 44 exemplos (10%)
+    teste.csv / .json       → 45 exemplos (10%)
+
+  huggingface/
+    train.jsonl / validation.jsonl / test.jsonl
+
+  kfold/
+    fold_1/ … fold_5/   (treino.csv + teste.csv + .json)
+

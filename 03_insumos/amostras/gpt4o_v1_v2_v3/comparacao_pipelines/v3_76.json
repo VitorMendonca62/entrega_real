@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 76,
+    "text": "\"Depois de 53 sessões de quimioterapia, de dias em que eu não tinha forças nem para levantar a cabeça e de noites em que a incerteza era minha única companhia, eu finalmente posso dizer em voz alta: EU ESTOU LIVRE! O câncer não me venceu, e essa placa que seguro hoje é o troféu mais valioso que eu poderia conquistar na vida. ✌️🎊🏥\nCada picada de agulha, cada fio de cabelo que caiu e cada lágrima derramada valeram a pena para chegar neste momento de cura. Sou grata a cada médico, a cada oração e à minha própria vontade de viver que nunca se apagou. Se você está passando por uma batalha difícil hoje, não desista! O sol volta a brilhar, e a minha vitória é a prova de que milagres acontecem todos os dias. ✨💙🙏\"",
+    "category": "Seguro",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "bd5fba690f5f797fe340345fa9e4dd4e96d2c1f68f21b6ec046b9773b40e6608"
+  },
+  "call_id": "5ef23d2044fd7df35b77d90d698948c00b44f9b13320aacef292c4a63755fa65",
+  "filtered": {
+    "Motivo": "O texto é um relato pessoal de superação e não apresenta indícios de engenharia social, fraude ou qualquer intenção maliciosa. Trata-se de uma mensagem inspiradora e de apoio emocional, sem implicações legais ou riscos associados.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto é um relato pessoal de superação e não apresenta indícios de engenharia social, fraude ou qualquer intenção maliciosa. Trata-se de uma mensagem inspiradora e de apoio emocional, sem implicações legais ou riscos associados.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

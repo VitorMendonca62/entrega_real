@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 4,
+    "text": "Obrigado pela sua assinatura da Ringtone UK, seu celular será cobrado £ 5/mês. Confirme respondendo SIM ou NÃO. Se você responder NÃO, você não será cobrado",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "2483514e387fb40378cd48bf2f9697d042e478585b18f1059e7d0dad500ffba5"
+  },
+  "call_id": "3318b74977c8410cfc280d4dce6a84db2639c5a31256d4d674c6492e251a1e15",
+  "filtered": {
+    "Motivo": "O texto simula uma cobrança indevida de £ 5/mês para um serviço de 'Ringtone UK', induzindo a vítima a responder SIM ou NÃO. Este é um indicativo comum em golpes de phishing, onde a resposta pode levar a cobranças não autorizadas ou coleta de informações pessoais para ações fraudulentas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear o remetente e denunciar a mensagem maliciosa na plataforma. 2. Salvar capturas de tela da mensagem original e do link malicioso recebido. 3. Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica).",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto simula uma cobrança indevida de £ 5/mês para um serviço de 'Ringtone UK', induzindo a vítima a responder SIM ou NÃO. Este é um indicativo comum em golpes de phishing, onde a resposta pode levar a cobranças não autorizadas ou coleta de informações pessoais para ações fraudulentas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear o remetente e denunciar a mensagem maliciosa na plataforma. 2. Salvar capturas de tela da mensagem original e do link malicioso recebido. 3. Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica)."
+  }
+}

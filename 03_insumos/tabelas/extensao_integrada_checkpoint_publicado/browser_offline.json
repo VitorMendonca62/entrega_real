@@ -1,0 +1,80 @@
+{
+  "phase": "offline",
+  "tests": [
+    {
+      "test": "onboarding_detecta_api_local",
+      "ok": true
+    },
+    {
+      "test": "onboarding_salva_configuracao",
+      "ok": true,
+      "credential": "placeholder; nenhuma chamada externa"
+    },
+    {
+      "test": "botao_injetado",
+      "ok": true
+    },
+    {
+      "test": "destaque",
+      "ok": true,
+      "outline": "solid"
+    },
+    {
+      "test": "cancelar_escape",
+      "ok": true
+    },
+    {
+      "test": "cancelar_botao",
+      "ok": true
+    },
+    {
+      "test": "extracao_#nested-first",
+      "texto_elemento": "Trecho inicial.",
+      "texto_enviado": "Trecho inicial.",
+      "envia_somente_alvo_clicado": true,
+      "erro_exibido": "Erro ao analisar: Erro da API: 502",
+      "loading_removed": true
+    },
+    {
+      "test": "extracao_#nested-body",
+      "texto_elemento": "Trecho inicial. Trecho final.",
+      "texto_enviado": "Trecho inicial.",
+      "envia_somente_alvo_clicado": false,
+      "erro_exibido": "Erro ao analisar: Erro da API: 502",
+      "loading_removed": true
+    },
+    {
+      "test": "rede_indisponivel_browser_offline",
+      "ok": true,
+      "error": "Erro ao analisar: Failed to fetch"
+    },
+    {
+      "test": "sem_reserva_paga_offline",
+      "ok": true
+    }
+  ],
+  "requests": [
+    {
+      "utc_epoch": 1792525658.850976,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "Trecho inicial.",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525665.960977,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "Trecho inicial.",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525671.0537534,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+      "api_key_in_body": false
+    }
+  ],
+  "page_errors": []
+}

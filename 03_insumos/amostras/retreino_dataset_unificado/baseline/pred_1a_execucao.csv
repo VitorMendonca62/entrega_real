@@ -1,0 +1,757 @@
+linha_xlsx,fonte,classe,tipo,facebook,pred,conf,p_0,p_1,p_2,p_3,p_4,p_5
+2,Interno,Relacionamento,real,True,Relacionamento,0.4453,0.4453,0.1196,0.0826,0.1213,0.0947,0.1365
+3,Interno,Relacionamento,real,True,Relacionamento,0.383,0.383,0.1434,0.1173,0.1044,0.1138,0.1381
+4,Interno,Relacionamento,real,True,Relacionamento,0.3717,0.3717,0.0638,0.0751,0.1116,0.1663,0.2116
+5,Interno,Relacionamento,real,True,Relacionamento,0.4557,0.4557,0.1035,0.076,0.1152,0.1115,0.1381
+6,Interno,Relacionamento,real,True,Relacionamento,0.4236,0.4236,0.0865,0.076,0.1142,0.1164,0.1833
+7,Interno,Loja Falsa,real,True,Seguro,0.2465,0.1555,0.0991,0.1477,0.1591,0.1922,0.2465
+8,Interno,Loja Falsa,real,True,Financeiro,0.2869,0.1191,0.2869,0.228,0.2407,0.0615,0.0639
+9,Interno,Loja Falsa,real,True,Phishing,0.3525,0.0843,0.1882,0.3525,0.1983,0.0747,0.102
+10,Interno,Loja Falsa,real,True,Financeiro,0.3254,0.0563,0.3254,0.3091,0.1854,0.0568,0.067
+11,Interno,Loja Falsa,real,True,Financeiro,0.3423,0.0651,0.3423,0.3044,0.1694,0.0526,0.0662
+12,Interno,Loja Falsa,real,True,Phishing,0.3274,0.0836,0.2051,0.3274,0.2041,0.0817,0.0981
+13,Interno,Loja Falsa,real,True,Phishing,0.2805,0.0895,0.1927,0.2805,0.2655,0.0829,0.0888
+14,Interno,Loja Falsa,real,True,Loja Falsa,0.2949,0.097,0.1973,0.2695,0.2949,0.0661,0.0752
+15,Interno,Desinformação,real,True,Desinformação,0.4462,0.1142,0.062,0.062,0.0896,0.4462,0.2259
+16,Interno,Desinformação,real,True,Seguro,0.2604,0.1494,0.0844,0.1185,0.1781,0.2092,0.2604
+17,Interno,Desinformação,real,True,Seguro,0.2393,0.1101,0.1305,0.1524,0.1452,0.2225,0.2393
+18,Interno,Desinformação,real,True,Desinformação,0.388,0.1289,0.1076,0.0907,0.1118,0.388,0.173
+19,Interno,Desinformação,real,True,Desinformação,0.4021,0.1237,0.0813,0.0748,0.0894,0.4021,0.2287
+20,Interno,Financeiro,real,True,Relacionamento,0.3739,0.3739,0.19,0.1199,0.183,0.0662,0.067
+21,Interno,Financeiro,real,True,Phishing,0.3913,0.0651,0.1703,0.3913,0.2017,0.0722,0.0994
+22,Interno,Financeiro,real,True,Phishing,0.3479,0.0746,0.1188,0.3479,0.1346,0.1327,0.1914
+23,Interno,Financeiro,real,True,Phishing,0.2775,0.1296,0.2553,0.2775,0.2345,0.0524,0.0506
+24,Interno,Financeiro,real,True,Phishing,0.3589,0.0546,0.1993,0.3589,0.188,0.0858,0.1134
+25,Interno,Financeiro,real,True,Financeiro,0.2849,0.2593,0.2849,0.1835,0.135,0.0621,0.0752
+26,Interno,Financeiro,real,True,Phishing,0.2895,0.1187,0.2871,0.2895,0.1921,0.0525,0.0601
+27,Interno,Financeiro,real,True,Seguro,0.2075,0.1335,0.1955,0.1795,0.1364,0.1475,0.2075
+28,Externo 5,Financeiro,real,False,Financeiro,0.421,0.0829,0.421,0.1566,0.2389,0.049,0.0516
+29,Externo 5,Financeiro,real,False,Financeiro,0.4132,0.1278,0.4132,0.1513,0.2327,0.0375,0.0375
+30,Externo 5,Financeiro,real,False,Phishing,0.3634,0.0898,0.2257,0.3634,0.2188,0.0495,0.0527
+31,Externo 5,Financeiro,real,False,Financeiro,0.3055,0.2043,0.3055,0.15,0.2147,0.062,0.0635
+32,Externo 5,Financeiro,real,False,Financeiro,0.3091,0.2386,0.3091,0.1118,0.2197,0.0647,0.0561
+33,Externo 5,Financeiro,real,False,Financeiro,0.3898,0.0725,0.3898,0.2015,0.2228,0.0572,0.0562
+34,Externo 5,Financeiro,real,False,Financeiro,0.4213,0.1235,0.4213,0.1358,0.2468,0.0393,0.0332
+35,Externo 5,Financeiro,real,False,Financeiro,0.5019,0.0921,0.5019,0.1354,0.198,0.0367,0.0359
+36,Externo 6,Seguro,real,False,Seguro,0.3229,0.1428,0.0525,0.0891,0.1947,0.1979,0.3229
+37,Externo 6,Seguro,real,False,Seguro,0.3188,0.1151,0.0717,0.1148,0.1523,0.2273,0.3188
+38,Externo 6,Seguro,real,False,Seguro,0.283,0.1509,0.0976,0.1189,0.1432,0.2064,0.283
+39,Externo 5,Financeiro,real,False,Financeiro,0.3807,0.1253,0.3807,0.2112,0.1947,0.0483,0.0397
+40,Externo 5,Financeiro,real,False,Financeiro,0.4456,0.0673,0.4456,0.197,0.2044,0.0418,0.0438
+41,Externo 5,Financeiro,real,False,Financeiro,0.47,0.0766,0.47,0.1508,0.2022,0.0507,0.0496
+42,Externo 5,Financeiro,real,False,Financeiro,0.4883,0.0868,0.4883,0.1393,0.2002,0.0424,0.0429
+43,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2799,0.1419,0.0537,0.0913,0.2799,0.1906,0.2425
+44,Externo 6,Loja Falsa,real,False,Seguro,0.2334,0.1246,0.0745,0.1473,0.2221,0.1981,0.2334
+45,Externo 6,Loja Falsa,real,False,Seguro,0.287,0.1684,0.0628,0.0929,0.2104,0.1785,0.287
+46,Externo 6,Loja Falsa,real,False,Loja Falsa,0.264,0.1316,0.0738,0.1763,0.264,0.1464,0.2079
+47,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2558,0.1296,0.0762,0.1632,0.2558,0.1669,0.2083
+48,Externo 6,Loja Falsa,real,False,Seguro,0.3499,0.1169,0.0587,0.1082,0.1555,0.2107,0.3499
+49,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2542,0.1496,0.0603,0.1275,0.2542,0.1614,0.247
+50,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2793,0.1365,0.0593,0.0921,0.2793,0.1834,0.2494
+51,Externo 6,Loja Falsa,real,False,Seguro,0.31,0.1198,0.068,0.1196,0.1573,0.2253,0.31
+52,Externo 6,Loja Falsa,real,False,Loja Falsa,0.244,0.1549,0.0629,0.0922,0.244,0.2035,0.2425
+53,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2721,0.1044,0.1136,0.2336,0.2721,0.1139,0.1624
+54,Externo 6,Loja Falsa,real,False,Loja Falsa,0.3096,0.104,0.1679,0.2498,0.3096,0.0736,0.0952
+55,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2617,0.1067,0.1044,0.2097,0.2617,0.1435,0.1738
+56,Externo 6,Loja Falsa,real,False,Seguro,0.2861,0.1222,0.0551,0.0979,0.2244,0.2144,0.2861
+57,Externo 6,Loja Falsa,real,False,Seguro,0.252,0.1354,0.0719,0.1033,0.2158,0.2216,0.252
+58,Externo 6,Loja Falsa,real,False,Loja Falsa,0.3105,0.1104,0.0647,0.1096,0.3105,0.1851,0.2197
+59,Externo 6,Loja Falsa,real,False,Seguro,0.2829,0.1319,0.0553,0.1014,0.2344,0.1942,0.2829
+60,Externo 6,Loja Falsa,real,False,Seguro,0.2965,0.1228,0.058,0.1147,0.2337,0.1742,0.2965
+61,Externo 6,Loja Falsa,real,False,Seguro,0.2786,0.1645,0.0577,0.1016,0.2219,0.1757,0.2786
+62,Interno,Financeiro,real,True,Financeiro,0.3152,0.1043,0.3152,0.2933,0.187,0.0515,0.0487
+63,Interno,Financeiro,real,True,Financeiro,0.3297,0.1141,0.3297,0.1806,0.2706,0.0531,0.0518
+64,Interno,Financeiro,real,True,Financeiro,0.3534,0.1036,0.3534,0.2007,0.2355,0.0502,0.0566
+65,Externo 2,Phishing,real,False,Phishing,0.5292,0.0802,0.1211,0.5292,0.129,0.0575,0.0829
+66,Externo 2,Phishing,real,False,Phishing,0.5239,0.0836,0.1287,0.5239,0.1355,0.0589,0.0694
+67,Externo 2,Phishing,real,False,Phishing,0.4226,0.0958,0.1656,0.4226,0.1734,0.0627,0.0799
+68,Externo 2,Phishing,real,False,Phishing,0.4396,0.1024,0.135,0.4396,0.1389,0.0763,0.1079
+69,Externo 2,Phishing,real,False,Phishing,0.5318,0.0715,0.1118,0.5318,0.1298,0.0705,0.0845
+70,Externo 2,Phishing,real,False,Phishing,0.5323,0.0732,0.1119,0.5323,0.1308,0.07,0.0817
+71,Externo 2,Phishing,real,False,Phishing,0.5179,0.0685,0.1487,0.5179,0.1393,0.0547,0.0708
+72,Externo 2,Phishing,real,False,Phishing,0.5333,0.0751,0.1274,0.5333,0.1318,0.0576,0.0748
+73,Externo 2,Phishing,real,False,Phishing,0.5206,0.0649,0.1291,0.5206,0.1326,0.065,0.0878
+74,Externo 2,Phishing,real,False,Phishing,0.4843,0.0667,0.1052,0.4843,0.1509,0.0828,0.1101
+75,Externo 2,Phishing,real,False,Phishing,0.4988,0.1085,0.1133,0.4988,0.1173,0.0695,0.0926
+76,Externo 2,Phishing,real,False,Phishing,0.4101,0.0749,0.1327,0.4101,0.1922,0.0811,0.109
+77,Interno,Financeiro,real,True,Financeiro,0.33,0.1134,0.33,0.1768,0.2673,0.0518,0.0607
+78,Interno,Financeiro,real,True,Financeiro,0.3468,0.1261,0.3468,0.1641,0.2156,0.0757,0.0717
+79,Interno,Seguro,real,True,Seguro,0.2486,0.1307,0.1203,0.1594,0.108,0.2329,0.2486
+80,Interno,Seguro,real,True,Relacionamento,0.2618,0.2618,0.096,0.0933,0.155,0.168,0.2259
+81,Interno,Seguro,real,True,Seguro,0.2712,0.133,0.0945,0.1368,0.1593,0.2052,0.2712
+82,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3809,0.1025,0.3015,0.1233,0.3809,0.049,0.0427
+83,Externo 7,Loja Falsa,real,False,Financeiro,0.3526,0.0827,0.3526,0.1221,0.3502,0.0489,0.0436
+84,Externo 4,Financeiro,real,False,Financeiro,0.7026,0.0736,0.7026,0.078,0.0861,0.0326,0.027
+85,Interno,Relacionamento,real,True,Relacionamento,0.4029,0.4029,0.0623,0.0915,0.0996,0.1295,0.2142
+86,Externo 6,Loja Falsa,real,False,Seguro,0.3166,0.1314,0.0609,0.1174,0.1852,0.1884,0.3166
+87,Externo 6,Loja Falsa,real,False,Loja Falsa,0.3228,0.1587,0.1549,0.1806,0.3228,0.0825,0.1004
+88,Externo 6,Loja Falsa,real,False,Seguro,0.2595,0.1447,0.0669,0.1199,0.2377,0.1713,0.2595
+89,Externo 6,Loja Falsa,real,False,Seguro,0.2778,0.1187,0.0647,0.0848,0.2372,0.2168,0.2778
+90,Externo 6,Seguro,real,False,Seguro,0.3164,0.1149,0.0509,0.0936,0.1909,0.2333,0.3164
+91,Externo 6,Seguro,real,False,Seguro,0.3262,0.1615,0.0621,0.1041,0.1587,0.1874,0.3262
+92,Interno,Financeiro,real,True,Financeiro,0.3468,0.1261,0.3468,0.1641,0.2156,0.0757,0.0717
+93,Interno,Seguro,real,True,Seguro,0.2554,0.107,0.1055,0.1314,0.2075,0.1932,0.2554
+94,Interno,Seguro,real,True,Seguro,0.3362,0.1351,0.0667,0.1208,0.0867,0.2545,0.3362
+95,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3874,0.124,0.235,0.1524,0.3874,0.0519,0.0493
+96,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3423,0.1811,0.2337,0.1516,0.3423,0.0463,0.045
+97,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3215,0.1865,0.2376,0.1587,0.3215,0.0515,0.0443
+98,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3231,0.2073,0.2378,0.1427,0.3231,0.0473,0.0418
+99,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3284,0.1392,0.3223,0.1326,0.3284,0.0397,0.0379
+100,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3864,0.0945,0.2763,0.1454,0.3864,0.0511,0.0462
+101,Externo 7,Loja Falsa,real,False,Loja Falsa,0.347,0.1571,0.2282,0.1816,0.347,0.0454,0.0406
+102,Externo 7,Loja Falsa,real,False,Loja Falsa,0.4105,0.1654,0.1827,0.1412,0.4105,0.0505,0.0497
+103,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3975,0.1508,0.2319,0.1375,0.3975,0.0418,0.0406
+104,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3311,0.126,0.2547,0.1981,0.3311,0.0465,0.0436
+105,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3726,0.1492,0.2581,0.1289,0.3726,0.0471,0.0442
+106,Externo 7,Loja Falsa,real,False,Loja Falsa,0.4083,0.1006,0.2411,0.1448,0.4083,0.0522,0.0531
+107,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3883,0.1023,0.2898,0.1188,0.3883,0.0544,0.0463
+108,Interno,Relacionamento,real,True,Relacionamento,0.5851,0.5851,0.0882,0.0734,0.0847,0.0799,0.0886
+109,Interno,Relacionamento,real,True,Relacionamento,0.3133,0.3133,0.0513,0.085,0.1021,0.1977,0.2507
+110,Interno,Relacionamento,real,True,Relacionamento,0.5832,0.5832,0.0669,0.0759,0.0851,0.0898,0.0991
+111,Externo 5,Financeiro,real,False,Financeiro,0.3015,0.1809,0.3015,0.1624,0.2408,0.0588,0.0557
+112,Externo 5,Financeiro,real,False,Financeiro,0.334,0.131,0.334,0.1389,0.2983,0.0481,0.0497
+113,Externo 5,Financeiro,real,False,Financeiro,0.3447,0.1398,0.3447,0.1536,0.2776,0.0442,0.0402
+114,Externo 5,Financeiro,real,False,Financeiro,0.4065,0.0847,0.4065,0.2015,0.2225,0.0386,0.0462
+115,Externo 5,Financeiro,real,False,Financeiro,0.3419,0.2117,0.3419,0.1026,0.2465,0.0521,0.0452
+116,Externo 5,Financeiro,real,False,Financeiro,0.2777,0.106,0.2777,0.1895,0.2377,0.0898,0.0993
+117,Externo 5,Financeiro,real,False,Financeiro,0.3742,0.1441,0.3742,0.1276,0.2677,0.0443,0.0422
+118,Externo 5,Financeiro,real,False,Financeiro,0.3854,0.1214,0.3854,0.1394,0.2658,0.0443,0.0437
+119,Externo 5,Financeiro,real,False,Financeiro,0.3127,0.1927,0.3127,0.1327,0.2621,0.0539,0.0459
+120,Externo 5,Financeiro,real,False,Financeiro,0.2845,0.2275,0.2845,0.1969,0.2115,0.0391,0.0406
+121,Externo 5,Financeiro,real,False,Loja Falsa,0.3155,0.1424,0.268,0.1722,0.3155,0.0475,0.0545
+122,Externo 5,Financeiro,real,False,Financeiro,0.4019,0.0838,0.4019,0.2472,0.1973,0.0344,0.0353
+123,Externo 5,Financeiro,real,False,Financeiro,0.3832,0.107,0.3832,0.1379,0.2822,0.0451,0.0446
+124,Externo 1,Relacionamento,real,False,Relacionamento,0.6053,0.6053,0.0951,0.0566,0.1135,0.0668,0.0627
+125,Externo 1,Relacionamento,real,False,Relacionamento,0.506,0.506,0.0983,0.0691,0.1074,0.085,0.1342
+126,Externo 1,Relacionamento,real,False,Phishing,0.2491,0.2016,0.1212,0.2491,0.1523,0.1332,0.1425
+127,Externo 1,Relacionamento,real,False,Relacionamento,0.5779,0.5779,0.0663,0.0699,0.0939,0.0815,0.1105
+128,Externo 1,Relacionamento,real,False,Relacionamento,0.5846,0.5846,0.0753,0.0622,0.0957,0.0799,0.1023
+129,Externo 1,Relacionamento,real,False,Relacionamento,0.435,0.435,0.087,0.0733,0.0968,0.1411,0.1668
+130,Externo 1,Relacionamento,real,False,Relacionamento,0.2499,0.2499,0.0846,0.0816,0.1109,0.229,0.244
+131,Externo 1,Relacionamento,real,False,Relacionamento,0.5883,0.5883,0.1033,0.0647,0.1163,0.0667,0.0608
+132,Externo 6,Loja Falsa,real,False,Seguro,0.2725,0.1249,0.0832,0.1065,0.2378,0.1751,0.2725
+133,Externo 6,Loja Falsa,real,False,Loja Falsa,0.3002,0.1129,0.0759,0.0935,0.3002,0.211,0.2065
+134,Externo 6,Loja Falsa,real,False,Seguro,0.2636,0.1332,0.0572,0.1016,0.2614,0.1829,0.2636
+135,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2424,0.1417,0.0711,0.1092,0.2424,0.2053,0.2304
+136,Externo 6,Loja Falsa,real,False,Desinformação,0.2403,0.1209,0.0883,0.1038,0.2215,0.2403,0.2252
+137,Externo 6,Loja Falsa,real,False,Seguro,0.2778,0.1718,0.0719,0.0846,0.2086,0.1853,0.2778
+138,Externo 6,Loja Falsa,real,False,Seguro,0.2884,0.1197,0.0684,0.126,0.2188,0.1787,0.2884
+139,Externo 6,Loja Falsa,real,False,Loja Falsa,0.2526,0.0933,0.0758,0.1416,0.2526,0.1931,0.2437
+140,Externo 6,Seguro,real,False,Seguro,0.321,0.1233,0.0555,0.0983,0.2066,0.1954,0.321
+141,Externo 6,Seguro,real,False,Seguro,0.2777,0.1114,0.0593,0.1176,0.2138,0.2202,0.2777
+142,Externo 6,Seguro,real,False,Seguro,0.2679,0.1427,0.0774,0.1016,0.2164,0.194,0.2679
+143,Externo 6,Seguro,real,False,Seguro,0.3306,0.1503,0.0577,0.0904,0.168,0.203,0.3306
+144,Externo 6,Seguro,real,False,Seguro,0.269,0.128,0.0535,0.1023,0.2316,0.2156,0.269
+145,Externo 6,Seguro,real,False,Seguro,0.2901,0.1452,0.0697,0.1006,0.2296,0.1649,0.2901
+146,Externo 1,Relacionamento,real,False,Relacionamento,0.6291,0.6291,0.0724,0.0643,0.0831,0.069,0.0822
+147,Externo 1,Relacionamento,real,False,Relacionamento,0.4711,0.4711,0.0729,0.0978,0.0844,0.1163,0.1575
+148,Externo 1,Relacionamento,real,False,Relacionamento,0.5974,0.5974,0.0738,0.0741,0.0882,0.0762,0.0904
+149,Externo 2,Seguro,real,False,Relacionamento,0.3508,0.3508,0.0698,0.0831,0.108,0.1412,0.2472
+150,Interno,Relacionamento,real,True,Seguro,0.2883,0.1897,0.0609,0.0867,0.1327,0.2416,0.2883
+151,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3354,0.0895,0.2661,0.1952,0.3354,0.0568,0.057
+152,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3937,0.1988,0.1786,0.1284,0.3937,0.0501,0.0503
+153,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3232,0.1393,0.27,0.1624,0.3232,0.0545,0.0506
+154,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3853,0.0967,0.2678,0.1338,0.3853,0.0618,0.0545
+155,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3262,0.1079,0.3111,0.1613,0.3262,0.0509,0.0426
+156,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3483,0.118,0.3181,0.1276,0.3483,0.0461,0.042
+157,Externo 7,Loja Falsa,real,False,Loja Falsa,0.4026,0.1703,0.1875,0.1267,0.4026,0.0565,0.0564
+158,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3122,0.0661,0.1705,0.2188,0.3122,0.1226,0.1098
+159,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3152,0.1285,0.2888,0.1667,0.3152,0.0512,0.0496
+160,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3331,0.0762,0.298,0.1846,0.3331,0.0583,0.0499
+161,Externo 7,Loja Falsa,real,False,Financeiro,0.2855,0.146,0.2855,0.2038,0.2804,0.0418,0.0425
+162,Externo 7,Loja Falsa,real,False,Financeiro,0.332,0.1254,0.332,0.1538,0.3085,0.0406,0.0397
+163,Externo 7,Loja Falsa,real,False,Financeiro,0.3314,0.0986,0.3314,0.1961,0.2844,0.0424,0.047
+164,Externo 2,Seguro,real,False,Seguro,0.294,0.22,0.0663,0.0882,0.1328,0.1986,0.294
+165,Externo 2,Seguro,real,False,Seguro,0.3168,0.2126,0.0571,0.0745,0.1109,0.2281,0.3168
+166,Externo 2,Seguro,real,False,Seguro,0.3001,0.2429,0.0726,0.1069,0.1079,0.1696,0.3001
+167,Externo 2,Seguro,real,False,Seguro,0.2418,0.1994,0.1043,0.1168,0.1434,0.1943,0.2418
+168,Externo 4,Financeiro,real,False,Financeiro,0.6893,0.0645,0.6893,0.0746,0.0823,0.0503,0.0391
+169,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3273,0.1403,0.2668,0.1791,0.3273,0.044,0.0425
+170,Externo 4,Financeiro,real,False,Financeiro,0.6155,0.072,0.6155,0.1332,0.0924,0.0455,0.0414
+171,Externo 4,Financeiro,real,False,Financeiro,0.5203,0.0825,0.5203,0.1842,0.1267,0.0446,0.0418
+172,Externo 4,Financeiro,real,False,Financeiro,0.7069,0.0722,0.7069,0.0577,0.0766,0.0507,0.0359
+173,Externo 4,Financeiro,real,False,Financeiro,0.6224,0.0767,0.6224,0.1101,0.1013,0.0467,0.0428
+174,Externo 4,Financeiro,real,False,Financeiro,0.7089,0.0843,0.7089,0.0627,0.0666,0.0462,0.0313
+175,Externo 4,Financeiro,real,False,Financeiro,0.6894,0.0707,0.6894,0.0774,0.0729,0.0524,0.0371
+176,Externo 4,Financeiro,real,False,Financeiro,0.5613,0.1245,0.5613,0.1067,0.1328,0.0378,0.0369
+177,Externo 4,Financeiro,real,False,Financeiro,0.7257,0.0672,0.7257,0.0639,0.0808,0.0343,0.0282
+178,Externo 4,Financeiro,real,False,Financeiro,0.6913,0.074,0.6913,0.0771,0.0882,0.0384,0.031
+179,Externo 4,Financeiro,real,False,Desinformação,0.3505,0.1257,0.1564,0.0791,0.0893,0.3505,0.1991
+180,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3334,0.0942,0.2882,0.1566,0.3334,0.065,0.0625
+181,Externo 7,Loja Falsa,real,False,Phishing,0.291,0.0789,0.2423,0.291,0.2316,0.0837,0.0726
+182,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3486,0.2622,0.1763,0.1131,0.3486,0.0496,0.0501
+183,Externo 7,Loja Falsa,real,False,Financeiro,0.3302,0.1149,0.3302,0.1805,0.2991,0.0388,0.0365
+184,Externo 4,Financeiro,real,False,Financeiro,0.7403,0.0657,0.7403,0.0563,0.0703,0.0362,0.0312
+185,Externo 4,Financeiro,real,False,Financeiro,0.3107,0.0872,0.3107,0.2387,0.1473,0.0993,0.1167
+186,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3583,0.122,0.2725,0.1648,0.3583,0.0429,0.0395
+187,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3621,0.2015,0.1823,0.1349,0.3621,0.0577,0.0615
+188,Externo 7,Loja Falsa,real,False,Loja Falsa,0.3574,0.1715,0.2187,0.1653,0.3574,0.0441,0.043
+189,Externo 4,Financeiro,real,False,Financeiro,0.6339,0.0697,0.6339,0.1277,0.1001,0.0372,0.0314
+190,Externo 4,Financeiro,real,False,Financeiro,0.6101,0.0999,0.6101,0.1041,0.1003,0.0467,0.0389
+191,Externo 4,Financeiro,real,False,Financeiro,0.3738,0.1122,0.3738,0.2616,0.1441,0.0552,0.0531
+192,Externo 4,Financeiro,real,False,Financeiro,0.6997,0.0716,0.6997,0.075,0.0809,0.0417,0.0312
+193,Externo 4,Financeiro,real,False,Financeiro,0.7272,0.066,0.7272,0.064,0.0805,0.0339,0.0284
+194,Externo 4,Financeiro,real,False,Financeiro,0.6892,0.074,0.6892,0.084,0.0875,0.0355,0.0298
+195,Externo 4,Financeiro,real,False,Financeiro,0.6493,0.0666,0.6493,0.1108,0.0703,0.0608,0.0422
+196,Externo 4,Financeiro,real,False,Financeiro,0.7153,0.0622,0.7153,0.0616,0.0773,0.0479,0.0356
+197,Externo 4,Financeiro,real,False,Financeiro,0.7251,0.0698,0.7251,0.0621,0.0643,0.0464,0.0324
+198,Externo 4,Financeiro,real,False,Financeiro,0.5752,0.081,0.5752,0.0865,0.0832,0.1087,0.0655
+199,Externo 4,Financeiro,real,False,Financeiro,0.2645,0.233,0.2645,0.1417,0.1103,0.121,0.1295
+200,Externo 4,Financeiro,real,False,Financeiro,0.2711,0.1641,0.2711,0.139,0.1238,0.1625,0.1394
+201,Externo 4,Financeiro,real,False,Financeiro,0.7004,0.0816,0.7004,0.0708,0.0719,0.0408,0.0344
+202,Externo 4,Financeiro,real,False,Financeiro,0.5976,0.0663,0.5976,0.1155,0.1289,0.0484,0.0433
+203,Externo 4,Financeiro,real,False,Financeiro,0.713,0.0788,0.713,0.0641,0.0789,0.0361,0.0292
+204,Externo 4,Financeiro,real,False,Financeiro,0.5881,0.0822,0.5881,0.1207,0.1111,0.0519,0.0461
+205,Externo 4,Financeiro,real,False,Financeiro,0.7019,0.0712,0.7019,0.06,0.0698,0.0591,0.038
+206,Externo 4,Financeiro,real,False,Financeiro,0.6657,0.0742,0.6657,0.0762,0.0644,0.0732,0.0463
+207,Externo 4,Financeiro,real,False,Financeiro,0.5732,0.0894,0.5732,0.1227,0.1184,0.0552,0.0411
+208,Externo 4,Financeiro,real,False,Financeiro,0.5598,0.0989,0.5598,0.1213,0.1069,0.068,0.0451
+209,Externo 4,Financeiro,real,False,Financeiro,0.5427,0.0912,0.5427,0.1305,0.1173,0.0667,0.0517
+210,Externo 4,Financeiro,real,False,Financeiro,0.4468,0.0645,0.4468,0.1388,0.1234,0.1032,0.1233
+211,Externo 2,Seguro,real,False,Seguro,0.2429,0.1379,0.0929,0.126,0.2031,0.1972,0.2429
+212,Externo 2,Seguro,real,False,Seguro,0.2653,0.1952,0.1051,0.1334,0.1155,0.1855,0.2653
+213,Externo 2,Seguro,real,False,Seguro,0.318,0.2044,0.072,0.0854,0.1116,0.2086,0.318
+214,Externo 2,Seguro,real,False,Seguro,0.31,0.1504,0.0589,0.0848,0.1013,0.2946,0.31
+215,Externo 2,Seguro,real,False,Seguro,0.3083,0.1895,0.0446,0.081,0.0957,0.2808,0.3083
+216,Externo 2,Seguro,real,False,Phishing,0.3589,0.1306,0.1512,0.3589,0.1542,0.1011,0.1039
+217,Externo 2,Seguro,real,False,Seguro,0.3273,0.2266,0.0549,0.0775,0.1238,0.19,0.3273
+218,Externo 2,Seguro,real,False,Relacionamento,0.3244,0.3244,0.0831,0.0793,0.1509,0.1289,0.2334
+219,Externo 2,Seguro,real,False,Seguro,0.3405,0.1575,0.0857,0.1075,0.1305,0.1783,0.3405
+220,Externo 2,Seguro,real,False,Seguro,0.3565,0.1562,0.0658,0.0902,0.1201,0.2111,0.3565
+221,Externo 2,Seguro,real,False,Seguro,0.2899,0.2171,0.0603,0.0914,0.1347,0.2066,0.2899
+222,Externo 2,Seguro,real,False,Seguro,0.3075,0.2127,0.0778,0.0846,0.126,0.1914,0.3075
+223,Externo 2,Seguro,real,False,Seguro,0.3153,0.16,0.0649,0.0935,0.1126,0.2537,0.3153
+224,Externo 2,Seguro,real,False,Seguro,0.3277,0.1561,0.0659,0.0912,0.1394,0.2198,0.3277
+225,Externo 2,Seguro,real,False,Seguro,0.3397,0.1036,0.078,0.1138,0.1185,0.2464,0.3397
+226,Externo 2,Seguro,real,False,Seguro,0.2834,0.2111,0.0787,0.1163,0.1572,0.1532,0.2834
+227,Externo 2,Phishing,real,False,Phishing,0.3327,0.1738,0.197,0.3327,0.1832,0.0487,0.0646
+228,Externo 2,Phishing,real,False,Phishing,0.5011,0.0793,0.1657,0.5011,0.15,0.0467,0.0572
+229,Externo 2,Phishing,real,False,Phishing,0.4844,0.0779,0.1316,0.4844,0.1541,0.0747,0.0773
+230,Externo 2,Phishing,real,False,Phishing,0.4766,0.0637,0.1847,0.4766,0.1398,0.0571,0.0781
+231,Externo 2,Phishing,real,False,Phishing,0.5121,0.0602,0.1743,0.5121,0.1285,0.0556,0.0693
+232,Externo 2,Phishing,real,False,Phishing,0.4926,0.0698,0.1768,0.4926,0.1387,0.0538,0.0684
+233,Externo 2,Phishing,real,False,Phishing,0.4471,0.067,0.1832,0.4471,0.1361,0.0761,0.0905
+234,Externo 2,Phishing,real,False,Phishing,0.5123,0.0862,0.1204,0.5123,0.1258,0.0693,0.086
+235,Externo 2,Phishing,real,False,Phishing,0.4938,0.0811,0.1421,0.4938,0.1438,0.0661,0.0732
+236,Externo 2,Phishing,real,False,Phishing,0.3311,0.0908,0.1738,0.3311,0.1432,0.118,0.1431
+237,Externo 2,Phishing,real,False,Phishing,0.4977,0.0627,0.1495,0.4977,0.1426,0.0604,0.0872
+238,Externo 2,Phishing,real,False,Phishing,0.4752,0.086,0.1582,0.4752,0.1574,0.0522,0.071
+239,Externo 2,Phishing,real,False,Phishing,0.4799,0.0614,0.211,0.4799,0.1179,0.0538,0.076
+240,Externo 2,Phishing,real,False,Phishing,0.255,0.1209,0.0945,0.255,0.1936,0.1421,0.1938
+241,Externo 2,Phishing,real,False,Phishing,0.5323,0.0717,0.1135,0.5323,0.1201,0.0705,0.092
+242,Externo 2,Phishing,real,False,Phishing,0.4532,0.12,0.1263,0.4532,0.1361,0.0731,0.0914
+243,Externo 2,Phishing,real,False,Phishing,0.4986,0.1246,0.1221,0.4986,0.1159,0.059,0.0797
+244,Externo 2,Phishing,real,False,Phishing,0.452,0.0792,0.2171,0.452,0.1464,0.0456,0.0596
+245,Externo 2,Phishing,real,False,Phishing,0.5121,0.0613,0.161,0.5121,0.1382,0.0592,0.0682
+246,Externo 2,Phishing,real,False,Phishing,0.5302,0.099,0.1359,0.5302,0.1216,0.0534,0.0599
+247,Externo 2,Phishing,real,False,Phishing,0.5298,0.0783,0.1404,0.5298,0.1162,0.0625,0.0728
+248,Externo 2,Phishing,real,False,Phishing,0.4268,0.0784,0.1779,0.4268,0.1754,0.0616,0.08
+249,Externo 2,Phishing,real,False,Phishing,0.5083,0.1051,0.1286,0.5083,0.1285,0.0531,0.0762
+250,Externo 2,Phishing,real,False,Phishing,0.3938,0.1361,0.1365,0.3938,0.1491,0.0897,0.0948
+251,Externo 2,Phishing,real,False,Phishing,0.4399,0.1089,0.1703,0.4399,0.1522,0.0561,0.0727
+252,Externo 2,Phishing,real,False,Phishing,0.4469,0.1127,0.1291,0.4469,0.1483,0.0807,0.0823
+253,Externo 2,Phishing,real,False,Phishing,0.5301,0.0721,0.1659,0.5301,0.1072,0.0547,0.07
+254,Externo 2,Phishing,real,False,Phishing,0.4644,0.1354,0.1602,0.4644,0.1159,0.0544,0.0697
+255,Externo 2,Phishing,real,False,Phishing,0.4658,0.069,0.1929,0.4658,0.1415,0.059,0.0718
+256,Externo 2,Phishing,real,False,Phishing,0.5112,0.1075,0.1203,0.5112,0.112,0.065,0.0839
+257,Externo 2,Phishing,real,False,Phishing,0.5329,0.0729,0.1314,0.5329,0.1269,0.0607,0.0753
+258,Externo 2,Phishing,real,False,Phishing,0.3462,0.1144,0.1291,0.3462,0.1772,0.0934,0.1396
+259,Externo 2,Phishing,real,False,Phishing,0.5217,0.0605,0.1378,0.5217,0.1399,0.0631,0.077
+260,Externo 2,Phishing,real,False,Phishing,0.3428,0.1419,0.2257,0.3428,0.1392,0.0689,0.0814
+261,Externo 2,Phishing,real,False,Phishing,0.3734,0.2276,0.1361,0.3734,0.1281,0.0612,0.0737
+262,Externo 2,Phishing,real,False,Phishing,0.282,0.2018,0.2264,0.282,0.1852,0.0536,0.051
+263,Externo 2,Phishing,real,False,Phishing,0.4921,0.0621,0.1943,0.4921,0.1289,0.0492,0.0734
+264,Externo 2,Phishing,real,False,Phishing,0.4841,0.1141,0.1417,0.4841,0.1126,0.061,0.0865
+265,Externo 2,Phishing,real,False,Phishing,0.345,0.2079,0.184,0.345,0.1318,0.0616,0.0696
+266,Externo 2,Phishing,real,False,Phishing,0.5143,0.0611,0.188,0.5143,0.1261,0.047,0.0635
+267,Externo 2,Phishing,real,False,Phishing,0.4758,0.0942,0.1069,0.4758,0.1406,0.0743,0.1082
+268,Externo 2,Phishing,real,False,Phishing,0.5204,0.0564,0.1283,0.5204,0.1418,0.0617,0.0914
+269,Externo 2,Phishing,real,False,Phishing,0.5367,0.0764,0.1058,0.5367,0.1214,0.0664,0.0932
+270,Interno,Phishing,real,True,Desinformação,0.2829,0.0909,0.1307,0.1262,0.1007,0.2829,0.2687
+271,Interno,Phishing,real,True,Phishing,0.4106,0.0512,0.1916,0.4106,0.1685,0.0844,0.0938
+272,Interno,Phishing,real,True,Loja Falsa,0.3193,0.1439,0.2186,0.1882,0.3193,0.0605,0.0695
+273,Interno,Phishing,real,True,Phishing,0.4034,0.075,0.1695,0.4034,0.1921,0.068,0.092
+274,Interno,Phishing,real,True,Phishing,0.3444,0.0596,0.2282,0.3444,0.1826,0.0916,0.0936
+275,Interno,Phishing,real,True,Phishing,0.3756,0.0958,0.105,0.3756,0.1468,0.1324,0.1443
+276,Interno,Phishing,real,True,Phishing,0.2079,0.1881,0.1464,0.2079,0.1367,0.1566,0.1643
+277,Interno,Phishing,real,True,Desinformação,0.2298,0.1596,0.0949,0.1798,0.1383,0.2298,0.1977
+278,Interno,Phishing,real,True,Seguro,0.2616,0.0921,0.0966,0.1648,0.1823,0.2026,0.2616
+279,Interno,Phishing,real,True,Phishing,0.4537,0.0801,0.1555,0.4537,0.1665,0.0653,0.0788
+280,Interno,Phishing,real,True,Financeiro,0.3207,0.1031,0.3207,0.3078,0.1114,0.0836,0.0733
+281,Interno,Phishing,real,True,Phishing,0.3607,0.1352,0.2356,0.3607,0.1301,0.0633,0.0751
+282,Interno,Phishing,real,True,Phishing,0.3192,0.1155,0.2063,0.3192,0.2145,0.0664,0.0781
+283,Interno,Phishing,real,True,Seguro,0.2946,0.2391,0.0735,0.1025,0.1216,0.1688,0.2946
+284,Interno,Phishing,real,True,Phishing,0.312,0.1476,0.1808,0.312,0.1614,0.0895,0.1087
+285,Interno,Phishing,real,True,Phishing,0.2763,0.0962,0.2277,0.2763,0.1594,0.1012,0.1391
+286,Interno,Phishing,real,True,Phishing,0.312,0.1476,0.1808,0.312,0.1614,0.0895,0.1087
+287,Interno,Phishing,real,True,Phishing,0.2644,0.1008,0.1274,0.2644,0.1414,0.183,0.183
+288,Interno,Phishing,real,True,Phishing,0.3843,0.0761,0.1846,0.3843,0.1994,0.0696,0.086
+289,Externo 1,Relacionamento,real,False,Relacionamento,0.3035,0.3035,0.0843,0.0806,0.1045,0.2139,0.213
+290,Externo 1,Relacionamento,real,False,Relacionamento,0.5916,0.5916,0.0802,0.0653,0.113,0.0723,0.0776
+291,Externo 1,Relacionamento,real,False,Relacionamento,0.5268,0.5268,0.1069,0.0781,0.143,0.0771,0.0682
+292,Externo 1,Relacionamento,real,False,Relacionamento,0.6418,0.6418,0.0773,0.0549,0.0906,0.063,0.0725
+293,Externo 1,Relacionamento,real,False,Relacionamento,0.6166,0.6166,0.0807,0.0634,0.108,0.065,0.0664
+294,Externo 1,Relacionamento,real,False,Relacionamento,0.6136,0.6136,0.0873,0.0646,0.1052,0.0641,0.0652
+295,Externo 1,Relacionamento,real,False,Relacionamento,0.5355,0.5355,0.0827,0.0673,0.108,0.0903,0.1163
+296,Externo 1,Relacionamento,real,False,Relacionamento,0.6334,0.6334,0.076,0.0536,0.087,0.0687,0.0813
+297,Externo 1,Relacionamento,real,False,Relacionamento,0.537,0.537,0.0766,0.0623,0.0909,0.0997,0.1336
+298,Externo 1,Relacionamento,real,False,Relacionamento,0.6044,0.6044,0.0719,0.065,0.1122,0.0685,0.078
+299,Externo 1,Relacionamento,real,False,Relacionamento,0.3687,0.3687,0.0963,0.1185,0.1134,0.1313,0.1718
+300,Externo 1,Relacionamento,real,False,Relacionamento,0.6006,0.6006,0.0777,0.0693,0.0834,0.0745,0.0944
+301,Externo 1,Relacionamento,real,False,Relacionamento,0.2896,0.2896,0.0907,0.1153,0.1301,0.1483,0.226
+302,Externo 1,Relacionamento,real,False,Relacionamento,0.5763,0.5763,0.0603,0.0668,0.082,0.1023,0.1122
+303,Externo 1,Relacionamento,real,False,Financeiro,0.2693,0.2575,0.2693,0.1153,0.2348,0.0717,0.0513
+304,Externo 1,Relacionamento,real,False,Relacionamento,0.6064,0.6064,0.0921,0.0663,0.1091,0.0595,0.0666
+305,Externo 1,Relacionamento,real,False,Relacionamento,0.5997,0.5997,0.0671,0.0635,0.0979,0.0846,0.0871
+306,Externo 1,Relacionamento,real,False,Relacionamento,0.5891,0.5891,0.0768,0.0632,0.0948,0.0826,0.0935
+307,Externo 1,Relacionamento,real,False,Relacionamento,0.5746,0.5746,0.1167,0.0683,0.1232,0.0627,0.0545
+308,Externo 1,Relacionamento,real,False,Relacionamento,0.6053,0.6053,0.0851,0.0669,0.0983,0.0681,0.0763
+309,Externo 1,Relacionamento,real,False,Relacionamento,0.373,0.373,0.1633,0.1187,0.1805,0.0825,0.0819
+310,Externo 1,Relacionamento,real,False,Relacionamento,0.3886,0.3886,0.1369,0.0992,0.1703,0.1067,0.0983
+311,Externo 1,Relacionamento,real,False,Relacionamento,0.5839,0.5839,0.0871,0.0685,0.0997,0.0711,0.0897
+312,Externo 1,Relacionamento,real,False,Relacionamento,0.5572,0.5572,0.1184,0.0891,0.128,0.0515,0.0558
+313,Externo 1,Relacionamento,real,False,Relacionamento,0.3785,0.3785,0.0716,0.1129,0.1152,0.1417,0.18
+314,Externo 1,Relacionamento,real,False,Relacionamento,0.4745,0.4745,0.0934,0.0764,0.0972,0.1296,0.1289
+315,Externo 1,Relacionamento,real,False,Relacionamento,0.5413,0.5413,0.0824,0.0872,0.0998,0.0867,0.1026
+316,Externo 1,Relacionamento,real,False,Relacionamento,0.5096,0.5096,0.0771,0.0861,0.0986,0.0973,0.1313
+317,Externo 1,Relacionamento,real,False,Relacionamento,0.3637,0.3637,0.081,0.1026,0.0973,0.1568,0.1986
+318,Externo 1,Relacionamento,real,False,Relacionamento,0.5999,0.5999,0.0836,0.0715,0.1107,0.0674,0.0668
+319,Externo 1,Relacionamento,real,False,Relacionamento,0.6034,0.6034,0.07,0.0644,0.0925,0.0731,0.0967
+320,Externo 1,Relacionamento,real,False,Relacionamento,0.6205,0.6205,0.1024,0.0649,0.1,0.0596,0.0526
+321,Externo 1,Relacionamento,real,False,Relacionamento,0.523,0.523,0.0685,0.0701,0.1059,0.1037,0.1288
+322,Externo 1,Relacionamento,real,False,Relacionamento,0.5689,0.5689,0.083,0.0741,0.0883,0.0842,0.1014
+323,Externo 1,Relacionamento,real,False,Relacionamento,0.5643,0.5643,0.1144,0.0762,0.1109,0.0696,0.0646
+324,Externo 1,Relacionamento,real,False,Relacionamento,0.3712,0.3712,0.1315,0.2238,0.1175,0.0798,0.0762
+325,Externo 1,Relacionamento,real,False,Relacionamento,0.4821,0.4821,0.0918,0.1267,0.0938,0.0891,0.1165
+326,Externo 1,Relacionamento,real,False,Relacionamento,0.422,0.422,0.1066,0.1506,0.0999,0.1046,0.1163
+327,Externo 1,Relacionamento,real,False,Relacionamento,0.5846,0.5846,0.0845,0.0769,0.0948,0.0751,0.0842
+328,Externo 1,Relacionamento,real,False,Relacionamento,0.568,0.568,0.0952,0.07,0.086,0.0904,0.0903
+329,Externo 1,Relacionamento,real,False,Relacionamento,0.6116,0.6116,0.0822,0.0627,0.0853,0.0717,0.0865
+330,Externo 1,Relacionamento,real,False,Relacionamento,0.5295,0.5295,0.0619,0.0718,0.1013,0.1064,0.1289
+331,Externo 1,Relacionamento,real,False,Relacionamento,0.5428,0.5428,0.0728,0.0862,0.091,0.09,0.1172
+332,Externo 1,Relacionamento,real,False,Relacionamento,0.6103,0.6103,0.0776,0.0573,0.0992,0.0672,0.0885
+333,Externo 1,Relacionamento,real,False,Relacionamento,0.515,0.515,0.073,0.0759,0.104,0.1067,0.1254
+334,Externo 1,Relacionamento,real,False,Relacionamento,0.4089,0.4089,0.1036,0.1035,0.1139,0.1206,0.1495
+335,Externo 1,Relacionamento,real,False,Relacionamento,0.2923,0.2923,0.2446,0.1953,0.1808,0.0414,0.0457
+336,Externo 1,Relacionamento,real,False,Relacionamento,0.4822,0.4822,0.0767,0.1029,0.0899,0.1077,0.1405
+337,Externo 1,Relacionamento,real,False,Relacionamento,0.5979,0.5979,0.0765,0.0646,0.0949,0.0737,0.0923
+338,Externo 1,Relacionamento,real,False,Seguro,0.2829,0.2314,0.0736,0.0859,0.1269,0.1993,0.2829
+339,Externo 1,Relacionamento,real,False,Relacionamento,0.5358,0.5358,0.0855,0.0831,0.0899,0.0918,0.1138
+340,Externo 1,Relacionamento,real,False,Relacionamento,0.4525,0.4525,0.1768,0.1268,0.0925,0.0686,0.0827
+341,Externo 1,Relacionamento,real,False,Relacionamento,0.5441,0.5441,0.0811,0.0749,0.1097,0.0892,0.101
+342,Externo 2,Phishing,real,False,Phishing,0.4886,0.0743,0.1222,0.4886,0.1205,0.0781,0.1162
+343,Externo 3,Desinformação,real,False,Seguro,0.3356,0.1071,0.0785,0.0982,0.1012,0.2794,0.3356
+344,Externo 3,Desinformação,real,False,Desinformação,0.3399,0.1066,0.0675,0.0775,0.1049,0.3399,0.3037
+345,Externo 3,Desinformação,real,False,Desinformação,0.4199,0.1114,0.0576,0.0724,0.0981,0.4199,0.2406
+346,Externo 3,Desinformação,real,False,Desinformação,0.3356,0.0815,0.134,0.1155,0.1181,0.3356,0.2153
+347,Externo 3,Desinformação,real,False,Desinformação,0.3599,0.0891,0.0634,0.1287,0.1068,0.3599,0.2522
+348,Externo 3,Desinformação,real,False,Desinformação,0.4617,0.1044,0.0676,0.07,0.0852,0.4617,0.2111
+349,Externo 3,Desinformação,real,False,Desinformação,0.3213,0.1144,0.0682,0.0813,0.1244,0.3213,0.2904
+350,Externo 3,Desinformação,real,False,Desinformação,0.4531,0.105,0.0522,0.0679,0.0821,0.4531,0.2397
+351,Externo 3,Desinformação,real,False,Desinformação,0.3619,0.1665,0.0526,0.0734,0.1047,0.3619,0.2408
+352,Externo 3,Desinformação,real,False,Desinformação,0.4074,0.1042,0.0572,0.0761,0.0994,0.4074,0.2557
+353,Externo 3,Desinformação,real,False,Desinformação,0.3837,0.0901,0.0544,0.0671,0.0912,0.3837,0.3134
+354,Externo 3,Desinformação,real,False,Desinformação,0.3643,0.1044,0.0784,0.0689,0.101,0.3643,0.2829
+355,Externo 3,Desinformação,real,False,Desinformação,0.3268,0.103,0.0719,0.1003,0.1283,0.3268,0.2697
+356,Externo 3,Desinformação,real,False,Seguro,0.3007,0.1818,0.0667,0.0966,0.1,0.2542,0.3007
+357,Externo 3,Desinformação,real,False,Desinformação,0.4472,0.1038,0.0425,0.0626,0.0775,0.4472,0.2664
+358,Externo 3,Desinformação,real,False,Desinformação,0.4274,0.1169,0.0467,0.0651,0.0918,0.4274,0.2521
+359,Externo 3,Desinformação,real,False,Desinformação,0.438,0.0908,0.0527,0.0588,0.078,0.438,0.2817
+360,Externo 3,Desinformação,real,False,Desinformação,0.4684,0.0913,0.0566,0.0704,0.0812,0.4684,0.232
+361,Externo 3,Desinformação,real,False,Desinformação,0.4291,0.0834,0.0549,0.0643,0.0827,0.4291,0.2856
+362,Externo 3,Desinformação,real,False,Desinformação,0.4726,0.0889,0.0547,0.0638,0.0828,0.4726,0.2372
+363,Externo 3,Desinformação,real,False,Desinformação,0.4041,0.0892,0.0628,0.078,0.0853,0.4041,0.2807
+364,Externo 3,Desinformação,real,False,Desinformação,0.3819,0.1127,0.0532,0.08,0.1067,0.3819,0.2656
+365,Externo 3,Desinformação,real,False,Desinformação,0.4563,0.1032,0.0406,0.0652,0.0762,0.4563,0.2586
+366,Externo 3,Desinformação,real,False,Desinformação,0.456,0.0928,0.0588,0.0644,0.0819,0.456,0.2461
+367,Externo 3,Desinformação,real,False,Desinformação,0.3627,0.0964,0.0703,0.0794,0.0967,0.3627,0.2944
+368,Externo 3,Desinformação,real,False,Desinformação,0.4045,0.101,0.0645,0.0711,0.0902,0.4045,0.2687
+369,Externo 3,Desinformação,real,False,Seguro,0.3633,0.0847,0.0706,0.0845,0.0909,0.3061,0.3633
+370,Externo 3,Desinformação,real,False,Desinformação,0.4635,0.1072,0.0505,0.0651,0.0791,0.4635,0.2345
+371,Externo 3,Desinformação,real,False,Desinformação,0.4047,0.1061,0.0561,0.0655,0.0817,0.4047,0.2859
+372,Externo 3,Desinformação,real,False,Desinformação,0.4267,0.1023,0.0464,0.0721,0.0849,0.4267,0.2676
+373,Externo 3,Desinformação,real,False,Desinformação,0.4102,0.0969,0.0561,0.0616,0.077,0.4102,0.2982
+374,Externo 3,Desinformação,real,False,Desinformação,0.4477,0.1013,0.0519,0.0647,0.0892,0.4477,0.2452
+375,Externo 3,Desinformação,real,False,Desinformação,0.4135,0.112,0.0559,0.0807,0.1004,0.4135,0.2375
+376,Externo 3,Desinformação,real,False,Desinformação,0.4136,0.0962,0.0562,0.0659,0.0742,0.4136,0.2939
+377,Externo 3,Desinformação,real,False,Desinformação,0.4082,0.1031,0.0487,0.0738,0.0923,0.4082,0.2739
+378,Externo 3,Desinformação,real,False,Desinformação,0.3744,0.1085,0.0588,0.0729,0.0847,0.3744,0.3007
+379,Externo 3,Desinformação,real,False,Desinformação,0.4356,0.0844,0.054,0.0643,0.0761,0.4356,0.2857
+380,Externo 3,Desinformação,real,False,Desinformação,0.431,0.105,0.0474,0.0637,0.0818,0.431,0.2711
+381,Externo 3,Desinformação,real,False,Desinformação,0.4626,0.0907,0.0533,0.0615,0.0891,0.4626,0.2429
+382,Externo 3,Desinformação,real,False,Desinformação,0.368,0.0981,0.0584,0.0764,0.1108,0.368,0.2883
+383,Externo 3,Desinformação,real,False,Desinformação,0.362,0.102,0.0834,0.0758,0.1218,0.362,0.255
+384,Externo 3,Desinformação,real,False,Desinformação,0.3823,0.1037,0.0741,0.0738,0.1113,0.3823,0.2547
+385,Externo 3,Desinformação,real,False,Desinformação,0.4281,0.1027,0.0579,0.0697,0.093,0.4281,0.2486
+386,Externo 3,Desinformação,real,False,Desinformação,0.4151,0.0864,0.0644,0.0727,0.1025,0.4151,0.259
+387,Externo 3,Desinformação,real,False,Desinformação,0.4055,0.0897,0.0526,0.0779,0.09,0.4055,0.2842
+388,Externo 3,Desinformação,real,False,Desinformação,0.4486,0.0947,0.0552,0.0762,0.0844,0.4486,0.241
+389,Externo 3,Desinformação,real,False,Desinformação,0.4083,0.1231,0.046,0.0687,0.1021,0.4083,0.2518
+390,Externo 3,Desinformação,real,False,Desinformação,0.3667,0.105,0.0661,0.0795,0.1138,0.3667,0.2689
+391,Externo 3,Desinformação,real,False,Desinformação,0.4536,0.0922,0.0612,0.068,0.0898,0.4536,0.2352
+392,Externo 3,Desinformação,real,False,Desinformação,0.4479,0.0945,0.0555,0.0618,0.0962,0.4479,0.2441
+393,Externo 3,Desinformação,real,False,Desinformação,0.42,0.0909,0.0549,0.0671,0.087,0.42,0.2801
+394,Externo 3,Desinformação,real,False,Desinformação,0.3342,0.1519,0.0548,0.0705,0.0887,0.3342,0.3
+395,Externo 3,Desinformação,real,False,Desinformação,0.4514,0.1015,0.0509,0.0625,0.0923,0.4514,0.2413
+396,Externo 3,Desinformação,real,False,Desinformação,0.3956,0.1214,0.0482,0.0597,0.0878,0.3956,0.2873
+397,Externo 3,Desinformação,real,False,Desinformação,0.4657,0.0912,0.0438,0.0664,0.0799,0.4657,0.253
+398,Externo 3,Desinformação,real,False,Seguro,0.3698,0.0824,0.084,0.0947,0.104,0.2652,0.3698
+399,Externo 3,Desinformação,real,False,Desinformação,0.3948,0.1213,0.0558,0.0783,0.0985,0.3948,0.2512
+400,Externo 3,Desinformação,real,False,Desinformação,0.3759,0.105,0.0552,0.0656,0.081,0.3759,0.3173
+401,Externo 3,Desinformação,real,False,Desinformação,0.4102,0.0913,0.051,0.0654,0.0814,0.4102,0.3007
+402,Externo 3,Desinformação,real,False,Desinformação,0.4191,0.1168,0.0509,0.0677,0.0912,0.4191,0.2544
+403,Externo 3,Desinformação,real,False,Desinformação,0.3652,0.0857,0.0619,0.066,0.0897,0.3652,0.3315
+404,Externo 3,Desinformação,real,False,Desinformação,0.42,0.1,0.0497,0.0734,0.0928,0.42,0.264
+405,Externo 3,Desinformação,real,False,Desinformação,0.4683,0.0839,0.047,0.0705,0.0795,0.4683,0.2508
+406,Externo 3,Desinformação,real,False,Desinformação,0.4296,0.1363,0.0493,0.0682,0.0798,0.4296,0.2368
+407,Externo 3,Desinformação,real,False,Desinformação,0.3939,0.0923,0.0681,0.0806,0.1028,0.3939,0.2624
+408,Externo 3,Desinformação,real,False,Desinformação,0.3603,0.1029,0.072,0.0793,0.119,0.3603,0.2665
+409,Externo 3,Desinformação,real,False,Desinformação,0.4645,0.0933,0.044,0.0689,0.0831,0.4645,0.2463
+410,Externo 3,Desinformação,real,False,Desinformação,0.3988,0.1061,0.0645,0.0832,0.0876,0.3988,0.2598
+411,Externo 3,Desinformação,real,False,Desinformação,0.3904,0.0899,0.0608,0.0664,0.0832,0.3904,0.3093
+412,Externo 3,Desinformação,real,False,Desinformação,0.3773,0.0967,0.0619,0.0774,0.1032,0.3773,0.2835
+413,Externo 1,Relacionamento,real,False,Relacionamento,0.4335,0.4335,0.0748,0.1035,0.0998,0.1249,0.1635
+414,Externo 3,Seguro,real,False,Desinformação,0.3551,0.086,0.0697,0.0703,0.0872,0.3551,0.3317
+415,Externo 3,Seguro,real,False,Desinformação,0.361,0.0926,0.0495,0.0852,0.0996,0.361,0.3121
+416,Externo 3,Seguro,real,False,Desinformação,0.4146,0.0883,0.0481,0.0669,0.074,0.4146,0.3081
+417,Externo 3,Seguro,real,False,Seguro,0.3075,0.1213,0.0794,0.0862,0.142,0.2636,0.3075
+418,Externo 3,Seguro,real,False,Desinformação,0.3512,0.094,0.0586,0.0631,0.0873,0.3512,0.3458
+419,Externo 3,Seguro,real,False,Desinformação,0.3547,0.0984,0.0544,0.0741,0.0933,0.3547,0.3252
+420,Externo 3,Seguro,real,False,Desinformação,0.3688,0.0917,0.0735,0.0807,0.0839,0.3688,0.3015
+421,Externo 3,Seguro,real,False,Desinformação,0.3736,0.0868,0.0638,0.0714,0.0793,0.3736,0.3251
+422,Externo 3,Seguro,real,False,Desinformação,0.3728,0.0972,0.0498,0.0684,0.0796,0.3728,0.3322
+423,Externo 3,Seguro,real,False,Seguro,0.356,0.0782,0.0857,0.0851,0.122,0.273,0.356
+424,Externo 3,Seguro,real,False,Seguro,0.32,0.1253,0.0738,0.0795,0.1109,0.2905,0.32
+425,Externo 3,Seguro,real,False,Desinformação,0.3936,0.0939,0.0515,0.0709,0.0861,0.3936,0.304
+426,Externo 3,Seguro,real,False,Desinformação,0.3763,0.0852,0.0594,0.0712,0.0781,0.3763,0.3299
+427,Externo 3,Seguro,real,False,Desinformação,0.3626,0.1061,0.049,0.0751,0.0851,0.3626,0.3222
+428,Externo 3,Seguro,real,False,Desinformação,0.3809,0.0927,0.0459,0.0717,0.0869,0.3809,0.3219
+429,Externo 3,Seguro,real,False,Desinformação,0.4356,0.0874,0.0536,0.0677,0.0763,0.4356,0.2793
+430,Externo 3,Seguro,real,False,Desinformação,0.3911,0.0936,0.0564,0.0703,0.0851,0.3911,0.3034
+431,Externo 3,Seguro,real,False,Desinformação,0.3836,0.1083,0.0428,0.0619,0.0843,0.3836,0.3191
+432,Externo 3,Seguro,real,False,Desinformação,0.445,0.1008,0.0383,0.0641,0.0872,0.445,0.2646
+433,Externo 3,Seguro,real,False,Desinformação,0.4101,0.1168,0.0541,0.0622,0.0783,0.4101,0.2784
+434,Externo 3,Seguro,real,False,Desinformação,0.3719,0.0926,0.0508,0.0751,0.0793,0.3719,0.3303
+435,Externo 3,Seguro,real,False,Desinformação,0.4161,0.1096,0.0539,0.0717,0.099,0.4161,0.2497
+436,Externo 3,Seguro,real,False,Desinformação,0.3514,0.109,0.0475,0.0744,0.0838,0.3514,0.3339
+437,Externo 3,Seguro,real,False,Desinformação,0.3551,0.0957,0.0571,0.0724,0.0792,0.3551,0.3404
+438,Externo 3,Seguro,real,False,Desinformação,0.3857,0.1091,0.0418,0.0627,0.0873,0.3857,0.3135
+439,Externo 3,Seguro,real,False,Desinformação,0.4095,0.081,0.0483,0.0746,0.0877,0.4095,0.2989
+440,Externo 3,Seguro,real,False,Seguro,0.3477,0.1194,0.0582,0.064,0.0955,0.3153,0.3477
+441,Externo 3,Seguro,real,False,Desinformação,0.3539,0.1132,0.0482,0.0677,0.0841,0.3539,0.333
+442,Externo 3,Seguro,real,False,Seguro,0.3039,0.0855,0.0921,0.1059,0.1232,0.2894,0.3039
+443,Externo 3,Seguro,real,False,Seguro,0.3502,0.0916,0.0588,0.0723,0.0915,0.3356,0.3502
+444,Externo 3,Seguro,real,False,Desinformação,0.4002,0.0988,0.0507,0.078,0.0876,0.4002,0.2847
+445,Externo 3,Seguro,real,False,Desinformação,0.4084,0.0738,0.056,0.0729,0.0848,0.4084,0.3041
+446,Externo 3,Seguro,real,False,Desinformação,0.3874,0.094,0.0481,0.0703,0.0796,0.3874,0.3206
+447,Externo 3,Seguro,real,False,Desinformação,0.3504,0.1024,0.0532,0.0826,0.0833,0.3504,0.3281
+448,Interno,Seguro,real,True,Seguro,0.2777,0.2324,0.0762,0.0891,0.1545,0.1701,0.2777
+449,Interno,Seguro,real,True,Seguro,0.2483,0.2323,0.1005,0.1023,0.1403,0.1763,0.2483
+450,Interno,Seguro,real,True,Seguro,0.3388,0.1768,0.0528,0.0786,0.0991,0.254,0.3388
+451,Externo 6,Seguro,real,False,Seguro,0.2662,0.1734,0.0783,0.1199,0.1748,0.1875,0.2662
+452,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2899,0.1459,0.2899,0.1664,0.2751,0.0583,0.0644
+453,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4732,0.0795,0.4732,0.1445,0.2038,0.0498,0.0491
+454,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2756,0.1972,0.0946,0.0985,0.1201,0.2756,0.214
+455,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.3407,0.1241,0.1964,0.3407,0.2032,0.0593,0.0762
+456,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4191,0.0818,0.4191,0.1516,0.2424,0.0484,0.0567
+457,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.3217,0.0988,0.278,0.3217,0.1667,0.0589,0.0757
+458,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.3658,0.0725,0.2245,0.3658,0.1836,0.0709,0.0827
+459,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3681,0.1428,0.3681,0.1704,0.2127,0.0529,0.0532
+460,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3086,0.137,0.3086,0.213,0.2252,0.0592,0.057
+461,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3634,0.1001,0.3634,0.221,0.1899,0.0615,0.064
+462,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4014,0.1198,0.4014,0.1566,0.2209,0.0513,0.0501
+463,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4268,0.1735,0.4268,0.1109,0.1844,0.0542,0.0503
+464,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.434,0.084,0.434,0.1749,0.169,0.0647,0.0733
+465,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.3075,0.0773,0.1922,0.3075,0.1692,0.1144,0.1394
+466,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2534,0.0721,0.2534,0.2082,0.178,0.1292,0.159
+467,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3028,0.0922,0.3028,0.2621,0.2111,0.0584,0.0733
+468,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3709,0.1002,0.3709,0.1901,0.2527,0.0431,0.043
+469,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3452,0.0873,0.3452,0.2558,0.2008,0.0534,0.0574
+470,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3633,0.0859,0.3633,0.1983,0.2319,0.0548,0.0657
+471,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2485,0.1088,0.157,0.1477,0.1293,0.2485,0.2087
+472,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2609,0.1213,0.1124,0.1117,0.145,0.2486,0.2609
+473,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3626,0.1091,0.0769,0.0728,0.0931,0.3626,0.2854
+474,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2648,0.1532,0.1004,0.1217,0.1123,0.2648,0.2476
+475,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2775,0.1492,0.1185,0.0822,0.1255,0.2471,0.2775
+476,Telegram/Wpp Dataset,Seguro,real,False,Phishing,0.2599,0.0986,0.195,0.2599,0.1592,0.1236,0.1638
+477,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.1807,0.1807,0.1699,0.1608,0.144,0.1769,0.1677
+478,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2231,0.2196,0.1032,0.1224,0.1275,0.2042,0.2231
+479,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3242,0.1346,0.0928,0.0833,0.1071,0.3242,0.258
+480,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.3043,0.1034,0.0886,0.0959,0.1187,0.289,0.3043
+481,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4471,0.064,0.4471,0.181,0.1848,0.06,0.0631
+482,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.2656,0.2656,0.127,0.1445,0.1675,0.1253,0.1701
+483,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2958,0.0869,0.2958,0.2215,0.2662,0.0542,0.0754
+484,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.403,0.0572,0.2464,0.403,0.1466,0.0685,0.0783
+485,Telegram/Wpp Dataset,Financeiro,real,False,Seguro,0.2329,0.1134,0.2062,0.1174,0.1385,0.1916,0.2329
+486,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.3451,0.0972,0.2403,0.3451,0.1576,0.0694,0.0904
+487,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.378,0.084,0.1059,0.378,0.1191,0.1307,0.1824
+488,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2198,0.0806,0.1566,0.2104,0.1435,0.2198,0.189
+489,Telegram/Wpp Dataset,Seguro,real,False,Phishing,0.2928,0.1049,0.2209,0.2928,0.2046,0.0772,0.0996
+490,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2426,0.2003,0.105,0.0997,0.1522,0.2002,0.2426
+491,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2711,0.1219,0.1029,0.1385,0.1339,0.2316,0.2711
+492,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3581,0.1356,0.0767,0.0666,0.1039,0.3581,0.2592
+493,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2851,0.2612,0.0737,0.08,0.1198,0.1801,0.2851
+494,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.2727,0.2727,0.1343,0.1191,0.1296,0.1369,0.2074
+495,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.2622,0.2622,0.2028,0.172,0.1239,0.1014,0.1377
+496,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.2763,0.2763,0.0903,0.0974,0.115,0.2078,0.2132
+497,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.3176,0.3176,0.0926,0.0846,0.1472,0.161,0.197
+498,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.3184,0.3184,0.1016,0.0867,0.142,0.1542,0.1971
+499,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.2869,0.2869,0.0934,0.0908,0.1304,0.1758,0.2227
+500,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.2995,0.2995,0.1237,0.1122,0.1225,0.1373,0.2047
+501,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.311,0.311,0.0836,0.0851,0.1276,0.1513,0.2413
+502,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.3541,0.3541,0.0731,0.0876,0.1275,0.1443,0.2135
+503,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3602,0.1314,0.0923,0.0807,0.107,0.3602,0.2283
+504,Telegram/Wpp Dataset,Seguro,real,False,Phishing,0.2278,0.0939,0.162,0.2278,0.1819,0.1636,0.1708
+505,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2965,0.1203,0.0973,0.0902,0.1278,0.2965,0.2679
+506,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3433,0.0999,0.138,0.0953,0.11,0.3433,0.2134
+507,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2426,0.1479,0.093,0.1593,0.1509,0.2064,0.2426
+508,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.3271,0.0791,0.0752,0.1216,0.1046,0.2924,0.3271
+509,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.243,0.243,0.2151,0.158,0.2059,0.0977,0.0802
+510,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3457,0.1068,0.1085,0.0808,0.1114,0.3457,0.2469
+511,Telegram/Wpp Dataset,Seguro,real,False,Relacionamento,0.2979,0.2979,0.1224,0.0896,0.1366,0.1686,0.1849
+512,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2218,0.0781,0.1859,0.1687,0.1503,0.2218,0.1952
+513,Telegram/Wpp Dataset,Financeiro,real,False,Seguro,0.23,0.1006,0.1796,0.18,0.1368,0.1731,0.23
+514,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4415,0.0744,0.4415,0.1749,0.2041,0.0466,0.0585
+515,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4208,0.0861,0.4208,0.1651,0.2227,0.0491,0.0561
+516,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3156,0.0951,0.3156,0.2614,0.1979,0.0631,0.0668
+517,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.296,0.0816,0.2663,0.296,0.1596,0.0888,0.1078
+518,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3246,0.0953,0.3246,0.278,0.1521,0.0722,0.0778
+519,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.2997,0.0656,0.2233,0.2997,0.1902,0.0939,0.1272
+520,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4193,0.077,0.4193,0.2407,0.1561,0.0467,0.0602
+521,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.4036,0.0834,0.4036,0.2305,0.1671,0.0527,0.0628
+522,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2903,0.0736,0.2903,0.2897,0.2046,0.0628,0.079
+523,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3871,0.0743,0.3871,0.1751,0.2149,0.0701,0.0786
+524,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2506,0.0941,0.1162,0.1431,0.1483,0.2506,0.2478
+525,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2077,0.1236,0.1711,0.1403,0.1621,0.1952,0.2077
+526,Telegram/Wpp Dataset,Seguro,real,False,Phishing,0.2481,0.1022,0.1626,0.2481,0.214,0.1341,0.139
+527,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2801,0.0784,0.1322,0.1666,0.1329,0.2801,0.2099
+528,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.2805,0.0848,0.1105,0.1608,0.1409,0.2805,0.2225
+529,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.323,0.0913,0.0896,0.0979,0.1347,0.323,0.2635
+530,Telegram/Wpp Dataset,Seguro,real,False,Seguro,0.2879,0.1262,0.0953,0.0884,0.1219,0.2803,0.2879
+531,Telegram/Wpp Dataset,Seguro,real,False,Phishing,0.2704,0.076,0.1778,0.2704,0.1686,0.1803,0.1269
+532,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3327,0.1203,0.0898,0.108,0.1249,0.3327,0.2244
+533,Telegram/Wpp Dataset,Seguro,real,False,Phishing,0.3152,0.0972,0.1679,0.3152,0.1532,0.1308,0.1356
+534,Telegram/Wpp Dataset,Seguro,real,False,Phishing,0.2625,0.097,0.1835,0.2625,0.2036,0.1264,0.1271
+535,Telegram/Wpp Dataset,Seguro,real,False,Financeiro,0.2597,0.1575,0.2597,0.2061,0.1793,0.0894,0.108
+536,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2828,0.0893,0.2828,0.2361,0.2705,0.053,0.0683
+537,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3627,0.0846,0.3627,0.2103,0.1984,0.0668,0.0772
+538,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.2469,0.1291,0.2239,0.2469,0.2054,0.0851,0.1095
+539,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2051,0.1201,0.2051,0.2014,0.1862,0.1316,0.1556
+540,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2291,0.1516,0.2291,0.1171,0.1608,0.1513,0.1902
+541,Telegram/Wpp Dataset,Financeiro,real,False,Desinformação,0.2653,0.1584,0.1245,0.0745,0.1437,0.2653,0.2337
+542,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2421,0.103,0.2421,0.2014,0.2365,0.1036,0.1134
+543,Telegram/Wpp Dataset,Financeiro,real,False,Phishing,0.2463,0.1059,0.2363,0.2463,0.1708,0.1115,0.1292
+544,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3687,0.0971,0.0794,0.0935,0.1042,0.3687,0.2571
+545,Telegram/Wpp Dataset,Seguro,real,False,Desinformação,0.3513,0.0952,0.0946,0.0946,0.1027,0.3513,0.2615
+546,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.3086,0.1428,0.3086,0.1888,0.2182,0.0682,0.0734
+547,Telegram/Wpp Dataset,Financeiro,real,False,Financeiro,0.2992,0.0769,0.2992,0.2935,0.1958,0.0615,0.0731
+548,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2957,0.1739,0.0926,0.1101,0.1216,0.206,0.2957
+549,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.3733,0.3733,0.0683,0.0991,0.1276,0.1328,0.199
+550,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3732,0.0612,0.115,0.3732,0.2088,0.0973,0.1446
+551,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.321,0.0978,0.0843,0.0854,0.1069,0.3046,0.321
+552,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3266,0.0683,0.2619,0.3266,0.1816,0.0676,0.0941
+553,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3678,0.1095,0.1284,0.3678,0.1621,0.1184,0.1139
+554,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2854,0.169,0.0796,0.1195,0.1599,0.1866,0.2854
+555,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2811,0.2811,0.0675,0.0882,0.1258,0.1778,0.2596
+556,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3333,0.0831,0.1061,0.3333,0.2407,0.1046,0.1322
+557,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.3199,0.1291,0.0663,0.0895,0.1081,0.3199,0.2871
+558,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2472,0.1043,0.1371,0.1595,0.166,0.1859,0.2472
+559,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3365,0.1048,0.1199,0.3365,0.199,0.1165,0.1234
+560,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2788,0.1102,0.0752,0.0846,0.1942,0.257,0.2788
+561,Dados Sintéticos,Relacionamento,sintético,False,Phishing,0.2964,0.1768,0.1277,0.2964,0.1729,0.0933,0.1329
+562,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3339,0.085,0.1026,0.3339,0.2388,0.1064,0.1333
+563,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2771,0.134,0.0814,0.1217,0.1167,0.2691,0.2771
+564,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.2728,0.1088,0.1145,0.2728,0.147,0.1458,0.211
+565,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3028,0.1112,0.1384,0.3028,0.1609,0.1356,0.1511
+566,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3151,0.127,0.0785,0.1128,0.1129,0.2536,0.3151
+567,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2886,0.2886,0.0647,0.1125,0.1467,0.1641,0.2234
+568,Dados Sintéticos,Loja Falsa,sintético,False,Seguro,0.2654,0.1067,0.0669,0.1432,0.2254,0.1924,0.2654
+569,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.3061,0.1096,0.0682,0.1023,0.1246,0.3061,0.2892
+570,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3542,0.1016,0.1313,0.3542,0.1334,0.1112,0.1683
+571,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2232,0.144,0.1079,0.1796,0.1315,0.2232,0.2136
+572,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2846,0.1566,0.0759,0.1164,0.1541,0.2125,0.2846
+573,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.3521,0.3521,0.075,0.1094,0.1224,0.1377,0.2033
+574,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2925,0.1306,0.1125,0.2766,0.2925,0.0804,0.1075
+575,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2907,0.125,0.0931,0.0965,0.1153,0.2795,0.2907
+576,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2525,0.1165,0.1364,0.1925,0.1318,0.1701,0.2525
+577,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2439,0.0901,0.1104,0.1979,0.1533,0.2439,0.2045
+578,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2629,0.1552,0.0869,0.1276,0.1783,0.1891,0.2629
+579,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2393,0.2393,0.0988,0.1701,0.2055,0.1255,0.1608
+580,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3288,0.0719,0.1157,0.3288,0.1686,0.136,0.179
+581,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2982,0.1567,0.0672,0.1059,0.1214,0.2507,0.2982
+582,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3479,0.0664,0.2314,0.3479,0.1663,0.0805,0.1075
+583,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3796,0.0949,0.154,0.3796,0.1571,0.1019,0.1125
+584,Dados Sintéticos,Seguro,sintético,False,Seguro,0.297,0.1817,0.0713,0.1067,0.1468,0.1966,0.297
+585,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2512,0.2385,0.0708,0.1124,0.1379,0.1892,0.2512
+586,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2348,0.1036,0.093,0.2168,0.2348,0.1571,0.1948
+587,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.3265,0.1216,0.0672,0.078,0.1348,0.272,0.3265
+588,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2585,0.1119,0.0907,0.255,0.1076,0.1763,0.2585
+589,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3397,0.081,0.121,0.3397,0.1754,0.1552,0.1278
+590,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2864,0.2112,0.052,0.0908,0.1269,0.2327,0.2864
+591,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2528,0.2528,0.0789,0.1046,0.1088,0.2225,0.2326
+592,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.2912,0.1044,0.1069,0.2912,0.2111,0.1287,0.1578
+593,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.2927,0.1201,0.0849,0.1002,0.1098,0.2927,0.2923
+594,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.301,0.1209,0.1035,0.1221,0.1216,0.2308,0.301
+595,Dados Sintéticos,Phishing,sintético,False,Phishing,0.2742,0.1317,0.1248,0.2742,0.1613,0.1414,0.1666
+596,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3008,0.182,0.0776,0.0928,0.1309,0.2159,0.3008
+597,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2244,0.1551,0.0816,0.2213,0.1607,0.157,0.2244
+598,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2227,0.0973,0.0924,0.1987,0.2227,0.1852,0.2038
+599,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2837,0.1267,0.0877,0.1082,0.1498,0.2439,0.2837
+600,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3185,0.0835,0.1518,0.3185,0.1516,0.1242,0.1703
+601,Dados Sintéticos,Phishing,sintético,False,Phishing,0.2576,0.1427,0.1052,0.2576,0.1389,0.1869,0.1687
+602,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3181,0.1659,0.0673,0.1175,0.1373,0.1938,0.3181
+603,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2835,0.2835,0.068,0.0932,0.1283,0.165,0.2621
+604,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.387,0.0809,0.1276,0.387,0.2279,0.0826,0.0942
+605,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.2919,0.1123,0.0944,0.0958,0.1239,0.2919,0.2817
+606,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2672,0.113,0.116,0.1716,0.1135,0.2188,0.2672
+607,Dados Sintéticos,Phishing,sintético,False,Seguro,0.2392,0.142,0.1052,0.1384,0.1421,0.2332,0.2392
+608,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2665,0.1204,0.0694,0.1479,0.2074,0.1885,0.2665
+609,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.3282,0.3282,0.0688,0.1039,0.1223,0.1688,0.2081
+610,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3147,0.1345,0.1017,0.3147,0.2166,0.1002,0.1323
+611,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2902,0.104,0.0886,0.111,0.1512,0.255,0.2902
+612,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.4033,0.0733,0.1394,0.4033,0.1573,0.0936,0.1332
+613,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3842,0.0933,0.1281,0.3842,0.1782,0.1061,0.1101
+614,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2948,0.1475,0.0712,0.0927,0.1525,0.2413,0.2948
+615,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2756,0.2756,0.0739,0.1028,0.1447,0.177,0.2259
+616,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2589,0.1058,0.0926,0.2403,0.2589,0.1362,0.1662
+617,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.3038,0.1199,0.0891,0.0853,0.1175,0.2844,0.3038
+618,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.2729,0.0876,0.2058,0.2729,0.1573,0.1244,0.152
+619,Dados Sintéticos,Phishing,sintético,False,Seguro,0.2192,0.1206,0.1033,0.1725,0.1682,0.2163,0.2192
+620,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2738,0.2137,0.0803,0.1322,0.1052,0.1947,0.2738
+621,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2571,0.246,0.0792,0.1122,0.1465,0.1591,0.2571
+622,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3536,0.0952,0.1088,0.3536,0.2275,0.0965,0.1184
+623,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.3055,0.1005,0.081,0.1071,0.1035,0.3055,0.3024
+624,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2401,0.0839,0.1338,0.24,0.119,0.1832,0.2401
+625,Dados Sintéticos,Phishing,sintético,False,Phishing,0.277,0.1243,0.1699,0.277,0.1256,0.1368,0.1664
+626,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3017,0.1441,0.0702,0.0996,0.1932,0.1913,0.3017
+627,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.432,0.432,0.0809,0.0934,0.1083,0.1097,0.1757
+628,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.2555,0.0882,0.1006,0.2555,0.1993,0.1638,0.1926
+629,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.3265,0.1249,0.0681,0.0998,0.1205,0.2601,0.3265
+630,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.2614,0.1027,0.1215,0.2614,0.1342,0.1518,0.2283
+631,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2262,0.1132,0.1088,0.2022,0.1335,0.2262,0.2161
+632,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3235,0.1741,0.0705,0.0975,0.1329,0.2015,0.3235
+633,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2562,0.2562,0.0871,0.1559,0.1371,0.1505,0.2132
+634,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2375,0.1023,0.0718,0.1729,0.2375,0.1855,0.23
+635,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.2699,0.1849,0.0639,0.0978,0.1139,0.2699,0.2696
+636,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2322,0.0917,0.0915,0.1837,0.2046,0.1962,0.2322
+637,Dados Sintéticos,Phishing,sintético,False,Seguro,0.2348,0.132,0.092,0.1698,0.1457,0.2257,0.2348
+638,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2497,0.1278,0.0761,0.1232,0.2452,0.178,0.2497
+639,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2754,0.2341,0.0654,0.0972,0.112,0.2157,0.2754
+640,Dados Sintéticos,Loja Falsa,sintético,False,Seguro,0.2556,0.1105,0.0714,0.1315,0.2145,0.2166,0.2556
+641,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2873,0.1301,0.0826,0.1046,0.124,0.2715,0.2873
+642,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2662,0.0803,0.0888,0.2473,0.1466,0.1708,0.2662
+643,Dados Sintéticos,Phishing,sintético,False,Seguro,0.2042,0.127,0.1221,0.1939,0.1601,0.1928,0.2042
+644,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3077,0.149,0.0752,0.0911,0.1089,0.2681,0.3077
+645,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2599,0.2599,0.0732,0.1255,0.1682,0.1446,0.2287
+646,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3849,0.0715,0.0955,0.3849,0.1749,0.1125,0.1607
+647,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2568,0.1362,0.1038,0.1286,0.128,0.2467,0.2568
+648,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2721,0.0879,0.1303,0.18,0.1093,0.2203,0.2721
+649,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3147,0.1141,0.1483,0.3147,0.1401,0.1337,0.1491
+650,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2732,0.2089,0.0664,0.0988,0.1518,0.2009,0.2732
+651,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2609,0.2609,0.0955,0.1734,0.1403,0.1301,0.1998
+652,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2791,0.1357,0.0744,0.1476,0.2791,0.1489,0.2143
+653,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.3165,0.1057,0.0819,0.0795,0.112,0.3044,0.3165
+654,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2689,0.0922,0.1642,0.1256,0.1384,0.2107,0.2689
+655,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3828,0.0865,0.1594,0.3828,0.1741,0.0963,0.1008
+656,Dados Sintéticos,Seguro,sintético,False,Seguro,0.206,0.1263,0.1878,0.1999,0.1358,0.1441,0.206
+657,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2919,0.154,0.0789,0.1122,0.1544,0.2085,0.2919
+658,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3616,0.0777,0.1093,0.3616,0.203,0.1084,0.1399
+659,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2973,0.1225,0.0859,0.1215,0.1276,0.2453,0.2973
+660,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3125,0.0905,0.1341,0.3125,0.1401,0.1311,0.1918
+661,Dados Sintéticos,Phishing,sintético,False,Phishing,0.4196,0.0676,0.1311,0.4196,0.1743,0.0924,0.1151
+662,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2979,0.171,0.0648,0.097,0.1547,0.2146,0.2979
+663,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2563,0.1625,0.0881,0.1314,0.1744,0.1874,0.2563
+664,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.2809,0.0948,0.1104,0.2809,0.2435,0.1164,0.154
+665,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.305,0.1209,0.0814,0.0909,0.103,0.2987,0.305
+666,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.4234,0.0681,0.1782,0.4234,0.1852,0.0585,0.0865
+667,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2079,0.0977,0.1413,0.2053,0.1508,0.2079,0.1969
+668,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2731,0.1504,0.0754,0.1302,0.1609,0.2101,0.2731
+669,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2376,0.1811,0.0798,0.1472,0.1595,0.1948,0.2376
+670,Dados Sintéticos,Loja Falsa,sintético,False,Seguro,0.2276,0.1228,0.08,0.186,0.2244,0.159,0.2276
+671,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.3021,0.1444,0.0834,0.1141,0.1139,0.2422,0.3021
+672,Dados Sintéticos,Financeiro,sintético,False,Desinformação,0.3236,0.086,0.1064,0.106,0.1157,0.3236,0.2623
+673,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2166,0.1499,0.1274,0.1547,0.1443,0.2166,0.2072
+674,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2896,0.1639,0.0673,0.1045,0.1886,0.1861,0.2896
+675,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.4174,0.4174,0.0699,0.1022,0.1162,0.1187,0.1756
+676,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.4187,0.0758,0.1125,0.4187,0.1765,0.0902,0.1263
+677,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2716,0.1081,0.1167,0.112,0.1327,0.259,0.2716
+678,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2694,0.0921,0.1109,0.1605,0.1288,0.2383,0.2694
+679,Dados Sintéticos,Phishing,sintético,False,Seguro,0.202,0.1397,0.126,0.1976,0.1748,0.16,0.202
+680,Dados Sintéticos,Seguro,sintético,False,Phishing,0.2591,0.1637,0.111,0.2591,0.1487,0.1432,0.1743
+681,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2863,0.2097,0.0783,0.1169,0.1268,0.1819,0.2863
+682,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.2772,0.0833,0.1238,0.2772,0.1637,0.1573,0.1947
+683,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.2487,0.1247,0.0974,0.1378,0.1561,0.2487,0.2352
+684,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2431,0.0865,0.1208,0.2026,0.1677,0.1793,0.2431
+685,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2383,0.1322,0.0862,0.2039,0.1262,0.2383,0.2131
+686,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2906,0.1432,0.0758,0.0878,0.2016,0.2009,0.2906
+687,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2876,0.2266,0.0603,0.0998,0.1375,0.1882,0.2876
+688,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.374,0.0862,0.1613,0.374,0.2094,0.0766,0.0926
+689,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.2803,0.1101,0.0861,0.1046,0.1432,0.2803,0.2756
+690,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2404,0.0995,0.1243,0.2217,0.1176,0.1964,0.2404
+691,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3648,0.0939,0.1217,0.3648,0.1762,0.1214,0.122
+692,Dados Sintéticos,Seguro,sintético,False,Seguro,0.266,0.1286,0.0963,0.1245,0.1223,0.2623,0.266
+693,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2624,0.2267,0.0749,0.1147,0.1544,0.1669,0.2624
+694,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.2811,0.1012,0.1106,0.2811,0.2282,0.1325,0.1464
+695,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.2711,0.1307,0.0931,0.0961,0.1386,0.2711,0.2703
+696,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2211,0.1141,0.1438,0.1768,0.1276,0.2167,0.2211
+697,Dados Sintéticos,Phishing,sintético,False,Seguro,0.2248,0.1109,0.1143,0.165,0.1608,0.2242,0.2248
+698,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3215,0.1525,0.073,0.1014,0.1215,0.2301,0.3215
+699,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2061,0.2053,0.0811,0.1538,0.1961,0.1576,0.2061
+700,Dados Sintéticos,Loja Falsa,sintético,False,Seguro,0.2672,0.1,0.0751,0.135,0.219,0.2036,0.2672
+701,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2564,0.1339,0.1236,0.1208,0.1167,0.2487,0.2564
+702,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2954,0.0758,0.1396,0.1145,0.1109,0.2637,0.2954
+703,Dados Sintéticos,Phishing,sintético,False,Phishing,0.2612,0.1457,0.1257,0.2612,0.1611,0.1311,0.1752
+704,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2604,0.2278,0.0694,0.0932,0.1489,0.2004,0.2604
+705,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2659,0.2659,0.09,0.1372,0.1428,0.1715,0.1927
+706,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3248,0.1202,0.109,0.3248,0.2331,0.1002,0.1128
+707,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.3084,0.1227,0.0778,0.1118,0.0987,0.2806,0.3084
+708,Dados Sintéticos,Financeiro,sintético,False,Seguro,0.2864,0.1017,0.0966,0.1758,0.1368,0.2027,0.2864
+709,Dados Sintéticos,Phishing,sintético,False,Phishing,0.232,0.1359,0.0941,0.232,0.1663,0.1793,0.1924
+710,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2556,0.1451,0.1258,0.1245,0.1496,0.1994,0.2556
+711,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2923,0.2923,0.068,0.107,0.139,0.1449,0.2488
+712,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.2639,0.09,0.1052,0.2639,0.2253,0.1307,0.1848
+713,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.3056,0.1256,0.0753,0.0847,0.1266,0.2821,0.3056
+714,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.2703,0.1081,0.1119,0.2703,0.1481,0.1388,0.2227
+715,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2795,0.1213,0.09,0.1638,0.1106,0.2795,0.2346
+716,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2984,0.1677,0.0781,0.104,0.1431,0.2087,0.2984
+717,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2507,0.2288,0.0933,0.15,0.1305,0.1467,0.2507
+718,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2176,0.104,0.1053,0.2018,0.2176,0.1884,0.1829
+719,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2895,0.1102,0.0978,0.1272,0.1333,0.242,0.2895
+720,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3323,0.0911,0.1833,0.3323,0.1474,0.1054,0.1405
+721,Dados Sintéticos,Phishing,sintético,False,Phishing,0.369,0.0993,0.1357,0.369,0.1627,0.1155,0.1178
+722,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2968,0.1534,0.0551,0.0973,0.1845,0.2128,0.2968
+723,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.3132,0.1894,0.0751,0.1201,0.1146,0.1876,0.3132
+724,Dados Sintéticos,Loja Falsa,sintético,False,Seguro,0.2353,0.1287,0.0845,0.2047,0.1822,0.1646,0.2353
+725,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2778,0.137,0.0961,0.1112,0.1277,0.2503,0.2778
+726,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.251,0.0788,0.1353,0.251,0.2071,0.1257,0.2021
+727,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3985,0.0803,0.1405,0.3985,0.1836,0.0961,0.1009
+728,Dados Sintéticos,Seguro,sintético,False,Desinformação,0.2987,0.16,0.0752,0.0809,0.0929,0.2987,0.2924
+729,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2697,0.1857,0.069,0.1612,0.1414,0.173,0.2697
+730,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2439,0.115,0.0809,0.2104,0.2439,0.1531,0.1967
+731,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.285,0.1366,0.0915,0.1158,0.1446,0.2266,0.285
+732,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3012,0.0727,0.2383,0.3012,0.1576,0.1049,0.1252
+733,Dados Sintéticos,Phishing,sintético,False,Desinformação,0.2384,0.1005,0.0954,0.206,0.1435,0.2384,0.2163
+734,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2455,0.1763,0.0682,0.113,0.218,0.1791,0.2455
+735,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.289,0.289,0.0707,0.1204,0.1704,0.1528,0.1967
+736,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.4192,0.0623,0.1174,0.4192,0.1756,0.1024,0.123
+737,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.2719,0.1092,0.0964,0.1477,0.1071,0.2719,0.2677
+738,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.4139,0.0838,0.1196,0.4139,0.1331,0.107,0.1426
+739,Dados Sintéticos,Phishing,sintético,False,Phishing,0.2946,0.1231,0.1237,0.2946,0.1537,0.1583,0.1466
+740,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3048,0.159,0.0929,0.113,0.1389,0.1914,0.3048
+741,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.3936,0.3936,0.0736,0.1119,0.1146,0.1279,0.1783
+742,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2719,0.1621,0.098,0.2075,0.2719,0.1218,0.1387
+743,Dados Sintéticos,Desinformação,sintético,False,Phishing,0.2913,0.0719,0.1401,0.2913,0.1745,0.1512,0.1709
+744,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3156,0.0772,0.2187,0.3156,0.1879,0.0873,0.1132
+745,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3074,0.1266,0.137,0.3074,0.1636,0.1344,0.1309
+746,Dados Sintéticos,Seguro,sintético,False,Seguro,0.3276,0.2044,0.0647,0.0878,0.1145,0.2009,0.3276
+747,Dados Sintéticos,Relacionamento,sintético,False,Seguro,0.2419,0.2147,0.0774,0.1279,0.1442,0.1939,0.2419
+748,Dados Sintéticos,Loja Falsa,sintético,False,Phishing,0.3557,0.072,0.1099,0.3557,0.2055,0.1176,0.1392
+749,Dados Sintéticos,Desinformação,sintético,False,Desinformação,0.3265,0.085,0.0763,0.1127,0.1029,0.3265,0.2966
+750,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.2848,0.0892,0.153,0.2848,0.1443,0.1465,0.1822
+751,Dados Sintéticos,Phishing,sintético,False,Phishing,0.3398,0.1148,0.1257,0.3398,0.1792,0.1125,0.128
+752,Dados Sintéticos,Seguro,sintético,False,Seguro,0.2951,0.1584,0.0605,0.0976,0.1964,0.192,0.2951
+753,Dados Sintéticos,Relacionamento,sintético,False,Relacionamento,0.2459,0.2459,0.0787,0.1437,0.1564,0.1625,0.2127
+754,Dados Sintéticos,Loja Falsa,sintético,False,Loja Falsa,0.2428,0.1142,0.0876,0.2137,0.2428,0.1461,0.1955
+755,Dados Sintéticos,Desinformação,sintético,False,Seguro,0.2706,0.1166,0.079,0.1056,0.1617,0.2664,0.2706
+756,Dados Sintéticos,Financeiro,sintético,False,Phishing,0.3789,0.0684,0.136,0.3789,0.1548,0.1036,0.1583
+757,Dados Sintéticos,Phishing,sintético,False,Phishing,0.2779,0.1156,0.1543,0.2779,0.1533,0.1389,0.16

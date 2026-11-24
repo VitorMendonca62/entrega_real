@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 34,
+    "text": "\"Bruna visitou seu perfil várias vezes.\nParece que despertou interesse 👀\"",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "4a49cafbd9f1958b77436e45bf36c21f9d77557dcbb8006846a13e40ac340bf7"
+  },
+  "call_id": "0b7a812cdaf3d2d976285af4479d180d93c1cbecdf6433a9412e9f370700374c",
+  "filtered": {
+    "Motivo": "O texto em questão sugere a possível criação de um atrativo interesse inicial por meio de perfis falsos, indicada pela menção de 'Bruna visitou seu perfil várias vezes', que pode ser um ponto de partida para o estabelecimento de uma interação romântica e intensa, conforme descrito na categoria. O emoji sugerindo interesse ('👀') reforça a tentativa de captura de atenção da vítima, um início típico em golpes de relacionamento.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto em questão sugere a possível criação de um atrativo interesse inicial por meio de perfis falsos, indicada pela menção de 'Bruna visitou seu perfil várias vezes', que pode ser um ponto de partida para o estabelecimento de uma interação romântica e intensa, conforme descrito na categoria. O emoji sugerindo interesse ('👀') reforça a tentativa de captura de atenção da vítima, um início típico em golpes de relacionamento.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear."
+  }
+}

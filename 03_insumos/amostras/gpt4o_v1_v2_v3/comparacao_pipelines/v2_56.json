@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 56,
+    "text": "Qual valor solicitado? (15:01)\n2500 pode ser (15:02)\nTem o seguro de 389,60 (15:03)\nSim entendi (15:04)\n Voce faz contrato do emprestimo (15:04)\nO seguro é cobrado devido a grande taxa de inadimplência por isso caso senhor ou senhora não me pague a seguradora cobre o prejuízo e me reembolsa (15:07)\n",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "686be0229c7617342c77ff220e2debb377ae93af3660779bad2960a184f4e9f5"
+  },
+  "call_id": "537dbaac338bd224497676ed95c1d97a3faa2d2823a9ebabc8222a5098e5a1da",
+  "filtered": {
+    "Motivo": "O texto analisado indica um golpe de ganho financeiro ilusório através da solicitação de um pagamento antecipado (seguro de 389,60) sob a falsa promessa de um empréstimo. A mensagem 'O seguro é cobrado devido a grande taxa de inadimplência' utiliza uma justificativa ilusória para validar o pagamento adiantado, caracterizando a fraude.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto analisado indica um golpe de ganho financeiro ilusório através da solicitação de um pagamento antecipado (seguro de 389,60) sob a falsa promessa de um empréstimo. A mensagem 'O seguro é cobrado devido a grande taxa de inadimplência' utiliza uma justificativa ilusória para validar o pagamento adiantado, caracterizando a fraude.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

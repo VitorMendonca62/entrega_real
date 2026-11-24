@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 40,
+    "text": "Sim, meninas. A água de coco cura candidíase! \n#explore #reels #viral #dicas #beleza\n#candidiase #dicasdebeleza #explorar #fyp",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "5741247ae4b3988523b4ef18946651f580c80799e79bc963ee352433179017f4"
+  },
+  "call_id": "b70532979ce0860589fa9e9ae8e287e98ce4ad82886dbb3678af42b7f636d0ec",
+  "filtered": {
+    "Motivo": "O texto promove uma cura milagrosa para uma condição médica (candidíase) com o uso de água de coco, o que caracteriza a fabricação e disseminação de desinformação. Essa alegação não tem suporte científico e pode explorar o medo ou a pressa por uma solução simples, levando pessoas a acreditarem e compartilharem essa informação falsa.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto promove uma cura milagrosa para uma condição médica (candidíase) com o uso de água de coco, o que caracteriza a fabricação e disseminação de desinformação. Essa alegação não tem suporte científico e pode explorar o medo ou a pressa por uma solução simples, levando pessoas a acreditarem e compartilharem essa informação falsa.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "browser_version": "156.0.8078.4",
+  "service_worker_url": "chrome-extension://opkjamofdhhengfbhibimeohbkfnhmhp/background.js",
+  "extension_id": "opkjamofdhhengfbhibimeohbkfnhmhp",
+  "headless": true,
+  "channel": "chromium",
+  "profile_exported": false
+}

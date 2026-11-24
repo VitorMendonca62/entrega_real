@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 49,
+    "text": "para informação sobre plataforma investimento iniciar investimento conosco contato adrianafxtdr",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "aad1f8a782d4686372b9aed7ee67ca79a06e11ea2ef86d48180952e0ecc74455"
+  },
+  "call_id": "ce251a6ea818d5df840aa33e229904fea34e5c59f1eb3a4461338b394206d1a8",
+  "filtered": {
+    "Motivo": "O texto é caracterizado como um golpe de ganho financeiro ilusório pela menção de 'plataforma de investimento', solicitando contato com um suposto representante 'adrianafxtdr'. Isso indica um potencial esquema fraudulento que busca atrair a vítima a investir em uma plataforma possivelmente falsa, prometendo retornos de investimento futuros.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto é caracterizado como um golpe de ganho financeiro ilusório pela menção de 'plataforma de investimento', solicitando contato com um suposto representante 'adrianafxtdr'. Isso indica um potencial esquema fraudulento que busca atrair a vítima a investir em uma plataforma possivelmente falsa, prometendo retornos de investimento futuros.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Se realizou transferências (Pix) ou forneceu dados de cartão, contatar a instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

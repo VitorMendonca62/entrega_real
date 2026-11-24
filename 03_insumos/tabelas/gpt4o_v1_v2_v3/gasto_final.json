@@ -1,0 +1,11 @@
+{
+  "previous_cost_usd": 0.15300500000000006,
+  "total_accounted_usd_upper_ignoring_cache": 1.0232025000000002,
+  "budget_usd": 3.0,
+  "reserved_calls": 166,
+  "output_cap_explicitly_sent": false,
+  "max_retries": 0,
+  "timeout_seconds": 90,
+  "model_only": "gpt-4o",
+  "prices_source": "https://developers.openai.com/api/docs/models/gpt-4o"
+}

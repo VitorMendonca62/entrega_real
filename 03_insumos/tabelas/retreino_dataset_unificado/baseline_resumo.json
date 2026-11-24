@@ -1,0 +1,1023 @@
+{
+ "definicao": {
+  "visto": "texto presente em treino/validação do modelo antigo (vazamento a favor dele)",
+  "inedito": "nunca visto: teste original de 45 textos, sintéticos e Telegram/Wpp"
+ },
+ "pred_1a_execucao.csv": {
+  "facebook_todos(vazado)": {
+   "n": 60,
+   "acc": 0.6167,
+   "f1_macro_classes_presentes": 0.5872,
+   "f1_por_classe": {
+    "Relacionamento": 0.857,
+    "Financeiro": 0.522,
+    "Phishing": 0.611,
+    "Loja Falsa": 0.2,
+    "Desinformação": 0.667,
+    "Seguro": 0.667
+   },
+   "n_por_classe": {
+    "Relacionamento": 10,
+    "Financeiro": 13,
+    "Phishing": 17,
+    "Loja Falsa": 8,
+    "Desinformação": 4,
+    "Seguro": 8
+   },
+   "matriz": [
+    [
+     9,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     1,
+     6,
+     5,
+     0,
+     0,
+     1
+    ],
+    [
+     0,
+     1,
+     11,
+     1,
+     2,
+     2
+    ],
+    [
+     0,
+     3,
+     3,
+     1,
+     0,
+     1
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     3,
+     1
+    ],
+    [
+     1,
+     0,
+     0,
+     0,
+     0,
+     7
+    ]
+   ]
+  },
+  "facebook_inedito_p/o_modelo(teste original)": {
+   "n": 6,
+   "acc": 0.3333,
+   "f1_macro_classes_presentes": 0.3333,
+   "f1_por_classe": {
+    "Relacionamento": 0.0,
+    "Financeiro": 1.0,
+    "Phishing": 0.0,
+    "Loja Falsa": 0.0,
+    "Seguro": 0.667
+   },
+   "n_por_classe": {
+    "Relacionamento": 1,
+    "Financeiro": 1,
+    "Phishing": 2,
+    "Loja Falsa": 1,
+    "Seguro": 1
+   },
+   "matriz": [
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     1,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ]
+  },
+  "facebook_Seguro_recall_vazado": 0.875,
+  "por_fonte": {
+   "Dados Sintéticos": {
+    "n": 210,
+    "acc": 0.448,
+    "vazado": 0.0
+   },
+   "Externo 1": {
+    "n": 65,
+    "acc": 0.954,
+    "vazado": 0.89
+   },
+   "Externo 2": {
+    "n": 77,
+    "acc": 0.961,
+    "vazado": 0.9
+   },
+   "Externo 3": {
+    "n": 104,
+    "acc": 0.692,
+    "vazado": 0.89
+   },
+   "Externo 4": {
+    "n": 35,
+    "acc": 0.971,
+    "vazado": 0.89
+   },
+   "Externo 5": {
+    "n": 25,
+    "acc": 0.92,
+    "vazado": 0.92
+   },
+   "Externo 6": {
+    "n": 43,
+    "acc": 0.605,
+    "vazado": 0.91
+   },
+   "Externo 7": {
+    "n": 36,
+    "acc": 0.833,
+    "vazado": 0.92
+   },
+   "Interno": {
+    "n": 60,
+    "acc": 0.617,
+    "vazado": 0.9
+   },
+   "Telegram/Wpp Dataset": {
+    "n": 96,
+    "acc": 0.438,
+    "vazado": 0.0
+   }
+  },
+  "todos_inéditos_(teste45+Telegram)": {
+   "n": 141,
+   "acc": 0.5177,
+   "f1_macro_classes_presentes": 0.4765,
+   "f1_por_classe": {
+    "Relacionamento": 0.444,
+    "Financeiro": 0.822,
+    "Phishing": 0.333,
+    "Loja Falsa": 0.545,
+    "Desinformação": 0.359,
+    "Seguro": 0.354
+   },
+   "n_por_classe": {
+    "Relacionamento": 8,
+    "Financeiro": 52,
+    "Phishing": 8,
+    "Loja Falsa": 7,
+    "Desinformação": 7,
+    "Seguro": 59
+   },
+   "matriz": [
+    [
+     6,
+     0,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     0,
+     37,
+     12,
+     0,
+     1,
+     2
+    ],
+    [
+     0,
+     0,
+     6,
+     1,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     2,
+     3,
+     0,
+     2
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     7,
+     0
+    ],
+    [
+     13,
+     1,
+     8,
+     0,
+     23,
+     14
+    ]
+   ]
+  },
+  "sintéticos_diagnóstico(não é teste)": {
+   "n": 210,
+   "acc": 0.4476,
+   "f1_macro_classes_presentes": 0.4117,
+   "f1_por_classe": {
+    "Relacionamento": 0.704,
+    "Financeiro": 0.0,
+    "Phishing": 0.433,
+    "Loja Falsa": 0.444,
+    "Desinformação": 0.393,
+    "Seguro": 0.496
+   },
+   "n_por_classe": {
+    "Relacionamento": 35,
+    "Financeiro": 35,
+    "Phishing": 35,
+    "Loja Falsa": 35,
+    "Desinformação": 35,
+    "Seguro": 35
+   },
+   "matriz": [
+    [
+     19,
+     0,
+     1,
+     0,
+     0,
+     15
+    ],
+    [
+     0,
+     0,
+     18,
+     0,
+     1,
+     16
+    ],
+    [
+     0,
+     0,
+     21,
+     0,
+     8,
+     6
+    ],
+    [
+     0,
+     0,
+     20,
+     10,
+     0,
+     5
+    ],
+    [
+     0,
+     0,
+     1,
+     0,
+     11,
+     23
+    ],
+    [
+     0,
+     0,
+     1,
+     0,
+     1,
+     33
+    ]
+   ]
+  },
+  "conf_media_acertos": 0.395,
+  "conf_media_erros": 0.303
+ },
+ "pred_2a_execucao.csv": {
+  "facebook_todos(vazado)": {
+   "n": 60,
+   "acc": 0.6167,
+   "f1_macro_classes_presentes": 0.612,
+   "f1_por_classe": {
+    "Relacionamento": 0.727,
+    "Financeiro": 0.56,
+    "Phishing": 0.625,
+    "Loja Falsa": 0.462,
+    "Desinformação": 0.667,
+    "Seguro": 0.632
+   },
+   "n_por_classe": {
+    "Relacionamento": 10,
+    "Financeiro": 13,
+    "Phishing": 17,
+    "Loja Falsa": 8,
+    "Desinformação": 4,
+    "Seguro": 8
+   },
+   "matriz": [
+    [
+     8,
+     0,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     1,
+     7,
+     4,
+     1,
+     0,
+     0
+    ],
+    [
+     2,
+     2,
+     10,
+     1,
+     1,
+     1
+    ],
+    [
+     0,
+     3,
+     1,
+     3,
+     0,
+     1
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     3,
+     1
+    ],
+    [
+     1,
+     0,
+     0,
+     0,
+     1,
+     6
+    ]
+   ]
+  },
+  "facebook_inedito_p/o_modelo(teste original)": {
+   "n": 6,
+   "acc": 0.5,
+   "f1_macro_classes_presentes": 0.4667,
+   "f1_por_classe": {
+    "Relacionamento": 0.0,
+    "Financeiro": 1.0,
+    "Phishing": 0.0,
+    "Loja Falsa": 0.667,
+    "Seguro": 0.667
+   },
+   "n_por_classe": {
+    "Relacionamento": 1,
+    "Financeiro": 1,
+    "Phishing": 2,
+    "Loja Falsa": 1,
+    "Seguro": 1
+   },
+   "matriz": [
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     1,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ]
+  },
+  "facebook_Seguro_recall_vazado": 0.75,
+  "por_fonte": {
+   "Dados Sintéticos": {
+    "n": 210,
+    "acc": 0.481,
+    "vazado": 0.0
+   },
+   "Externo 1": {
+    "n": 65,
+    "acc": 0.923,
+    "vazado": 0.89
+   },
+   "Externo 2": {
+    "n": 77,
+    "acc": 0.961,
+    "vazado": 0.9
+   },
+   "Externo 3": {
+    "n": 104,
+    "acc": 0.856,
+    "vazado": 0.89
+   },
+   "Externo 4": {
+    "n": 35,
+    "acc": 1.0,
+    "vazado": 0.89
+   },
+   "Externo 5": {
+    "n": 25,
+    "acc": 0.88,
+    "vazado": 0.92
+   },
+   "Externo 6": {
+    "n": 43,
+    "acc": 0.581,
+    "vazado": 0.91
+   },
+   "Externo 7": {
+    "n": 36,
+    "acc": 0.833,
+    "vazado": 0.92
+   },
+   "Interno": {
+    "n": 60,
+    "acc": 0.617,
+    "vazado": 0.9
+   },
+   "Telegram/Wpp Dataset": {
+    "n": 96,
+    "acc": 0.365,
+    "vazado": 0.0
+   }
+  },
+  "todos_inéditos_(teste45+Telegram)": {
+   "n": 141,
+   "acc": 0.5106,
+   "f1_macro_classes_presentes": 0.4773,
+   "f1_por_classe": {
+    "Relacionamento": 0.48,
+    "Financeiro": 0.774,
+    "Phishing": 0.545,
+    "Loja Falsa": 0.444,
+    "Desinformação": 0.3,
+    "Seguro": 0.32
+   },
+   "n_por_classe": {
+    "Relacionamento": 8,
+    "Financeiro": 52,
+    "Phishing": 8,
+    "Loja Falsa": 7,
+    "Desinformação": 7,
+    "Seguro": 59
+   },
+   "matriz": [
+    [
+     6,
+     0,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     0,
+     36,
+     5,
+     10,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     6,
+     1,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     6,
+     0,
+     1
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     6,
+     1
+    ],
+    [
+     11,
+     5,
+     3,
+     3,
+     25,
+     12
+    ]
+   ]
+  },
+  "sintéticos_diagnóstico(não é teste)": {
+   "n": 210,
+   "acc": 0.481,
+   "f1_macro_classes_presentes": 0.4243,
+   "f1_por_classe": {
+    "Relacionamento": 0.408,
+    "Financeiro": 0.0,
+    "Phishing": 0.472,
+    "Loja Falsa": 0.554,
+    "Desinformação": 0.69,
+    "Seguro": 0.421
+   },
+   "n_por_classe": {
+    "Relacionamento": 35,
+    "Financeiro": 35,
+    "Phishing": 35,
+    "Loja Falsa": 35,
+    "Desinformação": 35,
+    "Seguro": 35
+   },
+   "matriz": [
+    [
+     10,
+     0,
+     0,
+     9,
+     1,
+     15
+    ],
+    [
+     0,
+     0,
+     11,
+     6,
+     13,
+     5
+    ],
+    [
+     0,
+     0,
+     17,
+     15,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     6,
+     28,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     30,
+     5
+    ],
+    [
+     4,
+     0,
+     3,
+     8,
+     4,
+     16
+    ]
+   ]
+  },
+  "conf_media_acertos": 0.374,
+  "conf_media_erros": 0.291
+ },
+ "pred_plugin_publicado.csv": {
+  "facebook_todos(vazado)": {
+   "n": 60,
+   "acc": 0.6167,
+   "f1_macro_classes_presentes": 0.6188,
+   "f1_por_classe": {
+    "Relacionamento": 0.818,
+    "Financeiro": 0.522,
+    "Phishing": 0.611,
+    "Loja Falsa": 0.462,
+    "Desinformação": 0.8,
+    "Seguro": 0.5
+   },
+   "n_por_classe": {
+    "Relacionamento": 10,
+    "Financeiro": 13,
+    "Phishing": 17,
+    "Loja Falsa": 8,
+    "Desinformação": 4,
+    "Seguro": 8
+   },
+   "matriz": [
+    [
+     9,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     1,
+     6,
+     6,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     1,
+     11,
+     2,
+     1,
+     2
+    ],
+    [
+     0,
+     3,
+     1,
+     3,
+     0,
+     1
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4,
+     0
+    ],
+    [
+     2,
+     0,
+     1,
+     0,
+     1,
+     4
+    ]
+   ]
+  },
+  "facebook_inedito_p/o_modelo(teste original)": {
+   "n": 6,
+   "acc": 0.5,
+   "f1_macro_classes_presentes": 0.4667,
+   "f1_por_classe": {
+    "Relacionamento": 0.0,
+    "Financeiro": 1.0,
+    "Phishing": 0.0,
+    "Loja Falsa": 0.667,
+    "Seguro": 0.667
+   },
+   "n_por_classe": {
+    "Relacionamento": 1,
+    "Financeiro": 1,
+    "Phishing": 2,
+    "Loja Falsa": 1,
+    "Seguro": 1
+   },
+   "matriz": [
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     1,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ]
+   ]
+  },
+  "facebook_Seguro_recall_vazado": 0.5,
+  "por_fonte": {
+   "Dados Sintéticos": {
+    "n": 210,
+    "acc": 0.605,
+    "vazado": 0.0
+   },
+   "Externo 1": {
+    "n": 65,
+    "acc": 0.938,
+    "vazado": 0.89
+   },
+   "Externo 2": {
+    "n": 77,
+    "acc": 0.948,
+    "vazado": 0.9
+   },
+   "Externo 3": {
+    "n": 104,
+    "acc": 0.865,
+    "vazado": 0.89
+   },
+   "Externo 4": {
+    "n": 35,
+    "acc": 0.943,
+    "vazado": 0.89
+   },
+   "Externo 5": {
+    "n": 25,
+    "acc": 0.76,
+    "vazado": 0.92
+   },
+   "Externo 6": {
+    "n": 43,
+    "acc": 0.884,
+    "vazado": 0.91
+   },
+   "Externo 7": {
+    "n": 36,
+    "acc": 0.833,
+    "vazado": 0.92
+   },
+   "Interno": {
+    "n": 60,
+    "acc": 0.617,
+    "vazado": 0.9
+   },
+   "Telegram/Wpp Dataset": {
+    "n": 96,
+    "acc": 0.24,
+    "vazado": 0.0
+   }
+  },
+  "todos_inéditos_(teste45+Telegram)": {
+   "n": 141,
+   "acc": 0.4255,
+   "f1_macro_classes_presentes": 0.4416,
+   "f1_por_classe": {
+    "Relacionamento": 0.462,
+    "Financeiro": 0.623,
+    "Phishing": 0.255,
+    "Loja Falsa": 0.667,
+    "Desinformação": 0.341,
+    "Seguro": 0.301
+   },
+   "n_por_classe": {
+    "Relacionamento": 8,
+    "Financeiro": 52,
+    "Phishing": 8,
+    "Loja Falsa": 7,
+    "Desinformação": 7,
+    "Seguro": 59
+   },
+   "matriz": [
+    [
+     6,
+     0,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     2,
+     24,
+     21,
+     3,
+     1,
+     1
+    ],
+    [
+     0,
+     0,
+     6,
+     1,
+     1,
+     0
+    ],
+    [
+     0,
+     0,
+     1,
+     6,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     7,
+     0
+    ],
+    [
+     10,
+     1,
+     11,
+     1,
+     25,
+     11
+    ]
+   ]
+  },
+  "sintéticos_diagnóstico(não é teste)": {
+   "n": 210,
+   "acc": 0.6048,
+   "f1_macro_classes_presentes": 0.5574,
+   "f1_por_classe": {
+    "Relacionamento": 0.857,
+    "Financeiro": 0.0,
+    "Phishing": 0.635,
+    "Loja Falsa": 0.712,
+    "Desinformação": 0.647,
+    "Seguro": 0.494
+   },
+   "n_por_classe": {
+    "Relacionamento": 35,
+    "Financeiro": 35,
+    "Phishing": 35,
+    "Loja Falsa": 35,
+    "Desinformação": 35,
+    "Seguro": 35
+   },
+   "matriz": [
+    [
+     27,
+     0,
+     0,
+     1,
+     0,
+     7
+    ],
+    [
+     0,
+     0,
+     23,
+     1,
+     6,
+     5
+    ],
+    [
+     0,
+     0,
+     33,
+     0,
+     2,
+     0
+    ],
+    [
+     0,
+     0,
+     9,
+     26,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     2,
+     0,
+     22,
+     11
+    ],
+    [
+     1,
+     0,
+     2,
+     10,
+     3,
+     19
+    ]
+   ]
+  },
+  "conf_media_acertos": 0.399,
+  "conf_media_erros": 0.298
+ }
+}

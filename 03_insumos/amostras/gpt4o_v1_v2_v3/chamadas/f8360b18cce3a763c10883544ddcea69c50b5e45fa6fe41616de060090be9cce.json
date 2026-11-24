@@ -1,0 +1,103 @@
+{
+  "id": "f8360b18cce3a763c10883544ddcea69c50b5e45fa6fe41616de060090be9cce",
+  "experiment": "comparacao_prompts",
+  "version": "v2",
+  "case_id": 2,
+  "sha256_text": "5f3cbf87206ae0a0410cfe1f04a2774cfcb619d1073faa70a08e97a9f12a3ac6",
+  "reserved_usd": 0.18883500000000003,
+  "input_token_bound": 9998,
+  "output_token_bound": 16384,
+  "utc": "2026-10-20T20:56:47.986780+00:00",
+  "request": {
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Você é um especialista em Cibersegurança e Direito Digital brasileiro.\n\nSua função é analisar textos classificados como golpes em redes sociais e gerar uma resposta estruturada para alertar e orientar a vítima.\n\nREGRAS OBRIGATÓRIAS:\n1. Use EXCLUSIVAMENTE as informações da BASE DE CONHECIMENTO fornecida. Não invente leis, artigos ou ações que não estejam no contexto.\n2. O campo \"Motivo\" deve explicar QUAIS elementos do texto analisado indicam o golpe identificado — seja específico e cite trechos ou características observadas.\n3. O campo \"Base_Legal\" deve listar APENAS as leis e artigos presentes na base de conhecimento desta categoria, sem inventar referências.\n4. O campo \"Acoes_Recomendadas\" deve seguir a ordem de prioridade da base de conhecimento, adaptando o texto ao contexto específico da mensagem.\n5. Se a categoria for \"Seguro\", retorne o JSON com campos vazios e Acoes_Recomendadas = \"Verifique a informação em fontes confiáveis antes de compartilhar.\"\n6. Responda EXCLUSIVAMENTE com o JSON abaixo, sem texto adicional, markdown ou explicações fora do JSON.\n7. Se o texto analisado não contiver elementos que caracterizem um crime ou conduta ilícita, o campo \"Base_Legal\" deve ser retornado vazio (\"\"), mesmo que a categoria possua leis associadas na base de conhecimento."
+      },
+      {
+        "role": "user",
+        "content": "BASE DE CONHECIMENTO:\nCATEGORIA IDENTIFICADA: Ataques de Phishing e Roubo de Dados\n\nDEFINIÇÃO:\nCampanhas focadas na extração sistemática de dados sensíveis, credenciais de acesso e informações financeiras para fins ilícitos. Os estelionatários mimetizam instituições legítimas (bancos, redes sociais) ou usam perfis falsos para disparar links maliciosos, comprometer dispositivos ou manipular a vítima a entregar credenciais voluntariamente.\n\nMODUS OPERANDI:\nMensagem urgente imitando banco/rede social → link malicioso para página falsa → vítima insere credenciais → dados capturados e usados para esvaziamento de conta ou fraudes em nome da vítima. Variante: instalação de malware por clique no link.\n\nLEGISLAÇÃO APLICÁVEL:\n  • Art. 171 do Código Penal (Estelionato)\n    Tipo: crime patrimonial\n    Descrição: Obtenção de vantagem ilícita por fraude, causando prejuízo à vítima.\n    Aplicação neste caso: Uso das credenciais roubadas para esvaziamento de conta, compras fraudulentas.\n    Pena prevista: Reclusão de 1 a 5 anos, além de multa.\n\n  • Lei nº 14.155/2021 (Fraude Eletrônica)\n    Tipo: crime digital\n    Descrição: Moderniza o Código Penal para fraudes via internet, com penas agravadas.\n    Aplicação neste caso: Phishing por e-mail ou redes sociais, clonagem de WhatsApp, fraudes bancárias online.\n    Pena prevista: Pode chegar a 8 anos de reclusão.\n\n  • Art. 154-A do Código Penal (Lei Carolina Dieckmann — Invasão de Dispositivo)\n    Tipo: crime cibernético\n    Descrição: Tipifica a invasão de dispositivos eletrônicos para obter, adulterar ou destruir dados.\n    Aplicação neste caso: Instalação de malware via link malicioso, hack de e-mail ou redes sociais, spyware.\n    Pena prevista: 3 meses a 1 ano, mais multa; aumenta com prejuízo ou divulgação de dados.\n\n  • LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)\n    Tipo: proteção de dados\n    Descrição: Regula o tratamento de dados pessoais; vazamentos facilitam golpes.\n    Aplicação neste caso: Uso indevido de CPF, e-mail ou dados financeiros roubados em ataques de phishing.\n    Pena prevista: Multas de até 2% do faturamento; bloqueio ou exclusão de dados.\n\nANÁLISE JURÍDICA CONSOLIDADA:\nO foco é a quebra da segurança da informação e violação da privacidade. A extração fraudulenta de credenciais é punida pelo Estelionato (Art. 171) e pela Fraude Eletrônica (Lei 14.155/2021). A Lei Carolina Dieckmann (Art. 154-A) criminaliza a invasão direta de dispositivos e instalação de malwares. A LGPD penaliza o tratamento ilícito e a comercialização das informações pessoais e financeiras roubadas.\n\nAÇÕES RECOMENDADAS À VÍTIMA:\n  1. Alterar imediatamente todas as senhas comprometidas (rede social, e-mail, bancos) e ativar Autenticação de Dois Fatores (2FA).\n  2. Bloquear o remetente e denunciar a mensagem maliciosa na plataforma.\n  3. Se dados bancários foram expostos, notificar o banco para cancelamento de cartões e monitoramento da conta.\n  4. Salvar capturas de tela da mensagem original e do link malicioso recebido.\n  5. Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica).\n\n---\n\nTEXTO ANALISADO:\n\"\"\"Teste do Sol Wkly Q! Ganhar um leitor de DVD topo de gama da Sony se souber em que país fica o Algarve? Envie uma mensagem de texto para 82277. £1,50 SP:Tyrone\"\"\"\n\nCLASSIFICAÇÃO DO MODELO BERTimbau:\n  Categoria  : Ataques de Phishing e Roubo de Dados\n  Confiança  : 92% (ALTA (≥ 0,85))\n\n---\n\nCom base EXCLUSIVAMENTE na BASE DE CONHECIMENTO acima, gere o JSON abaixo:\n\n{\n  \"Categoria\": \"Ataques de Phishing e Roubo de Dados\",\n  \"Motivo\": \"<explique quais elementos do texto indicam esta categoria de golpe>\",\n  \"Base_Legal\": \"<liste os artigos e leis aplicáveis conforme a base de conhecimento>\",\n  \"Acoes_Recomendadas\": \"<liste as ações recomendadas adaptadas ao contexto desta mensagem>\"\n}"
+      }
+    ],
+    "response_format": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-EbBB2n9iX1k76ThQkoRnorPa37BlD",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "{\"Categoria\":\"Ataques de Phishing e Roubo de Dados\",\"Motivo\":\"O texto analisa contém uma oferta suspeita de ganhar um \\\"leitor de DVD topo de gama da Sony\\\" em troca de responder corretamente uma pergunta trivial sobre a localização do Algarve. A mensagem pede que o destinatário envie uma resposta para um número específico (82277), o que é uma prática comum em fraudes para arrecadar dinheiro via cobranças suplementares ou obter dados pessoais.\",\"Base_Legal\":\"Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)\",\"Acoes_Recomendadas\":\"1. Não responda ou envie mensagens para o número oferecido. 2. Bloqueie e denuncie o remetente ou número na plataforma ou operadora. 3. Se alguma informação pessoal ou financeira foi compartilhada, entre em contato com o banco para monitoramento preventivo. 4. Considere registrar um boletim de ocorrência para proteger seus direitos legais.\"}",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1792529808,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "metadata": null,
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": "fp_d44a43dee5",
+    "usage": {
+      "completion_tokens": 211,
+      "prompt_tokens": 1365,
+      "total_tokens": 1576,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0,
+        "text_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": null,
+        "cached_tokens": 0,
+        "image_tokens": null,
+        "text_tokens": null
+      }
+    }
+  },
+  "cost_usd_upper_ignoring_cache": 0.0055225000000000005,
+  "status": "complete",
+  "seconds": 3.592513435993169
+}

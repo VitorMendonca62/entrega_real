@@ -1,0 +1,59 @@
+{
+  "escopo": "ASGI local real, sem mocks, sem chamada paga; não cobre caminho de sucesso GPT",
+  "testes": [
+    {
+      "metodo": "GET",
+      "path": "/VeritaPlugin/health",
+      "entrada": null,
+      "status": 200,
+      "resposta": {
+        "status": "ok"
+      },
+      "segundos": 0.01528233499993803
+    },
+    {
+      "metodo": "POST",
+      "path": "/VeritaPlugin/CategorizeData",
+      "entrada": {
+        "message": ""
+      },
+      "status": 400,
+      "resposta": {
+        "detail": "Mensagem vazia."
+      },
+      "segundos": 0.004071000999829266
+    },
+    {
+      "metodo": "POST",
+      "path": "/VeritaPlugin/CategorizeData",
+      "entrada": {
+        "message": "Bom dia."
+      },
+      "status": 401,
+      "resposta": {
+        "detail": "Chave da OpenAI não configurada."
+      },
+      "segundos": 0.0045262989988259505
+    },
+    {
+      "metodo": "POST",
+      "path": "/VeritaPlugin/CategorizeData",
+      "entrada": {},
+      "status": 422,
+      "resposta": {
+        "detail": [
+          {
+            "type": "missing",
+            "loc": [
+              "body",
+              "message"
+            ],
+            "msg": "Field required",
+            "input": {}
+          }
+        ]
+      },
+      "segundos": 0.002857152998331003
+    }
+  ]
+}

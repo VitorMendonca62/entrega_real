@@ -1,0 +1,138 @@
+{
+ "experimento": "loso_B_Externo1",
+ "n_treino": 638,
+ "n_val": 48,
+ "n_teste": 65,
+ "epocas_executadas": 4,
+ "melhor_val_f1_macro": 0.6666,
+ "historico_val": [
+  {
+   "epoch": 1.0,
+   "eval_loss": 1.3281612396240234,
+   "eval_f1_macro": 0.5283,
+   "eval_accuracy": 0.6667
+  },
+  {
+   "epoch": 2.0,
+   "eval_loss": 0.9211323857307434,
+   "eval_f1_macro": 0.6278,
+   "eval_accuracy": 0.75
+  },
+  {
+   "epoch": 3.0,
+   "eval_loss": 0.7365069389343262,
+   "eval_f1_macro": 0.6666,
+   "eval_accuracy": 0.7917
+  },
+  {
+   "epoch": 4.0,
+   "eval_loss": 0.6950478553771973,
+   "eval_f1_macro": 0.6654,
+   "eval_accuracy": 0.7917
+  }
+ ],
+ "acc": 0.0923,
+ "f1_macro_classes_presentes": 0.169,
+ "report": {
+  "Relacionamento": {
+   "precision": 1.0,
+   "recall": 0.09230769230769231,
+   "f1-score": 0.16901408450704225,
+   "support": 65.0
+  },
+  "Financeiro": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Phishing": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Loja Falsa": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Desinformação": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "Seguro": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 0.0
+  },
+  "accuracy": 0.09230769230769231,
+  "macro avg": {
+   "precision": 0.16666666666666666,
+   "recall": 0.015384615384615385,
+   "f1-score": 0.028169014084507043,
+   "support": 65.0
+  },
+  "weighted avg": {
+   "precision": 1.0,
+   "recall": 0.09230769230769231,
+   "f1-score": 0.16901408450704225,
+   "support": 65.0
+  }
+ },
+ "matriz": [
+  [
+   6,
+   1,
+   17,
+   2,
+   1,
+   38
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "segundos": 197
+}

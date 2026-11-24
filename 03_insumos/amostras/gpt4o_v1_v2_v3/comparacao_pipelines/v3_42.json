@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 42,
+    "text": "https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "5ea716c8d8e115a6454c9dd324d89630f40a451d87c78ca589543c50bd0ef0fd"
+  },
+  "call_id": "cbe5203d488454966752addd55506676e4b396013510662e27bca1d7b1922e1b",
+  "filtered": {
+    "Motivo": "O texto refere-se a um conjunto de dados relacionado à detecção de notícias falsas, um componente central dos golpes de desinformação digital, que envolvem a criação e disseminação de informações falsas intencionalmente. A menção a 'fake-news' sugere o potencial uso de notícia falsa com a intenção de manipular ou enganar o público de alguma forma.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto refere-se a um conjunto de dados relacionado à detecção de notícias falsas, um componente central dos golpes de desinformação digital, que envolvem a criação e disseminação de informações falsas intencionalmente. A menção a 'fake-news' sugere o potencial uso de notícia falsa com a intenção de manipular ou enganar o público de alguma forma.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 60,
+    "text": "Affffffff. Tudo bem, não posso me encontrar com você antes?",
+    "category": "Seguro",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "c0d863356e4c4c1a853a41e939b27efe3b7bcec9da8d6bebbfc0b37943f04b6a"
+  },
+  "call_id": "aa7dc1286c1a7ead86aa03e6d5e300cde42b5563dc18599b29822bbdb7680927",
+  "filtered": {
+    "Motivo": "O texto analisado não apresenta elementos de fraude, engenharia social ou intenção maliciosa. É uma simples tentativa de marcar um encontro, indicando uma conversa cotidiana e segura.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado não apresenta elementos de fraude, engenharia social ou intenção maliciosa. É uma simples tentativa de marcar um encontro, indicando uma conversa cotidiana e segura.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

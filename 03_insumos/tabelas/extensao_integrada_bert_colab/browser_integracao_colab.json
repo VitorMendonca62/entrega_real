@@ -1,0 +1,171 @@
+{
+  "tests": [
+    {
+      "case_id": 0,
+      "call_id": "7a1928c2cab2badfae1688efd7a8393325c187372df79ece80113ed12acb7f3e",
+      "category_expected": "Seguro",
+      "corpus_label": "Golpes Baseados Em Relacionamento",
+      "total_click_to_modal_seconds": 4.52649178700085,
+      "first_paid_request_in_browser": true,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n✅\nSEGURO\nAmeaças não foram detectadas\nExplicação:\nO texto não contém elementos que indiquem práticas de engenharia social, fraude ou intenção maliciosa. Trata-se apenas de uma expressão pessoal que não sugere qualquer ação fraudulenta ou ilegal.\nBase legal:\n—\nAções recomendadas:\nVerifique a informação em fontes confiáveis antes de compartilhar.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": true,
+      "closed": true
+    },
+    {
+      "case_id": 1,
+      "call_id": "c5abd04ed9474746a871631b41129feaedbed16109543594d293bbfae3d610da",
+      "category_expected": "Ataques de Phishing e Roubo de Dados",
+      "corpus_label": "Fraudes em Lojas Virtuais Falsas",
+      "total_click_to_modal_seconds": 3.7237977689947,
+      "first_paid_request_in_browser": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Ataques de Phishing e Roubo de Dados'\nExplicação:\nO texto indica uma oferta de compra de 'caixas corrente ou poupança com cartão', sugerindo a obtenção fraudulenta de dados bancários. O uso de expressões como 'vem no certo' e as localizações específicas indicam um esquema que pode envolver a captura de dados sensíveis para finalidade ilícita, típico de ataques de phishing e roubo de dados.\nBase legal:\nLei nº 14.155/2021 (Fraude Eletrônica)\nAções recomendadas:\nSalvar capturas de tela da mensagem original e do conteúdo recebido; Bloquear o remetente e denunciar a mensagem maliciosa na plataforma; Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica).\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "closed": true
+    },
+    {
+      "case_id": 2,
+      "call_id": "2aabd796893fbf4d33572079a5b59e25a51b3b091b49d275b41528ddd1816efd",
+      "category_expected": "Golpes de Desinformação Digital",
+      "corpus_label": "Golpes de Desinformação Digital",
+      "total_click_to_modal_seconds": 2.686161992001871,
+      "first_paid_request_in_browser": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Golpes de Desinformação Digital'\nExplicação:\nO texto apresenta uma citação falsa atribuída a uma figura pública com o potencial de manipular a opinião pública explorando emoções como raiva, o que é característico de desinformação digital. A falsidade na atribuição de declarações impactantes pode influenciar a percepção pública e incitar reações negativas ou preconceituosas sem base verídica.\nBase legal:\nCódigo Penal – Arts. 138 a 140\nAções recomendadas:\nNão clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "closed": true
+    },
+    {
+      "case_id": 3,
+      "call_id": "b64cd5fb32fa25ab0f6893aa21376673b0a5e3b99fae7e11bb0fcda9e92555f6",
+      "category_expected": "Golpes de Ganho Financeiro Ilusório",
+      "corpus_label": "Golpes de Ganho Financeiro Ilusório",
+      "total_click_to_modal_seconds": 2.93514841599972,
+      "first_paid_request_in_browser": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Golpes de Ganho Financeiro Ilusório'\nExplicação:\nO texto menciona uma potencial ameaça que visa causar 'revoltarr' e preocupação, ligada à possível perda de trabalho para motoristas de aplicativo, associando-se a um nome de pessoa pública (Lula) e a plataformas conhecidas (Uber, iFood). Embora o texto em si não ofereça promessas financeiras explícitas, seu teor alarmista e a menção indireta a compartilhamento ('compartilhem salvar') sugerem um potencial esquema para angariar atenção e dados, características comuns em golpes de ganho financeiro ilusório.\nBase legal:\n—\nAções recomendadas:\nVerifique a informação em fontes confiáveis antes de compartilhar.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "closed": true
+    },
+    {
+      "case_id": 4,
+      "call_id": "1fc06885543df485dca7f379e520d682d2f63e628ea83ee65812500a441ba1ae",
+      "category_expected": "Golpes Baseados Em Relacionamento",
+      "corpus_label": "Golpes Baseados Em Relacionamento",
+      "total_click_to_modal_seconds": 3.703498226997908,
+      "first_paid_request_in_browser": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Golpes Baseados Em Relacionamento'\nExplicação:\nO texto apresenta uma abordagem inicial que é típica de golpes baseados em relacionamento, onde uma pessoa desconhecida utiliza uma mensagem genérica e um toque afetivo ('Olá querido') para iniciar uma comunicação que visa estabelecer uma ligação emocional. Em seguida, a mensagem inclui um convite para se conectar via WhatsApp, uma plataforma mais pessoal e geralmente utilizada para criar vínculos mais estreitos. Esse comportamento é característico de tentativas de iniciar uma interação sob pretextos afetivos, que podem posteriormente evoluir para um pedido de ajuda financeira ou um pedido de envio de conteúdos íntimos.\nBase legal:\nLei nº 14.155/2021 (Fraude Eletrônica)\nAções recomendadas:\nCortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "closed": true
+    },
+    {
+      "case_id": 5,
+      "call_id": "15ca30c43269acb749153f6c336fcf4a65012c88070aa7b58aaaecab7f62e0a6",
+      "category_expected": "Fraudes em Lojas Virtuais Falsas",
+      "corpus_label": "Fraudes em Lojas Virtuais Falsas",
+      "total_click_to_modal_seconds": 2.825758737999422,
+      "first_paid_request_in_browser": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Fraudes em Lojas Virtuais Falsas'\nExplicação:\nO texto analisado apresenta o registro de domínio de um site recém-criado, Alston-Vanc-Ltd.co.uk. Essa característica é típica de fraudes em lojas virtuais falsas onde a criação de novos domínios é utilizada para montar lojas com baixa durabilidade que visam enganar consumidores, especialmente sem histórico ou confiabilidade estabelecida, alinhando-se ao modus operandi de sites de ecommerce falsos.\nBase legal:\n—\nAções recomendadas:\nVerifique a legitimidade do site por meio de fontes confiáveis. Não realize pagamentos ou forneça informações pessoais até confirmar a autenticidade da loja. Considere o registro de um B.O. se houver indícios de fraude após tentativas de compra.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "closed": true
+    }
+  ],
+  "requests": [
+    {
+      "text": "42 anos, sem marido, sem filhos e até eu mesma compro bolos 😢",
+      "api_key_in_body": false
+    },
+    {
+      "text": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!)",
+      "api_key_in_body": false
+    },
+    {
+      "text": "\"Lula sobre decisão do Barroso:\n'Enfermeiros só servem pra servir sopa, precisamos de mais médicos'\"",
+      "api_key_in_body": false
+    },
+    {
+      "text": "ataque Lula “mei” causar revoltarr decidir eleição Lula causar preocupação revoltarr atacar mei categoria somar entregador motorista aplicativo temer perder trabalho vitória petisto confiro novaiguacu24h br compartilhem salvar emprego mei uber ifood 🚨",
+      "api_key_in_body": false
+    },
+    {
+      "text": "Olá querido, como você está hoje, como está o tempo aí, se você estiver interessado, me chame no WhatsApp +1 (713) 301‑1761",
+      "api_key_in_body": false
+    },
+    {
+      "text": "Registro Whois para Alston-Vanc-Ltd.co.ukCriado em 23/11/2023Expira em 23/11/2024",
+      "api_key_in_body": false
+    }
+  ],
+  "responses": [
+    {
+      "status": 200,
+      "body": {
+        "categoria": "Seguro",
+        "risco": 29,
+        "explicacao": "O texto não contém elementos que indiquem práticas de engenharia social, fraude ou intenção maliciosa. Trata-se apenas de uma expressão pessoal que não sugere qualquer ação fraudulenta ou ilegal.",
+        "baseLegal": "",
+        "acaoRecomendada": "Verifique a informação em fontes confiáveis antes de compartilhar."
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "categoria": "Ataques de Phishing e Roubo de Dados",
+        "risco": 33,
+        "explicacao": "O texto indica uma oferta de compra de 'caixas corrente ou poupança com cartão', sugerindo a obtenção fraudulenta de dados bancários. O uso de expressões como 'vem no certo' e as localizações específicas indicam um esquema que pode envolver a captura de dados sensíveis para finalidade ilícita, típico de ataques de phishing e roubo de dados.",
+        "baseLegal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+        "acaoRecomendada": "Salvar capturas de tela da mensagem original e do conteúdo recebido; Bloquear o remetente e denunciar a mensagem maliciosa na plataforma; Registrar B.O. em delegacia especializada para proteção legal em caso de uso indevido do nome (falsidade ideológica)."
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "categoria": "Golpes de Desinformação Digital",
+        "risco": 41,
+        "explicacao": "O texto apresenta uma citação falsa atribuída a uma figura pública com o potencial de manipular a opinião pública explorando emoções como raiva, o que é característico de desinformação digital. A falsidade na atribuição de declarações impactantes pode influenciar a percepção pública e incitar reações negativas ou preconceituosas sem base verídica.",
+        "baseLegal": "Código Penal – Arts. 138 a 140",
+        "acaoRecomendada": "Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "categoria": "Golpes de Ganho Financeiro Ilusório",
+        "risco": 65,
+        "explicacao": "O texto menciona uma potencial ameaça que visa causar 'revoltarr' e preocupação, ligada à possível perda de trabalho para motoristas de aplicativo, associando-se a um nome de pessoa pública (Lula) e a plataformas conhecidas (Uber, iFood). Embora o texto em si não ofereça promessas financeiras explícitas, seu teor alarmista e a menção indireta a compartilhamento ('compartilhem salvar') sugerem um potencial esquema para angariar atenção e dados, características comuns em golpes de ganho financeiro ilusório.",
+        "baseLegal": "",
+        "acaoRecomendada": "Verifique a informação em fontes confiáveis antes de compartilhar."
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "categoria": "Golpes Baseados Em Relacionamento",
+        "risco": 48,
+        "explicacao": "O texto apresenta uma abordagem inicial que é típica de golpes baseados em relacionamento, onde uma pessoa desconhecida utiliza uma mensagem genérica e um toque afetivo ('Olá querido') para iniciar uma comunicação que visa estabelecer uma ligação emocional. Em seguida, a mensagem inclui um convite para se conectar via WhatsApp, uma plataforma mais pessoal e geralmente utilizada para criar vínculos mais estreitos. Esse comportamento é característico de tentativas de iniciar uma interação sob pretextos afetivos, que podem posteriormente evoluir para um pedido de ajuda financeira ou um pedido de envio de conteúdos íntimos.",
+        "baseLegal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+        "acaoRecomendada": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas."
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "categoria": "Fraudes em Lojas Virtuais Falsas",
+        "risco": 31,
+        "explicacao": "O texto analisado apresenta o registro de domínio de um site recém-criado, Alston-Vanc-Ltd.co.uk. Essa característica é típica de fraudes em lojas virtuais falsas onde a criação de novos domínios é utilizada para montar lojas com baixa durabilidade que visam enganar consumidores, especialmente sem histórico ou confiabilidade estabelecida, alinhando-se ao modus operandi de sites de ecommerce falsos.",
+        "baseLegal": "",
+        "acaoRecomendada": "Verifique a legitimidade do site por meio de fontes confiáveis. Não realize pagamentos ou forneça informações pessoais até confirmar a autenticidade da loja. Considere o registro de um B.O. se houver indícios de fraude após tentativas de compra."
+      }
+    }
+  ],
+  "page_errors": []
+}

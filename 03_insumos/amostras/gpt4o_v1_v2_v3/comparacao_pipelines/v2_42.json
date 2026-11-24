@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 42,
+    "text": "https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "5ea716c8d8e115a6454c9dd324d89630f40a451d87c78ca589543c50bd0ef0fd"
+  },
+  "call_id": "07d5e52f4262b11d9e4083dc779bf1b83ff67128790c3a71afab2976c2e48644",
+  "filtered": {
+    "Motivo": "O texto analisado refere-se a um dataset de 'fake news', indicando que o conteúdo pode envolver a criação e disseminação deliberada de notícias falsas. A menção a 'fake news' é um indicativo claro de desinformação digital. A classificação pelo modelo BERTimbau reforça isso com uma confiança de 92%, identificando o conteúdo como parte da categoria de Golpes de Desinformação Digital, que busca explorar emocionalmente a audiência para obter vantagens.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto analisado refere-se a um dataset de 'fake news', indicando que o conteúdo pode envolver a criação e disseminação deliberada de notícias falsas. A menção a 'fake news' é um indicativo claro de desinformação digital. A classificação pelo modelo BERTimbau reforça isso com uma confiança de 92%, identificando o conteúdo como parte da categoria de Golpes de Desinformação Digital, que busca explorar emocionalmente a audiência para obter vantagens.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista.\n2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social.\n3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

@@ -1,0 +1,5 @@
+tipo,quantidade
+acerto,320
+golpe→outro golpe,61
+falso positivo (Seguro→golpe),46
+falso negativo (golpe→Seguro),23

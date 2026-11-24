@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 6,
+    "text": "Seu computador foi infectado por 5 vírus!\nLigue imediatamente para o suporte: 0800-XXX-XXXX\nNão desligue o computador!",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "48741ec3f38cf260cd02c4c3b8b0a72a7ad2e56ba08be0eab211b045f36bdc67"
+  },
+  "call_id": "107c01e9043f1954518be80180d305b9cecead9c3c3842f6edf06b895e71f424",
+  "filtered": {
+    "Motivo": "O texto analisado caracteriza um ataque de phishing devido à tática de criar um senso de urgência e medo ao afirmar 'Seu computador foi infectado por 5 vírus!', induzindo a vítima a ligar para um número falso de suporte. Este tipo de mensagem é uma técnica comum para obter informações pessoais ou instalar malware via instruções fraudulentas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Art. 154-A do Código Penal (Lei Carolina Dieckmann — Invasão de Dispositivo); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não ligue para o número fornecido e não siga outras instruções da mensagem. 2. Execute uma verificação completa de antivírus no seu dispositivo para detectar e remover possíveis ameaças. 3. Bloqueie o remetente e denuncie a mensagem para a plataforma onde foi recebida. 4. Se você já entrou em contato ou forneceu informações, altere imediatamente as senhas dos seus serviços online. 5. Se necessário, registre um Boletim de Ocorrência em uma delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto analisado caracteriza um ataque de phishing devido à tática de criar um senso de urgência e medo ao afirmar 'Seu computador foi infectado por 5 vírus!', induzindo a vítima a ligar para um número falso de suporte. Este tipo de mensagem é uma técnica comum para obter informações pessoais ou instalar malware via instruções fraudulentas.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Art. 154-A do Código Penal (Lei Carolina Dieckmann — Invasão de Dispositivo)",
+    "Acoes_Recomendadas": "1. Não ligue para o número fornecido e não siga outras instruções da mensagem. 2. Execute uma verificação completa de antivírus no seu dispositivo para detectar e remover possíveis ameaças. 3. Bloqueie o remetente e denuncie a mensagem para a plataforma onde foi recebida. 4. Se você já entrou em contato ou forneceu informações, altere imediatamente as senhas dos seus serviços online. 5. Se necessário, registre um Boletim de Ocorrência em uma delegacia especializada."
+  }
+}

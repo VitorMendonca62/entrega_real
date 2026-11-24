@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 34,
+    "text": "\"Bruna visitou seu perfil várias vezes.\nParece que despertou interesse 👀\"",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "4a49cafbd9f1958b77436e45bf36c21f9d77557dcbb8006846a13e40ac340bf7"
+  },
+  "call_id": "93eadb10eb933d0634c7439f23d8937e4a2df7489f0b9c54b36121ebafd3724f",
+  "filtered": {
+    "Motivo": "O texto utiliza uma abordagem que sugere interesse pessoal de alguém fictício ('Bruna visitou seu perfil várias vezes'), criando uma abertura para contato e possível vinculação emocional, o que é típico de golpes baseados em relacionamentos que envolvem perfis falsos e interação inicial para estabelecer conexão com a vítima.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Ignore a mensagem e evite qualquer interação com o perfil mencionado. 2. Monitore suas redes sociais para outras mensagens ou interações suspeitas. 3. No caso de algum contato suspeito subsequente, capture telas das conversas para eventual denúncia. 4. Caso tenha fornecido informações pessoais ou financeiras, entre em contato com a instituição financeira para possíveis medidas preventivas. 5. Denuncie o perfil suspeito nas redes sociais para evitar que outras pessoas sejam afetadas.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto utiliza uma abordagem que sugere interesse pessoal de alguém fictício ('Bruna visitou seu perfil várias vezes'), criando uma abertura para contato e possível vinculação emocional, o que é típico de golpes baseados em relacionamentos que envolvem perfis falsos e interação inicial para estabelecer conexão com a vítima.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Ignore a mensagem e evite qualquer interação com o perfil mencionado. 2. Monitore suas redes sociais para outras mensagens ou interações suspeitas. 3. No caso de algum contato suspeito subsequente, capture telas das conversas para eventual denúncia. 4. Caso tenha fornecido informações pessoais ou financeiras, entre em contato com a instituição financeira para possíveis medidas preventivas. 5. Denuncie o perfil suspeito nas redes sociais para evitar que outras pessoas sejam afetadas."
+  }
+}

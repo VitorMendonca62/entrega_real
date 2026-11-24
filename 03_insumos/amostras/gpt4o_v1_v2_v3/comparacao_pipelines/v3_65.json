@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 65,
+    "text": "“É importante lembrar que os R$ 600 [do Auxílio Brasil] não está na LDO mandada para o Congresso [para 2023]”",
+    "category": "Seguro",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "3b53353607b77014cffd51c03db39e8025a301c9ab95aeeddcf15f9e24e20388"
+  },
+  "call_id": "53b3b2dad729140d7fa84138fcb2b866ac2775949de12b232133437fb954e2b3",
+  "filtered": {
+    "Motivo": "O texto analisado faz uma afirmação sobre a inclusão de valores no projeto da Lei de Diretrizes Orçamentárias (LDO) e não apresenta indícios de fraude, engenharia social ou qualquer outra intenção maliciosa. É uma informação factual, sem elementos que indiquem tentativa de engano ou manipulação.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado faz uma afirmação sobre a inclusão de valores no projeto da Lei de Diretrizes Orçamentárias (LDO) e não apresenta indícios de fraude, engenharia social ou qualquer outra intenção maliciosa. É uma informação factual, sem elementos que indiquem tentativa de engano ou manipulação.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

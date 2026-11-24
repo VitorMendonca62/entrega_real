@@ -1,0 +1,44 @@
+[
+  {
+    "body": {
+      "message": ""
+    },
+    "status": 400,
+    "response": {
+      "detail": "Mensagem vazia."
+    }
+  },
+  {
+    "body": {},
+    "status": 422,
+    "response": {
+      "detail": [
+        {
+          "type": "missing",
+          "loc": [
+            "body",
+            "message"
+          ],
+          "msg": "Field required",
+          "input": {}
+        }
+      ]
+    }
+  },
+  {
+    "body": {
+      "message": "Teste sem chave"
+    },
+    "status": 401,
+    "response": {
+      "detail": "Chave da OpenAI não configurada."
+    }
+  },
+  {
+    "case": "provider_gate_closed",
+    "status": 502,
+    "response": {
+      "detail": "Chamadas externas bloqueadas nesta fase."
+    }
+  }
+]

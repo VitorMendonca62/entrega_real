@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 56,
+    "text": "Qual valor solicitado? (15:01)\n2500 pode ser (15:02)\nTem o seguro de 389,60 (15:03)\nSim entendi (15:04)\n Voce faz contrato do emprestimo (15:04)\nO seguro é cobrado devido a grande taxa de inadimplência por isso caso senhor ou senhora não me pague a seguradora cobre o prejuízo e me reembolsa (15:07)\n",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "686be0229c7617342c77ff220e2debb377ae93af3660779bad2960a184f4e9f5"
+  },
+  "call_id": "1cf67df193ef45dd97c2d626c133044686f78181b906c84cc0d4a3d7afb03db3",
+  "filtered": {
+    "Motivo": "O texto evidencia um pedido de pagamento antecipado sob o pretexto de um seguro para um empréstimo, o que é característico de golpes envolvendo promessas de recompensa financeira. A menção de um 'contrato do empréstimo' e cobrança de 'seguro' reforça a fachada de legitimidade comum em tais esquemas fraudulentos, onde solicita-se um depósito inicial sob promessas ilusórias de retorno financeiro.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto evidencia um pedido de pagamento antecipado sob o pretexto de um seguro para um empréstimo, o que é característico de golpes envolvendo promessas de recompensa financeira. A menção de um 'contrato do empréstimo' e cobrança de 'seguro' reforça a fachada de legitimidade comum em tais esquemas fraudulentos, onde solicita-se um depósito inicial sob promessas ilusórias de retorno financeiro.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

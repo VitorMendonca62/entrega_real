@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 53,
+    "text": "Eu ofereço: Serviços cPanel na TAILÂNDIA - Webmails Zimbra à prova de balas ~ ‎250Bcc @ Uma vez~ ‎Envio sem limite diariamente~ ‎Entrega instantânea para todos os domínios~ ‎7 dias de uso apenas e obtive RESPOSTA PARA‎(Protocolo de cliente de e-mail Zimbra e Squirel)~ Pode ser ‎Convertido para SMTP usando a porta 587~ E-mail / Leads de qualquer país do mundo ~ Pushing serviço - Formato simples, links de anexos ~ 500 mil leads no Spidex Sender 100% deliveryWorld misto Leads Ceo Cfo Empréstimo/Emprego e listas direcionadas Ásia Europa EUA AU Canadá ARABWhatsApp: não: +2349032808366 ID do telegrama: @ToolstargetSKYPE/Microsoft ID da equipe: live:.cid.867a435ef9b87219 OU[e-mail protegido]",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 5",
+    "score": 0.92,
+    "sha256_text": "4e1f3755e9545d95091c617301deb4cf5019cb3bacfb5e8cd477977b8c051026"
+  },
+  "call_id": "be5b9840f712e2cf4bc3dc4667af2586f7e75a609942df62419579637c170503",
+  "filtered": {
+    "Motivo": "O texto analisado indica um golpe de ganho financeiro ilusório por oferecer supostos serviços cPanel e webmails Zimbra com características incomuns como 'à prova de balas', 'envio sem limite diariamente' e '500 mil leads no Spidex Sender 100% delivery'. O uso de termos técnicos exagerados e promessas de entrega instantânea para todos os domínios sugere uma tentativa de enganar a vítima, oferecendo um serviço que dificilmente seria legítimo sob essas condições. Além disso, o uso de canais de contato como WhatsApp e Telegram sem quaisquer informações de verificação adiciona legitimidade à suspeita de golpe.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista nas plataformas relevantes.\n2. Se forneceu informações sensíveis ou financiamento, contate a instituição financeira para contestação e congelamento.\n3. Preserve as evidências: faça capturas de tela de todos os detalhes disponíveis.\n4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto analisado indica um golpe de ganho financeiro ilusório por oferecer supostos serviços cPanel e webmails Zimbra com características incomuns como 'à prova de balas', 'envio sem limite diariamente' e '500 mil leads no Spidex Sender 100% delivery'. O uso de termos técnicos exagerados e promessas de entrega instantânea para todos os domínios sugere uma tentativa de enganar a vítima, oferecendo um serviço que dificilmente seria legítimo sob essas condições. Além disso, o uso de canais de contato como WhatsApp e Telegram sem quaisquer informações de verificação adiciona legitimidade à suspeita de golpe.",
+    "Base_Legal": "• Art. 171 do Código Penal (Estelionato)\n• Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista nas plataformas relevantes.\n2. Se forneceu informações sensíveis ou financiamento, contate a instituição financeira para contestação e congelamento.\n3. Preserve as evidências: faça capturas de tela de todos os detalhes disponíveis.\n4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

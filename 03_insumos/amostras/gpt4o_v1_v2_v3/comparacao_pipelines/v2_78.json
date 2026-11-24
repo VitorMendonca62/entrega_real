@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 78,
+    "text": "Hoje eu só queria ter os problemas da Mia Colucci.",
+    "category": "Seguro",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "be12be05755aed6e689e2ef59c3d7c56b6b28f27d54fb2cfd6d203f92ade55c5"
+  },
+  "call_id": "e4f4bf133dcb7b8c0fd72e71119eb62a160dede6f2f037209075cbd43e459215",
+  "filtered": {
+    "Motivo": "O texto analisado 'Hoje eu só queria ter os problemas da Mia Colucci.' demonstra apenas uma expressão pessoal ou sentimento de nostalgia em relação a um personagem fictício, sem indícios de fraude, intenção maliciosa ou conteúdo enganoso.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado 'Hoje eu só queria ter os problemas da Mia Colucci.' demonstra apenas uma expressão pessoal ou sentimento de nostalgia em relação a um personagem fictício, sem indícios de fraude, intenção maliciosa ou conteúdo enganoso.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

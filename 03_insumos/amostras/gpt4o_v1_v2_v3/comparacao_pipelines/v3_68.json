@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 68,
+    "text": "“Eu prefeita reeleita com 76% dos votos”",
+    "category": "Seguro",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "20f0952d403a427e45a5d89e4d9e896fd7343afc3aca15458a6a57aef52167e9"
+  },
+  "call_id": "c63fbfed78c2d4a9ddf852f5d047864283cf3b01a7a76b10e29ed96882529a06",
+  "filtered": {
+    "Motivo": "O texto declara simplesmente uma afirmação de vitória política com 76% dos votos, sem apresentar indícios de fraude, engenharia social ou qualquer intenção maliciosa. Não contém elementos que possam configurar crime ou infração legal.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto declara simplesmente uma afirmação de vitória política com 76% dos votos, sem apresentar indícios de fraude, engenharia social ou qualquer intenção maliciosa. Não contém elementos que possam configurar crime ou infração legal.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

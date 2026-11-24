@@ -1,0 +1,8 @@
+{
+  "zip_integrity": true,
+  "real_api_key_absent_from_bundle": true,
+  "excluded_private_files": true,
+  "pptx_slides": 15,
+  "pptx_notes": 15,
+  "updated_facts_present": true
+}

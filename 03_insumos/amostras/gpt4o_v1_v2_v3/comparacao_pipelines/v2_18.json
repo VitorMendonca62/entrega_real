@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 18,
+    "text": "Servidor Whois: whois.namecheap.comNAMECHEAP INC NameCheap, Inc.Criado em 2024/02/08Expira em 2025/02/08",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 7",
+    "score": 0.92,
+    "sha256_text": "b7cac6b82e9bab4fc3371825c21dcf92136259c5974b1387eb5e6caa5921996b"
+  },
+  "call_id": "c0df37bde1a0a33731211b023839b650de9146ca07b9dacc21d3abedd62914e0",
+  "filtered": {
+    "Motivo": "O texto analisado apresenta dados de registro de domínio, que são comumente utilizados por golpistas para criar lojas virtuais falsas. Embora o texto específico não forneça detalhes explícitos de golpe como preços irreais ou checkout falso, a alta confiança na classificação sugere se tratar de um domínio possivelmente relacionado a essas atividades fraudulentas, associando-se à criação de e-commerces fantasmas mencionados na base de conhecimento.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Verifique a legitimidade da loja examinando o histórico do domínio e outros índices de confiança.\n2. Interromper qualquer negociação e evite fornecer dados pessoais ou financeiros.\n3. Reúna provas de qualquer atividade suspeita observada relacionada ao domínio.\n4. Caso constate prejuízo ou que o domínio é parte de uma fraude, registre um Boletim de Ocorrência.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto analisado apresenta dados de registro de domínio, que são comumente utilizados por golpistas para criar lojas virtuais falsas. Embora o texto específico não forneça detalhes explícitos de golpe como preços irreais ou checkout falso, a alta confiança na classificação sugere se tratar de um domínio possivelmente relacionado a essas atividades fraudulentas, associando-se à criação de e-commerces fantasmas mencionados na base de conhecimento.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Verifique a legitimidade da loja examinando o histórico do domínio e outros índices de confiança.\n2. Interromper qualquer negociação e evite fornecer dados pessoais ou financeiros.\n3. Reúna provas de qualquer atividade suspeita observada relacionada ao domínio.\n4. Caso constate prejuízo ou que o domínio é parte de uma fraude, registre um Boletim de Ocorrência."
+  }
+}

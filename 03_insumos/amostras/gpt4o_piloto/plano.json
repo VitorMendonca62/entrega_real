@@ -1,0 +1,15 @@
+{
+  "model": "gpt-4o",
+  "budget_usd": 1.0,
+  "max_completion_tokens": 1200,
+  "max_retries": 0,
+  "calls_planned": 18,
+  "full_run_cost_bound_usd": 0.7458375,
+  "scope": "6 textos README/sintéticos x 3; reutiliza inferências reais do checkpoint publicado. Não mede acurácia nem validade jurídica.",
+  "deviations": [
+    "Limite de saída de 1200 tokens para controle de custo; original sem limite explícito.",
+    "Retries desativados.",
+    "Classificações BERT preservadas da execução anterior."
+  ],
+  "prices_source": "https://developers.openai.com/api/docs/models/gpt-4o"
+}

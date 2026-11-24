@@ -1,0 +1,21 @@
+{
+  "calls_complete": 166,
+  "new_gpt5_calls": 0,
+  "requests_preserve_original_generation_arguments": true,
+  "no_truncations": true,
+  "original_prompt_and_base_hashes_unchanged": true,
+  "payment_gate_closed": true,
+  "temporary_profile_removed": true,
+  "slide_count": 15,
+  "notes_count": 15,
+  "actual_credential_absent_from_checked_files": 793,
+  "local_services": {
+    "8080": {
+      "connection_refused": true
+    },
+    "5500": {
+      "connection_refused": true
+    }
+  },
+  "limitations": "Structural checks plus visual review of changed slides; no native PowerPoint run."
+}

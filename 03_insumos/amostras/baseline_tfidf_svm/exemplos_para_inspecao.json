@@ -1,0 +1,90 @@
+{
+  "falso_positivo": [
+    {
+      "linha_excel": 220,
+      "sha256_texto": "46f69441947321a4d31a22a2bf39b86bcb2439c0fb720bad3a2743d6033d1193",
+      "fold": 2,
+      "real": "Seguro",
+      "predito": "Golpes Baseados Em Relacionamento",
+      "texto": "Ah, estou assistindo aqui :)"
+    },
+    {
+      "linha_excel": 423,
+      "sha256_texto": "5198a95a33e762192773f72f0957d4c88733010fb5ff9cf75603655112d3e4c9",
+      "fold": 3,
+      "real": "Seguro",
+      "predito": "Golpes de Desinformação Digital",
+      "texto": "O etanol está abaixo de R$ 4"
+    },
+    {
+      "linha_excel": 212,
+      "sha256_texto": "b92df2ab95483c78913ac5075252fb9c9a7f431cd6f61c2e9663c2d5f1313b9e",
+      "fold": 5,
+      "real": "Seguro",
+      "predito": "Ataques de Phishing e Roubo de Dados",
+      "texto": "Ok lar... Brincando com você oni..."
+    }
+  ],
+  "falso_negativo": [
+    {
+      "linha_excel": 403,
+      "sha256_texto": "c120a70bc822a6d76cf8f5236b13833cd2bfdd5b342f5e352bc6f7176601c306",
+      "fold": 5,
+      "real": "Golpes de Desinformação Digital",
+      "predito": "Seguro",
+      "texto": "Em 2014 e 2015 [...] se perdeu 3 milhões de empregos"
+    },
+    {
+      "linha_excel": 389,
+      "sha256_texto": "21fd976c953f555bc739ccc61d7da579e9523d65376af232df3f2dda76e2ede4",
+      "fold": 3,
+      "real": "Golpes de Desinformação Digital",
+      "predito": "Seguro",
+      "texto": "Homem faz tatuagem no ânus em protesto contra Bolsonaro"
+    },
+    {
+      "linha_excel": 55,
+      "sha256_texto": "96a811019ea2ebb0b84ea253f893b35727fc552103c59b66a07a37d40acd90ec",
+      "fold": 2,
+      "real": "Fraudes em Lojas Virtuais Falsas",
+      "predito": "Seguro",
+      "texto": "Alguém disse “Oriental por US$ 60”? É um ótimo produto para"
+    }
+  ],
+  "acerto": [
+    {
+      "linha_excel": 395,
+      "sha256_texto": "dba453232e192438a817efa5d77732cea3d541ea4210048ba67c80e93a308e81",
+      "fold": 3,
+      "real": "Golpes de Desinformação Digital",
+      "predito": "Golpes de Desinformação Digital",
+      "texto": "Quadrilhão do PT. Réu"
+    },
+    {
+      "linha_excel": 383,
+      "sha256_texto": "e0257d2c93fef6eee585e88f1b3085670e2b73cfa8a6d1ab5b89368508dad57d",
+      "fold": 1,
+      "real": "Golpes de Desinformação Digital",
+      "predito": "Golpes de Desinformação Digital",
+      "texto": "MP das Montadoras. Réu"
+    },
+    {
+      "linha_excel": 386,
+      "sha256_texto": "8ab79ac866896f647108865cd4fb09e55a4b729d495ee5982ee04abae6b9544f",
+      "fold": 3,
+      "real": "Golpes de Desinformação Digital",
+      "predito": "Golpes de Desinformação Digital",
+      "texto": "Empréstimos do BNDES. Réu"
+    }
+  ],
+  "acerto_seguro": [
+    {
+      "linha_excel": 165,
+      "fold": 4,
+      "sha256_texto": "14dd052a937d7e19f9a28a61fb57e0f31c92f533c2e551f8813e4d579cfdad33",
+      "real": "Seguro",
+      "predito": "Seguro",
+      "texto": "Haha você é sempre tão convincente."
+    }
+  ]
+}

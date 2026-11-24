@@ -1,0 +1,95 @@
+{
+ "descricao": "Modelo B (dataset unificado, 751 mensagens) treinado no Colab em 16/11/2026. NÃO instalado no plugin (ver 02_relatorios/retreino_dataset_unificado.md §6.5).",
+ "pesos_copiados": false,
+ "motivo": "pesos publicados no Hugging Face (público) para não pesar na entrega; continua NÃO instalado no plugin",
+ "local_original": "retreino_dataset_unificado/candidato/modelo_candidato/",
+ "config": {
+  "_name_or_path": "/root/.cache/huggingface/hub/models--neuralmind--bert-base-portuguese-cased/snapshots/94d69c95f98f7d5b2a8700c420230ae10def0baa",
+  "architectures": [
+   "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+   "0": "Golpes Baseados Em Relacionamento",
+   "1": "Golpes de Ganho Financeiro Ilusório",
+   "2": "Ataques de Phishing e Roubo de Dados",
+   "3": "Fraudes em Lojas Virtuais Falsas",
+   "4": "Golpes de Desinformação Digital",
+   "5": "Seguro"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+   "Ataques de Phishing e Roubo de Dados": 2,
+   "Fraudes em Lojas Virtuais Falsas": 3,
+   "Golpes Baseados Em Relacionamento": 0,
+   "Golpes de Desinformação Digital": 4,
+   "Golpes de Ganho Financeiro Ilusório": 1,
+   "Seguro": 5
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_past": true,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "torch_dtype": "float32",
+  "transformers_version": "4.44.2",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 29794
+ },
+ "arquivos": [
+  {
+   "arquivo": "config.json",
+   "bytes": 1575,
+   "sha256": "0354d2760b808653db90812523acf211cfc23fe3418ba16d7910fd2af6bf708f"
+  },
+  {
+   "arquivo": "model.safetensors",
+   "bytes": 435734528,
+   "sha256": "a22df8a5ad0a11872a0c80c66506abfa03e19a38f4a52f07776a277d001b7fc2"
+  },
+  {
+   "arquivo": "special_tokens_map.json",
+   "bytes": 125,
+   "sha256": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3"
+  },
+  {
+   "arquivo": "tokenizer.json",
+   "bytes": 677888,
+   "sha256": "45ccb3e514665f3b11b5e2a8e1a3e29765d94330bc7232aa46c4cdc485bc8881"
+  },
+  {
+   "arquivo": "tokenizer_config.json",
+   "bytes": 1271,
+   "sha256": "0eb95891c3de474ec9ea0cd665b43f1e9fdd3604f76e8d66b3f85e9b301232a1"
+  },
+  {
+   "arquivo": "vocab.txt",
+   "bytes": 209528,
+   "sha256": "69c28584c67a0e5018f85ca734aa272cc38e26b5dd0d33fffa28059299f21707"
+  }
+ ],
+ "omitido": "training_args.bin (pickle, não necessário)",
+ "hugging_face": {
+  "repo_id": "VitorMendonca62/veritaplugin-bert-retreino-unificado",
+  "revision": "d2db9dc4af7cc218a6f469b3423508b418e6ba44",
+  "url": "https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado"
+ },
+ "como_baixar": "python3 -I 03_insumos/scripts/baixar_modelo_hf.py 03_insumos/modelos/retreino_dataset_unificado/modelo_download.json",
+ "backup_local": "backup_pesos/retreino_dataset_unificado/modelo_candidato/ (fora da entrega_real)"
+}

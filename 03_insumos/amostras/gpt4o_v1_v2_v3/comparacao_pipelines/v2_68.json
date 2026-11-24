@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 68,
+    "text": "“Eu prefeita reeleita com 76% dos votos”",
+    "category": "Seguro",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "20f0952d403a427e45a5d89e4d9e896fd7343afc3aca15458a6a57aef52167e9"
+  },
+  "call_id": "ce7792b3a8efdbd8abbd3a41f845442f6f02a255fbbdeecc8ff277f8a35a089b",
+  "filtered": {
+    "Motivo": "O texto 'Eu prefeita reeleita com 76% dos votos' não apresenta características de golpe como pedidos de dados pessoais, promessas de ganhos financeiros, ou tentativas de enganar o leitor. É simplesmente uma afirmação de vitória política sem elementos que indiquem fraude ou intento malicioso.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto 'Eu prefeita reeleita com 76% dos votos' não apresenta características de golpe como pedidos de dados pessoais, promessas de ganhos financeiros, ou tentativas de enganar o leitor. É simplesmente uma afirmação de vitória política sem elementos que indiquem fraude ou intento malicioso.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

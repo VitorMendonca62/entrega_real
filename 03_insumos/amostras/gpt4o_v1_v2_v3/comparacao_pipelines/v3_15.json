@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 15,
+    "text": "Melissa Wicker <[email protected]>Assunto: Chevrolet Silverado K1500 4x4 1997Olá Eric, acabei de receber a confirmação do eBay, eles me informaram que a fatura foi enviada. Da minha parte, tudo está feito. Por favor, leia o anexo com atenção para todas as instruções. Informe se você recebeu a fatura e se concorda com os termos para que eu possa prosseguir com o processo de envio. Você pode ligar para os Contatos de Atendimento ao Cliente do eBay +1-(858)-375-9764, para confirmar que recebeu a fatura e eles o orientarão para concluir a transação da melhor maneira. Por favor, verifique e mantenha-me informado sobre tudo.PS: Verifique sua pasta (Lixo eletrônico ou Spam) também, talvez tenha chegado lá por engano porque seu e-mail não suporta HTML, PDF",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 7",
+    "score": 0.92,
+    "sha256_text": "65c2ad00c6ad343232a078508b6396a2d8735d5ce869d7197effa95898307821"
+  },
+  "call_id": "7bfa957e5f1ad605d3938e0fe078a07416ce958fbc1c89bab7028b7b46f633d7",
+  "filtered": {
+    "Motivo": "O texto elaborado pelo remetente apresenta sinais característicos de fraude em loja virtual falsa, especialmente pelo contexto que envolve um suposto envio de fatura do eBay, sem detalhes concretos sobre o produto além do modelo do carro, e a orientação para contato telefônico que não corresponde aos canais oficiais confirmados da plataforma. Além disso, a instrução específica para verificar pastas de spam devido ao não suporte de HTML ou PDF também é suspeita, sugerindo tentativa de legitimar um procedimento usualmente não realizado por plataformas como eBay.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no eBay. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão, caso algum dado tenha sido fornecido. 3. Reunir provas: capturas de tela do e-mail recebido e quaisquer interações realizadas. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto elaborado pelo remetente apresenta sinais característicos de fraude em loja virtual falsa, especialmente pelo contexto que envolve um suposto envio de fatura do eBay, sem detalhes concretos sobre o produto além do modelo do carro, e a orientação para contato telefônico que não corresponde aos canais oficiais confirmados da plataforma. Além disso, a instrução específica para verificar pastas de spam devido ao não suporte de HTML ou PDF também é suspeita, sugerindo tentativa de legitimar um procedimento usualmente não realizado por plataformas como eBay.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no eBay. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão, caso algum dado tenha sido fornecido. 3. Reunir provas: capturas de tela do e-mail recebido e quaisquer interações realizadas. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 22,
+    "text": "Comentem eu quero 😉👍⬇️⬇️\n #emagrecimento #saude #remedio #natural #barato #compraonline",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "30547a8a5560c595017c87624c5cac138efa2f640b6351f73be0ee8b46994a28"
+  },
+  "call_id": "727ebefad2f142c59527cdf539d0d7bbe794bc2ad1674ce96d26fd5729883e80",
+  "filtered": {
+    "Motivo": "O texto apresenta um convite sugestivo para compra usando emojis e hashtags relacionadas a saúde e emagrecimento, o que indica um possível apelo emocional na venda de produtos. Não há informações concretas sobre a legitimidade da loja ou detalhes sobre o produto, o que é característico de fraudes que utilizam promoções irreais. O uso de hashtags como #compraonline pode destacar um cenário de venda virtual, potencialmente enganosa.",
+    "Base_Legal": "Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto apresenta um convite sugestivo para compra usando emojis e hashtags relacionadas a saúde e emagrecimento, o que indica um possível apelo emocional na venda de produtos. Não há informações concretas sobre a legitimidade da loja ou detalhes sobre o produto, o que é característico de fraudes que utilizam promoções irreais. O uso de hashtags como #compraonline pode destacar um cenário de venda virtual, potencialmente enganosa.",
+    "Base_Legal": "Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

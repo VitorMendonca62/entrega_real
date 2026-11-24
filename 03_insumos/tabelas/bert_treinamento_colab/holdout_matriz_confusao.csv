@@ -1,0 +1,7 @@
+real\predito,Relacionamento,Financeiro,Phishing,Loja Falsa,Desinformação,Seguro
+Relacionamento,6,0,0,0,0,2
+Financeiro,0,6,1,0,0,0
+Phishing,0,0,6,1,1,0
+Loja Falsa,0,0,2,3,0,2
+Desinformação,0,0,0,0,7,0
+Seguro,0,0,1,0,4,3

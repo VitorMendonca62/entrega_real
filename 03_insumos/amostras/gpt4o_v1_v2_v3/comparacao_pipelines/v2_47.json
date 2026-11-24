@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 47,
+    "text": "o grande risco todo correr ❗ ️ 📝 vida sempre ir presentear bom oportunidade momento desejar ☘ grandeia vez bomes oportunidade surgir menos esperar sente pronto ☘ ✍ raramente ver oportunidade apresentar ordenadamente caixer bonitinha laço amarelo topo 👨 ‍ 🏫 vez bomes oportunidade vir pacote confuso confuso difícil reconhecer poder vir grande risco desafiá lo ✅ continuar evitar risco continuar perder oportunidade mudança vida experimentar crescimento vida Finanças 🗣 sempre dizer todo conseguir comer prato sucesso então fome lutar mordido chance",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "be4249eac7461bac42cb6fd9184cd2f62a3a1962ce6019b84e2db30b3c6f7cf8"
+  },
+  "call_id": "464ee35a72b62eeb90278cdd60a398373049792ceb7b436f0f538e07c542d84f",
+  "filtered": {
+    "Motivo": "O texto sugere a existência de grandes oportunidades financeiras que não são facilmente reconhecíveis e incitam o destinatário a correr riscos financeiros em busca de crescimento nas finanças. Frases como 'grande risco', 'oportunidade surgir menos esperar', 'poder vir grande risco desafiá lo' são características de esquemas que prometem recompensas futuras sob condições nebulosas, comuns a golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página que promoveu a mensagem golpista. 2. Caso tenha cedido informações financeiras, contate a instituição financeira para medidas de proteção. 3. Preservar todas as evidências da comunicação suspeita. 4. Registrar um Boletim de Ocorrência (B.O.) em uma delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto sugere a existência de grandes oportunidades financeiras que não são facilmente reconhecíveis e incitam o destinatário a correr riscos financeiros em busca de crescimento nas finanças. Frases como 'grande risco', 'oportunidade surgir menos esperar', 'poder vir grande risco desafiá lo' são características de esquemas que prometem recompensas futuras sob condições nebulosas, comuns a golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página que promoveu a mensagem golpista. 2. Caso tenha cedido informações financeiras, contate a instituição financeira para medidas de proteção. 3. Preservar todas as evidências da comunicação suspeita. 4. Registrar um Boletim de Ocorrência (B.O.) em uma delegacia especializada em crimes cibernéticos."
+  }
+}

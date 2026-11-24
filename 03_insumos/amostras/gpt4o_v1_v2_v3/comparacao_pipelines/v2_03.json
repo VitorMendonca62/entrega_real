@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 3,
+    "text": "GANHADOR!! Como um valioso cliente da rede, você foi selecionado para receber um prêmio de £ 900! Para reivindicar ligue para 09061701461. Código de reivindicação KL341. Válido apenas por 12 horas.",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "e0d7a9ebc9dc13580a26b640c329ad801681b79f5b2fa15579249ab908bf1f93"
+  },
+  "call_id": "ec8896a6dcc93a2d4ac8c0874c1974cfe7eefcaa14a2f32934acb8df6fce6073",
+  "filtered": {
+    "Motivo": "O texto analisado apresenta características típicas de um golpe de phishing, como a promessa de um prêmio em dinheiro, o incentivo a uma ação rápida ('Válido apenas por 12 horas') e a utilização de um código de reivindicação (KL341) para conferir um ar de legitimidade. O principal objetivo é induzir a vítima a ligar para um número suspeito, provavelmente para coletar informações pessoais ou financeiras.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não ligue para o número fornecido na mensagem, pois pode resultar em cobranças ou roubo de informações. 2. Bloqueie e denuncie o número/mensagem em sua operadora ou na plataforma onde recebeu a mensagem. 3. Se você forneceu algum dado, altere imediatamente as senhas e ative a Autenticação de Dois Fatores nos serviços comprometidos. 4. Caso tenha perdido dinheiro ou dado, registre um Boletim de Ocorrência em uma delegacia especializada.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto analisado apresenta características típicas de um golpe de phishing, como a promessa de um prêmio em dinheiro, o incentivo a uma ação rápida ('Válido apenas por 12 horas') e a utilização de um código de reivindicação (KL341) para conferir um ar de legitimidade. O principal objetivo é induzir a vítima a ligar para um número suspeito, provavelmente para coletar informações pessoais ou financeiras.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não ligue para o número fornecido na mensagem, pois pode resultar em cobranças ou roubo de informações. 2. Bloqueie e denuncie o número/mensagem em sua operadora ou na plataforma onde recebeu a mensagem. 3. Se você forneceu algum dado, altere imediatamente as senhas e ative a Autenticação de Dois Fatores nos serviços comprometidos. 4. Caso tenha perdido dinheiro ou dado, registre um Boletim de Ocorrência em uma delegacia especializada."
+  }
+}

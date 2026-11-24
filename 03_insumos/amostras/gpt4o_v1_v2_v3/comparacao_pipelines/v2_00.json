@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 0,
+    "text": "Lembrete da O2: Para ganhar £2,50 de crédito grátis para chamadas e detalhes de ótimas ofertas, responda a esta mensagem com seu nome, número da casa e CEP válidos.",
+    "category": "Ataques de Phishing e Roubo de Dados",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "b948632d8b9fa6eb69e3d6b7fd42302600065e556ff1c725900b4e2c27a56ef3"
+  },
+  "call_id": "1a3dfffcc547055116612207d61629434fdde81f4f6b5c63ac18ea76dacc40dd",
+  "filtered": {
+    "Motivo": "O texto promete um crédito grátis em troca de informações pessoais como nome, número da casa e CEP. Essas são estratégias típicas de phishing, onde informações sensíveis são solicitadas sob o pretexto de ganhar algo em troca. Não há uma verificação oficial da veracidade da oferta e a coleta de dados pessoais sob pretextos falsos é uma técnica comum em golpes digitais.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não forneça nenhuma informação pessoal solicitada. 2. Bloquear o remetente e denunciar a mensagem maliciosa na plataforma. 3. Salvar capturas de tela da mensagem original para evidência. 4. Atentar-se a movimentos incomuns em suas contas e comunicações, notificando o banco ou serviços adequados caso suspeite de exposição de informações.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Ataques de Phishing e Roubo de Dados",
+    "Motivo": "O texto promete um crédito grátis em troca de informações pessoais como nome, número da casa e CEP. Essas são estratégias típicas de phishing, onde informações sensíveis são solicitadas sob o pretexto de ganhar algo em troca. Não há uma verificação oficial da veracidade da oferta e a coleta de dados pessoais sob pretextos falsos é uma técnica comum em golpes digitais.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Não forneça nenhuma informação pessoal solicitada. 2. Bloquear o remetente e denunciar a mensagem maliciosa na plataforma. 3. Salvar capturas de tela da mensagem original para evidência. 4. Atentar-se a movimentos incomuns em suas contas e comunicações, notificando o banco ou serviços adequados caso suspeite de exposição de informações."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "fa38bee07945da2cbae1ebfc4aba5aafdaffc5d1e68bc9f394ac5fd7b21f1c72",
+  "experiment": "comparacao_prompts",
+  "version": "v3",
+  "case_id": 27,
+  "sha256_text": "99a2908e3fb2e7cf95f7675f203730d6ef92bf7d40cd2c6317a0e178f366863a",
+  "reserved_usd": 0.1970075,
+  "input_token_bound": 13267,
+  "output_token_bound": 16384,
+  "utc": "2026-10-20T20:59:18.705070+00:00",
+  "request": {
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Você é um especialista em Cibersegurança e Direito Digital brasileiro.\n\nSua função é receber um texto já classificado por um modelo de machine learning e produzir uma resposta estruturada que justifica e enriquece essa classificação para alertar e orientar a vítima.\n\nPREMISSA FUNDAMENTAL — CATEGORIA É VERDADE ABSOLUTA:\nA categoria informada foi definida pelo modelo BERTimbau e deve ser tratada como correta e imutável. Sua tarefa NÃO é avaliar se a classificação está certa — é explicar POR QUE o texto se enquadra nessa categoria e quais consequências legais e ações decorrem disso. Nunca questione, contradiga ou ignore a categoria recebida.\n\nPRINCÍPIO CENTRAL — BASE_LEGAL:\nPrefira o falso negativo ao falso positivo. Só cite uma lei se houver evidência explícita e inequívoca no texto de que aquele dispositivo legal está sendo infringido. Dúvida = campo vazio.\n\nREGRAS OBRIGATÓRIAS:\n1. Use EXCLUSIVAMENTE as informações da BASE DE CONHECIMENTO fornecida. Não invente leis, artigos ou ações que não estejam no contexto.\n2. O campo \"Motivo\" deve explicar, considerando que a categoria JÁ ESTÁ DEFINIDA, quais elementos do texto confirmam e ilustram esse enquadramento — cite trechos ou características concretas observadas. Nunca use o Motivo para sugerir que o texto poderia ser outra categoria ou que a classificação pode estar errada.\n3. O campo \"Base_Legal\" deve listar SOMENTE as leis cujos elementos configuradores estejam explicitamente presentes no texto analisado. Não cite uma lei apenas porque ela consta na base de conhecimento da categoria — a lei só deve aparecer se o texto contiver evidência direta e inequívoca de que aquele dispositivo está sendo infringido. Exemplos de limiar mínimo exigido: Art. 307 (Falsa Identidade) exige impersonação explícita de uma pessoa ou instituição real; Art. 158 (Extorsão) exige ameaça explícita; Arts. 138-140 exigem atribuição de fato falso ou ofensa a pessoa identificável; LGPD exige coleta ou uso indevido de dados pessoais identificável no texto; Lei Carolina Dieckmann exige indício de invasão de dispositivo ou instalação de malware. Na dúvida sobre qualquer lei, não a cite.\n4. FORMATO DE Base_Legal: copie os nomes das leis EXATAMENTE como aparecem nos marcadores \"•\" da seção LEGISLAÇÃO APLICÁVEL da base de conhecimento, separados por ponto e vírgula. Não abrevie, não parafraseie, não adicione texto explicativo. Exemplo correto: \"Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)\". Se nenhuma lei se aplicar, retorne \"\".\n5. O campo \"Acoes_Recomendadas\" deve seguir a ordem de prioridade da base de conhecimento, adaptando o texto ao contexto específico da mensagem.\n6. Se a categoria for \"Seguro\", retorne o JSON com campos vazios e Acoes_Recomendadas = \"Verifique a informação em fontes confiáveis antes de compartilhar.\"\n7. Responda EXCLUSIVAMENTE com o JSON abaixo, sem texto adicional, markdown ou explicações fora do JSON.\n8. Se o texto não contiver elementos que caracterizem claramente uma conduta ilícita, retorne \"Base_Legal\" vazio (\"\"). Se apenas alguns elementos estiverem presentes, cite somente as leis com evidência direta no texto — nunca cite todas as leis da categoria por precaução."
+      },
+      {
+        "role": "user",
+        "content": "BASE DE CONHECIMENTO:\nCATEGORIA IDENTIFICADA: Golpes Baseados Em Relacionamento\n\nDEFINIÇÃO:\nManipulação psicológica e Engenharia Social para explorar vulnerabilidade emocional, empatia e confiança da vítima. O estelionatário cria identidades falsas atraentes, estabelece vínculo afetivo intenso e acelerado, e então explora a vítima fabricando falsas crises para obter dinheiro ou induzindo compartilhamento de mídias íntimas para posterior chantagem.\n\nMODUS OPERANDI:\nPerfil falso atraente → abordagem intensa e romântica → criação de vínculo emocional → fabricação de crise urgente (acidente, dívida, emergência médica) exigindo dinheiro; OU indução a envio de conteúdo íntimo → chantagem com ameaça de expor à rede de contatos.\n\nLEGISLAÇÃO APLICÁVEL:\n  • Art. 171 do Código Penal (Estelionato)\n    Tipo: crime patrimonial\n    Descrição: Obtenção de vantagem ilícita por meio de fraude, enganando a vítima.\n    Aplicação neste caso: Simulação de vínculo afetivo para obter transferências financeiras.\n\n  • Lei nº 14.155/2021 (Fraude Eletrônica)\n    Tipo: crime digital\n    Descrição: Inclui fraudes realizadas por meios digitais com penas agravadas.\n    Aplicação neste caso: Romance scam via redes sociais, aplicativos de namoro.\n\n  • Art. 158 do Código Penal (Extorsão)\n    Tipo: crime contra a pessoa e patrimônio\n    Descrição: Obrigar alguém mediante ameaça a fazer algo para obter vantagem.\n    Aplicação neste caso: Chantagem com mídias íntimas, ameaça de expor conteúdo à rede de contatos.\n\n  • Art. 218-C do Código Penal (Divulgação de Conteúdo Íntimo)\n    Tipo: crime contra a dignidade sexual\n    Descrição: Criminaliza divulgação de conteúdo íntimo sem consentimento da vítima.\n    Aplicação neste caso: Revenge porn, vazamento de fotos/vídeos íntimos, chantagem com imagens.\n\n  • Lei Maria da Penha (Lei nº 11.340/2006)\n    Tipo: proteção à mulher\n    Descrição: Protege mulheres contra violência doméstica e familiar, incluindo violência digital.\n    Aplicação neste caso: Violência psicológica e coação contra mulheres em contexto de intimidade artificialmente construída.\n\nANÁLISE JURÍDICA CONSOLIDADA:\nA base legal assenta-se no Estelionato (Art. 171) e na Fraude Eletrônica (Lei 14.155/2021), punindo a obtenção de vantagem ilícita mediante simulação de vínculo afetivo. Quando a manipulação evolui para chantagem com mídias íntimas, incide a Extorsão (Art. 158) e o Art. 218-C, que criminaliza o registro ou divulgação não autorizada de cenas de intimidade. Se a violência psicológica e coação ocorrerem contra mulheres em contexto de intimidade artificialmente construída, os tribunais podem aplicar a Lei Maria da Penha.\n\nAÇÕES RECOMENDADAS À VÍTIMA:\n  1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n  2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n  3. Acionar a instituição financeira rapidamente se transferências já foram realizadas sob manipulação.\n  4. Denunciar o perfil falso usando as ferramentas do Facebook.\n  5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.\n\n---\n\nTEXTO ANALISADO:\n\"\"\"Bom dia, querido. Espero que você esteja bem. Infelizmente, tive alguns problemas em construir relacionamentos com homens. Por isso, optei por encontrar um parceiro que utilize tecnologia moderna. Entrei em contato com uma organização especializada e eles me forneceram seu contato. Aqui estão algumas informações sobre mim. Meu nome é Inna, tenho 30 anos e moro em Dimitrovgrad, na Rússia. Estou sozinha, não tenho filhos e às vezes me sinto um pouco sozinha. Trabalho no Judiciário como auxiliar de juiz e procuro me manter dinâmico com atividades físicas. No meu tempo livre, faço ioga. Tenho algumas perguntas para você: O que é importante para você na vida romântica? Na sua opinião, o que ajuda a criar um vínculo duradouro? Compartilhe sua história comigo. Você tem algum hobby? Como você ganha a vida? Também compartilhei alguns instantâneos para você ver. Se você estiver interessado em mim, ficarei feliz em receber sua resposta. Se não for o que você deseja, siga em frente. Interessado? Por favor, responda SOMENTE para minha caixa de correio particular:[email protected]Aguardo ansiosamente sua mensagem. Atenciosamente, Inna.\"\"\"\n\nCATEGORIA DEFINIDA PELO MODELO (trate como verdade — não questione):\n  Categoria  : Golpes Baseados Em Relacionamento\n  Confiança  : 92% (ALTA (≥ 0,85))\n\n---\n\nCom base EXCLUSIVAMENTE na BASE DE CONHECIMENTO acima, e assumindo que a categoria \"Golpes Baseados Em Relacionamento\" está correta, gere o JSON abaixo:\n\n{\n  \"Categoria\": \"Golpes Baseados Em Relacionamento\",\n  \"Motivo\": \"<explique quais elementos do texto confirmam o enquadramento nesta categoria>\",\n  \"Base_Legal\": \"<nomes exatos das leis aplicáveis, copiados dos marcadores • da base, separados por ponto e vírgula — ou vazio>\",\n  \"Acoes_Recomendadas\": \"<liste as ações recomendadas adaptadas ao contexto desta mensagem>\"\n}"
+      }
+    ],
+    "response_format": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-EbBDTwKNIyxqoh0sIhIBamHJJw9gQ",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "{\"Categoria\":\"Golpes Baseados Em Relacionamento\",\"Motivo\":\"O texto apresenta características típicas de manipulação emocional e engenharia social, elementos centrais em golpes baseados em relacionamento. 'Inna' inicia contato se apresentando de forma atraente e pessoal, mencionando a solidão e o desejo de estabelecer um vínculo romântico, o que é comum nesses golpes. Além disso, há uma tentativa de estabelecer comunicação exclusiva e privada por e-mail, o que pode ser uma estratégia para isolar a vítima e facilitar a manipulação futura. Este padrão de approach e familiaridade inesperada sugere o início de uma tentativa de criar um vínculo emocional para possível exploração financeira futura.\",\"Base_Legal\":\"\",\"Acoes_Recomendadas\":\"Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Denunciar o perfil falso usando as ferramentas do Facebook. Registrar B.O. na delegacia de crimes cibernéticos.\"}",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1792529959,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "metadata": null,
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": "fp_e85bcce457",
+    "usage": {
+      "completion_tokens": 222,
+      "prompt_tokens": 2032,
+      "total_tokens": 2254,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0,
+        "text_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": null,
+        "cached_tokens": 0,
+        "image_tokens": null,
+        "text_tokens": null
+      }
+    }
+  },
+  "cost_usd_upper_ignoring_cache": 0.007300000000000001,
+  "status": "complete",
+  "seconds": 2.5947963450016687
+}

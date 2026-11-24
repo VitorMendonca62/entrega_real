@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 70,
+    "text": "Este ventilador é muito bonito e eu realmente o uso.",
+    "category": "Seguro",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "9f5ec9f67c3bf52fe79a1ca9bc93c470cad34eed8cd6337177e0e811eb375b90"
+  },
+  "call_id": "1a077fbc00be39448f8e652ae7d4591ef649cffd2cad1937f2ba4ce9cbaf5605",
+  "filtered": {
+    "Motivo": "O texto analisa a estética e uso de um ventilador sem apresentar indícios de fraude, engenharia social ou intenção maliciosa. Não há informações enganosas, ameaças ou solicitações de dados pessoais que pudessem configurar alguma conduta ilícita.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisa a estética e uso de um ventilador sem apresentar indícios de fraude, engenharia social ou intenção maliciosa. Não há informações enganosas, ameaças ou solicitações de dados pessoais que pudessem configurar alguma conduta ilícita.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

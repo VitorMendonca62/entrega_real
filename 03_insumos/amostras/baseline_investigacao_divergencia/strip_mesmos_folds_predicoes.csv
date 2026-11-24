@@ -1,0 +1,451 @@
+fold,index,real,predito
+1,0,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,2,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,3,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,11,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,13,Golpes de Desinformação Digital,Seguro
+1,17,Golpes de Desinformação Digital,Golpes de Ganho Financeiro Ilusório
+1,22,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,24,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados
+1,25,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados
+1,26,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,41,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,50,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,54,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,55,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,60,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,68,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,69,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,70,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,73,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,87,Fraudes em Lojas Virtuais Falsas,Seguro
+1,92,Seguro,Seguro
+1,93,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,105,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,107,Golpes Baseados Em Relacionamento,Seguro
+1,109,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento
+1,116,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,127,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,129,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,132,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,137,Fraudes em Lojas Virtuais Falsas,Golpes de Ganho Financeiro Ilusório
+1,138,Seguro,Seguro
+1,140,Seguro,Ataques de Phishing e Roubo de Dados
+1,142,Seguro,Fraudes em Lojas Virtuais Falsas
+1,143,Seguro,Fraudes em Lojas Virtuais Falsas
+1,147,Seguro,Golpes Baseados Em Relacionamento
+1,155,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,157,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,159,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,160,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+1,165,Seguro,Golpes de Desinformação Digital
+1,166,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,172,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,175,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,176,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,178,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento
+1,183,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,192,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,200,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,201,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+1,209,Seguro,Golpes de Desinformação Digital
+1,212,Seguro,Seguro
+1,215,Seguro,Seguro
+1,223,Seguro,Golpes de Desinformação Digital
+1,230,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,233,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,235,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,236,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,249,Ataques de Phishing e Roubo de Dados,Golpes Baseados Em Relacionamento
+1,255,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,257,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,265,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,280,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,281,Ataques de Phishing e Roubo de Dados,Seguro
+1,283,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+1,292,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,302,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,304,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,307,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,309,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,324,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,331,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,334,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,339,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+1,342,Golpes de Desinformação Digital,Golpes de Ganho Financeiro Ilusório
+1,343,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,356,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas
+1,360,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,362,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,381,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,383,Golpes de Desinformação Digital,Ataques de Phishing e Roubo de Dados
+1,388,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,395,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,397,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,400,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,403,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,410,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+1,423,Seguro,Seguro
+1,432,Seguro,Seguro
+1,437,Seguro,Seguro
+1,445,Seguro,Golpes de Desinformação Digital
+2,8,Fraudes em Lojas Virtuais Falsas,Seguro
+2,9,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados
+2,14,Golpes de Desinformação Digital,Seguro
+2,27,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas
+2,30,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento
+2,36,Seguro,Golpes Baseados Em Relacionamento
+2,37,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas
+2,39,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,44,Fraudes em Lojas Virtuais Falsas,Seguro
+2,47,Fraudes em Lojas Virtuais Falsas,Seguro
+2,48,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,53,Fraudes em Lojas Virtuais Falsas,Seguro
+2,56,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,66,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,76,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,89,Seguro,Seguro
+2,97,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,98,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,102,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,106,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,110,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,111,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,114,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,120,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,126,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,128,Golpes Baseados Em Relacionamento,Seguro
+2,133,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento
+2,153,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,179,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,184,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,185,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+2,190,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,191,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,195,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,197,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,207,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,208,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+2,218,Seguro,Golpes Baseados Em Relacionamento
+2,219,Seguro,Golpes Baseados Em Relacionamento
+2,221,Seguro,Seguro
+2,222,Seguro,Seguro
+2,228,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,234,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,238,Ataques de Phishing e Roubo de Dados,Seguro
+2,239,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,242,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,243,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,244,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,246,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,247,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital
+2,252,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,274,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,276,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,282,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+2,285,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital
+2,288,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,298,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,300,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,305,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,315,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,316,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,318,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,320,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,330,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,333,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,335,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,336,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+2,346,Golpes de Desinformação Digital,Seguro
+2,352,Golpes de Desinformação Digital,Seguro
+2,353,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas
+2,355,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas
+2,357,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+2,365,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+2,367,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+2,369,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+2,374,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+2,378,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+2,389,Golpes de Desinformação Digital,Seguro
+2,402,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas
+2,406,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas
+2,409,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+2,412,Seguro,Seguro
+2,419,Seguro,Golpes de Desinformação Digital
+2,425,Seguro,Golpes de Desinformação Digital
+2,429,Seguro,Fraudes em Lojas Virtuais Falsas
+2,433,Seguro,Fraudes em Lojas Virtuais Falsas
+2,440,Seguro,Seguro
+2,442,Seguro,Golpes de Desinformação Digital
+2,444,Seguro,Seguro
+2,449,Seguro,Fraudes em Lojas Virtuais Falsas
+3,4,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,7,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados
+3,15,Golpes de Desinformação Digital,Ataques de Phishing e Roubo de Dados
+3,16,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,23,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento
+3,31,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,32,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas
+3,35,Seguro,Fraudes em Lojas Virtuais Falsas
+3,38,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,49,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,52,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,65,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,81,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,86,Fraudes em Lojas Virtuais Falsas,Golpes de Ganho Financeiro Ilusório
+3,96,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,100,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,104,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,112,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,113,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,123,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,124,Golpes Baseados Em Relacionamento,Seguro
+3,135,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,136,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento
+3,139,Seguro,Fraudes em Lojas Virtuais Falsas
+3,144,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,148,Golpes Baseados Em Relacionamento,Golpes de Desinformação Digital
+3,149,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,151,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,158,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,167,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+3,171,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,173,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,174,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,180,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento
+3,193,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital
+3,194,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,196,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,202,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+3,203,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital
+3,204,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital
+3,211,Seguro,Seguro
+3,213,Seguro,Golpes Baseados Em Relacionamento
+3,214,Seguro,Ataques de Phishing e Roubo de Dados
+3,217,Seguro,Golpes Baseados Em Relacionamento
+3,220,Seguro,Seguro
+3,225,Ataques de Phishing e Roubo de Dados,Golpes Baseados Em Relacionamento
+3,229,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,241,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,248,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,251,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,256,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,259,Ataques de Phishing e Roubo de Dados,Golpes Baseados Em Relacionamento
+3,261,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,262,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,263,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,266,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,278,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,286,Ataques de Phishing e Roubo de Dados,Fraudes em Lojas Virtuais Falsas
+3,287,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,289,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,291,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,295,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,306,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,310,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,317,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,321,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,325,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,329,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+3,340,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+3,345,Golpes de Desinformação Digital,Ataques de Phishing e Roubo de Dados
+3,348,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,350,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,354,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,358,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,361,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,384,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,387,Golpes de Desinformação Digital,Seguro
+3,391,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,393,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,394,Golpes de Desinformação Digital,Golpes Baseados Em Relacionamento
+3,399,Golpes de Desinformação Digital,Seguro
+3,407,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+3,413,Seguro,Seguro
+3,417,Seguro,Golpes de Desinformação Digital
+3,420,Seguro,Golpes de Desinformação Digital
+3,421,Seguro,Golpes de Desinformação Digital
+3,428,Seguro,Seguro
+3,431,Seguro,Golpes de Desinformação Digital
+3,438,Seguro,Seguro
+3,448,Seguro,Seguro
+4,5,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,10,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados
+4,12,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,28,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,29,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas
+4,33,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,34,Seguro,Seguro
+4,40,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,46,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,51,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,58,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,59,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,61,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados
+4,63,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,71,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,75,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,77,Seguro,Golpes Baseados Em Relacionamento
+4,78,Seguro,Golpes Baseados Em Relacionamento
+4,82,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,85,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento
+4,88,Seguro,Seguro
+4,91,Seguro,Ataques de Phishing e Roubo de Dados
+4,99,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,103,Fraudes em Lojas Virtuais Falsas,Golpes de Ganho Financeiro Ilusório
+4,125,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,130,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,141,Seguro,Fraudes em Lojas Virtuais Falsas
+4,145,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,150,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,154,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,163,Seguro,Seguro
+4,168,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,170,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,177,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,181,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+4,186,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento
+4,187,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,189,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,198,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,199,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,205,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+4,224,Seguro,Golpes Baseados Em Relacionamento
+4,226,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,227,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,231,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,232,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,245,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,254,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,258,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,267,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,268,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital
+4,269,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital
+4,270,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital
+4,273,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,275,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+4,290,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,293,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,294,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,296,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,297,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,303,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,312,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,313,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,319,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,323,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,327,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,332,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,349,Golpes de Desinformação Digital,Golpes Baseados Em Relacionamento
+4,351,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,359,Golpes de Desinformação Digital,Seguro
+4,363,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,366,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,368,Golpes de Desinformação Digital,Seguro
+4,371,Golpes de Desinformação Digital,Golpes Baseados Em Relacionamento
+4,372,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,373,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,376,Golpes de Desinformação Digital,Golpes de Ganho Financeiro Ilusório
+4,377,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,379,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,385,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,386,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+4,392,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas
+4,411,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+4,422,Seguro,Golpes de Ganho Financeiro Ilusório
+4,424,Seguro,Seguro
+4,430,Seguro,Golpes de Desinformação Digital
+4,434,Seguro,Seguro
+4,436,Seguro,Seguro
+4,446,Seguro,Golpes Baseados Em Relacionamento
+4,447,Seguro,Fraudes em Lojas Virtuais Falsas
+5,1,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,6,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados
+5,18,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento
+5,19,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital
+5,20,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,21,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados
+5,42,Fraudes em Lojas Virtuais Falsas,Golpes de Desinformação Digital
+5,43,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,45,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,57,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,62,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,64,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,67,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,72,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,74,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,79,Seguro,Seguro
+5,80,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,83,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,84,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,90,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,94,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,95,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,101,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,108,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,115,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas
+5,117,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,118,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados
+5,119,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,121,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,122,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,131,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,134,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,146,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,152,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,156,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,161,Fraudes em Lojas Virtuais Falsas,Fraudes em Lojas Virtuais Falsas
+5,162,Seguro,Golpes Baseados Em Relacionamento
+5,164,Seguro,Golpes Baseados Em Relacionamento
+5,169,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados
+5,182,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,188,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,206,Golpes de Ganho Financeiro Ilusório,Golpes de Ganho Financeiro Ilusório
+5,210,Seguro,Ataques de Phishing e Roubo de Dados
+5,216,Seguro,Fraudes em Lojas Virtuais Falsas
+5,237,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,240,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,250,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,253,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,260,Ataques de Phishing e Roubo de Dados,Seguro
+5,264,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,271,Ataques de Phishing e Roubo de Dados,Golpes de Ganho Financeiro Ilusório
+5,272,Ataques de Phishing e Roubo de Dados,Fraudes em Lojas Virtuais Falsas
+5,277,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,279,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,284,Ataques de Phishing e Roubo de Dados,Ataques de Phishing e Roubo de Dados
+5,299,Golpes Baseados Em Relacionamento,Ataques de Phishing e Roubo de Dados
+5,301,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,308,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,311,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,314,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,322,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,326,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,328,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,337,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,338,Golpes Baseados Em Relacionamento,Golpes Baseados Em Relacionamento
+5,341,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,344,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,347,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,364,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,370,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,375,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,380,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,382,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,390,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,396,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,398,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,401,Golpes de Desinformação Digital,Seguro
+5,404,Golpes de Desinformação Digital,Seguro
+5,405,Golpes de Desinformação Digital,Golpes de Desinformação Digital
+5,408,Golpes de Desinformação Digital,Seguro
+5,414,Seguro,Seguro
+5,415,Seguro,Fraudes em Lojas Virtuais Falsas
+5,416,Seguro,Golpes de Desinformação Digital
+5,418,Seguro,Golpes de Desinformação Digital
+5,426,Seguro,Seguro
+5,427,Seguro,Golpes de Desinformação Digital
+5,435,Seguro,Golpes de Desinformação Digital
+5,439,Seguro,Seguro
+5,441,Seguro,Golpes de Desinformação Digital
+5,443,Seguro,Golpes de Ganho Financeiro Ilusório

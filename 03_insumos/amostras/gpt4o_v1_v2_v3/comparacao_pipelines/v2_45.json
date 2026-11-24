@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 45,
+    "text": "hoje dinheiro retirar sistema automatizar bot operação 1 milhão real 🔥 💯 🤑",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "a387f35eebf5ec9166abaef6ce639f192e654d66fa4b598c0555e493e69ef51f"
+  },
+  "call_id": "7c457615e417de416805278ce6da761e350ed4b0dda84d486bad59f9ebd10dc4",
+  "filtered": {
+    "Motivo": "O texto faz menção a promessas de ganhos financeiros ilusórios (\"1 milhão real\") utilizando termos que sugerem automatização e facilidade de lucro (\"sistema automatizar bot operação\"). Esses elementos indicam um esquema de engenharia social visando atrair vítimas com promessa de grande recompensa futura e rápida, característica clássica dos golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace.\n2. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes.\n3. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto faz menção a promessas de ganhos financeiros ilusórios (\"1 milhão real\") utilizando termos que sugerem automatização e facilidade de lucro (\"sistema automatizar bot operação\"). Esses elementos indicam um esquema de engenharia social visando atrair vítimas com promessa de grande recompensa futura e rápida, característica clássica dos golpes de ganho financeiro ilusório.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace.\n2. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes.\n3. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

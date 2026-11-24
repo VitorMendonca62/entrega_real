@@ -1,0 +1,133 @@
+{
+ "experimento": "fbcv_A_f4",
+ "n_treino": 389,
+ "n_val": 44,
+ "n_teste": 12,
+ "epocas_executadas": 3,
+ "melhor_val_f1_macro": 0.618,
+ "historico_val": [
+  {
+   "epoch": 1.0,
+   "eval_loss": 1.530624508857727,
+   "eval_f1_macro": 0.618,
+   "eval_accuracy": 0.6818
+  },
+  {
+   "epoch": 2.0,
+   "eval_loss": 1.2316237688064575,
+   "eval_f1_macro": 0.5814,
+   "eval_accuracy": 0.6364
+  },
+  {
+   "epoch": 3.0,
+   "eval_loss": 1.0600014925003052,
+   "eval_f1_macro": 0.597,
+   "eval_accuracy": 0.6591
+  }
+ ],
+ "acc": 0.3333,
+ "f1_macro_classes_presentes": 0.281,
+ "report": {
+  "Relacionamento": {
+   "precision": 0.3333333333333333,
+   "recall": 0.5,
+   "f1-score": 0.4,
+   "support": 2.0
+  },
+  "Financeiro": {
+   "precision": 0.25,
+   "recall": 0.3333333333333333,
+   "f1-score": 0.2857142857142857,
+   "support": 3.0
+  },
+  "Phishing": {
+   "precision": 0.5,
+   "recall": 0.25,
+   "f1-score": 0.3333333333333333,
+   "support": 4.0
+  },
+  "Loja Falsa": {
+   "precision": 0.5,
+   "recall": 1.0,
+   "f1-score": 0.6666666666666666,
+   "support": 1.0
+  },
+  "Desinformação": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 1.0
+  },
+  "Seguro": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1-score": 0.0,
+   "support": 1.0
+  },
+  "accuracy": 0.3333333333333333,
+  "macro avg": {
+   "precision": 0.2638888888888889,
+   "recall": 0.34722222222222215,
+   "f1-score": 0.2809523809523809,
+   "support": 12.0
+  },
+  "weighted avg": {
+   "precision": 0.3263888888888889,
+   "recall": 0.3333333333333333,
+   "f1-score": 0.30476190476190473,
+   "support": 12.0
+  }
+ },
+ "matriz": [
+  [
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   1,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   1,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ]
+ ],
+ "sinteticos_diag_acc": 0.5095,
+ "segundos": 217
+}

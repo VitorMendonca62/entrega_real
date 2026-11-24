@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 43,
+    "text": "Lula é e sempre será CRIMINOSO, Lancellotti é PEDÓFILO e aliado desses criminosos são IRRACIONAIS...",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "9431932375a36d64f643ab4f5dcf9272a2d52923db7fdddfcd77770afa8d5a28"
+  },
+  "call_id": "b55cf9f0429d696c4a7359a950d5b8bf403778f8780ffb5c6d729a5dfd2e9993",
+  "filtered": {
+    "Motivo": "O texto analisado contém acusações graves sem fonte confiável, usando palavras de forte impacto emocional como 'CRIMINOSO' e 'PEDÓFILO', típicas de estratégias para causar raiva e indignação, características de desinformação. Além disso, associam figuras públicas sem provas, comum em golpes para influenciar a opinião pública.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto analisado contém acusações graves sem fonte confiável, usando palavras de forte impacto emocional como 'CRIMINOSO' e 'PEDÓFILO', típicas de estratégias para causar raiva e indignação, características de desinformação. Além disso, associam figuras públicas sem provas, comum em golpes para influenciar a opinião pública.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

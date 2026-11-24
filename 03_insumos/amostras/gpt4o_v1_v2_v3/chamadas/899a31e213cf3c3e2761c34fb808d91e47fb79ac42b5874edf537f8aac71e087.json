@@ -1,0 +1,103 @@
+{
+  "id": "899a31e213cf3c3e2761c34fb808d91e47fb79ac42b5874edf537f8aac71e087",
+  "experiment": "comparacao_prompts",
+  "version": "v2",
+  "case_id": 31,
+  "sha256_text": "ac21dec6778c47cf5a6fd7829448210e0d4b15401f8ab8a32c8080a87951c062",
+  "reserved_usd": 0.1903775,
+  "input_token_bound": 10615,
+  "output_token_bound": 16384,
+  "utc": "2026-10-20T20:59:39.754640+00:00",
+  "request": {
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Você é um especialista em Cibersegurança e Direito Digital brasileiro.\n\nSua função é analisar textos classificados como golpes em redes sociais e gerar uma resposta estruturada para alertar e orientar a vítima.\n\nREGRAS OBRIGATÓRIAS:\n1. Use EXCLUSIVAMENTE as informações da BASE DE CONHECIMENTO fornecida. Não invente leis, artigos ou ações que não estejam no contexto.\n2. O campo \"Motivo\" deve explicar QUAIS elementos do texto analisado indicam o golpe identificado — seja específico e cite trechos ou características observadas.\n3. O campo \"Base_Legal\" deve listar APENAS as leis e artigos presentes na base de conhecimento desta categoria, sem inventar referências.\n4. O campo \"Acoes_Recomendadas\" deve seguir a ordem de prioridade da base de conhecimento, adaptando o texto ao contexto específico da mensagem.\n5. Se a categoria for \"Seguro\", retorne o JSON com campos vazios e Acoes_Recomendadas = \"Verifique a informação em fontes confiáveis antes de compartilhar.\"\n6. Responda EXCLUSIVAMENTE com o JSON abaixo, sem texto adicional, markdown ou explicações fora do JSON.\n7. Se o texto analisado não contiver elementos que caracterizem um crime ou conduta ilícita, o campo \"Base_Legal\" deve ser retornado vazio (\"\"), mesmo que a categoria possua leis associadas na base de conhecimento."
+      },
+      {
+        "role": "user",
+        "content": "BASE DE CONHECIMENTO:\nCATEGORIA IDENTIFICADA: Golpes Baseados Em Relacionamento\n\nDEFINIÇÃO:\nManipulação psicológica e Engenharia Social para explorar vulnerabilidade emocional, empatia e confiança da vítima. O estelionatário cria identidades falsas atraentes, estabelece vínculo afetivo intenso e acelerado, e então explora a vítima fabricando falsas crises para obter dinheiro ou induzindo compartilhamento de mídias íntimas para posterior chantagem.\n\nMODUS OPERANDI:\nPerfil falso atraente → abordagem intensa e romântica → criação de vínculo emocional → fabricação de crise urgente (acidente, dívida, emergência médica) exigindo dinheiro; OU indução a envio de conteúdo íntimo → chantagem com ameaça de expor à rede de contatos.\n\nLEGISLAÇÃO APLICÁVEL:\n  • Art. 171 do Código Penal (Estelionato)\n    Tipo: crime patrimonial\n    Descrição: Obtenção de vantagem ilícita por meio de fraude, enganando a vítima.\n    Aplicação neste caso: Simulação de vínculo afetivo para obter transferências financeiras.\n    Pena prevista: Reclusão de 1 a 5 anos, além de multa.\n\n  • Lei nº 14.155/2021 (Fraude Eletrônica)\n    Tipo: crime digital\n    Descrição: Inclui fraudes realizadas por meios digitais com penas agravadas.\n    Aplicação neste caso: Romance scam via redes sociais, aplicativos de namoro.\n    Pena prevista: Pode chegar a 8 anos de reclusão.\n\n  • Art. 158 do Código Penal (Extorsão)\n    Tipo: crime contra a pessoa e patrimônio\n    Descrição: Obrigar alguém mediante ameaça a fazer algo para obter vantagem.\n    Aplicação neste caso: Chantagem com mídias íntimas, ameaça de expor conteúdo à rede de contatos.\n    Pena prevista: Reclusão de 4 a 10 anos, além de multa.\n\n  • Art. 218-C do Código Penal (Divulgação de Conteúdo Íntimo)\n    Tipo: crime contra a dignidade sexual\n    Descrição: Criminaliza divulgação de conteúdo íntimo sem consentimento da vítima.\n    Aplicação neste caso: Revenge porn, vazamento de fotos/vídeos íntimos, chantagem com imagens.\n    Pena prevista: Reclusão de 1 a 5 anos, além de multa.\n\n  • Lei Maria da Penha (Lei nº 11.340/2006)\n    Tipo: proteção à mulher\n    Descrição: Protege mulheres contra violência doméstica e familiar, incluindo violência digital.\n    Aplicação neste caso: Violência psicológica e coação contra mulheres em contexto de intimidade artificialmente construída.\n    Pena prevista: Medidas protetivas, prisão preventiva; penas variáveis conforme o crime associado.\n\nANÁLISE JURÍDICA CONSOLIDADA:\nA base legal assenta-se no Estelionato (Art. 171) e na Fraude Eletrônica (Lei 14.155/2021), punindo a obtenção de vantagem ilícita mediante simulação de vínculo afetivo. Quando a manipulação evolui para chantagem com mídias íntimas, incide a Extorsão (Art. 158) e o Art. 218-C, que criminaliza o registro ou divulgação não autorizada de cenas de intimidade. Se a violência psicológica e coação ocorrerem contra mulheres em contexto de intimidade artificialmente construída, os tribunais podem aplicar a Lei Maria da Penha.\n\nAÇÕES RECOMENDADAS À VÍTIMA:\n  1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n  2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n  3. Acionar a instituição financeira rapidamente se transferências já foram realizadas sob manipulação.\n  4. Denunciar o perfil falso usando as ferramentas do Facebook.\n  5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.\n\n---\n\nTEXTO ANALISADO:\n\"\"\"\"✅Se você está passando por alguma dificuldade no relacionamento clica no link da Bio ou me chama no direct que vamos resolver isso🧠\n#relacionamento #amor #casal #namoro #sexualidade #sensações #afetividade #traição #honra #caráter #respeito #relacionamentoabusivo #masculinidade #homem #homemdevalor #vulgaridade #sensualidade\"\"\"\"\n\nCLASSIFICAÇÃO DO MODELO BERTimbau:\n  Categoria  : Golpes Baseados Em Relacionamento\n  Confiança  : 92% (ALTA (≥ 0,85))\n\n---\n\nCom base EXCLUSIVAMENTE na BASE DE CONHECIMENTO acima, gere o JSON abaixo:\n\n{\n  \"Categoria\": \"Golpes Baseados Em Relacionamento\",\n  \"Motivo\": \"<explique quais elementos do texto indicam esta categoria de golpe>\",\n  \"Base_Legal\": \"<liste os artigos e leis aplicáveis conforme a base de conhecimento>\",\n  \"Acoes_Recomendadas\": \"<liste as ações recomendadas adaptadas ao contexto desta mensagem>\"\n}"
+      }
+    ],
+    "response_format": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-EbBDorFjuXPlMnDDncXR3loX3Jx4v",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "{\"Categoria\":\"Golpes Baseados Em Relacionamento\",\"Motivo\":\"A mensagem analisada apresenta características comuns de golpes baseados em relacionamento, como a promessa de resolver problemas de relacionamento através de abordagens psicológicas e emocionais, indicada pela frase: \\\"Vamos resolver isso\\\". A estratégia sugere uma atuação baseada em habilidades interpessoais e manipulação emocional para criar uma conexão de confiança e vulnerabilidade.\",\"Base_Legal\":\"Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)\",\"Acoes_Recomendadas\":\"1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\\n3. Denunciar o perfil usando as ferramentas das redes sociais.\"}",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1792529980,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "metadata": null,
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": "fp_d44a43dee5",
+    "usage": {
+      "completion_tokens": 191,
+      "prompt_tokens": 1468,
+      "total_tokens": 1659,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0,
+        "text_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": null,
+        "cached_tokens": 0,
+        "image_tokens": null,
+        "text_tokens": null
+      }
+    }
+  },
+  "cost_usd_upper_ignoring_cache": 0.00558,
+  "status": "complete",
+  "seconds": 2.3034444710065145
+}

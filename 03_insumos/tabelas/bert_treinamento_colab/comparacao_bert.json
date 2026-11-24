@@ -1,0 +1,180 @@
+{
+  "new_cv_mean": 0.7655884497510269,
+  "new_cv_std_ddof0": 0.03640477343603348,
+  "new_folds": [
+    0.7873392786027195,
+    0.8109742747673782,
+    0.7040322580645161,
+    0.7748155075073329,
+    0.7507809298131879
+  ],
+  "author_cv_mean_exact": 0.7633008011192922,
+  "author_cv_std_ddof0": 0.03374295827251115,
+  "delta_cv_pp_vs_paper_rounded": 0.25884497510269,
+  "delta_cv_pp_vs_author_exact": 0.22876486317346956,
+  "new_holdout": {
+    "f1_macro": 0.688197182934025,
+    "f1_weighted": 0.6850686934897461,
+    "accuracy": 0.6888888888888889,
+    "report": {
+      "Relacionamento": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 8.0
+      },
+      "Financeiro": {
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.9230769230769231,
+        "support": 7.0
+      },
+      "Phishing": {
+        "precision": 0.6,
+        "recall": 0.75,
+        "f1-score": 0.6666666666666666,
+        "support": 8.0
+      },
+      "Loja Falsa": {
+        "precision": 0.75,
+        "recall": 0.42857142857142855,
+        "f1-score": 0.5454545454545454,
+        "support": 7.0
+      },
+      "Desinformação": {
+        "precision": 0.5833333333333334,
+        "recall": 1.0,
+        "f1-score": 0.7368421052631579,
+        "support": 7.0
+      },
+      "Seguro": {
+        "precision": 0.42857142857142855,
+        "recall": 0.375,
+        "f1-score": 0.4,
+        "support": 8.0
+      },
+      "accuracy": 0.6888888888888889,
+      "macro avg": {
+        "precision": 0.7269841269841271,
+        "recall": 0.6934523809523809,
+        "f1-score": 0.688197182934025,
+        "support": 45.0
+      },
+      "weighted avg": {
+        "precision": 0.7235978835978837,
+        "recall": 0.6888888888888889,
+        "f1-score": 0.6850686934897461,
+        "support": 45.0
+      }
+    }
+  },
+  "author_holdout": {
+    "f1_macro": 0.8280408317173024,
+    "f1_weighted": 0.8242386698269052,
+    "accuracy": 0.8222222222222222,
+    "report": {
+      "Relacionamento": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 8.0
+      },
+      "Financeiro": {
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.9230769230769231,
+        "support": 7.0
+      },
+      "Phishing": {
+        "precision": 0.6666666666666666,
+        "recall": 0.75,
+        "f1-score": 0.7058823529411765,
+        "support": 8.0
+      },
+      "Loja Falsa": {
+        "precision": 0.8571428571428571,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.8571428571428571,
+        "support": 7.0
+      },
+      "Desinformação": {
+        "precision": 0.7777777777777778,
+        "recall": 1.0,
+        "f1-score": 0.875,
+        "support": 7.0
+      },
+      "Seguro": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 8.0
+      },
+      "accuracy": 0.8222222222222222,
+      "macro avg": {
+        "precision": 0.8419312169312169,
+        "recall": 0.8273809523809524,
+        "f1-score": 0.8280408317173024,
+        "support": 45.0
+      },
+      "weighted avg": {
+        "precision": 0.8395061728395062,
+        "recall": 0.8222222222222222,
+        "f1-score": 0.8242386698269052,
+        "support": 45.0
+      }
+    }
+  },
+  "delta_holdout_f1_pp_vs_paper_rounded": -13.980281706597497,
+  "delta_holdout_f1_pp_vs_author_exact": -13.984364878327737,
+  "new_consolidated_cv": {
+    "Relacionamento": {
+      "precision": 0.8481012658227848,
+      "recall": 0.8933333333333333,
+      "f1-score": 0.8701298701298701,
+      "support": 75.0
+    },
+    "Financeiro": {
+      "precision": 0.7972972972972973,
+      "recall": 0.7866666666666666,
+      "f1-score": 0.7919463087248322,
+      "support": 75.0
+    },
+    "Phishing": {
+      "precision": 0.8235294117647058,
+      "recall": 0.7466666666666667,
+      "f1-score": 0.7832167832167832,
+      "support": 75.0
+    },
+    "Loja Falsa": {
+      "precision": 0.7611940298507462,
+      "recall": 0.68,
+      "f1-score": 0.7183098591549296,
+      "support": 75.0
+    },
+    "Desinformação": {
+      "precision": 0.7692307692307693,
+      "recall": 0.8,
+      "f1-score": 0.7843137254901961,
+      "support": 75.0
+    },
+    "Seguro": {
+      "precision": 0.6071428571428571,
+      "recall": 0.68,
+      "f1-score": 0.6415094339622641,
+      "support": 75.0
+    },
+    "accuracy": 0.7644444444444445,
+    "macro avg": {
+      "precision": 0.7677492718515267,
+      "recall": 0.7644444444444445,
+      "f1-score": 0.7649043301131458,
+      "support": 450.0
+    },
+    "weighted avg": {
+      "precision": 0.7677492718515266,
+      "recall": 0.7644444444444445,
+      "f1-score": 0.7649043301131458,
+      "support": 450.0
+    }
+  }
+}

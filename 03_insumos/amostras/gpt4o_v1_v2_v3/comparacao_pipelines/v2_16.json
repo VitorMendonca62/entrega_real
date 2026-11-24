@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 16,
+    "text": "São pellets de madeira com certificação En Plus A1, ensacados ou a granel. São produtos de pellets de alta qualidade em vários formatos de embalagem para atender às diversas necessidades de nossos clientes. Temos o prazer de informar que podemos fornecer opções de sacos de 15 kg, big bags e contêineres a granel. Esta instalação está equipada com máquinas italianas totalmente automatizadas, garantindo precisão e eficiência em seu processo produtivo. Além disso, oferecemos opções de embalagens personalizadas. Temos o prazer de preencher o seu próprio design de saco com nossos pellets. • Sacos de 15 kg Pellets de madeira En Plus - 190 euros por tonelada • Pellets de madeira En Plus em sacos grandes - 170 euros por tonelada Estes preços são FOB Turquia. Esses pellets já estão sendo vendidos no mercado europeu. Informe-me em breve se estiver interessado. Karen Marciniak Proprietário-Global Pellet EUA +1 727 510 9145[email protegido] http://www.globalpelletus.com",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 7",
+    "score": 0.92,
+    "sha256_text": "e9e657cd5970c03f34391e3d7f272bab8156d8ee3f3510435c37dae0a5a6e84d"
+  },
+  "call_id": "2cf482bf2b0c64a40c9f629cd77f0c7e5ff642fbffc4b8ace6434434407d1973",
+  "filtered": {
+    "Motivo": "O texto analisado apresenta características típicas de golpes em lojas virtuais falsas ao oferecer produtos com preços específicos em euros, indicativos de transações internacionais, o que pode criar dificuldade em rastreamento e reembolsos. A descrição do produto enaltece capacidades de produção, mas as informações de contato não correspondem a práticas comuns para negociações legítimas. A referência a preços FOB Turquia e a falta de detalhes na forma de pagamento sugerem uma potencial fraude. Além disso, a alta confiança do modelo BERTimbau reforça esta categoria.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O texto analisado apresenta características típicas de golpes em lojas virtuais falsas ao oferecer produtos com preços específicos em euros, indicativos de transações internacionais, o que pode criar dificuldade em rastreamento e reembolsos. A descrição do produto enaltece capacidades de produção, mas as informações de contato não correspondem a práticas comuns para negociações legítimas. A referência a preços FOB Turquia e a falta de detalhes na forma de pagamento sugerem uma potencial fraude. Além disso, a alta confiança do modelo BERTimbau reforça esta categoria.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Código de Defesa do Consumidor (CDC), LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 31,
+    "text": "\"✅Se você está passando por alguma dificuldade no relacionamento clica no link da Bio ou me chama no direct que vamos resolver isso🧠\n#relacionamento #amor #casal #namoro #sexualidade #sensações #afetividade #traição #honra #caráter #respeito #relacionamentoabusivo #masculinidade #homem #homemdevalor #vulgaridade #sensualidade\"",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "ac21dec6778c47cf5a6fd7829448210e0d4b15401f8ab8a32c8080a87951c062"
+  },
+  "call_id": "899a31e213cf3c3e2761c34fb808d91e47fb79ac42b5874edf537f8aac71e087",
+  "filtered": {
+    "Motivo": "A mensagem analisada apresenta características comuns de golpes baseados em relacionamento, como a promessa de resolver problemas de relacionamento através de abordagens psicológicas e emocionais, indicada pela frase: \"Vamos resolver isso\". A estratégia sugere uma atuação baseada em habilidades interpessoais e manipulação emocional para criar uma conexão de confiança e vulnerabilidade.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil usando as ferramentas das redes sociais.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "A mensagem analisada apresenta características comuns de golpes baseados em relacionamento, como a promessa de resolver problemas de relacionamento através de abordagens psicológicas e emocionais, indicada pela frase: \"Vamos resolver isso\". A estratégia sugere uma atuação baseada em habilidades interpessoais e manipulação emocional para criar uma conexão de confiança e vulnerabilidade.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n3. Denunciar o perfil usando as ferramentas das redes sociais."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "planilhas_brutas_iguais": true,
+  "espacos_extremos_mensagem": 9,
+  "folds_baseline": [
+    {
+      "fold": 1,
+      "textos_comuns": 0
+    },
+    {
+      "fold": 2,
+      "textos_comuns": 2
+    },
+    {
+      "fold": 3,
+      "textos_comuns": 0
+    },
+    {
+      "fold": 4,
+      "textos_comuns": 0
+    },
+    {
+      "fold": 5,
+      "textos_comuns": 2
+    }
+  ],
+  "duplicatas": [
+    {
+      "sha256": "26b6de83d615ce0b97373c6ca97c4b5731bc349e257c5a62b1dcea5aea29be29",
+      "linhas_excel": [
+        78,
+        92
+      ],
+      "categorias": [
+        "Golpes de Ganho Financeiro Ilusório",
+        "Golpes de Ganho Financeiro Ilusório"
+      ]
+    },
+    {
+      "sha256": "2e40efd9329b7c8e47e0f194449330edf4852bb6b6fba552ef6bf7792073e734",
+      "linhas_excel": [
+        284,
+        286
+      ],
+      "categorias": [
+        "Ataques de Phishing e Roubo de Dados",
+        "Ataques de Phishing e Roubo de Dados"
+      ]
+    }
+  ],
+  "falso_positivo_n": 46,
+  "falso_negativo_n": 23,
+  "acerto_n": 320
+}

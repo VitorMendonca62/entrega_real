@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 36,
+    "text": "“Nando Reis se F… Se F…. no Rock in Rio”",
+    "category": "Golpes de Desinformação Digital",
+    "dataset": "Externo 3",
+    "score": 0.92,
+    "sha256_text": "9e9a8d519b7c172e54ba45bb8697f407c2fa76e9c7989b8be2e6bbff9383bde1"
+  },
+  "call_id": "b30911560183e616f5d50f68c13f07aa90a333dcc7d46053d59971a5f4e761d5",
+  "filtered": {
+    "Motivo": "O texto 'Nando Reis se F… Se F…. no Rock in Rio' é indicativo de desinformação digital ao criar uma chamada sensacionalista e potencialmente falsa sobre a apresentação de um artista renomado. O uso de linguagem truncada e provocativa sugere uma tentativa de chamar atenção e gerar engajamento através do choque, possivelmente vinculada a uma notícia manipulada para influenciar opiniões ou gerar cliques.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Desinformação Digital",
+    "Motivo": "O texto 'Nando Reis se F… Se F…. no Rock in Rio' é indicativo de desinformação digital ao criar uma chamada sensacionalista e potencialmente falsa sobre a apresentação de um artista renomado. O uso de linguagem truncada e provocativa sugere uma tentativa de chamar atenção e gerar engajamento através do choque, possivelmente vinculada a uma notícia manipulada para influenciar opiniões ou gerar cliques.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "origem": "respostas dos autores, sem novos participantes",
+  "n": 15,
+  "media": 87.0,
+  "dp_amostral": 11.188322994469342,
+  "mediana": 87.5,
+  "min": 70.0,
+  "max": 100.0,
+  "acima_68": 15,
+  "itens": {
+    "Acho que gostaria de utilizar o VeritaPlugin com frequência em minha navegação no Facebook.": 4.8,
+    "Considerei o VeritaPlugin mais complexo do que o necessário para analisar posts e mensagens.": 2.533333333333333,
+    "Achei o VeritaPlugin fácil de utilizar para identificar conteúdos suspeitos.": 4.866666666666666,
+    "Acho que necessitaria de ajuda de alguém para conseguir utilizar a extensão.": 1.8666666666666667,
+    "Considerei que as funcionalidades do plugin (seleção de texto e exibição do alerta) estavam bem integradas à interface do Facebook.": 5.0,
+    "Achei que o VeritaPlugin apresentou muitas inconsistências ou comportamentos inesperados durante o uso.": 1.6,
+    "Suponho que a maioria das pessoas aprenderia a utilizar o plugin rapidamente (como identificar o botão e ler o modal).": 4.333333333333333,
+    "Considerei o VeritaPlugin muito complicado de usar durante a navegação.": 1.3333333333333333,
+    "Me senti confiante ao utilizar o VeritaPlugin para validar se um anúncio ou mensagem era golpe.": 4.733333333333333,
+    "Tive que aprender muitas coisas novas antes de conseguir realizar a análise de um conteúdo.": 1.6
+  }
+}

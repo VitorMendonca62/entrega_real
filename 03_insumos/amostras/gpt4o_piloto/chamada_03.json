@@ -1,0 +1,78 @@
+{
+  "index": 3,
+  "sample": {
+    "id": "sintetico_relacionamento",
+    "repeticao": 0,
+    "texto": "Meu amor, preciso de dinheiro para pagar a passagem e encontrar você. Transfira hoje para a conta do meu agente.",
+    "categoria": "Golpes Baseados Em Relacionamento",
+    "score": 0.3293,
+    "segundos": 0.1339988629988511
+  },
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em Cibersegurança e Direito Digital brasileiro.\n\nSua função é receber um texto já classificado por um modelo de machine learning e produzir uma resposta estruturada que justifica e enriquece essa classificação para alertar e orientar a vítima.\n\nPREMISSA FUNDAMENTAL — CATEGORIA É VERDADE ABSOLUTA:\nA categoria informada foi definida pelo modelo BERTimbau e deve ser tratada como correta e imutável. Sua tarefa NÃO é avaliar se a classificação está certa — é explicar POR QUE o texto se enquadra nessa categoria e quais consequências legais e ações decorrem disso. Nunca questione, contradiga ou ignore a categoria recebida.\n\nPRINCÍPIO CENTRAL — BASE_LEGAL:\nPrefira o falso negativo ao falso positivo. Só cite uma lei se houver evidência explícita e inequívoca no texto de que aquele dispositivo legal está sendo infringido. Dúvida = campo vazio.\n\nREGRAS OBRIGATÓRIAS:\n1. Use EXCLUSIVAMENTE as informações da BASE DE CONHECIMENTO fornecida. Não invente leis, artigos ou ações que não estejam no contexto.\n2. O campo \"Motivo\" deve explicar, considerando que a categoria JÁ ESTÁ DEFINIDA, quais elementos do texto confirmam e ilustram esse enquadramento — cite trechos ou características concretas observadas. Nunca use o Motivo para sugerir que o texto poderia ser outra categoria ou que a classificação pode estar errada.\n3. O campo \"Base_Legal\" deve listar SOMENTE as leis cujos elementos configuradores estejam explicitamente presentes no texto analisado. Não cite uma lei apenas porque ela consta na base de conhecimento da categoria — a lei só deve aparecer se o texto contiver evidência direta e inequívoca de que aquele dispositivo está sendo infringido. Exemplos de limiar mínimo exigido: Art. 307 (Falsa Identidade) exige impersonação explícita de uma pessoa ou instituição real; Art. 158 (Extorsão) exige ameaça explícita; Arts. 138-140 exigem atribuição de fato falso ou ofensa a pessoa identificável; LGPD exige coleta ou uso indevido de dados pessoais identificável no texto; Lei Carolina Dieckmann exige indício de invasão de dispositivo ou instalação de malware. Na dúvida sobre qualquer lei, não a cite.\n4. FORMATO DE Base_Legal: copie os nomes das leis EXATAMENTE como aparecem nos marcadores \"•\" da seção LEGISLAÇÃO APLICÁVEL da base de conhecimento, separados por ponto e vírgula. Não abrevie, não parafraseie, não adicione texto explicativo. Exemplo correto: \"Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)\". Se nenhuma lei se aplicar, retorne \"\".\n5. O campo \"Acoes_Recomendadas\" deve seguir a ordem de prioridade da base de conhecimento, adaptando o texto ao contexto específico da mensagem.\n6. Se a categoria for \"Seguro\", retorne o JSON com campos vazios e Acoes_Recomendadas = \"Verifique a informação em fontes confiáveis antes de compartilhar.\"\n7. Responda EXCLUSIVAMENTE com o JSON abaixo, sem texto adicional, markdown ou explicações fora do JSON.\n8. Se o texto não contiver elementos que caracterizem claramente uma conduta ilícita, retorne \"Base_Legal\" vazio (\"\"). Se apenas alguns elementos estiverem presentes, cite somente as leis com evidência direta no texto — nunca cite todas as leis da categoria por precaução."
+    },
+    {
+      "role": "user",
+      "content": "BASE DE CONHECIMENTO:\nCATEGORIA IDENTIFICADA: Golpes Baseados Em Relacionamento\n\nDEFINIÇÃO:\nManipulação psicológica e Engenharia Social para explorar vulnerabilidade emocional, empatia e confiança da vítima. O estelionatário cria identidades falsas atraentes, estabelece vínculo afetivo intenso e acelerado, e então explora a vítima fabricando falsas crises para obter dinheiro ou induzindo compartilhamento de mídias íntimas para posterior chantagem.\n\nMODUS OPERANDI:\nPerfil falso atraente → abordagem intensa e romântica → criação de vínculo emocional → fabricação de crise urgente (acidente, dívida, emergência médica) exigindo dinheiro; OU indução a envio de conteúdo íntimo → chantagem com ameaça de expor à rede de contatos.\n\nLEGISLAÇÃO APLICÁVEL:\n  • Art. 171 do Código Penal (Estelionato)\n    Tipo: crime patrimonial\n    Descrição: Obtenção de vantagem ilícita por meio de fraude, enganando a vítima.\n    Aplicação neste caso: Simulação de vínculo afetivo para obter transferências financeiras.\n\n  • Lei nº 14.155/2021 (Fraude Eletrônica)\n    Tipo: crime digital\n    Descrição: Inclui fraudes realizadas por meios digitais com penas agravadas.\n    Aplicação neste caso: Romance scam via redes sociais, aplicativos de namoro.\n\n  • Art. 158 do Código Penal (Extorsão)\n    Tipo: crime contra a pessoa e patrimônio\n    Descrição: Obrigar alguém mediante ameaça a fazer algo para obter vantagem.\n    Aplicação neste caso: Chantagem com mídias íntimas, ameaça de expor conteúdo à rede de contatos.\n\n  • Art. 218-C do Código Penal (Divulgação de Conteúdo Íntimo)\n    Tipo: crime contra a dignidade sexual\n    Descrição: Criminaliza divulgação de conteúdo íntimo sem consentimento da vítima.\n    Aplicação neste caso: Revenge porn, vazamento de fotos/vídeos íntimos, chantagem com imagens.\n\n  • Lei Maria da Penha (Lei nº 11.340/2006)\n    Tipo: proteção à mulher\n    Descrição: Protege mulheres contra violência doméstica e familiar, incluindo violência digital.\n    Aplicação neste caso: Violência psicológica e coação contra mulheres em contexto de intimidade artificialmente construída.\n\nANÁLISE JURÍDICA CONSOLIDADA:\nA base legal assenta-se no Estelionato (Art. 171) e na Fraude Eletrônica (Lei 14.155/2021), punindo a obtenção de vantagem ilícita mediante simulação de vínculo afetivo. Quando a manipulação evolui para chantagem com mídias íntimas, incide a Extorsão (Art. 158) e o Art. 218-C, que criminaliza o registro ou divulgação não autorizada de cenas de intimidade. Se a violência psicológica e coação ocorrerem contra mulheres em contexto de intimidade artificialmente construída, os tribunais podem aplicar a Lei Maria da Penha.\n\nAÇÕES RECOMENDADAS À VÍTIMA:\n  1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos.\n  2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear.\n  3. Acionar a instituição financeira rapidamente se transferências já foram realizadas sob manipulação.\n  4. Denunciar o perfil falso usando as ferramentas do Facebook.\n  5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.\n\n---\n\nTEXTO ANALISADO:\n\"\"\"Meu amor, preciso de dinheiro para pagar a passagem e encontrar você. Transfira hoje para a conta do meu agente.\"\"\"\n\nCATEGORIA DEFINIDA PELO MODELO (trate como verdade — não questione):\n  Categoria  : Golpes Baseados Em Relacionamento\n  Confiança  : 33% (BAIXA (< 0,60))\n\n---\n\nCom base EXCLUSIVAMENTE na BASE DE CONHECIMENTO acima, e assumindo que a categoria \"Golpes Baseados Em Relacionamento\" está correta, gere o JSON abaixo:\n\n{\n  \"Categoria\": \"Golpes Baseados Em Relacionamento\",\n  \"Motivo\": \"<explique quais elementos do texto confirmam o enquadramento nesta categoria>\",\n  \"Base_Legal\": \"<nomes exatos das leis aplicáveis, copiados dos marcadores • da base, separados por ponto e vírgula — ou vazio>\",\n  \"Acoes_Recomendadas\": \"<liste as ações recomendadas adaptadas ao contexto desta mensagem>\"\n}"
+    }
+  ],
+  "input_token_bound": 12192,
+  "cost_bound_usd": 0.042480000000000004,
+  "response": {
+    "id": "chatcmpl-Eb9Zbncq61tsolV35JPmhxKKXYZgc",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "{\"Categoria\":\"Golpes Baseados Em Relacionamento\",\"Motivo\":\"O texto apresenta elementos típicos de golpes baseados em relacionamento, como uma suposta relação afetiva ('Meu amor') e a demanda por transferência de dinheiro associada a uma crise fabricada ('preciso de dinheiro para pagar a passagem e encontrar você'). Essa combinação de manipulação emocional e pedido financeiro caracteriza um golpe de relacionamento.\",\"Base_Legal\":\"Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)\",\"Acoes_Recomendadas\":\"1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 3. Acionar a instituição financeira rapidamente se transferências já foram realizadas sob manipulação. 4. Denunciar o perfil falso usando as ferramentas do Facebook. 5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.\"}",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1792523643,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "metadata": null,
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": "fp_e85bcce457",
+    "usage": {
+      "completion_tokens": 237,
+      "prompt_tokens": 1805,
+      "total_tokens": 2042,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0,
+        "text_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": null,
+        "cached_tokens": 0,
+        "image_tokens": null,
+        "text_tokens": null
+      }
+    }
+  },
+  "cost_usd_upper_ignoring_cache": 0.0068825,
+  "status": "complete",
+  "filtered": {
+    "Motivo": "O texto apresenta elementos típicos de golpes baseados em relacionamento, como uma suposta relação afetiva ('Meu amor') e a demanda por transferência de dinheiro associada a uma crise fabricada ('preciso de dinheiro para pagar a passagem e encontrar você'). Essa combinação de manipulação emocional e pedido financeiro caracteriza um golpe de relacionamento.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 3. Acionar a instituição financeira rapidamente se transferências já foram realizadas sob manipulação. 4. Denunciar o perfil falso usando as ferramentas do Facebook. 5. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "latency_seconds": 2.821276183000009
+}

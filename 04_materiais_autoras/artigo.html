@@ -1,0 +1,489 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR" xml:lang="pt-BR">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		 VeritaPlugin: Uma Extensão de Navegador para Detecção Semântica de Fraudes no Facebook
+							| Anais do Simpósio Brasileiro de Cibersegurança (SBSeg)
+			</title>
+
+	
+<meta name="generator" content=" ">
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_conference" content="Simpósio Brasileiro de Cibersegurança (SBSeg)"/>
+<meta name="citation_publisher" content="SBC"/>
+<meta name="citation_issn" content="0000-0000"/> 
+<meta name="citation_author" content="Bruna Assis Norões"/>
+<meta name="citation_author_institution" content="UFF"/>
+<meta name="citation_author" content="Bianca Monsores da Silva Rocha"/>
+<meta name="citation_author_institution" content="UFF"/>
+<meta name="citation_author" content="Rebeca Motta"/>
+<meta name="citation_author_institution" content="UFF"/>
+<meta name="citation_title" content=" VeritaPlugin: Uma Extensão de Navegador para Detecção Semântica de Fraudes no Facebook"/>
+<meta name="citation_date" content="2026/09/01"/>
+<meta name="citation_firstpage" content="1292"/>
+<meta name="citation_lastpage" content="1307"/>
+<meta name="citation_doi" content="10.5753/sbseg.2026.26924"/>
+<meta name="citation_abstract_html_url" content="https://sol.sbc.org.br/index.php/sbseg/article/view/44359"/>
+<meta name="citation_pdf_url" content="https://sol.sbc.org.br/index.php/sbseg/article/download/44359/44122"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content=", "/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2026-09-01"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2026-09-01"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2026-09-01"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2026-10-09"/>
+<meta name="DC.Description" xml:lang="pt" content="A Engenharia Social em redes sociais explora vulnerabilidades para iludir usuários, tornando defesas técnicas tradicionais insuficientes. Este trabalho apresenta o VeritaPlugin, uma extensão de navegador que detecta fraudes no Facebook por meio de um pipeline híbrido BERTimbau, RAG determinístico e GPT-4o. A arquitetura opera em conformidade com a LGPD e o resultado apresenta ao usuário a categoria do golpe, enquadramento legal e ações recomendadas. Para calibração, foi construído e disponibilizado o dataset BrScamsFacebook, com 450 instâncias de golpes reais do contexto brasileiro. Na avaliação técnica, o classificador obteve F1-macro de 0,763 ± 0,034 na validação cruzada k=5, superando o baseline."/>
+<meta name="DC.Description" xml:lang="en" content="Social engineering on social networks exploits vulnerabilities to deceive users, rendering traditional technical defenses insufficient. This work presents VeritaPlugin, a browser extension that detects fraud on Facebook through a hybrid pipeline using BERTimbau, deterministic RAG, and GPT-4o. The architecture operates in compliance with the LGPD (Brazilian General Data Protection Law), and the result presents the user with the scam category, legal framework, and recommended actions. For calibration, the BrScamsFacebook dataset was built and made available, containing 450 instances of real scams from the Brazilian context. In the technical evaluation, the classifier obtained an F1-macro of 0.763 ± 0.034 in the k=5 cross-validation, exceeding the baseline."/>
+<meta name="DC.Description" xml:lang="es" content="A Engenharia Social em redes sociais explora vulnerabilidades para iludir usuários, tornando defesas técnicas tradicionais insuficientes. Este trabalho apresenta o VeritaPlugin, uma extensão de navegador que detecta fraudes no Facebook por meio de um pipeline híbrido BERTimbau, RAG determinístico e GPT-4o. A arquitetura opera em conformidade com a LGPD e o resultado apresenta ao usuário a categoria do golpe, enquadramento legal e ações recomendadas. Para calibração, foi construído e disponibilizado o dataset BrScamsFacebook, com 450 instâncias de golpes reais do contexto brasileiro. Na avaliação técnica, o classificador obteve F1-macro de 0,763 ± 0,034 na validação cruzada k=5, superando o baseline."/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="44359"/>
+<meta name="DC.Identifier.pageNumber" content="1292-1307"/>
+<meta name="DC.Identifier.DOI" content="10.5753/sbseg.2026.26924"/>
+<meta name="DC.Identifier.URI" content="https://sol.sbc.org.br/index.php/sbseg/article/view/44359"/>
+<meta name="DC.Language" scheme="ISO639-1" content="pt"/>
+<meta name="DC.Rights" content="Copyright (c)  "/>
+<meta name="DC.Rights" content=""/>
+<meta name="DC.Source" content="Simpósio Brasileiro de Cibersegurança (SBSeg)"/>
+<meta name="DC.Source.ISSN" content="0000-0000"/>
+<meta name="DC.Source.URI" content="https://sol.sbc.org.br/index.php/sbseg"/>
+<meta name="DC.Title" content=" VeritaPlugin: Uma Extensão de Navegador para Detecção Semântica de Fraudes no Facebook"/>
+<meta name="DC.Title.Alternative" xml:lang="en" content=" VeritaPlugin: A Browser Extension for Semantic Fraud Detection on Facebook"/>
+<meta name="DC.Title.Alternative" xml:lang="es" content=" VeritaPlugin: Uma Extensão de Navegador para Detecção Semântica de Fraudes no Facebook"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type.articleType" content="Artigos Completos"/>
+	<link rel="stylesheet" href="https://sol.sbc.org.br/index.php/sbseg/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Noto+Serif:400,400i,700,700i" type="text/css" /><link rel="stylesheet" href="https://sol.sbc.org.br/public/site/sitestyle.css" type="text/css" /><link rel="stylesheet" href="https://sol.sbc.org.br/public/journals/74/styleSheet.css" type="text/css" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6W9Z7YRHNV"></script>
+
+
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-6W9Z7YRHNV');
+	</script>
+
+
+
+
+</head><body class="pkp_page_article pkp_op_view has_site_logo" dir="ltr">
+
+	<div class="cmp_skip_to_content">
+		<a href="#pkp_content_main">Ir para conteúdo principal</a>
+		<a href="#pkp_content_nav">Ir para menu de navegação principal</a>
+		<a href="#pkp_content_footer">Ir para o rodapé</a>
+	</div>
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+																<div class="pkp_site_name">
+																		
+																			<a href="https://sol.sbc.org.br" class="is_img">
+								<img src="https://sol.sbc.org.br/public/journals/74/pageHeaderLogoImage_pt_BR.png" width="3800" height="399" alt="Logo do cabeçalho da página" />
+							</a>
+							<br/>
+							<a href="https://sol.sbc.org.br/index.php/sbseg/index" class="is_text">Anais do Simpósio Brasileiro de Cibersegurança (SBSeg)</a>
+																	</div>
+									</div>
+
+													<nav id="pkp_content_nav" class="pkp_navigation_primary_row navDropdownMenu" aria-label="Navegação no Site">
+						<div class="pkp_navigation_primary_wrapper">
+
+														<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+
+	<li aria-haspopup="true" aria-expanded="false">
+			<b>SOL</b>
+		<ul>
+			<li>
+				<a href="https://sol.sbc.org.br/index.php/anais">
+					Anais
+				</a>
+			</li>
+			<li>
+				<a href="https://sol.sbc.org.br/journals">
+					Periódicos
+				</a>
+			</li>
+			<li>
+				<a href="https://sol.sbc.org.br/livros">
+					Livros
+				</a>
+			</li>
+		</ul>
+	</li>
+
+												<li>
+					<a href="https://sol.sbc.org.br/index.php/sbseg/issue/archive">
+						Todas as Edições
+					</a>
+				</li>
+						<li>
+				<a href="https://sol.sbc.org.br/index.php/sbseg/about">
+					Sobre o Evento
+				</a>
+			</li>
+							<li>
+					<a href="https://sol.sbc.org.br/index.php/sbseg/about/editorialTeam">
+						Expediente
+					</a>
+				</li>
+							
+</ul>
+															<form class="pkp_search" action="https://sol.sbc.org.br/busca/" method="post" role="search">
+		<input type="hidden" name="csrfToken" value="8d81ec15a1d4059b0f49a2f24ad7d88d">
+
+		<button type="submit">
+			Buscar
+		</button>
+		<div class="search_controls" aria-hidden="true">
+			<a href="https://sol.sbc.org.br/busca/" class="search_prompt" aria-hidden="true">
+				Buscar
+			</a>
+		</div>
+</form>
+						</div>
+					</nav>
+				
+				<nav class="pkp_navigation_user_wrapper navDropdownMenu" id="navigationUserWrapper" aria-label="Navegação do Usuário">
+					<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+											</ul>
+				</nav><!-- .pkp_navigation_user_wrapper -->
+
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div id="pkp_content_main" class="pkp_structure_main" role="main">
+<div class="page page_article">
+			
+<nav class="cmp_breadcrumbs" role="navigation" aria-label="Você está aqui:">
+	<ol>
+		<li>
+			<a href="https://sol.sbc.org.br/index.php/sbseg/index">
+				Início
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://sol.sbc.org.br/index.php/sbseg/issue/archive">
+				Todas as Edições
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://sol.sbc.org.br/index.php/sbseg/issue/view/1728">
+				2026: Anais do XXVI Simpósio Brasileiro de Cibersegurança
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li class="current">
+									Artigos Completos
+						</li>
+	</ol>
+</nav>	
+		<article class="obj_article_details">
+	<h1 class="page_title">
+		 VeritaPlugin: Uma Extensão de Navegador para Detecção Semântica de Fraudes no Facebook
+	</h1>
+
+	
+	<div class="row">
+		<div class="main_entry">
+
+							<ul class="item authors">
+											<li>
+							<span class="name">
+								Bruna Assis Norões
+							</span>
+															<span class="affiliation">
+									UFF
+								</span>
+																				</li>
+											<li>
+							<span class="name">
+								Bianca Monsores da Silva Rocha
+							</span>
+															<span class="affiliation">
+									UFF
+								</span>
+																				</li>
+											<li>
+							<span class="name">
+								Rebeca Motta
+							</span>
+															<span class="affiliation">
+									UFF
+								</span>
+																				</li>
+									</ul>
+			
+																																					<div class="item doi">
+						<span class="label">
+							DOI:
+						</span>
+						<span class="value">
+							<a href="https://doi.org/10.5753/sbseg.2026.26924">
+								https://doi.org/10.5753/sbseg.2026.26924
+							</a>
+						</span>
+					</div>
+							
+										<div class="item abstract">
+					<h3 class="label">Resumo</h3></br>
+					A Engenharia Social em redes sociais explora vulnerabilidades para iludir usuários, tornando defesas técnicas tradicionais insuficientes. Este trabalho apresenta o VeritaPlugin, uma extensão de navegador que detecta fraudes no Facebook por meio de um pipeline híbrido BERTimbau, RAG determinístico e GPT-4o. A arquitetura opera em conformidade com a LGPD e o resultado apresenta ao usuário a categoria do golpe, enquadramento legal e ações recomendadas. Para calibração, foi construído e disponibilizado o dataset BrScamsFacebook, com 450 instâncias de golpes reais do contexto brasileiro. Na avaliação técnica, o classificador obteve F1-macro de 0,763 ± 0,034 na validação cruzada k=5, superando o baseline.
+				</div>
+			
+			
+
+						
+																																	
+										<div class="item references">
+					<h3 class="label">
+						Referências
+					</h3>
+					<div class="value">
+						Ariza, M., de Azambuja, A. J. G., Nobre, J. C., and Granville, L. Z. (2022). Ataques automatizados de engenharia social com o uso de bots em redes sociais profissionais. In Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg), pages 153–166. SBC.<br/><br />
+Bitaab, M., Karimi, A., Lyu, Z., Mosallanezhad, A., Oest, A., Wang, R., Bao, T., Shoshitaishvili, Y., and Doupé, A. (2025). Scamnet: Toward explainable large language model-based fraudulent shopping website detection. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 39, pages 27841–27848.<br/><br />
+Bleiman, R., Park, H., and Rege, A. (2025). Educating students on the behavioral and psychological aspects of romance scam victimization via a social engineering competition. Journal of Cybersecurity Education, Research and Practice, 2025(1).<br/><br />
+BRASIL (2018). Lei nº 13.709, de 14 de agosto de 2018. lei geral de proteção de dados. <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"target="_blank">[link]</a>.<br/><br />
+Chen, Y.-H., Chen, J.-L., and Chiu, S.-P. (2025). Ai-enhanced phishing detection: Leveraging advanced transformer-based representations with gan for robust security. In 2025 27th International Conference on Advanced Communications Technology (ICACT), pages 156–161. IEEE.<br/><br />
+Cialdini, R. (2007). Influence: the psychology of persuasion (revision edition).<br/><br />
+Daim, T., Yalcin, H., Mermoud, A., and Mulder, V. (2024). Exploring cybertechnology standards through bibliometrics: Case of national institute of standards and technology. World Patent Information, 77:102278.<br/><br />
+Ferreira, A., Coventry, L., and Lenzini, G. (2015). Principles of persuasion in social engineering and their use in phishing. In International Conference on Human Aspects of Information Security, Privacy, and Trust, pages 36–47. Springer.<br/><br />
+Fischer, M., Haque, R., Stynes, P., and Pathak, P. (2022). Identifying fake news in brazilian portuguese. In International Conference on Applications of Natural Language to Information Systems, pages 111–118. Springer.<br/><br />
+Frasão, A., Heinrich, T., and Fulber-Garcia, V. (2025). O cenário atual de golpes em redes sociais: uma revisão da literatura. Computer on the beach, 16:1–8.<br/><br />
+Jain, A. K., Panday, A., and Goel, D. (2024). S-defender: A smishing detection approach in mobile environment. In International Conference on Cyber Warfare, Security and Space Computing, pages 68–78. Springer.<br/><br />
+Jamil, A., Asif, K., Ghulam, Z., Nazir, M. K., Alam, S. M., and Ashraf, R. (2018). Mpmpa: A mitigation and prevention model for social engineering based phishing attacks on facebook. In 2018 IEEE International Conference on Big Data (Big Data), pages 5040–5048. IEEE.<br/><br />
+Kemp, S. (2025). Digital 2025: Brazil — DataReportal – Global Digital Insights. <a href="https://datareportal.com/reports/digital-2025-brazil"target="_blank">[link]</a>.<br/><br />
+Kotzias, P., Pachilakis, M., Aldana-Iuit, J., Caballero, J., Sánchez-Rola, I., and Bilge, L. (2025). Ctrl+ alt+ deceive: Quantifying user exposure to online scams. In NDSS.<br/><br />
+Laor, T. (2022). My social network: Group differences in frequency of use, active use, and interactive use on facebook, instagram and twitter. Technology in Society, 68:101922.<br/><br />
+Mehmood, M. K., Arshad, H., Alawida, M., and Mehmood, A. (2024). Enhancing smishing detection: A deep learning approach for improved accuracy and reduced false positives. IEEE Access, 12:137176–137193.<br/><br />
+Mitnick, K. D. and Simon, W. L. (2003). The art of deception: Controlling the human element of security. John Wiley & Sons.<br/><br />
+Moreira, L. S., Lunardi, G. M., de Oliveira Ribeiro, M., Silva, W., and Basso, F. P. (2023). A study of algorithm-based detection of fake news in brazilian election: Is bert the best. IEEE Latin America Transactions, 21(8):897–903.<br/><br />
+Nascimento, A., Gadelha, T., Monteiro, J. M., and Machado, J. (2023). Uma abordagem para detecçao automática de fraudes em aplicativos de mensagens instantâneas. In Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg), pages 251–264. SBC.<br/><br />
+Nielsen, J. (1994). Enhancing the explanatory power of usability heuristics. In Proceedings of the SIGCHI conference on Human Factors in Computing Systems, pages 152–158.<br/><br />
+NIST (2021). National institute of standards and technology - glossary. <a href="https://csrc.nist.gov/glossary/term/Cyber_threat"target="_blank">[link]</a>.<br/><br />
+Silva, M. L., Teodoro, E. F., and do Couto, D. P. (2024). Psicanálise e redes sociais: as dinâmicas de captura virtual do desejo e digitalização da subjetividade nas cenas do semiocapitalismo. Pretextos-Revista da Graduação em Psicologia da PUC Minas, 9(17):422–442.<br/><br />
+Souza, F., Nogueira, R., and Lotufo, R. (2020). Bertimbau: pretrained bert models for brazilian portuguese. In Brazilian conference on intelligent systems, pages 403–417. Springer.<br/><br />
+Tan, X. W., See, K., and Kok, S. (2024). Scamgpt-j: Inside the scammer’s mind, a generative ai-based approach toward combating messaging scams. arXiv preprint arXiv:2412.13528.<br/><br />
+Wang, Y., Yao, Q., Kwok, J. T., and Ni, L. M. (2020). Generalizing from a few examples: A survey on few-shot learning. ACM computing surveys (csur), 53(3):1–34.
+					</div>
+				</div>
+			
+		</div><!-- .main_entry -->
+
+		<div class="entry_details">
+
+						
+													<div class="item galleys">
+					<ul class="value galleys_links">
+													<li>
+								
+
+	
+		
+
+<a class="obj_galley_link pdf" href="https://sol.sbc.org.br/index.php/sbseg/article/view/44359/44122">
+
+		
+	PDF
+</a>							</li>
+											</ul>
+				</div>
+			
+							<div class="item published">
+					<div class="label">
+						Publicado
+					</div>
+					<div class="value">
+												01/09/2026
+											</div>
+				</div>
+			
+										<div class="item citation_formats">
+										<div class="sub_item citation_display">
+						<div class="label">
+							Como Citar
+						</div>
+						<div class="sub_item citation_format_options">
+							<div class="label">
+								</br>
+								Selecione um Formato
+							</div>
+							<div class="value">
+								<ul>
+																			<li class="AbntCitationPlugin current">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/AbntCitationPlugin" data-load-citation="true" target="_blank">ABNT</a>
+										</li>
+																			<li class="AcmCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/AcmCitationPlugin" data-load-citation="true" target="_blank">ACM</a>
+										</li>
+																			<li class="ApaCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/ApaCitationPlugin" data-load-citation="true" target="_blank">APA</a>
+										</li>
+																			<li class="BibtexCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/BibtexCitationPlugin" data-load-citation="true" target="_blank">BibTeX</a>
+										</li>
+																			<li class="CbeCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/CbeCitationPlugin" data-load-citation="true" target="_blank">CBE</a>
+										</li>
+																			<li class="EndNoteCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/EndNoteCitationPlugin" target="_blank">EndNote - formato Macintosh &amp; Windows</a>
+										</li>
+																			<li class="IeeeCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/IeeeCitationPlugin" data-load-citation="true" target="_blank">IEEE</a>
+										</li>
+																			<li class="MlaCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/MlaCitationPlugin" data-load-citation="true" target="_blank">MLA</a>
+										</li>
+																			<li class="ProCiteCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/ProCiteCitationPlugin" target="_blank">ProCite - formato RIS (Macintosh &amp; Windows)</a>
+										</li>
+																			<li class="RefWorksCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/RefWorksCitationPlugin" data-load-citation="true" target="_blank">RefWorks</a>
+										</li>
+																			<li class="TurabianCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/TurabianCitationPlugin" data-load-citation="true" target="_blank">Turabian</a>
+										</li>
+																			<li class="RefManCitationPlugin">
+																						<a href="https://sol.sbc.org.br/index.php/sbseg/article/cite/44359/RefManCitationPlugin" target="_blank">Reference Manager - formato RIS (somente para Windows)</a>
+										</li>
+																	</ul>
+							</div>
+						</div>
+					</div>
+																<div id="citationOutput" class="value">
+														NORÕES, Bruna Assis; 						ROCHA, Bianca Monsores da Silva; 						MOTTA, Rebeca.
+ VeritaPlugin: Uma Extensão de Navegador para Detecção Semântica de Fraudes no Facebook. <em>In</em>: SIMPÓSIO BRASILEIRO DE CIBERSEGURANÇA (SBSEG), 26.	, 2026, Armação dos Búzios/RJ.
+	 
+	<strong>Anais</strong> [...].
+ Porto Alegre: Sociedade Brasileira de Computação, 
+	2026
+.
+ p. 1292-1307. 
+		DOI: <a href="https://doi.org/10.5753/sbseg.2026.26924">https://doi.org/10.5753/sbseg.2026.26924</a>. 
+
+						</div>
+										</div>
+			
+			
+						
+															
+						
+			
+
+		</div><!-- .entry_details -->
+	</div><!-- .row -->
+
+</article>
+	<div id="articlesBySameAuthorList">
+						<h3>Artigos mais lidos do(s) mesmo(s) autor(es)</h3>
+
+			<ul>
+																													<li>
+													Lucca Sabbatini Rodrigues,
+													Rebeca Motta,
+													Vânia de Oliveira Neves,
+												<a href="https://sol.sbc.org.br/index.php/wei/article/view/43117">
+							 O Uso de IA Generativa no Ensino de Projeto de Software
+						</a>,
+						<a href="https://sol.sbc.org.br/index.php/wei/issue/view/1702">
+							Anais do Workshop sobre Educação em Computação (WEI): 2026: Anais do XXXIV Workshop sobre Educação em Computação
+						</a>
+					</li>
+							</ul>
+			<div id="articlesBySameAuthorPages">
+				
+			</div>
+			</div>
+
+</div><!-- .page -->
+
+
+	</div><!-- pkp_structure_main -->
+
+				
+					<div class="pkp_structure_sidebar left" role="complementary" aria-label="Barra lateral">
+				<div class="pkp_block block_language">
+	<span class="title">
+		Idioma
+	</span>
+
+	<div class="content">
+		<ul>
+							<li class="locale_pt_BR current">
+					<a href="https://sol.sbc.org.br/index.php/sbseg/user/setLocale/pt_BR?source=%2Findex.php%2Fsbseg%2Farticle%2Fview%2F44359">
+						Português (Brasil)
+					</a>
+				</li>
+							<li class="locale_en_US">
+					<a href="https://sol.sbc.org.br/index.php/sbseg/user/setLocale/en_US?source=%2Findex.php%2Fsbseg%2Farticle%2Fview%2F44359">
+						English
+					</a>
+				</li>
+					</ul>
+	</div>
+</div><!-- .block_language -->
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div id="pkp_content_footer" class="pkp_structure_footer_wrapper" role="contentinfo">
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<p><em>*O conteúdo publicado neste portal representa exclusivamente a opinião de seus autores e não necessariamente a posição da Sociedade Brasileira de Computação – SBC, seus colaboradores e associados. A SBC poderá adotar a qualquer tempo, e sem a necessidade de prévio aviso, a cobrança de uso e disponibilização da plataforma e seu conteúdo para não associados.</em><br><br></p>
+<p><a href="http://www.sbc.org.br" target="_blank"><img src="https://www.sbc.org.br/images/logo_sbc.png" alt="SBC Logo"></a></p>
+<div class="module-ct">
+<div class="contact-footer">
+<div class="row">
+<div class="col-xs-1 col-sm-1">Av. Bento Gonçalves, 9500 | Setor 4 | Prédio 43.412 | Sala 219 | Bairro Agronomia&nbsp;<br>Caixa Postal 15012 | CEP 91501-970<br>Porto Alegre - RS</div>
+</div>
+<div class="row">
+<div class="col-xs-1 col-sm-1">CNPJ: 29.532.264/0001-78</div>
+</div>
+<div class="row">
+<div class="col-xs-1 col-sm-1">Fone: (51) 99252-6018</div>
+</div>
+<div class="row">
+<div class="col-xs-11 col-sm-10">sbc@sbc.org.br</div>
+</div>
+</div>
+</div>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary" aria-label="Sobre este sistema de publicação">
+			<a href="https://sol.sbc.org.br/index.php/sbseg/about/aboutThisPublishingSystem">
+				<img alt="Open Journal Systems" src="https://sol.sbc.org.br/templates/images/ojs_brand.png">
+			</a>
+			<a href="http://pkp.sfu.ca/ojs">
+				<img alt="Public Knowledge Project" src="https://sol.sbc.org.br/lib/pkp/templates/images/pkp_brand.png">
+			</a>
+		</div>
+	</div>
+
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js" type="text/javascript"></script><script src="https://sol.sbc.org.br/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js" type="text/javascript"></script><script src="https://sol.sbc.org.br/plugins/themes/default/js/main.js" type="text/javascript"></script><script src="https://sol.sbc.org.br/js/plugins/citationFormats.js" type="text/javascript"></script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-172316539-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+</body>
+</html>

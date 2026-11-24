@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 46,
+    "text": "emprego alta contínuo detalhe descriçãor abaixo ⬇ ️",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "f3fdb98597929f27f2f1178d24830e823b1c84ef9fbf9cb139d976e03960bb82"
+  },
+  "call_id": "70c34eb5c395118e22df1f2edb1930196cebbe4ed675585fe17754bc0a4004c3",
+  "filtered": {
+    "Motivo": "O texto parece ter elementos típicos de uma promessa de ganho financeiro ilusório, como 'emprego alta' e 'detalhe descriçãor abaixo ⬇️', que podem ser estruturados para chamar a atenção e induzir a vítima a acreditar em uma oportunidade atraente. A forma do texto sugere uma tentativa de engajamento que segue o padrão de criar uma fachada de legitimidade para exploração futura de informações ou pagamentos antecipados que são típicos destes golpes.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 3. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto parece ter elementos típicos de uma promessa de ganho financeiro ilusório, como 'emprego alta' e 'detalhe descriçãor abaixo ⬇️', que podem ser estruturados para chamar a atenção e induzir a vítima a acreditar em uma oportunidade atraente. A forma do texto sugere uma tentativa de engajamento que segue o padrão de criar uma fachada de legitimidade para exploração futura de informações ou pagamentos antecipados que são típicos destes golpes.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista no Facebook/Messenger/Marketplace. 2. Preservar evidências: capturas de tela de todas as conversas, anúncios e comprovantes. 3. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

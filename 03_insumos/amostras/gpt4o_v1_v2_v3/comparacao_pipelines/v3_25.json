@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 25,
+    "text": "Sim, querido, esta é minha conta do Hangout[email protegido], podemos conversar lá???Gostaria de conhecê-lo melhor",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "14e5f9c473c742e5604031a6b5437f3a45c2944c4e8dc9baef325937984dfc59"
+  },
+  "call_id": "685470dae7675ff192786d015a5a1ebaa3cd4b9f6e671cdf29e3115368ed14e8",
+  "filtered": {
+    "Motivo": "O texto demonstra uma tática típica de um 'Golpe Baseado Em Relacionamento': uma tentativa de conexão intensa e romântica através de um meio de comunicação pessoal, evidenciado pelo convite para continuar a conversa em uma plataforma privada (Hangout). Isso se alinha com o modus operandi de criar um vínculo emocional rápido.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Denunciar o perfil falso usando as ferramentas do Facebook.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto demonstra uma tática típica de um 'Golpe Baseado Em Relacionamento': uma tentativa de conexão intensa e romântica através de um meio de comunicação pessoal, evidenciado pelo convite para continuar a conversa em uma plataforma privada (Hangout). Isso se alinha com o modus operandi de criar um vínculo emocional rápido.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Denunciar o perfil falso usando as ferramentas do Facebook."
+  }
+}

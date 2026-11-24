@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 52,
+    "text": "PROGRAMA DE COMÉRCIO COMPOUNDING SBLC Programa comercial composto SBLC/BG regulamentado pelas leis de Cingapura. Somente SBLC/BG, emitido pelos principais bancos do Canadá, Europa, Hong Kong e Cingapura. Moeda: $ USD, € Euro e £ Libra Esterlina. Contrato comercial de 12 meses, mínimo de 150 milhões de SBLC/BG a 5B. Cronograma de pagamento: Dois desembolsos, um em porcentagens mensais e um bruto no final de doze meses. no final de 12 meses.Requisito: KYC atual, Carta do Banco RWA para emitir FC SBLC / Cópia do SBLC emitido no Banco do Cliente a/c.Procedimento: Banco para Banco MT760 a ser entregue conforme instruções no Contrato Comercial; após a verificação, a negociação começa. O Cliente é reembolsado do custo do MT760 em 72 horas após a recepção; troca. Os fundos permanecem sob o controle do banco comercial durante toda a duração do investimento. O principal requisito é que o Cliente aceite e concorde com o nível de fundos na conta comercial durante a duração do programa (12 meses).E-mail de contato:[email protegido]",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 5",
+    "score": 0.92,
+    "sha256_text": "09c1533278598d479bc4e99f2407f570585b041f29f70db03a840d0e742c1308"
+  },
+  "call_id": "48c2ba493eac25ac555c2f2d9991ebc7d397e47f23cbf96b7b686060fff19e7d",
+  "filtered": {
+    "Motivo": "O texto apresenta uma proposta de investimento com promessa de retornos significativos (exemplo: \"programa comercial de 12 meses, mínimo de 150 milhões de SBLC/BG…\"). As características incluem requisitos técnicos complexos e linguagem de fachada financeira (exemplo: \"MT760\", \"Banco para Banco\") para criar uma aparência de legitimidade. Além disso, há solicitação de informações bancárias sensíveis implicadas (exemplo: \"KYC atual\", \"Carta do Banco RWA\"), típicos de esquemas que induzem vítimas a fornecer dados ou realizar transferências sob promessa de grande recompensa futura.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o e-mail ou contato suspeito. 2. Não forneça informações bancárias ou financeiras. 3. Preservar evidências: capturas de tela de todas as comunicações. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": true,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto apresenta uma proposta de investimento com promessa de retornos significativos (exemplo: \"programa comercial de 12 meses, mínimo de 150 milhões de SBLC/BG…\"). As características incluem requisitos técnicos complexos e linguagem de fachada financeira (exemplo: \"MT760\", \"Banco para Banco\") para criar uma aparência de legitimidade. Além disso, há solicitação de informações bancárias sensíveis implicadas (exemplo: \"KYC atual\", \"Carta do Banco RWA\"), típicos de esquemas que induzem vítimas a fornecer dados ou realizar transferências sob promessa de grande recompensa futura.",
+    "Base_Legal": "Art. 171 do Código Penal; Lei nº 14.155/2021",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o e-mail ou contato suspeito. 2. Não forneça informações bancárias ou financeiras. 3. Preservar evidências: capturas de tela de todas as comunicações. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

@@ -1,0 +1,131 @@
+linha_excel,sha256_texto,fold,real,predito,tipo
+15,9431932375a36d64f643ab4f5dcf9272a2d52923db7fdddfcd77770afa8d5a28,1,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+19,226b60d2381d13dce9cae4a712a4d2a111dd10faa4d67cc06f5d65c930265dc4,1,Golpes de Desinformação Digital,Golpes de Ganho Financeiro Ilusório,golpe→outro golpe
+26,8589542f4cbad6c5ccc96fe14e7183e9c42291bdf249e4e72ae2a34358d2dde9,1,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+27,4c563ac2c2c8e952e322b4c06fa027a85f1fd02c9495a58b9063b96bc90d89d0,1,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+89,088d643b8bdd567ee5fae72d76b40d5d27822b7c3861d3783f314a32bc503a24,1,Fraudes em Lojas Virtuais Falsas,Seguro,falso negativo (golpe→Seguro)
+109,4a49cafbd9f1958b77436e45bf36c21f9d77557dcbb8006846a13e40ac340bf7,1,Golpes Baseados Em Relacionamento,Seguro,falso negativo (golpe→Seguro)
+111,8caed6b33f841951519cb710e597e7298fab669c9fdce859ef6e5b34580db3ca,1,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento,golpe→outro golpe
+139,30dd4f9f2f7211ff622186086c78b81053ab2e31ca01e0e3b1a323fceaa45596,1,Fraudes em Lojas Virtuais Falsas,Golpes de Ganho Financeiro Ilusório,golpe→outro golpe
+142,570855b8c94bffab93b9aba759227ebe7bfad61c545fd87c11cdcbf40de44532,1,Seguro,Ataques de Phishing e Roubo de Dados,falso positivo (Seguro→golpe)
+144,31fee07a385bad37c279b4d3b034f91024d49e86ee23e1fb8fdb07f3db22cba1,1,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+145,9f5ec9f67c3bf52fe79a1ca9bc93c470cad34eed8cd6337177e0e811eb375b90,1,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+149,c0d863356e4c4c1a853a41e939b27efe3b7bcec9da8d6bebbfc0b37943f04b6a,1,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+167,14f0d8081162ac68fa7154ccef7d7344fe10c1d9ebfe7a33c09c70e841bec1bd,1,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+180,7824f7a416f9a4f32bdc4ac4188dedf2179b5ffb789aa4f25a833290cf4b232f,1,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento,golpe→outro golpe
+211,b021fd24a90e45b795dc086127e1e4b8f6f7c15cc59c08e7179b16dbbbf0a972,1,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+225,71e8b84fa50ba9dc5108ba66d486ff8c03c2343870eb912793750118a1bdf595,1,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+251,a7021af3b3342a3d7a8551792d665d18bf055c132b9bfde757b21802d760e12c,1,Ataques de Phishing e Roubo de Dados,Golpes Baseados Em Relacionamento,golpe→outro golpe
+283,43d97a6f6bf13f886d323a9de01f5d4b10400cc4b2ad4e98d9d818fd8c6fff60,1,Ataques de Phishing e Roubo de Dados,Seguro,falso negativo (golpe→Seguro)
+344,2f9893dbea8eed2d89f40b7c8ccd8fd02dd6cd5dd79d1f8b6bacff6d40db1498,1,Golpes de Desinformação Digital,Golpes de Ganho Financeiro Ilusório,golpe→outro golpe
+358,c08aa1b62a2845fe2da208c64a56e7adf602acb368a03b654f962b618d1c3b6f,1,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+385,4d634fb5c3afc9654e893cc988de53263e6dca134d8453dc0ac68c2992f15d4a,1,Golpes de Desinformação Digital,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+447,5b3a624d9a661659e51e2c8cd70ad762461c99cf0b314b3f5538adc798f40f81,1,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+10,d3b9508e4049e67af2973fc4285a17b8ea501267f9b776d863d66fd67ba6fb0d,2,Fraudes em Lojas Virtuais Falsas,Seguro,falso negativo (golpe→Seguro)
+11,92b0f15cdc819ef0b99a620cb4f29a956136cafc31dffb502a4db7fe8abc24d8,2,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+16,5741247ae4b3988523b4ef18946651f580c80799e79bc963ee352433179017f4,2,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+29,93529c63e220f2c77918e90fafef5980b3c21dd14b78847d44948bbd0777bf5e,2,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+32,984382144fa32c2703f1c8ac3266d64f05412c591345bd962d21a21af1969c13,2,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento,golpe→outro golpe
+38,caf809857b9254e9658f29cec10ce4515b57ecb3fc4031e7001a0c53cea9a291,2,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+39,70b50c06e7971037826943f51a394c18b3ba6da4579b9f89e807e5ca1623ddf4,2,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+46,94c296a8fa0869d7c6ca148173153b66ef8fe62a924acbf0ecf853801b8db4b7,2,Fraudes em Lojas Virtuais Falsas,Seguro,falso negativo (golpe→Seguro)
+49,b7f53954556ddd6d808c8533dd298c676e5f9d25d30a24934d83a11a70f0bf05,2,Fraudes em Lojas Virtuais Falsas,Seguro,falso negativo (golpe→Seguro)
+55,96a811019ea2ebb0b84ea253f893b35727fc552103c59b66a07a37d40acd90ec,2,Fraudes em Lojas Virtuais Falsas,Seguro,falso negativo (golpe→Seguro)
+130,f8d8f7c1dd515f4f0a0e72a94f2c66f6f762d4b586bd67cc494c035fe8e0a97c,2,Golpes Baseados Em Relacionamento,Seguro,falso negativo (golpe→Seguro)
+135,8bc54360c7b314118d498c9d1970a3b4fdc5d9bae1def4baac645d007669e134,2,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento,golpe→outro golpe
+220,46f69441947321a4d31a22a2bf39b86bcb2439c0fb720bad3a2743d6033d1193,2,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+221,497dedb37ebba1fe6c17e41d1c1db6d6c2804dfc0db961df3379bc391ffe7d04,2,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+240,b533c9ee90cafb0a3ca1d07226ebb5cc0f3eb756e2b66933887c8df81aca2581,2,Ataques de Phishing e Roubo de Dados,Seguro,falso negativo (golpe→Seguro)
+249,1ae4df6cfef4c41f2ede0ddc2caf39e59a8bd088c26419b371a44a2aeb2ab114,2,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital,golpe→outro golpe
+287,ba90710febdff612e339291def086e4ea7a6eb905c94744d4d5c0651351d17e4,2,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital,golpe→outro golpe
+348,efbc8e6b8fe48e57872965dfbe0e3d64941a97244b97be6eec7f07d9bf557d64,2,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+354,edfbb796027c0c3aa91e6e420f1a02cf3ae9768aa294e48f9c1a8a7a1e42b51c,2,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+355,d3ca13cc9d64beab036f4e728b96e867bed66c7098081d0327b8f1e00e2a1b4b,2,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+357,ec53e93e902656d1283981f2021328e11fdc27619d9906457d7407971ca3340f,2,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+391,f097bb310fce46f6e8e9d9cebf42f6a2d7a73bfd099f2ba5a11d68a12bada676,2,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+404,e6bcebbd172a9bdcc5dd5ff00ba0ea148aaa65b8749e9abd2b07aee4c8ca68c7,2,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+408,efccddb2edf2ee369adf4830736afa8ecbec3c88784fdfc8fee2559bbced963c,2,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+421,1427dae5a5f5c52d457259fd461e1faeaa3fea0ae37754ffb07fa93424ab109a,2,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+427,feec21a15e5e91a3be8fbc9788d1a4e5b97482be3aa1293231165389e23e6788,2,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+431,83f8955b744e715ee27f4952d7cc87bf097a25df7d59d45574037a4a330f479d,2,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+435,bc1ab4a733a474c09df8d139bd644b08342a325b5815f63cd8c5556f50ffd35b,2,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+444,5719c9e219d04cccfcb5665a1dd41455e13cad6d0866c62db6431add0f172f87,2,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+451,a958104a23ebdbc1b2c05043dc3ebbee4630ed6ca757cd3ead9e3c8e98bce24a,2,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+9,e1699deb61a4b9f238a5f4509dd1c8c74597daaa73786f31083c908a5150c674,3,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+17,5ea716c8d8e115a6454c9dd324d89630f40a451d87c78ca589543c50bd0ef0fd,3,Golpes de Desinformação Digital,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+25,7e1d8b38f01c71b2f0697c8ffbc795ac7090744cf58290e07467adf86126c7dd,3,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento,golpe→outro golpe
+34,10bb0492d9f599843bd81e288f7180f1ca6d3f1b2c571df664f8d75a34668df3,3,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+37,98984eeb6d84cba9b9d2b5a1dbbc7656655a201c2a42023ef5fc7e9345d3e217,3,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+88,6414842da181526efa2615aa2ee7e217e9adbe1fe80fbfde45f843b6cd34cda9,3,Fraudes em Lojas Virtuais Falsas,Golpes de Ganho Financeiro Ilusório,golpe→outro golpe
+126,d8843dc9fe5f4215b3cbd4eeb3d4c9200603c6c2aab40cdfbbc11af8e9985463,3,Golpes Baseados Em Relacionamento,Seguro,falso negativo (golpe→Seguro)
+138,94e5d42acbf06b212d675a4ac88c84b20e2455d7fda41c0040ae66d4a5109c9c,3,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento,golpe→outro golpe
+141,fe41fb9450857ce0e507e601a2caa5d091a1b72d81f616ccedab07aba2e6258f,3,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+150,ce6b970ca01728842b21e2835e25f1e8a6a20dbc386851864d95a569c686e875,3,Golpes Baseados Em Relacionamento,Golpes de Desinformação Digital,golpe→outro golpe
+182,29185463a1be5be8bb6af879251cfcb695dcec9ac89d6a62b1651c7bddb10ef1,3,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento,golpe→outro golpe
+195,9fa3fe676aacca5e21c7a2a3f9c10f94a00eef716fe0e739f0d528731ba1bf98,3,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital,golpe→outro golpe
+205,7d6336c4d8063644a67a26f08fc0ae7e88092e0837cfc4a943539ce5e847b7e4,3,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital,golpe→outro golpe
+206,fe040820aecb68869aa0a17de58a687338d8770d6a053079c1dc43164e0c303a,3,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital,golpe→outro golpe
+215,cfb315ddde27495c4cfcf90fb3ddb5e44bb6c908feb1a75afaffeabb6fbb46ae,3,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+216,9a5c2cf4fb7e620df2e01a72405cfabc1d08124a18cc62a3eb43eb88ca490f11,3,Seguro,Ataques de Phishing e Roubo de Dados,falso positivo (Seguro→golpe)
+219,0b6c63ba7caa6c50144a58529b04949e2a92587d51af6ae27693d70d0efd5a79,3,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+227,1e79df1b83a360a8ace193d68c3311401fc29a28600c720a9721b1b864b43fd0,3,Ataques de Phishing e Roubo de Dados,Golpes Baseados Em Relacionamento,golpe→outro golpe
+261,e51d63ea8a7ac2feac1f36f7f699f4a147d00d4c6926235501b51d2021c4b339,3,Ataques de Phishing e Roubo de Dados,Golpes Baseados Em Relacionamento,golpe→outro golpe
+288,eff9d34bce2ffcb01ad3ecd731214c007a6f021e1e95559d24b9615b30afaa99,3,Ataques de Phishing e Roubo de Dados,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+347,b63cc163140e970054722e83975463c4a70b20f632f8f4efff6ad6ab31684641,3,Golpes de Desinformação Digital,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+389,21fd976c953f555bc739ccc61d7da579e9523d65376af232df3f2dda76e2ede4,3,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+396,7eb64f8fc6942fa43d0c8f594e56d33f30a491559737fd292a0a2c90a392c497,3,Golpes de Desinformação Digital,Golpes Baseados Em Relacionamento,golpe→outro golpe
+401,07afc6abb868e0f8c025181af321ccb64cd21212279bb153183666156cfce5f5,3,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+419,bdaecda9ddbe51c9b10c047ad03030b7602e0a7d6ddb4c55c14aaecd66ed289d,3,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+422,b6d179e2914cba6299a91e95512f548729a996360b11dceb46de2f4044677fd3,3,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+423,5198a95a33e762192773f72f0957d4c88733010fb5ff9cf75603655112d3e4c9,3,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+433,713083086c17f912f39d19b60ea657aba8c3a740d69a6ba3995f037fbde100a5,3,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+12,ecd5f21db2c12fc628a6d25d0f845166f4fa121ca90ab4aa81c17a90650ed89b,4,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+31,713609b355fa0b081679427ab2c98dd92e0238391f662831bf23e7fa4d264103,4,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+63,457497d9f98ab6ac361992c86ab4485a77d25d3943576e15e3bbbec4299d98c4,4,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+79,e7f9c0e16a49701e2d68618b6737090b37893820ba13c4a7cd9c504a28c096dc,4,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+80,af03b11a08007b2030f9324e4995183140a39b44ddbb986dd7789f82e424870a,4,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+87,50ed9fda12697cf42335fbbb0a6b008ebfd0ba268011cb1a5e768e494a3d13b9,4,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento,golpe→outro golpe
+93,ba32982cb300a438361d8d5567b6bcdfa6621d23c504d57c46537b062b4af9a2,4,Seguro,Ataques de Phishing e Roubo de Dados,falso positivo (Seguro→golpe)
+105,c2dff7c957d1a354c63af36f187876538b26337c329df69198a4a3402759829e,4,Fraudes em Lojas Virtuais Falsas,Golpes de Ganho Financeiro Ilusório,golpe→outro golpe
+143,5fa843c004555d0c5d7cfdcb4f9a78a24dac48e182d584fbf21ff6013b43d804,4,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+188,65c2ad00c6ad343232a078508b6396a2d8735d5ce869d7197effa95898307821,4,Fraudes em Lojas Virtuais Falsas,Golpes Baseados Em Relacionamento,golpe→outro golpe
+226,38af41b032fc92738fcd63e8446585ecafafb35aaf8cdbafaff148e988cb380e,4,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+270,66558c5b714cd3e2c5c6a794c35643a93ff491d260dc431bd81c7a0a60256fea,4,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital,golpe→outro golpe
+271,2c71d395ac364ce631340beb6e9c56fb56c6dbc90497cb6300ca5c266a0f937b,4,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital,golpe→outro golpe
+272,a54f8ac43e34af173bfcf7def7b4bd9adb9530852522709873b5ddf541006774,4,Ataques de Phishing e Roubo de Dados,Golpes de Desinformação Digital,golpe→outro golpe
+351,df6997facd89fa0f7e8c3805d4ffb19a62fea0533356cf415171e1c0e14f4c9f,4,Golpes de Desinformação Digital,Golpes Baseados Em Relacionamento,golpe→outro golpe
+361,8ec2b453d24f4a8c054958526184172c2928194f32d22e9caee937536a14fea7,4,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+370,9a8d6ab327ec7bfda4017d077178da4e3b87d9fb0a7da49ddc7e6cf6d51fadb2,4,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+373,9e1ce090ba5684524c108d14c506326477642bd8c1c83da63979a33db074aa2d,4,Golpes de Desinformação Digital,Golpes Baseados Em Relacionamento,golpe→outro golpe
+378,f9e5b49125346c912818319c63b9e275e02ca72564b0e03303f78ccbd61e3402,4,Golpes de Desinformação Digital,Golpes de Ganho Financeiro Ilusório,golpe→outro golpe
+394,8d0dbbd2d33b9eeab7745109bf31f091a2bc0b06f2bb9ded3c0f1d90d7431a1e,4,Golpes de Desinformação Digital,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+424,5816164e3556464a24f483080325dedfe71de1c2a3a73157b856da01b45db582,4,Seguro,Golpes de Ganho Financeiro Ilusório,falso positivo (Seguro→golpe)
+432,28450d7f02bcf0ef93933436a2d3e2c522dc33ca7ad4c975f488dc0f701f3688,4,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+448,bd5fba690f5f797fe340345fa9e4dd4e96d2c1f68f21b6ec046b9773b40e6608,4,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+449,1fb61635f7bdc91c05846daad3b5a387e2ac34747fcd4edfea3179c700ba848e,4,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+8,7aff6fcf8eb2b3d59c850578a2064ae7497066dcc20af8b4638b9cce5463ab4d,5,Fraudes em Lojas Virtuais Falsas,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+20,a62f8abf4ba0a4abe0655107a56bfd77760cc4b8b7bf1690fb1790c5c42d4798,5,Golpes de Ganho Financeiro Ilusório,Golpes Baseados Em Relacionamento,golpe→outro golpe
+21,82fdd24a92a905eeb893d3531d1f496aa51af4aa199c20cf59a121764f5b95cd,5,Golpes de Ganho Financeiro Ilusório,Golpes de Desinformação Digital,golpe→outro golpe
+23,76ce7384ce1ef039fe4b74702c1a404bd6ff97786e13bb83e80370c2b0a90c62,5,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+44,a3a9f6cb99145fbf29c11a9175ebb76605bb9370448175fc33c0c0b91ad4be38,5,Fraudes em Lojas Virtuais Falsas,Golpes de Desinformação Digital,golpe→outro golpe
+117,ba2a2191b9ed6a92eaff037f64ca6d8b08faf7793a44aeef84070bbda7027957,5,Golpes de Ganho Financeiro Ilusório,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+120,7e46591c646d83fb7c04b672c205995413e685fc753ea64c650672cf40d8c5a3,5,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+164,45cb4b8e15e345c1d0c2e6c55b23f26fc1c7670c325a7fba98455721a02639bb,5,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+166,36b7db984c80cef929de261358a7cc386e57edfca25deb158563bf2c35dab00d,5,Seguro,Golpes Baseados Em Relacionamento,falso positivo (Seguro→golpe)
+171,8c77b4a8eda96b0f2510e16571324f718a0cd9a4afd352f740a13c623b8ea3ea,5,Golpes de Ganho Financeiro Ilusório,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+212,b92df2ab95483c78913ac5075252fb9c9a7f431cd6f61c2e9663c2d5f1313b9e,5,Seguro,Ataques de Phishing e Roubo de Dados,falso positivo (Seguro→golpe)
+218,d21eb821184a153219a85b6b197f2a8a1c776d675f85ea0b7bab6b279ae78b71,5,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+262,1692dae9b7aa81922f2869b3e8e1f5d83252eb3e3ca962c9bc749af7393e805c,5,Ataques de Phishing e Roubo de Dados,Seguro,falso negativo (golpe→Seguro)
+273,502f1405848d2931ee0c59997849b527ce5af5b53a0974b7750177865e675c37,5,Ataques de Phishing e Roubo de Dados,Golpes de Ganho Financeiro Ilusório,golpe→outro golpe
+274,47bab5682405ea18db2c25cd810f7da5bdb8c4a9138a940c339263644c65f89b,5,Ataques de Phishing e Roubo de Dados,Fraudes em Lojas Virtuais Falsas,golpe→outro golpe
+301,a64ff3e2042a20895b6ba2dab27af2ac225ac4267dff2e8a1c15938dac76e693,5,Golpes Baseados Em Relacionamento,Ataques de Phishing e Roubo de Dados,golpe→outro golpe
+403,c120a70bc822a6d76cf8f5236b13833cd2bfdd5b342f5e352bc6f7176601c306,5,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+406,2c6642d5b4458c17cc9eb6079e62dfdb670b1f571bb2b7b3f3f255d15c97b3f0,5,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+410,01bc3dd652581a5ec2082060b592ede24dc198b8aad99f31bdc9fa1055858080,5,Golpes de Desinformação Digital,Seguro,falso negativo (golpe→Seguro)
+417,0d4a61eeaf99cf080c2d46becf03af810d2da9ecdcd2ac7b1381edcce1bc2fe9,5,Seguro,Fraudes em Lojas Virtuais Falsas,falso positivo (Seguro→golpe)
+418,429b9863242f8f992cb4a7c76fa99436be7aac8e7112bcc407eeede69af97f42,5,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+420,fa2b0ac9953c087c7706929158920ad9a67e2898b05d41ae4eb08207efb36fc1,5,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+429,3b53353607b77014cffd51c03db39e8025a301c9ab95aeeddcf15f9e24e20388,5,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+437,7d6a7d9da857cedbb5e38cf977c9643b08c55eac59938c773419ffa266096544,5,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+443,aaf248d55de76ccdd949642f540039b803d15ec14ae5635410c7da7f7867311d,5,Seguro,Golpes de Desinformação Digital,falso positivo (Seguro→golpe)
+445,defa9599642a776333a38196bcdaa512d20bbf37eb84797b1960c780eb7d179a,5,Seguro,Golpes de Ganho Financeiro Ilusório,falso positivo (Seguro→golpe)

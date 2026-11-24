@@ -1,0 +1,15 @@
+{
+  "message": "Olá querido, como você está hoje, como está o tempo aí, se você estiver interessado, me chame no WhatsApp +1 (713) 301‑1761",
+  "category": "Golpes Baseados Em Relacionamento",
+  "score": 0.4822,
+  "bert_seconds": 0.19046213299589,
+  "gpt_seconds": 3.46978812499583,
+  "call_id": "1fc06885543df485dca7f379e520d682d2f63e628ea83ee65812500a441ba1ae",
+  "filtered": {
+    "Motivo": "O texto apresenta uma abordagem inicial que é típica de golpes baseados em relacionamento, onde uma pessoa desconhecida utiliza uma mensagem genérica e um toque afetivo ('Olá querido') para iniciar uma comunicação que visa estabelecer uma ligação emocional. Em seguida, a mensagem inclui um convite para se conectar via WhatsApp, uma plataforma mais pessoal e geralmente utilizada para criar vínculos mais estreitos. Esse comportamento é característico de tentativas de iniciar uma interação sob pretextos afetivos, que podem posteriormente evoluir para um pedido de ajuda financeira ou um pedido de envio de conteúdos íntimos.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. Registrar B.O. na delegacia de crimes cibernéticos — especialmente crucial em casos de extorsão com imagens íntimas.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  }
+}

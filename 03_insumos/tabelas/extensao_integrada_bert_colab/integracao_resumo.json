@@ -1,0 +1,83 @@
+{
+  "successful_cases": 6,
+  "predicted_categories_covered": 6,
+  "results": [
+    {
+      "case_id": 0,
+      "category": "Seguro",
+      "corpus_label": "Golpes Baseados Em Relacionamento",
+      "score": 0.2883,
+      "bert_seconds": 0.9702888109968626,
+      "gpt_seconds": 3.4629210850034724,
+      "click_to_modal_seconds": 4.52649178700085,
+      "output_tokens": 70,
+      "model": "gpt-4o-2024-08-06",
+      "custo_usd": 0.0034800000000000005
+    },
+    {
+      "case_id": 1,
+      "category": "Ataques de Phishing e Roubo de Dados",
+      "corpus_label": "Fraudes em Lojas Virtuais Falsas",
+      "score": 0.3274,
+      "bert_seconds": 0.23559869000018807,
+      "gpt_seconds": 3.4188729400048032,
+      "click_to_modal_seconds": 3.7237977689947,
+      "output_tokens": 176,
+      "model": "gpt-4o-2024-08-06",
+      "custo_usd": 0.0062050000000000004
+    },
+    {
+      "case_id": 2,
+      "category": "Golpes de Desinformação Digital",
+      "corpus_label": "Golpes de Desinformação Digital",
+      "score": 0.4082,
+      "bert_seconds": 0.21948685200186446,
+      "gpt_seconds": 2.4012689320006757,
+      "click_to_modal_seconds": 2.686161992001871,
+      "output_tokens": 167,
+      "model": "gpt-4o-2024-08-06",
+      "custo_usd": 0.00587
+    },
+    {
+      "case_id": 3,
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "corpus_label": "Golpes de Ganho Financeiro Ilusório",
+      "score": 0.6493,
+      "bert_seconds": 0.2013883679974242,
+      "gpt_seconds": 2.655600826998125,
+      "click_to_modal_seconds": 2.93514841599972,
+      "output_tokens": 151,
+      "model": "gpt-4o-2024-08-06",
+      "custo_usd": 0.0057375
+    },
+    {
+      "case_id": 4,
+      "category": "Golpes Baseados Em Relacionamento",
+      "corpus_label": "Golpes Baseados Em Relacionamento",
+      "score": 0.4822,
+      "bert_seconds": 0.19046213299589,
+      "gpt_seconds": 3.464764415002719,
+      "click_to_modal_seconds": 3.703498226997908,
+      "output_tokens": 234,
+      "model": "gpt-4o-2024-08-06",
+      "custo_usd": 0.006880000000000001
+    },
+    {
+      "case_id": 5,
+      "category": "Fraudes em Lojas Virtuais Falsas",
+      "corpus_label": "Fraudes em Lojas Virtuais Falsas",
+      "score": 0.3122,
+      "bert_seconds": 0.2227604700019583,
+      "gpt_seconds": 2.5217056030014646,
+      "click_to_modal_seconds": 2.825758737999422,
+      "output_tokens": 163,
+      "model": "gpt-4o-2024-08-06",
+      "custo_usd": 0.005812500000000001
+    }
+  ],
+  "new_model": true,
+  "api_contract_verified": true,
+  "real_key_in_backend_only": true,
+  "profile_removed": true,
+  "new_cost_usd": 0.033985
+}

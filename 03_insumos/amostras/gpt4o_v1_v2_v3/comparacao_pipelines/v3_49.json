@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 49,
+    "text": "para informação sobre plataforma investimento iniciar investimento conosco contato adrianafxtdr",
+    "category": "Golpes de Ganho Financeiro Ilusório",
+    "dataset": "Externo 4",
+    "score": 0.92,
+    "sha256_text": "aad1f8a782d4686372b9aed7ee67ca79a06e11ea2ef86d48180952e0ecc74455"
+  },
+  "call_id": "4ed926de9554c7d2b576987d0b505c77b431cc9986b209ae725f2d759e199c0e",
+  "filtered": {
+    "Motivo": "O texto oferece informações sobre uma plataforma de investimento, sugerindo a oportunidade de iniciar um investimento financeiramente atrativo. A menção específica ao contato \"adrianafxtdr\" sugere que pode haver um perfil ou identidade falsa associado à operação, caracterizando um golpe que explora possíveis ganhos financeiros para induzir a vítima a investir.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 307 do Código Penal (Falsa Identidade)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista, se identificado, como 'adrianafxtdr'. 2. Se algum valor já foi transferido ou se dados sensíveis foram fornecidos, contate sua instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas ou quaisquer comunicações relacionadas. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes de Ganho Financeiro Ilusório",
+    "Motivo": "O texto oferece informações sobre uma plataforma de investimento, sugerindo a oportunidade de iniciar um investimento financeiramente atrativo. A menção específica ao contato \"adrianafxtdr\" sugere que pode haver um perfil ou identidade falsa associado à operação, caracterizando um golpe que explora possíveis ganhos financeiros para induzir a vítima a investir.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 307 do Código Penal (Falsa Identidade)",
+    "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o perfil ou página golpista, se identificado, como 'adrianafxtdr'. 2. Se algum valor já foi transferido ou se dados sensíveis foram fornecidos, contate sua instituição financeira imediatamente para contestação e congelamento cautelar. 3. Preservar evidências: capturas de tela de todas as conversas ou quaisquer comunicações relacionadas. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+  }
+}

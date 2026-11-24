@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 14,
+    "text": "Números grandes e fáceis de ler, a única coisa que não gostei foi o tamanho do",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Externo 6",
+    "score": 0.92,
+    "sha256_text": "5cde7e5e8bfbaf94467fa8e2554c6111ed0175d512fcd9d43186000ec01117ad"
+  },
+  "call_id": "c1c48768678b2997422468385a29c7d46855e74594884fa96cca47b950b18449",
+  "filtered": {
+    "Motivo": "A classificação de 'Fraudes em Lojas Virtuais Falsas' parece errônea, pois o texto analisado não contém detalhes sobre e-commerce, ofertas irreais, coletas de dados indevidos ou elementos que caracterizem infrações relacionadas a lojas falsas.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "A classificação de 'Fraudes em Lojas Virtuais Falsas' parece errônea, pois o texto analisado não contém detalhes sobre e-commerce, ofertas irreais, coletas de dados indevidos ou elementos que caracterizem infrações relacionadas a lojas falsas.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook."
+  }
+}

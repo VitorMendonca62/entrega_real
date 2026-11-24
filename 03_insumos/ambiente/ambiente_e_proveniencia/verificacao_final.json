@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-10-20T17:56:07.434172+00:00",
+  "pptx": {
+    "slides": 15,
+    "notas": 15,
+    "graficos": 1
+  },
+  "originais": [
+    {
+      "repo": "evolucao-prompt-RAG",
+      "tracked_diff": ""
+    },
+    {
+      "repo": "Treinamento_TF-IDF-SVM",
+      "tracked_diff": ""
+    },
+    {
+      "repo": "ConteudoExtraVeritaPlugin",
+      "tracked_diff": ""
+    },
+    {
+      "repo": "treinamento-BERTimbau",
+      "tracked_diff": ""
+    },
+    {
+      "repo": "VeritaPlugin",
+      "tracked_diff": ""
+    },
+    {
+      "repo": "ReplicaTesteFacebook",
+      "tracked_diff": ""
+    }
+  ],
+  "revisao_visual": "15 slides renderizados e inspecionados; gr\u00e1fico e imagem corrigidos"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "d1cd7d626c8f9f6e4b53e11f415b791de4c66eea3a142416e064b5cbafab54e1",
+  "experiment": "comparacao_prompts",
+  "version": "v2",
+  "case_id": 13,
+  "sha256_text": "a114512fe0ecd56b179365ed91d86106f2a926d284fd9453bf940097046cbe88",
+  "reserved_usd": 0.18781750000000003,
+  "input_token_bound": 9591,
+  "output_token_bound": 16384,
+  "utc": "2026-10-20T20:57:53.873918+00:00",
+  "request": {
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Você é um especialista em Cibersegurança e Direito Digital brasileiro.\n\nSua função é analisar textos classificados como golpes em redes sociais e gerar uma resposta estruturada para alertar e orientar a vítima.\n\nREGRAS OBRIGATÓRIAS:\n1. Use EXCLUSIVAMENTE as informações da BASE DE CONHECIMENTO fornecida. Não invente leis, artigos ou ações que não estejam no contexto.\n2. O campo \"Motivo\" deve explicar QUAIS elementos do texto analisado indicam o golpe identificado — seja específico e cite trechos ou características observadas.\n3. O campo \"Base_Legal\" deve listar APENAS as leis e artigos presentes na base de conhecimento desta categoria, sem inventar referências.\n4. O campo \"Acoes_Recomendadas\" deve seguir a ordem de prioridade da base de conhecimento, adaptando o texto ao contexto específico da mensagem.\n5. Se a categoria for \"Seguro\", retorne o JSON com campos vazios e Acoes_Recomendadas = \"Verifique a informação em fontes confiáveis antes de compartilhar.\"\n6. Responda EXCLUSIVAMENTE com o JSON abaixo, sem texto adicional, markdown ou explicações fora do JSON.\n7. Se o texto analisado não contiver elementos que caracterizem um crime ou conduta ilícita, o campo \"Base_Legal\" deve ser retornado vazio (\"\"), mesmo que a categoria possua leis associadas na base de conhecimento."
+      },
+      {
+        "role": "user",
+        "content": "BASE DE CONHECIMENTO:\nCATEGORIA IDENTIFICADA: Fraudes em Lojas Virtuais Falsas\n\nDEFINIÇÃO:\nUso malicioso da infraestrutura de vendas das redes sociais (como o Marketplace) para atrair consumidores com ofertas irreais, clonando muitas vezes a identidade visual de marcas legítimas. A finalidade é receber o pagamento sem entrega do produto ou capturar dados bancários durante o falso processo de compra.\n\nMODUS OPERANDI:\nCriação de loja ou perfil falso com fotos roubadas de produtos → preço abaixo do mercado → pressão para pagamento via Pix ou boleto → desaparecimento após receber o pagamento, ou coleta de dados de cartão em checkout falso.\n\nLEGISLAÇÃO APLICÁVEL:\n  • Art. 171 do Código Penal (Estelionato)\n    Tipo: crime patrimonial\n    Descrição: Obtenção de vantagem ilícita ao enganar outra pessoa.\n    Aplicação neste caso: Venda de produto que não será entregue, falso boleto, e-commerce fantasma.\n    Pena prevista: Reclusão de 1 a 5 anos, além de multa.\n\n  • Lei nº 14.155/2021 (Fraude Eletrônica)\n    Tipo: crime digital\n    Descrição: Trata fraudes cometidas em ambiente digital, aumentando penas.\n    Aplicação neste caso: Lojas falsas no Marketplace, phishing em checkout, clonagem de sites.\n    Pena prevista: Pode chegar a 8 anos de reclusão.\n\n  • Código de Defesa do Consumidor (CDC)\n    Tipo: proteção ao consumidor\n    Descrição: Protege contra propaganda enganosa e garante direito de arrependimento em compras online.\n    Aplicação neste caso: Anúncios com informações falsas, produto inexistente, oferta enganosa.\n    Pena prevista: Multas, indenizações e sanções administrativas.\n\n  • LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)\n    Tipo: proteção de dados\n    Descrição: Regula coleta e uso de dados pessoais; exige consentimento e transparência.\n    Aplicação neste caso: Coleta abusiva de dados de cartão em checkout falso, vazamento de CPF/e-mail.\n    Pena prevista: Multas de até 2% do faturamento; bloqueio ou exclusão de dados.\n\nANÁLISE JURÍDICA CONSOLIDADA:\nA responsabilização penal apoia-se no Estelionato (Art. 171) e na Fraude Eletrônica (Lei 14.155/2021), punindo e-commerces fantasmas que capturam pagamentos sem intenção de entregar a mercadoria. O CDC é o pilar de defesa contra publicidade enganosa e oferta fraudulenta em redes sociais. A LGPD resguarda consumidores contra coleta abusiva de dados cadastrais e de cartão inseridos em formulários de checkout fraudulentos.\n\nAÇÕES RECOMENDADAS À VÍTIMA:\n  1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook.\n  2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão.\n  3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento.\n  4. Registrar B.O. formalizando o crime de estelionato digital.\n\n---\n\nTEXTO ANALISADO:\n\"\"\"Estes parecem lindos e tão legais. O único problema é que não é realmente uma malha.\"\"\"\n\nCLASSIFICAÇÃO DO MODELO BERTimbau:\n  Categoria  : Fraudes em Lojas Virtuais Falsas\n  Confiança  : 92% (ALTA (≥ 0,85))\n\n---\n\nCom base EXCLUSIVAMENTE na BASE DE CONHECIMENTO acima, gere o JSON abaixo:\n\n{\n  \"Categoria\": \"Fraudes em Lojas Virtuais Falsas\",\n  \"Motivo\": \"<explique quais elementos do texto indicam esta categoria de golpe>\",\n  \"Base_Legal\": \"<liste os artigos e leis aplicáveis conforme a base de conhecimento>\",\n  \"Acoes_Recomendadas\": \"<liste as ações recomendadas adaptadas ao contexto desta mensagem>\"\n}"
+      }
+    ],
+    "response_format": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-EbBC6eGWDRhDgTqnRSDj5YZWW5TPQ",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "{\"Categoria\":\"Fraudes em Lojas Virtuais Falsas\",\"Motivo\":\"Apesar da mensagem ser vaga, a classificação e confiança do modelo indicam alta probabilidade de associação a 'Fraudes em Lojas Virtuais Falsas'. A descrição de produtos como 'lindos e tão legais' sem especificidade, pode ser característica de anúncios falsos que usam descrições genéricas para atrair consumidores. A ausência de informações específicas e o contexto de uma potencial oferta online ajudam a classificar essa mensagem nessa categoria.\",\"Base_Legal\":\"Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Código de Defesa do Consumidor (CDC), LGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018)\",\"Acoes_Recomendadas\":\"1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook. 2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão. 3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento. 4. Registrar B.O. formalizando o crime de estelionato digital.\"}",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1792529874,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "metadata": null,
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": "fp_d44a43dee5",
+    "usage": {
+      "completion_tokens": 262,
+      "prompt_tokens": 1233,
+      "total_tokens": 1495,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0,
+        "text_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": null,
+        "cached_tokens": 0,
+        "image_tokens": null,
+        "text_tokens": null
+      }
+    }
+  },
+  "cost_usd_upper_ignoring_cache": 0.005702500000000001,
+  "status": "complete",
+  "seconds": 3.3322453509972547
+}

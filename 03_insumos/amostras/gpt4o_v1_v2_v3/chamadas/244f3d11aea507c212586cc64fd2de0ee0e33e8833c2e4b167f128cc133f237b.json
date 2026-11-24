@@ -1,0 +1,103 @@
+{
+  "id": "244f3d11aea507c212586cc64fd2de0ee0e33e8833c2e4b167f128cc133f237b",
+  "experiment": "comparacao_prompts",
+  "version": "v2",
+  "case_id": 77,
+  "sha256_text": "e7f9c0e16a49701e2d68618b6737090b37893820ba13c4a7cd9c504a28c096dc",
+  "reserved_usd": 0.18117000000000003,
+  "input_token_bound": 6932,
+  "output_token_bound": 16384,
+  "utc": "2026-10-20T21:03:26.511655+00:00",
+  "request": {
+    "model": "gpt-4o",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Você é um especialista em Cibersegurança e Direito Digital brasileiro.\n\nSua função é analisar textos classificados como golpes em redes sociais e gerar uma resposta estruturada para alertar e orientar a vítima.\n\nREGRAS OBRIGATÓRIAS:\n1. Use EXCLUSIVAMENTE as informações da BASE DE CONHECIMENTO fornecida. Não invente leis, artigos ou ações que não estejam no contexto.\n2. O campo \"Motivo\" deve explicar QUAIS elementos do texto analisado indicam o golpe identificado — seja específico e cite trechos ou características observadas.\n3. O campo \"Base_Legal\" deve listar APENAS as leis e artigos presentes na base de conhecimento desta categoria, sem inventar referências.\n4. O campo \"Acoes_Recomendadas\" deve seguir a ordem de prioridade da base de conhecimento, adaptando o texto ao contexto específico da mensagem.\n5. Se a categoria for \"Seguro\", retorne o JSON com campos vazios e Acoes_Recomendadas = \"Verifique a informação em fontes confiáveis antes de compartilhar.\"\n6. Responda EXCLUSIVAMENTE com o JSON abaixo, sem texto adicional, markdown ou explicações fora do JSON.\n7. Se o texto analisado não contiver elementos que caracterizem um crime ou conduta ilícita, o campo \"Base_Legal\" deve ser retornado vazio (\"\"), mesmo que a categoria possua leis associadas na base de conhecimento."
+      },
+      {
+        "role": "user",
+        "content": "BASE DE CONHECIMENTO:\nCATEGORIA IDENTIFICADA: Seguro\n\nDEFINIÇÃO:\nConteúdo que não apresenta indícios de engenharia social, fraude ou intenção maliciosa.\n\nMODUS OPERANDI:\nNão aplicável.\n\nLEGISLAÇÃO APLICÁVEL:\nANÁLISE JURÍDICA CONSOLIDADA:\nNão é considerado crime. Nenhuma base legal aplicável.\n\nAÇÕES RECOMENDADAS À VÍTIMA:\n  1. Nenhuma ação necessária.\n\n---\n\nTEXTO ANALISADO:\n\"\"\"SUPOSTO PAREDÃO 🔥\nQuem você elimina?\n🤔🤔😯😲\"\"\"\n\nCLASSIFICAÇÃO DO MODELO BERTimbau:\n  Categoria  : Seguro\n  Confiança  : 92% (ALTA (≥ 0,85))\n\n---\n\nCom base EXCLUSIVAMENTE na BASE DE CONHECIMENTO acima, gere o JSON abaixo:\n\n{\n  \"Categoria\": \"Seguro\",\n  \"Motivo\": \"<explique quais elementos do texto indicam esta categoria de golpe>\",\n  \"Base_Legal\": \"<liste os artigos e leis aplicáveis conforme a base de conhecimento>\",\n  \"Acoes_Recomendadas\": \"<liste as ações recomendadas adaptadas ao contexto desta mensagem>\"\n}"
+      }
+    ],
+    "response_format": {
+      "type": "json_schema",
+      "json_schema": {
+        "name": "resultado_analise",
+        "strict": true,
+        "schema": {
+          "type": "object",
+          "properties": {
+            "Categoria": {
+              "type": "string"
+            },
+            "Motivo": {
+              "type": "string"
+            },
+            "Base_Legal": {
+              "type": "string"
+            },
+            "Acoes_Recomendadas": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Categoria",
+            "Motivo",
+            "Base_Legal",
+            "Acoes_Recomendadas"
+          ],
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-EbBHTmMW2sMeUwvJpGJwA7F0J6oF6",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "{\"Categoria\":\"Seguro\",\"Motivo\":\"O texto 'SUPOSTO PAREDÃO 🔥 Quem você elimina? 🤔🤔😯😲' não apresenta indícios de engenharia social, fraude ou intenção maliciosa. Apresenta-se como uma pergunta ou enquete sem qualquer promessa enganosa ou solicitação de dados pessoais.\",\"Base_Legal\":\"\",\"Acoes_Recomendadas\":\"Verifique a informação em fontes confiáveis antes de compartilhar.\"}",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1792530207,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "metadata": null,
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": "fp_4c910a9acf",
+    "usage": {
+      "completion_tokens": 92,
+      "prompt_tokens": 625,
+      "total_tokens": 717,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0,
+        "text_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": null,
+        "cached_tokens": 0,
+        "image_tokens": null,
+        "text_tokens": null
+      }
+    }
+  },
+  "cost_usd_upper_ignoring_cache": 0.0024825000000000003,
+  "status": "complete",
+  "seconds": 2.0472478960000444
+}

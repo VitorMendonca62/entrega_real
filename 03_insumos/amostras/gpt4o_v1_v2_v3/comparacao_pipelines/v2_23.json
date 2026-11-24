@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "sample": {
+    "case_id": 23,
+    "text": "iphone 15\nR$1.500\nAnunciado Há um dia em Duque de Caxias, RJ\nDetalhes\nCondição\nUsado — em boas condições\nvendo iphone 15 estado de novo \nNÃO PEGA CHIP!!!!!!!!! NÃO SEI SE PEGA O VIRTUAL EU NÃO TENTEI COLOCAR !",
+    "category": "Fraudes em Lojas Virtuais Falsas",
+    "dataset": "Interno",
+    "score": 0.92,
+    "sha256_text": "551338461796cd26e278072a5f9d439d81e404f51fdec6c5d65d3cc736f2fe14"
+  },
+  "call_id": "944f29bc66941e1e4902165ee8688527841fd71824e896be1011afef3e189fad",
+  "filtered": {
+    "Motivo": "O anúncio oferece um 'iphone 15' por R$1.500, um preço significativamente abaixo do mercado, característica comum em fraudes. Além disso, a descrição do produto - 'NÃO PEGA CHIP!!!!!!!!!' - pode indicar que o produto é defeituoso ou até inexistente, o que reforça a suspeita de um anúncio enganoso.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato); Lei nº 14.155/2021 (Fraude Eletrônica); Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook.\n2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão.\n3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento.\n4. Registrar B.O. formalizando o crime de estelionato digital.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Fraudes em Lojas Virtuais Falsas",
+    "Motivo": "O anúncio oferece um 'iphone 15' por R$1.500, um preço significativamente abaixo do mercado, característica comum em fraudes. Além disso, a descrição do produto - 'NÃO PEGA CHIP!!!!!!!!!' - pode indicar que o produto é defeituoso ou até inexistente, o que reforça a suspeita de um anúncio enganoso.",
+    "Base_Legal": "Art. 171 do Código Penal (Estelionato), Lei nº 14.155/2021 (Fraude Eletrônica), Código de Defesa do Consumidor (CDC)",
+    "Acoes_Recomendadas": "1. Interromper a negociação, bloquear e denunciar o vendedor/página no Facebook.\n2. Acionar a instituição financeira e administradora do cartão imediatamente para estorno e bloqueio do cartão.\n3. Reunir provas: capturas de tela do anúncio falso, link da loja, conversas e comprovantes de pagamento.\n4. Registrar B.O. formalizando o crime de estelionato digital."
+  }
+}

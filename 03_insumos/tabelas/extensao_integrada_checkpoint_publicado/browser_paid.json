@@ -1,0 +1,140 @@
+{
+  "phase": "paid",
+  "tests": [
+    {
+      "sample_index": 0,
+      "sha256": "ec59c76341e65ce287e4b72e94435b710728a785bbd40227f2d8552f3793c7d9",
+      "rotulo_corpus": "Golpes Baseados Em Relacionamento",
+      "categoria_preselecao": "Golpes Baseados Em Relacionamento",
+      "total_click_to_modal_seconds": 4.674899097000889,
+      "first_paid_request": true,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Golpes Baseados Em Relacionamento'\nExplicação:\nO texto apresenta um tom espiritual e emocional, sugerindo que há sinais espirituais indicando um vínculo amoroso especial. A proposta de receber mais informações por meio de mensagem direta ('Me chama no direct') caracteriza a tentativa de criar um vínculo emocional inicial, um método típico de golpes baseados em relacionamento, visando explorar vulnerabilidades emocionais.\nBase legal:\nLei nº 14.155/2021 (Fraude Eletrônica)\nAções recomendadas:\n1. Não entre em contato ou responda à mensagem direta sugerida; isso pode ser uma tentativa de coletar suas informações pessoais ou financeiras. 2. Denuncie o perfil ou mensagem como potencial golpe nas plataformas de redes sociais pertinentes. 3. Permaneça atento a outras comunicações semelhantes e evite fornecer qualquer informação pessoal a desconhecidos.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "close_works": true
+    },
+    {
+      "sample_index": 1,
+      "sha256": "b948632d8b9fa6eb69e3d6b7fd42302600065e556ff1c725900b4e2c27a56ef3",
+      "rotulo_corpus": "Ataques de Phishing e Roubo de Dados",
+      "categoria_preselecao": "Ataques de Phishing e Roubo de Dados",
+      "total_click_to_modal_seconds": 3.2730548409963376,
+      "first_paid_request": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Ataques de Phishing e Roubo de Dados'\nExplicação:\nA mensagem solicita informações pessoais (nome, número da casa e CEP) sob o pretexto de oferecer um crédito grátis e ofertas, o que é típico em ataques de phishing. Essa abordagem explora a engenharia social para extrair dados sensíveis da vítima.\nBase legal:\nLGPD — Lei Geral de Proteção de Dados (Lei nº 13.709/2018); Lei nº 14.155/2021 (Fraude Eletrônica)\nAções recomendadas:\n1. Não forneça as informações solicitadas na mensagem e bloqueie o remetente imediatamente. 2. Ative a Autenticação de Dois Fatores (2FA) nas contas que puder. 3. Salve uma captura de tela da mensagem para futuras referências. 4. Registrar um Boletim de Ocorrência em uma delegacia especializada em crimes digitais para se proteger legalmente.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "close_works": true
+    },
+    {
+      "sample_index": 2,
+      "sha256": "30547a8a5560c595017c87624c5cac138efa2f640b6351f73be0ee8b46994a28",
+      "rotulo_corpus": "Fraudes em Lojas Virtuais Falsas",
+      "categoria_preselecao": "Seguro",
+      "total_click_to_modal_seconds": 2.3157607360044494,
+      "first_paid_request": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n✅\nSEGURO\nAmeaças não foram detectadas\nExplicação:\nO texto é uma postagem genérica incentivando interações e promovendo produtos relacionados a emagrecimento e saúde. Não apresenta indícios de engenharia social, fraude ou intenção maliciosa. Não há solicitação de informações pessoais ou financeiras, nem referências a falsidades ou ameaças.\nBase legal:\n—\nAções recomendadas:\nVerifique a informação em fontes confiáveis antes de compartilhar.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": true,
+      "close_works": true
+    },
+    {
+      "sample_index": 3,
+      "sha256": "9431932375a36d64f643ab4f5dcf9272a2d52923db7fdddfcd77770afa8d5a28",
+      "rotulo_corpus": "Golpes de Desinformação Digital",
+      "categoria_preselecao": "Golpes de Desinformação Digital",
+      "total_click_to_modal_seconds": 3.263019655001699,
+      "first_paid_request": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Golpes de Desinformação Digital'\nExplicação:\nO texto analisado faz acusações graves e falsas contra indivíduos identificáveis, como 'Lula' e 'Lancellotti', imputando a eles crimes sem apresentar evidências, o que encaixa na estratégia de desinformação para influenciar a opinião pública através da exploração emocional com uso de linguagem ofensiva e caluniosa.\nBase legal:\nCódigo Penal – Arts. 138 a 140\nAções recomendadas:\n1. Não clicar em links suspeitos nem compartilhar a postagem — compartilhar alimenta o algoritmo do golpista. 2. Bloquear e denunciar o perfil ou página imediatamente pelas ferramentas da rede social. 3. Verificar a procedência da notícia em canais oficiais ou agências de fact-checking antes de qualquer ação. 5. Em caso de perda financeira ou dano à honra, reunir capturas de tela e registrar B.O. em delegacia especializada.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "close_works": true
+    },
+    {
+      "sample_index": 4,
+      "sha256": "7aff6fcf8eb2b3d59c850578a2064ae7497066dcc20af8b4638b9cce5463ab4d",
+      "rotulo_corpus": "Fraudes em Lojas Virtuais Falsas",
+      "categoria_preselecao": "Golpes de Ganho Financeiro Ilusório",
+      "total_click_to_modal_seconds": 3.4440602630056674,
+      "first_paid_request": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Golpes de Ganho Financeiro Ilusório'\nExplicação:\nO texto promove um produto que promete benefícios de emagrecimento e saúde através de alegações potencialmente exageradas ou irreais, como queimar gordura localizada, controlar ansiedade e melhorar o colesterol bom, sem fornecer detalhes sobre comprovação científica ou regulamentação. Oferece um link para saber mais, típico de tentativas de engajar o usuário em uma promessa de recompensa futura (benefícios de saúde) com solicitação implícita de compra antecipada ou compartilhamento de dados, característico de esquemas fraudulentos.\nBase legal:\n—\nAções recomendadas:\nVerifique a legitimidade do produto e da empresa por meio de fontes confiáveis e registros legais. Evite clicar em links desconhecidos ou fornecer informações pessoais antes de confirmar a autenticidade.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "close_works": true
+    },
+    {
+      "sample_index": 5,
+      "sha256": "ecd5f21db2c12fc628a6d25d0f845166f4fa121ca90ab4aa81c17a90650ed89b",
+      "rotulo_corpus": "Fraudes em Lojas Virtuais Falsas",
+      "categoria_preselecao": "Fraudes em Lojas Virtuais Falsas",
+      "total_click_to_modal_seconds": 4.069258862000424,
+      "first_paid_request": false,
+      "success": true,
+      "loading_removed": true,
+      "modal_text": "VeritaPlugin\n⚠️\nATENÇÃO\nPossível golpe de 'Fraudes em Lojas Virtuais Falsas'\nExplicação:\nO texto contém uma oferta genérica que atrai a atenção por meio de promessas e emojis sugestivos (🔥🤑🍀). A menção de locais específicos (\"SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!\") pode indicar uma tentativa de limitar o escopo para parecer mais legítimo, um truque comum em fraudes. Apesar da baixa confiança, a categorização já está definida como Fraudes em Lojas Virtuais Falsas, e o texto aparenta ter elementos de atratividade ou promessa não realista, que são típicos em anúncios fraudulentos com a intenção de obter vantagem ilícita.\nBase legal:\nCódigo de Defesa do Consumidor (CDC); Lei nº 14.155/2021 (Fraude Eletrônica); Art. 171 do Código Penal (Estelionato)\nAções recomendadas:\n1. Não prosseguir com qualquer contato ou transação sugerida pelo anúncio. 2. Reunir provas: capturas de tela do anúncio, comunicação e detalhes do perfil. 3. Denunciar o perfil ao Facebook para remoção. 4. Considerar registrar um boletim de ocorrência sobre a tentativa de fraude.\nO VeritaPlugin pode cometer erros. Confira informações importantes.\nFechar",
+      "safe_header": false,
+      "close_works": true
+    },
+    {
+      "test": "lote_encerrado_bloqueia_repeticao",
+      "ok": true,
+      "error": "Erro ao analisar: Erro da API: 502"
+    }
+  ],
+  "requests": [
+    {
+      "utc_epoch": 1792525708.4708657,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525713.4613972,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "Lembrete da O2: Para ganhar £2,50 de crédito grátis para chamadas e detalhes de ótimas ofertas, responda a esta mensagem com seu nome, número da casa e CEP válidos.",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525716.970406,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "Comentem eu quero 😉👍⬇️⬇️\n #emagrecimento #saude #remedio #natural #barato #compraonline",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525719.5664759,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "Lula é e sempre será CRIMINOSO, Lancellotti é PEDÓFILO e aliado desses criminosos são IRRACIONAIS...",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525723.0137863,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "💊Um produto perfeito para auxiliar no seu emagrecimento saudável (LIFT DETOX BLACK) \n.\nSeus benefícios são: \n✅Queima gordura localizada.\n✅Diminui a fome.\n✅Acelera o metabolismo.\n✅Controla ansiedade.\n✅Regula o colesterol ruim e melhora o colesterol bom.\n✅Mais disposição diminuindo o cansaço durante o dia.\n.\n⬆️ Click no Link Azul da Bio e Saiba Mais ⬆️\n.\n#liftdetoxcaps #detox #emagrecimento #emagrecacomsaude #formulanatural #percapeso #saude #inibidordeapetite #vemverão #xogordura #emagrecimentosaudavel #vidasaudavel #qualidadedevida #acreditabonita #antesedepois #bemestar #exgordinha #motivacao #boaforma #fretegratis",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525726.6472769,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "Compro todas as caixas corrente ou poupança com cartão vem no certo!!! ✅🔥🤑🍀\n\n(SOMENTE PELA PRAIA GRANDE SANTOS E SÃO VICENTE!!!)",
+      "api_key_in_body": false
+    },
+    {
+      "utc_epoch": 1792525730.9475493,
+      "url": "http://127.0.0.1:8080/VeritaPlugin/CategorizeData",
+      "method": "POST",
+      "message": "\"✨ 3 Sinais Espirituais de que o amor de vocês tem futuro ✨\n💙 Se você tem sentido que o universo está tentando falar com você, talvez não seja apenas coincidência…\n🌙 Sonhos recorrentes, pensamentos inesperados e sinais repetitivos são mensagens sutis de que existe algo maior unindo vocês.\n🔮 O amor tem seus próprios caminhos — e, quando a espiritualidade confirma, tudo faz sentido.\n💌 Me chama no direct se quiser entender o que esses sinais significam para a sua vida amorosa.\"",
+      "api_key_in_body": false
+    }
+  ],
+  "page_errors": []
+}

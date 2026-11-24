@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 63,
+    "text": "Apenas me forcei a comer uma fatia. Eu realmente não estou com fome. Isso é uma droga. Mark está ficando preocupado. Ele sabe que estou doente quando recuso pizza. Lol",
+    "category": "Seguro",
+    "dataset": "Externo 2",
+    "score": 0.92,
+    "sha256_text": "45cb4b8e15e345c1d0c2e6c55b23f26fc1c7670c325a7fba98455721a02639bb"
+  },
+  "call_id": "ae1172f65972fc908c9e10c5c03443a6c31d7a59a385ed0825833147285b6a49",
+  "filtered": {
+    "Motivo": "O texto analisado não contém indícios de engenharia social, fraude ou intenção maliciosa. É uma comunicação pessoal e informal, discutindo falta de apetite em um contexto de interação social cotidiana, sem referências a comportamento ou atividades ilícitas.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Seguro",
+    "Motivo": "O texto analisado não contém indícios de engenharia social, fraude ou intenção maliciosa. É uma comunicação pessoal e informal, discutindo falta de apetite em um contexto de interação social cotidiana, sem referências a comportamento ou atividades ilícitas.",
+    "Base_Legal": "",
+    "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+  }
+}

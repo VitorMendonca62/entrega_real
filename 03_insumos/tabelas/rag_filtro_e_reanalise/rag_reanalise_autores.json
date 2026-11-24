@@ -1,0 +1,64 @@
+{
+  "v2": {
+    "n": 80,
+    "colunas": [
+      "Mensagem",
+      "Categoria",
+      "Dataset",
+      "Motivo",
+      "Base_Legal",
+      "Acoes_Recomendadas",
+      "Erro",
+      "Lei_Invalida_Detectada"
+    ],
+    "por_classe": {
+      "Seguro": 20,
+      "Fraudes em Lojas Virtuais Falsas": 15,
+      "Golpes de Ganho Financeiro Ilusório": 15,
+      "Ataques de Phishing e Roubo de Dados": 10,
+      "Golpes Baseados Em Relacionamento": 10,
+      "Golpes de Desinformação Digital": 10
+    },
+    "base_legal_media_caracteres": {
+      "Ataques de Phishing e Roubo de Dados": 119.4,
+      "Fraudes em Lojas Virtuais Falsas": 107.46666666666667,
+      "Golpes Baseados Em Relacionamento": 70.2,
+      "Golpes de Desinformação Digital": 34.2,
+      "Golpes de Ganho Financeiro Ilusório": 71.4,
+      "Seguro": 0.0
+    },
+    "erro_nao_vazio": 0,
+    "seguro_base_nao_vazia": 0
+  },
+  "v3": {
+    "n": 80,
+    "colunas": [
+      "Mensagem",
+      "Categoria",
+      "Dataset",
+      "Motivo",
+      "Base_Legal",
+      "Acoes_Recomendadas",
+      "Erro",
+      "Lei_Invalida_Detectada"
+    ],
+    "por_classe": {
+      "Seguro": 20,
+      "Fraudes em Lojas Virtuais Falsas": 15,
+      "Golpes de Ganho Financeiro Ilusório": 15,
+      "Ataques de Phishing e Roubo de Dados": 10,
+      "Golpes Baseados Em Relacionamento": 10,
+      "Golpes de Desinformação Digital": 10
+    },
+    "base_legal_media_caracteres": {
+      "Ataques de Phishing e Roubo de Dados": 38.4,
+      "Fraudes em Lojas Virtuais Falsas": 69.2,
+      "Golpes Baseados Em Relacionamento": 26.8,
+      "Golpes de Desinformação Digital": 13.6,
+      "Golpes de Ganho Financeiro Ilusório": 67.6,
+      "Seguro": 0.0
+    },
+    "erro_nao_vazio": 0,
+    "seguro_base_nao_vazia": 0
+  }
+}

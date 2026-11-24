@@ -1,0 +1,91 @@
+{
+  "counts": {
+    "v2": {
+      "raw_nonempty_Categoria": 80,
+      "raw_nonempty_Motivo": 80,
+      "filtered_nonempty_Motivo": 80,
+      "raw_nonempty_Base_Legal": 57,
+      "filtered_nonempty_Base_Legal": 55,
+      "raw_nonempty_Acoes_Recomendadas": 80,
+      "filtered_nonempty_Acoes_Recomendadas": 80,
+      "raw_contains_exact_allowed_name": 55,
+      "raw_legal_nonempty_without_exact_name": 2,
+      "filtered_contains_only_exact_allowed_names": 80
+    },
+    "v3": {
+      "raw_nonempty_Categoria": 80,
+      "raw_nonempty_Motivo": 80,
+      "filtered_nonempty_Motivo": 80,
+      "raw_nonempty_Base_Legal": 40,
+      "filtered_nonempty_Base_Legal": 40,
+      "raw_nonempty_Acoes_Recomendadas": 80,
+      "filtered_nonempty_Acoes_Recomendadas": 80,
+      "raw_contains_exact_allowed_name": 40,
+      "raw_legal_nonempty_without_exact_name": 0,
+      "filtered_contains_only_exact_allowed_names": 80
+    }
+  },
+  "criterion": "Literal exact-name membership only; absence can mean abbreviation, and presence does not establish legal relevance.",
+  "examples": [
+    {
+      "version": "v2",
+      "case_id": 28,
+      "call_id": "f5f758a6a476975127e4709dd6a54312ae878f77b52eaabc5497b1ada39bae20",
+      "category": "Golpes Baseados Em Relacionamento",
+      "raw": {
+        "Categoria": "Golpes Baseados Em Relacionamento",
+        "Motivo": "O texto apresenta características típicas de golpes baseados em relacionamento, como a introdução de um perfil possivelmente falso (\"Nicole Fred GoodWill\"), a abordagem inicial rápida e romântica (\"prazer em conhecê-lo... decidi te conhecer mais\"), e a solicitação de contato por meio de um email privado para estabelecer um vínculo emocional e pessoal fora da plataforma pública.",
+        "Base_Legal": "Art. 171 do Código Penal, Lei nº 14.155/2021",
+        "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 3. Denunciar o perfil falso usando as ferramentas do Facebook. 4. Registrar B.O. na delegacia de crimes cibernéticos."
+      },
+      "filtered": {
+        "Motivo": "O texto apresenta características típicas de golpes baseados em relacionamento, como a introdução de um perfil possivelmente falso (\"Nicole Fred GoodWill\"), a abordagem inicial rápida e romântica (\"prazer em conhecê-lo... decidi te conhecer mais\"), e a solicitação de contato por meio de um email privado para estabelecer um vínculo emocional e pessoal fora da plataforma pública.",
+        "Base_Legal": "",
+        "Acoes_Recomendadas": "1. Cortar todo o contato imediatamente; bloquear e excluir o golpista de todas as redes sociais e aplicativos. 2. Tirar capturas de tela do perfil do agressor, de todas as ameaças e do histórico de conversas antes de bloquear. 3. Denunciar o perfil falso usando as ferramentas do Facebook. 4. Registrar B.O. na delegacia de crimes cibernéticos.",
+        "Lei_Invalida_Detectada": true,
+        "Erro": ""
+      },
+      "observation": "Referência bruta sem reconhecimento pelo filtro; isso não é parecer jurídico."
+    },
+    {
+      "version": "v2",
+      "case_id": 52,
+      "call_id": "48c2ba493eac25ac555c2f2d9991ebc7d397e47f23cbf96b7b686060fff19e7d",
+      "category": "Golpes de Ganho Financeiro Ilusório",
+      "raw": {
+        "Categoria": "Golpes de Ganho Financeiro Ilusório",
+        "Motivo": "O texto apresenta uma proposta de investimento com promessa de retornos significativos (exemplo: \"programa comercial de 12 meses, mínimo de 150 milhões de SBLC/BG…\"). As características incluem requisitos técnicos complexos e linguagem de fachada financeira (exemplo: \"MT760\", \"Banco para Banco\") para criar uma aparência de legitimidade. Além disso, há solicitação de informações bancárias sensíveis implicadas (exemplo: \"KYC atual\", \"Carta do Banco RWA\"), típicos de esquemas que induzem vítimas a fornecer dados ou realizar transferências sob promessa de grande recompensa futura.",
+        "Base_Legal": "Art. 171 do Código Penal; Lei nº 14.155/2021",
+        "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o e-mail ou contato suspeito. 2. Não forneça informações bancárias ou financeiras. 3. Preservar evidências: capturas de tela de todas as comunicações. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos."
+      },
+      "filtered": {
+        "Motivo": "O texto apresenta uma proposta de investimento com promessa de retornos significativos (exemplo: \"programa comercial de 12 meses, mínimo de 150 milhões de SBLC/BG…\"). As características incluem requisitos técnicos complexos e linguagem de fachada financeira (exemplo: \"MT760\", \"Banco para Banco\") para criar uma aparência de legitimidade. Além disso, há solicitação de informações bancárias sensíveis implicadas (exemplo: \"KYC atual\", \"Carta do Banco RWA\"), típicos de esquemas que induzem vítimas a fornecer dados ou realizar transferências sob promessa de grande recompensa futura.",
+        "Base_Legal": "",
+        "Acoes_Recomendadas": "1. Bloquear e denunciar imediatamente o e-mail ou contato suspeito. 2. Não forneça informações bancárias ou financeiras. 3. Preservar evidências: capturas de tela de todas as comunicações. 4. Registrar Boletim de Ocorrência (B.O.) em delegacia especializada em crimes cibernéticos.",
+        "Lei_Invalida_Detectada": true,
+        "Erro": ""
+      },
+      "observation": "Referência bruta sem reconhecimento pelo filtro; isso não é parecer jurídico."
+    },
+    {
+      "version": "v3",
+      "case_id": 60,
+      "call_id": "aa7dc1286c1a7ead86aa03e6d5e300cde42b5563dc18599b29822bbdb7680927",
+      "category": "Seguro",
+      "raw": {
+        "Categoria": "Seguro",
+        "Motivo": "O texto analisado não apresenta elementos de fraude, engenharia social ou intenção maliciosa. É uma simples tentativa de marcar um encontro, indicando uma conversa cotidiana e segura.",
+        "Base_Legal": "",
+        "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar."
+      },
+      "filtered": {
+        "Motivo": "O texto analisado não apresenta elementos de fraude, engenharia social ou intenção maliciosa. É uma simples tentativa de marcar um encontro, indicando uma conversa cotidiana e segura.",
+        "Base_Legal": "",
+        "Acoes_Recomendadas": "Verifique a informação em fontes confiáveis antes de compartilhar.",
+        "Lei_Invalida_Detectada": false,
+        "Erro": ""
+      },
+      "observation": "Motivo preenchido para Seguro apesar da instrução de campos vazios."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": "v3",
+  "sample": {
+    "case_id": 28,
+    "text": "Prazer em conhecê-lo, meu nome é Nicole Fred GoodWill, vi seu perfil neste mesmo site então decidi te conhecer mais, preciso de um homem honesto em minha vida, entre em contato comigo pelo meu e-mail privado ([email protegido]) ou deixe seu e-mail para que eu",
+    "category": "Golpes Baseados Em Relacionamento",
+    "dataset": "Externo 1",
+    "score": 0.92,
+    "sha256_text": "be2912c9951362f642305701bc0b993daefd5430898c9fdb83ec3cdf2cdd334b"
+  },
+  "call_id": "2402cccc6083bfb9ad7e19920c2ac9f4161016cc512dfbd2afc36748ca131a58",
+  "filtered": {
+    "Motivo": "O texto apresenta uma introdução típica de golpes baseados em relacionamento. A mensagem é iniciada com uma abordagem amigável e interesse em desenvolver um vínculo mais próximo, solicitando contato por e-mail privado. O uso de uma identidade possivelmente falsa, a descrição de um forte interesse em relacionamentos sérios e a tentativa de tirar a conversa de uma plataforma pública sugerem os primeiros passos de manipulação emocional que precedem o pedido de recursos financeiros ou tentativas de extorsão.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Corte qualquer contato imediato com a pessoa que enviou a mensagem; não responda nem forneça informações pessoais. 2. Capture a tela da mensagem recebida e guarde como evidência. 3. Denuncie o perfil como suspeito de golpe na plataforma em que foi encontrado. 4. Fique atento a pedidos futuros de dinheiro ou informações pessoais, e alerte contatos próximos sobre a existência desse tipo de golpe.",
+    "Lei_Invalida_Detectada": false,
+    "Erro": ""
+  },
+  "generation_status": "complete",
+  "parsed_raw": {
+    "Categoria": "Golpes Baseados Em Relacionamento",
+    "Motivo": "O texto apresenta uma introdução típica de golpes baseados em relacionamento. A mensagem é iniciada com uma abordagem amigável e interesse em desenvolver um vínculo mais próximo, solicitando contato por e-mail privado. O uso de uma identidade possivelmente falsa, a descrição de um forte interesse em relacionamentos sérios e a tentativa de tirar a conversa de uma plataforma pública sugerem os primeiros passos de manipulação emocional que precedem o pedido de recursos financeiros ou tentativas de extorsão.",
+    "Base_Legal": "Lei nº 14.155/2021 (Fraude Eletrônica)",
+    "Acoes_Recomendadas": "1. Corte qualquer contato imediato com a pessoa que enviou a mensagem; não responda nem forneça informações pessoais. 2. Capture a tela da mensagem recebida e guarde como evidência. 3. Denuncie o perfil como suspeito de golpe na plataforma em que foi encontrado. 4. Fique atento a pedidos futuros de dinheiro ou informações pessoais, e alerte contatos próximos sobre a existência desse tipo de golpe."
+  }
+}

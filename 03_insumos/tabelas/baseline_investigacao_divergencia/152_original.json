@@ -1,0 +1,75 @@
+{
+  "tag": "152_original",
+  "versions": {
+    "sklearn": "1.5.2",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scipy": "1.17.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.7.0",
+    "openpyxl": "3.1.5"
+  },
+  "folds": [
+    0.7481835932266967,
+    0.670105165993844,
+    0.6841734132056713,
+    0.7210188280425234,
+    0.6934648099130197
+  ],
+  "mean": 0.703389162076351,
+  "std_ddof0": 0.027903076353352402,
+  "accuracy": 0.7111111111111111,
+  "report": {
+    "Ataques de Phishing e Roubo de Dados": {
+      "precision": 0.7721518987341772,
+      "recall": 0.8133333333333334,
+      "f1-score": 0.7922077922077922,
+      "support": 75.0
+    },
+    "Fraudes em Lojas Virtuais Falsas": {
+      "precision": 0.7,
+      "recall": 0.7466666666666667,
+      "f1-score": 0.7225806451612903,
+      "support": 75.0
+    },
+    "Golpes Baseados Em Relacionamento": {
+      "precision": 0.7142857142857143,
+      "recall": 0.9333333333333333,
+      "f1-score": 0.8092485549132948,
+      "support": 75.0
+    },
+    "Golpes de Desinformação Digital": {
+      "precision": 0.631578947368421,
+      "recall": 0.64,
+      "f1-score": 0.6357615894039735,
+      "support": 75.0
+    },
+    "Golpes de Ganho Financeiro Ilusório": {
+      "precision": 0.8615384615384616,
+      "recall": 0.7466666666666667,
+      "f1-score": 0.8,
+      "support": 75.0
+    },
+    "Seguro": {
+      "precision": 0.5576923076923077,
+      "recall": 0.38666666666666666,
+      "f1-score": 0.4566929133858268,
+      "support": 75.0
+    },
+    "accuracy": 0.7111111111111111,
+    "macro avg": {
+      "precision": 0.706207888269847,
+      "recall": 0.7111111111111111,
+      "f1-score": 0.7027485825120298,
+      "support": 450.0
+    },
+    "weighted avg": {
+      "precision": 0.7062078882698468,
+      "recall": 0.7111111111111111,
+      "f1-score": 0.7027485825120297,
+      "support": 450.0
+    }
+  },
+  "warnings": [],
+  "seconds": 0.652922002998821
+}
