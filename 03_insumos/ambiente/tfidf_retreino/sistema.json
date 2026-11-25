@@ -1,0 +1,14 @@
+{
+ "registrado_utc": "2026-11-25T01:30:56.224686+00:00",
+ "python": "3.13.18",
+ "plataforma": "Linux-6.6.159+-x86_64-with-glibc2.39",
+ "processador": "x86_64",
+ "cpus": 2,
+ "colab": true,
+ "bibliotecas": {
+  "scikit-learn": "1.6.1",
+  "numpy": "2.4.6",
+  "pandas": "2.2.3",
+  "scipy": "1.16.3"
+ }
+}

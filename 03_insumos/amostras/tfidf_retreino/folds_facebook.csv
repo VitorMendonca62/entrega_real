@@ -1,0 +1,61 @@
+linha_xlsx,classe,fold
+3,Relacionamento,1
+5,Relacionamento,1
+8,Loja Falsa,1
+9,Loja Falsa,1
+15,Desinformação,1
+24,Financeiro,1
+77,Financeiro,1
+79,Seguro,1
+271,Phishing,1
+273,Phishing,1
+282,Phishing,1
+448,Seguro,1
+10,Loja Falsa,2
+14,Loja Falsa,2
+16,Desinformação,2
+21,Financeiro,2
+26,Financeiro,2
+85,Relacionamento,2
+93,Seguro,2
+110,Relacionamento,2
+272,Phishing,2
+276,Phishing,2
+279,Phishing,2
+449,Seguro,2
+4,Relacionamento,3
+7,Loja Falsa,3
+11,Loja Falsa,3
+23,Financeiro,3
+63,Financeiro,3
+78,Financeiro,3
+94,Seguro,3
+109,Relacionamento,3
+275,Phishing,3
+278,Phishing,3
+280,Phishing,3
+450,Seguro,3
+6,Relacionamento,4
+13,Loja Falsa,4
+18,Desinformação,4
+20,Financeiro,4
+22,Financeiro,4
+64,Financeiro,4
+81,Seguro,4
+150,Relacionamento,4
+274,Phishing,4
+277,Phishing,4
+284,Phishing,4
+288,Phishing,4
+2,Relacionamento,5
+12,Loja Falsa,5
+19,Desinformação,5
+25,Financeiro,5
+27,Financeiro,5
+62,Financeiro,5
+80,Seguro,5
+108,Relacionamento,5
+270,Phishing,5
+281,Phishing,5
+283,Phishing,5
+285,Phishing,5

@@ -42,6 +42,13 @@ O BERTimbau foi retreinado com o novo dataset `BrScamsFacebook_Unificado_2.xlsx`
 - **Não substituiu o modelo do plugin:** F1 Seguro 0,43, golpes perdidos 19%, e o modelo ainda aprende o estilo da fonte. O modelo candidato não foi instalado. Os pesos estão no Hugging Face ([`VitorMendonca62/veritaplugin-bert-retreino-unificado`](https://huggingface.co/VitorMendonca62/veritaplugin-bert-retreino-unificado), revisão `d2db9dc4`) e não nesta pasta; baixe e confira os hashes com `03_insumos/scripts/baixar_modelo_hf.py` (ver abaixo).
 - **O gargalo é o dado:** poucas mensagens seguras do Facebook e classes acopladas às fontes.
 
+### Linha de base TF-IDF no retreino (24/11/2026)
+
+A configuração TF-IDF + LinearSVC das autoras foi rodada no Colab com o mesmo protocolo e os mesmos folds do retreino. Relatório: [`02_relatorios/tfidf_retreino.md`](02_relatorios/tfidf_retreino.md); insumos na subpasta `tfidf_retreino` de cada tipo em `03_insumos/`.
+
+- **Fora da amostra, o TF-IDF empata com o BERTimbau:** no braço B, 33 contra 33 acertos nas 60 mensagens do Facebook (F1 macro 0,534 contra 0,532; McNemar p = 1,00). Nenhuma diferença entre os dois é significativa em nenhum braço.
+- **O script original das autoras dá 0,711 ± 0,027 no Colab**, igual ao README delas; o artigo diz ≈0,67.
+
 ## Quem produziu o quê
 
 - **Execução (20/10/2026):** ambiente, baseline, splits, auditorias, treinamento BERT no Colab, API local, extensão no Chromium, 190 chamadas GPT-4o (custo estimado em US$ 1,02, com teto de US$ 3), reanálises, relatórios e slides.

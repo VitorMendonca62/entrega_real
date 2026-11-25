@@ -337,3 +337,31 @@ Coluna *origem*: quem produziu o arquivo. Hashes completos em `03_insumos/tabela
 | `modelos/retreino_dataset_unificado/modelo_candidato_metadados.json` | Equipe – produzido na execução | 3357 |
 | `modelos/retreino_dataset_unificado/modelo_download.json` | Equipe – produzido na execução | 2365 |
 | `amostras/retreino_dataset_unificado/experimentos/` (83 arquivos de 33 experimentos; ver manifesto) | Equipe – produzido na execução | 186050 |
+
+## Linha de base TF-IDF no retreino (24/11/2026)
+
+| Arquivo | Origem | Bytes |
+|---|---|---:|
+| `02_relatorios/tfidf_retreino.md` | Equipe – documento ou código | 8960 |
+| `ambiente/tfidf_retreino/entradas_sha256.json` | Equipe – produzido na execução | 482 |
+| `ambiente/tfidf_retreino/proveniencia.json` | Equipe – produzido na execução | 549 |
+| `ambiente/tfidf_retreino/requirements-lock.txt` | Equipe – produzido na execução | 12705 |
+| `ambiente/tfidf_retreino/sistema.json` | Equipe – produzido na execução | 298 |
+| `amostras/tfidf_retreino/dedup_removidas.csv` | Equipe – produzido na execução | 140 |
+| `amostras/tfidf_retreino/folds_facebook.csv` | Equipe – produzido na execução | 993 |
+| `amostras/tfidf_retreino/predicoes.csv` | Equipe – produzido na execução | 290985 |
+| `logs/tfidf_retreino/tfidf_autoras_original/execucao.log` | Equipe – produzido na execução | 2332 |
+| `logs/tfidf_retreino/tfidf_autoras_original/status.json` | Equipe – produzido na execução | 172 |
+| `logs/tfidf_retreino/tfidf_retreino/execucao.log` | Equipe – produzido na execução | 6035 |
+| `logs/tfidf_retreino/tfidf_retreino/status.json` | Equipe – produzido na execução | 174 |
+| `logs/tfidf_retreino/tfidf_retreino/treinos.jsonl` | Equipe – produzido na execução | 22573 |
+| `scripts/tfidf_retreino/comparar_tfidf_bert.py` | Equipe – documento ou código | 3726 |
+| `scripts/tfidf_retreino/executar.py` | Equipe – documento ou código | 7203 |
+| `scripts/tfidf_retreino/rodar_tfidf.py` | Equipe – documento ou código | 11166 |
+| `tabelas/tfidf_retreino/manifesto_execucao_colab.csv` | Equipe – produzido na execução | 1715 |
+| `tabelas/tfidf_retreino/matrizes_facebook_cv.csv` | Equipe – produzido na execução | 1130 |
+| `tabelas/tfidf_retreino/metricas.json` | Equipe – produzido na execução | 25918 |
+| `tabelas/tfidf_retreino/tabela_facebook_cv.csv` | Equipe – produzido na execução | 567 |
+| `tabelas/tfidf_retreino/tabela_loso.csv` | Equipe – produzido na execução | 3154 |
+| `tabelas/tfidf_retreino/tabela_pareadas.csv` | Equipe – produzido na execução | 677 |
+| `tabelas/tfidf_retreino/tfidf_vs_bert.csv` | Revisão – gerado por `comparar_tfidf_bert.py` | 911 |
