@@ -1,0 +1,37 @@
+chave,verdadeiro,Relacionamento,Financeiro,Phishing,Loja Falsa,Desinformação,Seguro
+A-SVM,Relacionamento,8,0,0,1,1,0
+A-SVM,Financeiro,2,6,3,0,1,1
+A-SVM,Phishing,1,1,9,3,2,1
+A-SVM,Loja Falsa,0,0,4,2,0,2
+A-SVM,Desinformação,0,1,0,0,1,2
+A-SVM,Seguro,3,0,1,1,0,3
+A-LR,Relacionamento,8,0,0,1,1,0
+A-LR,Financeiro,2,7,2,1,0,1
+A-LR,Phishing,0,3,7,2,3,2
+A-LR,Loja Falsa,0,1,2,2,0,3
+A-LR,Desinformação,0,0,0,0,3,1
+A-LR,Seguro,2,0,1,1,0,4
+B-SVM,Relacionamento,8,0,1,0,1,0
+B-SVM,Financeiro,2,8,0,0,1,2
+B-SVM,Phishing,3,4,7,1,1,1
+B-SVM,Loja Falsa,1,1,1,2,0,3
+B-SVM,Desinformação,0,0,0,0,3,1
+B-SVM,Seguro,2,0,0,1,0,5
+B-LR,Relacionamento,8,0,1,0,1,0
+B-LR,Financeiro,2,8,0,0,1,2
+B-LR,Phishing,3,4,7,0,1,2
+B-LR,Loja Falsa,0,2,0,2,0,4
+B-LR,Desinformação,0,0,0,0,3,1
+B-LR,Seguro,2,0,0,1,0,5
+C-SVM,Relacionamento,8,0,0,1,1,0
+C-SVM,Financeiro,1,7,0,0,0,5
+C-SVM,Phishing,1,2,6,2,2,4
+C-SVM,Loja Falsa,0,2,0,2,0,4
+C-SVM,Desinformação,0,0,0,0,2,2
+C-SVM,Seguro,2,0,0,0,0,6
+C-LR,Relacionamento,8,0,0,1,1,0
+C-LR,Financeiro,1,7,1,0,0,4
+C-LR,Phishing,1,2,7,1,3,3
+C-LR,Loja Falsa,0,2,0,2,0,4
+C-LR,Desinformação,0,0,0,0,3,1
+C-LR,Seguro,2,0,1,0,1,4

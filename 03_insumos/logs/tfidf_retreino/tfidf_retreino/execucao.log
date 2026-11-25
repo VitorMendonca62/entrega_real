@@ -1,0 +1,110 @@
+# experimento: tfidf_retreino
+# início (UTC): 2026-11-25T01:31:01.303616+00:00
+# diretório: /content/tfidf_retreino
+# comando: /usr/bin/python3 -I /content/tfidf_retreino/rodar_tfidf.py /content/tfidf_retreino/entrada/BrScamsFacebook_Unificado_2.xlsx /content/execucao_colab/_trabalho/resultados
+
+/usr/local/lib/python3.13/dist-packages/sklearn/model_selection/_split.py:805: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.
+  warnings.warn(
+[2026-11-25 01:31:02] início
+python 3.13.18 | sklearn 1.6.1 | numpy 2.4.6 | pandas 2.2.3 | scipy 1.16.3 | Linux-6.6.159+-x86_64-with-glibc2.39
+dataset /content/tfidf_retreino/entrada/BrScamsFacebook_Unificado_2.xlsx sha256 b5d896002737217c6465de7526aec8b1e976840143868007cca242b81b1e4014
+linhas: 756 | após deduplicação: 751 | removidas (linha xlsx): [17, 92, 193, 286, 287]
+
+== Facebook-CV (60 mensagens, 5 folds) ==
+fold 1: linhas xlsx [3, 5, 8, 9, 15, 24, 77, 79, 271, 273, 282, 448]
+fold 2: linhas xlsx [10, 14, 16, 21, 26, 85, 93, 110, 272, 276, 279, 449]
+fold 3: linhas xlsx [4, 7, 11, 23, 63, 78, 94, 109, 275, 278, 280, 450]
+fold 4: linhas xlsx [6, 13, 18, 20, 22, 64, 81, 150, 274, 277, 284, 288]
+fold 5: linhas xlsx [2, 12, 19, 25, 27, 62, 80, 108, 270, 281, 283, 285]
+  fold 1 braço A SVM: treino 433, acertos 6/12
+  fold 1 braço A LR: treino 433, acertos 7/12
+  fold 1 braço B SVM: treino 739, acertos 8/12
+  fold 1 braço B LR: treino 739, acertos 8/12
+  fold 1 braço C SVM: treino 529, acertos 6/12
+  fold 1 braço C LR: treino 529, acertos 7/12
+  fold 2 braço A SVM: treino 433, acertos 6/12
+  fold 2 braço A LR: treino 433, acertos 5/12
+  fold 2 braço B SVM: treino 739, acertos 8/12
+  fold 2 braço B LR: treino 739, acertos 8/12
+  fold 2 braço C SVM: treino 529, acertos 8/12
+  fold 2 braço C LR: treino 529, acertos 7/12
+  fold 3 braço A SVM: treino 433, acertos 7/12
+  fold 3 braço A LR: treino 433, acertos 7/12
+  fold 3 braço B SVM: treino 739, acertos 6/12
+  fold 3 braço B LR: treino 739, acertos 6/12
+  fold 3 braço C SVM: treino 529, acertos 7/12
+  fold 3 braço C LR: treino 529, acertos 7/12
+  fold 4 braço A SVM: treino 433, acertos 6/12
+  fold 4 braço A LR: treino 433, acertos 7/12
+  fold 4 braço B SVM: treino 739, acertos 6/12
+  fold 4 braço B LR: treino 739, acertos 6/12
+  fold 4 braço C SVM: treino 529, acertos 6/12
+  fold 4 braço C LR: treino 529, acertos 5/12
+  fold 5 braço A SVM: treino 433, acertos 4/12
+  fold 5 braço A LR: treino 433, acertos 5/12
+  fold 5 braço B SVM: treino 739, acertos 5/12
+  fold 5 braço B LR: treino 739, acertos 5/12
+  fold 5 braço C SVM: treino 529, acertos 4/12
+  fold 5 braço C LR: treino 529, acertos 5/12
+
+== Leave-one-source-out ==
+  fora: Externo 1              braço A SVM: acurácia 0.108
+  fora: Externo 1              braço A LR: acurácia 0.231
+  fora: Externo 1              braço B SVM: acurácia 0.277
+  fora: Externo 1              braço B LR: acurácia 0.477
+  fora: Externo 2              braço A SVM: acurácia 0.039
+  fora: Externo 2              braço A LR: acurácia 0.052
+  fora: Externo 2              braço B SVM: acurácia 0.130
+  fora: Externo 2              braço B LR: acurácia 0.104
+  fora: Externo 3              braço A SVM: acurácia 0.038
+  fora: Externo 3              braço A LR: acurácia 0.048
+  fora: Externo 3              braço B SVM: acurácia 0.260
+  fora: Externo 3              braço B LR: acurácia 0.279
+  fora: Externo 4              braço A SVM: acurácia 0.171
+  fora: Externo 4              braço A LR: acurácia 0.171
+  fora: Externo 4              braço B SVM: acurácia 0.371
+  fora: Externo 4              braço B LR: acurácia 0.371
+  fora: Externo 5              braço A SVM: acurácia 0.080
+  fora: Externo 5              braço A LR: acurácia 0.080
+  fora: Externo 5              braço B SVM: acurácia 0.160
+  fora: Externo 5              braço B LR: acurácia 0.160
+  fora: Externo 6              braço A SVM: acurácia 0.116
+  fora: Externo 6              braço A LR: acurácia 0.140
+  fora: Externo 6              braço B SVM: acurácia 0.209
+  fora: Externo 6              braço B LR: acurácia 0.233
+  fora: Externo 7              braço A SVM: acurácia 0.000
+  fora: Externo 7              braço A LR: acurácia 0.000
+  fora: Externo 7              braço B SVM: acurácia 0.000
+  fora: Externo 7              braço B LR: acurácia 0.000
+  fora: Interno                braço A SVM: acurácia 0.350
+  fora: Interno                braço A LR: acurácia 0.367
+  fora: Interno                braço B SVM: acurácia 0.467
+  fora: Interno                braço B LR: acurácia 0.467
+  fora: Telegram/Wpp Dataset   braço A SVM: acurácia 0.500
+  fora: Telegram/Wpp Dataset   braço A LR: acurácia 0.500
+  fora: Telegram/Wpp Dataset   braço B SVM: acurácia 0.438
+  fora: Telegram/Wpp Dataset   braço B LR: acurácia 0.448
+
+== RESUMO Facebook-CV ==
+braço-modelo   acur  F1mac  F1Seg  alarme perdido
+A-SVM       0.483  0.435  0.353    0.62    0.12
+A-LR        0.517  0.504  0.421    0.50    0.13
+B-SVM       0.550  0.534  0.500    0.38    0.13
+B-LR        0.550  0.535  0.455    0.38    0.17
+C-SVM       0.517  0.500  0.414    0.25    0.29
+C-LR        0.517  0.503  0.333    0.50    0.23
+
+== Pareadas (mesmas 60 mensagens) ==
+SVM B-A    Δacur +0.067 ΔF1 +0.099 [-0.02, +0.21] McNemar 7/3 p=0.344
+SVM C-A    Δacur +0.033 ΔF1 +0.065 [-0.03, +0.17] McNemar 5/3 p=0.727
+SVM B-C    Δacur +0.033 ΔF1 +0.034 [-0.04, +0.12] McNemar 3/1 p=0.625
+LR B-A     Δacur +0.033 ΔF1 +0.031 [-0.06, +0.12] McNemar 6/4 p=0.754
+LR C-A     Δacur +0.000 ΔF1 -0.002 [-0.08, +0.08] McNemar 4/4 p=1.000
+LR B-C     Δacur +0.033 ΔF1 +0.033 [-0.04, +0.11] McNemar 4/2 p=0.688
+predicoes.csv sha256 d3f19de4fa4f369f1b54dbe3ca38be3fa9aaf25fc3bfe56ede53daadd48d5d42
+metricas.json sha256 7a123e0610a67eaffeeccd7b2ef0617e0a7434f1f8c30478ab42958cafb6e857
+[2026-11-25 01:35:17] fim (255s)
+
+# fim (UTC): 2026-11-25T01:35:18.309220+00:00
+# código de retorno: 0
+# duração: 257.0s

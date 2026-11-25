@@ -1,0 +1,17 @@
+{
+ "acesso_utc": "2026-11-25T01:30:57.966728+00:00",
+ "repositorios": [
+  {
+   "repo": "Treinamento_TF-IDF-SVM",
+   "url": "https://github.com/brunanoroes/Treinamento_TF-IDF-SVM",
+   "commit": "a6d2d0ae0781c6d40d71fa20457d0d0de853a968",
+   "commit_date": "2026-07-19T14:01:10-03:00",
+   "origem": "github"
+  }
+ ],
+ "dataset_unificado": {
+  "arquivo": "BrScamsFacebook_Unificado_2.xlsx",
+  "sha256": "b5d896002737217c6465de7526aec8b1e976840143868007cca242b81b1e4014",
+  "origem": "planilha da equipe usada no relatório de retreino (16/11/2026)"
+ }
+}
